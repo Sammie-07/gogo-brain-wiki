@@ -14,6 +14,9 @@
   .title{position:absolute;top:18px;left:22px;z-index:10;pointer-events:none;}
   .title .t1{font-weight:700;font-size:13px;letter-spacing:1px;color:#b9a96b;}
   .title .t2{font-size:10px;letter-spacing:0.5px;color:#5a5660;margin-top:3px;}
+  .legend{position:absolute;top:18px;right:18px;z-index:10;display:flex;flex-direction:column;gap:5px;font-size:10px;letter-spacing:0.3px;color:#7a7684;pointer-events:none;}
+  .legend div{display:flex;align-items:center;gap:7px;}
+  .legend i{width:9px;height:9px;border-radius:50%;display:inline-block;}
   .controls{position:absolute;bottom:18px;right:18px;z-index:10;display:flex;gap:6px;}
   .controls button{width:32px;height:32px;border-radius:7px;border:1px solid #2a2a2f;background:rgba(28,28,32,0.9);color:#9a96a0;font-size:16px;cursor:pointer;display:flex;align-items:center;justify-content:center;}
   .controls button:hover{background:#2a2a30;color:#e0dce6;}
@@ -30,6 +33,12 @@
     <div class="t1">Gogo's Brain</div>
     <div class="t2" id="subtitle">live graph</div>
   </div>
+  <div class="legend" id="legend">
+    <div><i style="background:#c9a84a"></i>Concepts</div>
+    <div><i style="background:#9b8cc4"></i>People &amp; Orgs</div>
+    <div><i style="background:#5f88b5"></i>Sources</div>
+    <div><i style="background:#6b6675"></i>Unlinked</div>
+  </div>
   <div id="status">Loading your vault&hellip;</div>
   <div class="controls">
     <button id="zin" title="Zoom in">+</button>
@@ -42,8 +51,7 @@
 <script>
 (function(){
   // ============================================================
-  //  CONFIG — point this at your PUBLIC vault repo on GitHub.
-  //  Just change these three values and the graph builds itself.
+  //  CONFIG — points at the PUBLIC wiki mirror on GitHub.
   // ============================================================
   const GH_OWNER  = "Sammie-07";          // public wiki mirror owner
   const GH_REPO   = "gogo-brain-wiki";    // public wiki mirror repo
@@ -66,34 +74,60 @@
   }
   resize(); window.addEventListener('resize',resize);
 
-  const NODE_COLOR='#9b8cc4', NODE_CORE='#c9b8f0', LABEL_COLOR='#8a8694', LABEL_HI='#e6e0f0';
+  // Group colours (Obsidian-style)
+  const GROUP_COLORS={concept:'#c9a84a',entity:'#9b8cc4',source:'#5f88b5',index:'#d9c98a',other:'#6b6675'};
+  const NODE_HOVER='#efe9f8', LABEL_COLOR='#8a8694', LABEL_HI='#e6e0f0';
   let nodes=[], links=[], adj={};
   const cam={x:0,y:0,z:1};
 
-  // ---------- WIKILINK PARSER (proven against real Obsidian vaults) ----------
+  // ---------- helpers ----------
   function noteKey(p){ return p.split('/').pop().replace(/\.md$/i,'').trim(); }
+  function groupOf(path){
+    const p=(path||'').toLowerCase();
+    if(/(^|\/)concepts\//.test(p)) return 'concept';
+    if(/(^|\/)entities\//.test(p)) return 'entity';
+    if(/(^|\/)sources\//.test(p))  return 'source';
+    if(/(^|\/)index\.md$/.test(p)) return 'index';
+    return 'other';
+  }
+  // Resolve a wikilink target to a clean note name.
+  // Heading anchors (Note#Heading) are stripped, but a leading '#'
+  // that is part of the note name (e.g. "#teamgogo") is preserved.
+  function targetName(raw){
+    const noAlias=raw.split('|')[0];
+    const base=noAlias.split('/').pop();
+    const hi=base.indexOf('#',1);          // search from index 1 so leading '#' stays
+    return (hi>0?base.slice(0,hi):base).trim();
+  }
+
+  // ---------- WIKILINK PARSER ----------
   function buildGraph(files){
     const map=new Map();
-    files.forEach(f=>{ const t=noteKey(f.path), k=t.toLowerCase(); if(!map.has(k)) map.set(k,{id:k,label:t,deg:0,x:(Math.random()-0.5)*600,y:(Math.random()-0.5)*600,vx:0,vy:0}); });
+    const rnd=()=>(Math.random()-0.5)*600;
+    files.forEach(f=>{
+      const t=noteKey(f.path), k=t.toLowerCase(), g=groupOf(f.path);
+      if(!map.has(k)) map.set(k,{id:k,label:t,deg:0,group:g,x:rnd(),y:rnd(),vx:0,vy:0});
+      else map.get(k).group=g;
+    });
     const edges=[], re=/\[\[([^\]]+?)\]\]/g;
     files.forEach(f=>{
       const from=noteKey(f.path).toLowerCase(); let m;
       while((m=re.exec(f.text))){
-        let tgt=m[1].split('|')[0].split('#')[0];
-        const to=noteKey(tgt).toLowerCase();
+        const label=targetName(m[1]);
+        const to=label.toLowerCase();
         if(to===from||!to) continue;
-        if(!map.has(to)) map.set(to,{id:to,label:tgt.split('/').pop().trim(),deg:0,x:(Math.random()-0.5)*600,y:(Math.random()-0.5)*600,vx:0,vy:0});
+        if(!map.has(to)) map.set(to,{id:to,label:label,deg:0,group:'other',x:rnd(),y:rnd(),vx:0,vy:0});
         edges.push([from,to]);
       }
     });
     const seen=new Set(), uniq=[];
     edges.forEach(([a,b])=>{ const key=a<b?a+'|'+b:b+'|'+a; if(!seen.has(key)){seen.add(key);uniq.push([a,b]);map.get(a).deg++;map.get(b).deg++;} });
     const ns=[...map.values()];
-    const links=uniq.map(([a,b])=>({a:map.get(a),b:map.get(b)}));
+    const lk=uniq.map(([a,b])=>({a:map.get(a),b:map.get(b)}));
     ns.forEach(n=>{ n.r=3+Math.min(n.deg,12)*1.0; });
     adj={}; ns.forEach(n=>adj[n.id]=new Set());
-    links.forEach(l=>{adj[l.a.id].add(l.b.id);adj[l.b.id].add(l.a.id);});
-    return {nodes:ns,links};
+    lk.forEach(l=>{adj[l.a.id].add(l.b.id);adj[l.b.id].add(l.a.id);});
+    return {nodes:ns,links:lk};
   }
 
   // ---------- FETCH VAULT FROM GITHUB ----------
@@ -115,7 +149,6 @@
       const mdPaths=tree.filter(t=>t.type==='blob'&&/\.md$/i.test(t.path)).map(t=>t.path);
       if(!mdPaths.length) throw new Error('no markdown files found');
       statusEl.innerHTML='Reading '+mdPaths.length+' notes&hellip;';
-      // fetch raw contents (parallel, capped)
       const files=[];
       const CHUNK=25;
       for(let i=0;i<mdPaths.length;i+=CHUNK){
@@ -132,7 +165,7 @@
       statusEl.style.display='none';
       subtitle.textContent=nodes.length+' notes · '+links.length+' links · live from GitHub';
     }catch(err){
-      statusEl.innerHTML='<span class="big">Couldn\u2019t load the vault.</span><br>'+err.message+'<br><br>Check the repo is <b>public</b> and GH_OWNER / GH_REPO are correct.';
+      statusEl.innerHTML='<span class="big">Couldn’t load the vault.</span><br>'+err.message+'<br><br>Check the repo is <b>public</b> and GH_OWNER / GH_REPO are correct.';
     }
   }
 
@@ -167,7 +200,7 @@
     const dimLink=l=>focus?((l.a===focus||l.b===focus)?1:0.06):1;
     ctx.lineWidth=Math.max(0.5,cam.z*0.6);
     for(const l of links){const a=w2s(l.a.x,l.a.y),b=w2s(l.b.x,l.b.y),al=dimLink(l);ctx.strokeStyle=(focus&&al===1)?'rgba(170,160,210,0.6)':'rgba(120,116,140,'+(0.3*al)+')';ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.lineTo(b.x,b.y);ctx.stroke();}
-    for(const nd of nodes){const s=w2s(nd.x,nd.y),r=Math.max(1.5,nd.r*cam.z),a=dim(nd);if(focus&&(nd===focus||near.has(nd.id))){ctx.beginPath();ctx.arc(s.x,s.y,r+5,0,Math.PI*2);ctx.fillStyle='rgba(155,140,196,0.18)';ctx.fill();}ctx.beginPath();ctx.arc(s.x,s.y,r,0,Math.PI*2);ctx.fillStyle=nd===hover?NODE_CORE:NODE_COLOR;ctx.globalAlpha=a;ctx.fill();ctx.globalAlpha=1;}
+    for(const nd of nodes){const s=w2s(nd.x,nd.y),r=Math.max(1.5,nd.r*cam.z),a=dim(nd);const col=GROUP_COLORS[nd.group]||GROUP_COLORS.other;if(focus&&(nd===focus||near.has(nd.id))){ctx.beginPath();ctx.arc(s.x,s.y,r+5,0,Math.PI*2);ctx.fillStyle='rgba(155,140,196,0.18)';ctx.fill();}ctx.beginPath();ctx.arc(s.x,s.y,r,0,Math.PI*2);ctx.fillStyle=nd===hover?NODE_HOVER:col;ctx.globalAlpha=a;ctx.fill();ctx.globalAlpha=1;}
     ctx.textAlign='center';ctx.textBaseline='top';
     for(const nd of nodes){if(!nd.label)continue;const s=w2s(nd.x,nd.y),r=Math.max(1.5,nd.r*cam.z),a=dim(nd);const big=nd.deg>=4;const show=big||cam.z>1.05||nd===hover||(focus&&near&&near.has(nd.id));if(!show)continue;const fs=big?11:9.5;ctx.font='500 '+fs+'px Montserrat, sans-serif';ctx.fillStyle=(nd===hover||(focus&&near&&near.has(nd.id)))?LABEL_HI:LABEL_COLOR;ctx.globalAlpha=focus?(a===1?1:0.15):0.85;ctx.fillText(nd.label,s.x,s.y+r+3);ctx.globalAlpha=1;}
   }
