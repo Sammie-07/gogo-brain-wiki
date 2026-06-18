@@ -119,7 +119,7 @@
     const lk=uniq.map(([a,b])=>({a:map.get(a),b:map.get(b)}));
     ns.forEach(n=>{ n.r=2.5+Math.min(n.deg,16)*0.95; });
     // Mark the top hubs so their labels always show (declutters everything else).
-    [...ns].sort((a,b)=>b.deg-a.deg).slice(0,16).forEach(n=>n.hub=true);
+    [...ns].sort((a,b)=>b.deg-a.deg).slice(0,10).forEach(n=>n.hub=true);
     adj={}; ns.forEach(n=>adj[n.id]=new Set());
     lk.forEach(l=>{adj[l.a.id].add(l.b.id);adj[l.b.id].add(l.a.id);});
     return {nodes:ns,links:lk};
@@ -216,14 +216,16 @@
     const placed=[];
     for(const c of cand){
       const nd=c.nd, s=w2s(nd.x,nd.y), r=Math.max(1.6,nd.r*cam.z);
-      const fs=nd.hub?12:(c.screenR>10?10.5:9.5);
+      const fs=nd.hub?10:(c.screenR>12?9.5:8.5);
       ctx.font=(nd.hub?'600 ':'500 ')+fs+'px Montserrat, sans-serif';
-      const tw=ctx.measureText(nd.label).width, x=s.x, y=s.y+r+3;
+      const tw=ctx.measureText(nd.label).width, x=s.x, y=s.y+r+5;
       const box={x0:x-tw/2-3,y0:y-1,x1:x+tw/2+3,y1:y+fs+2};
       let hit=false;
       if(nd!==hover){ for(const p of placed){ if(box.x0<p.x1&&box.x1>p.x0&&box.y0<p.y1&&box.y1>p.y0){hit=true;break;} } }
       if(hit) continue;
       placed.push(box);
+      ctx.lineWidth=3; ctx.lineJoin='round'; ctx.strokeStyle='rgba(13,13,15,0.92)';
+      ctx.strokeText(nd.label,x,y);
       ctx.fillStyle=(nd===hover||c.related)?LABEL_HI:LABEL_COLOR;
       ctx.fillText(nd.label,x,y);
     }
