@@ -200,20 +200,32 @@
     ctx.lineWidth=Math.max(0.4,cam.z*0.5);
     for(const l of links){const a=w2s(l.a.x,l.a.y),b=w2s(l.b.x,l.b.y),al=dimLink(l);ctx.strokeStyle=(focus&&al===1)?'rgba(175,165,215,0.65)':'rgba(120,116,140,'+(0.22*al)+')';ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.lineTo(b.x,b.y);ctx.stroke();}
     for(const nd of nodes){const s=w2s(nd.x,nd.y),r=Math.max(1.6,nd.r*cam.z),a=dim(nd);const col=GROUP_COLORS[nd.group]||GROUP_COLORS.other;if(focus&&(nd===focus||near.has(nd.id))){ctx.beginPath();ctx.arc(s.x,s.y,r+5,0,Math.PI*2);ctx.fillStyle='rgba(155,140,196,0.18)';ctx.fill();}ctx.beginPath();ctx.arc(s.x,s.y,r,0,Math.PI*2);ctx.fillStyle=nd===hover?NODE_HOVER:col;ctx.globalAlpha=a*(nd.group==='other'?0.75:1);ctx.fill();ctx.globalAlpha=1;}
-    // labels: only top hubs by default; more appear as nodes grow on screen or on hover
+    // labels: priority-ranked with collision avoidance so they never overlap
     ctx.textAlign='center';ctx.textBaseline='top';
+    const cand=[];
     for(const nd of nodes){
       if(!nd.label)continue;
-      const s=w2s(nd.x,nd.y),r=Math.max(1.6,nd.r*cam.z),screenR=nd.r*cam.z;
+      const screenR=nd.r*cam.z;
       const related=focus&&(nd===focus||(near&&near.has(nd.id)));
-      const show=nd===hover||related||nd.hub||screenR>7.5;
-      if(!show)continue;
-      const fs=nd.hub?12:(screenR>10?10.5:9.5);
+      if(focus){ if(!related) continue; }                 // in focus mode show only the neighbourhood
+      else if(!(nd.hub||screenR>7.5)) continue;            // otherwise hubs + on-screen-large nodes
+      const pri=nd===hover?1e9:(related?1e8+nd.deg:(nd.hub?1e6+nd.deg:screenR));
+      cand.push({nd,pri,screenR,related});
+    }
+    cand.sort((a,b)=>b.pri-a.pri);
+    const placed=[];
+    for(const c of cand){
+      const nd=c.nd, s=w2s(nd.x,nd.y), r=Math.max(1.6,nd.r*cam.z);
+      const fs=nd.hub?12:(c.screenR>10?10.5:9.5);
       ctx.font=(nd.hub?'600 ':'500 ')+fs+'px Montserrat, sans-serif';
-      ctx.fillStyle=(nd===hover||related)?LABEL_HI:LABEL_COLOR;
-      ctx.globalAlpha=focus?(related?1:0.12):0.9;
-      ctx.fillText(nd.label,s.x,s.y+r+3);
-      ctx.globalAlpha=1;
+      const tw=ctx.measureText(nd.label).width, x=s.x, y=s.y+r+3;
+      const box={x0:x-tw/2-3,y0:y-1,x1:x+tw/2+3,y1:y+fs+2};
+      let hit=false;
+      if(nd!==hover){ for(const p of placed){ if(box.x0<p.x1&&box.x1>p.x0&&box.y0<p.y1&&box.y1>p.y0){hit=true;break;} } }
+      if(hit) continue;
+      placed.push(box);
+      ctx.fillStyle=(nd===hover||c.related)?LABEL_HI:LABEL_COLOR;
+      ctx.fillText(nd.label,x,y);
     }
   }
 
