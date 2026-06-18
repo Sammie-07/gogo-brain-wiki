@@ -76,7 +76,7 @@
   const GROUP_COLORS={concept:'#c9a84a',entity:'#9b8cc4',source:'#5f88b5',index:'#d9c98a',other:'#564f5e'};
   const NODE_HOVER='#efe9f8', LABEL_COLOR='#8a8694', LABEL_HI='#e6e0f0';
   let nodes=[], links=[], adj={};
-  let alpha=0;
+  let alpha=0, fitZoom=1;
   const cam={x:0,y:0,z:1};
 
   function noteKey(p){ return p.split('/').pop().replace(/\.md$/i,'').trim(); }
@@ -171,6 +171,7 @@
     const w=(maxx-minx)||1,h=(maxy-miny)||1;
     cam.x=(minx+maxx)/2; cam.y=(miny+maxy)/2;
     cam.z=Math.max(0.05,Math.min(2.5,Math.min((W-2*pad)/w,(H-2*pad)/h)));
+    fitZoom=cam.z;
   }
 
   let hover=null,dragNode=null,panning=false,lastX=0,lastY=0;
@@ -203,12 +204,13 @@
     // labels: priority-ranked with collision avoidance so they never overlap
     ctx.textAlign='center';ctx.textBaseline='top';
     const cand=[];
+    const hideAuto=cam.z>fitZoom*2.4;                      // once zoomed in past this, hide ALL auto labels
     for(const nd of nodes){
       if(!nd.label)continue;
       const screenR=nd.r*cam.z;
       const related=focus&&(nd===focus||(near&&near.has(nd.id)));
-      if(focus){ if(!related) continue; }                 // in focus mode show only the neighbourhood
-      else if(!(nd.hub||screenR>7.5)) continue;            // otherwise hubs + on-screen-large nodes
+      if(focus){ if(!related) continue; }                 // focus mode: only the hovered neighbourhood
+      else { if(hideAuto||!nd.hub) continue; }             // otherwise top hubs only; none when zoomed in
       const pri=nd===hover?1e9:(related?1e8+nd.deg:(nd.hub?1e6+nd.deg:screenR));
       cand.push({nd,pri,screenR,related});
     }
