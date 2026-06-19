@@ -34,6 +34,7 @@
     <div class="t2" id="subtitle">live graph</div>
   </div>
   <div class="legend" id="legend">
+    <div style="color:#ff6b9d"><i style="background:#ff6b9d"></i><span style="color:#8a8694">Gogo Bethke</span></div>
     <div style="color:#e6c05a"><i style="background:#e6c05a"></i><span style="color:#8a8694">Concepts</span></div>
     <div style="color:#a890dd"><i style="background:#a890dd"></i><span style="color:#8a8694">People &amp; Orgs</span></div>
     <div style="color:#6fa6e0"><i style="background:#6fa6e0"></i><span style="color:#8a8694">Sources</span></div>
@@ -73,6 +74,7 @@
   resize(); window.addEventListener('resize',()=>{resize();});
 
   const GROUP_COLORS={concept:'#e6c05a',entity:'#a890dd',source:'#6fa6e0',index:'#f0d27a',other:'#615c70'};
+  const GOGO_ID='gogo bethke', GOGO_COLOR='#ff6b9d';
   const NODE_HOVER='#fbf7ff', LABEL_COLOR='#9a96a4', LABEL_HI='#f2eefa';
   let nodes=[], links=[], adj={};
   let alpha=0, fitZoom=1, T=0;
@@ -121,6 +123,7 @@
     const lk=uniq.map(([a,b])=>({a:map.get(a),b:map.get(b)}));
     ns.forEach(n=>{ n.r=2.5+Math.min(n.deg,16)*0.95; });
     [...ns].sort((a,b)=>b.deg-a.deg).slice(0,12).forEach(n=>n.hub=true);
+    const gogo=ns.find(n=>n.id===GOGO_ID); if(gogo){ gogo.gogo=true; gogo.hub=true; gogo.r=Math.max(gogo.r,15); }
     adj={}; ns.forEach(n=>adj[n.id]=new Set());
     lk.forEach(l=>{adj[l.a.id].add(l.b.id);adj[l.b.id].add(l.a.id);});
     return {nodes:ns,links:lk};
@@ -210,7 +213,7 @@
     ctx.lineWidth=Math.max(0.4,cam.z*0.5);
     for(const l of links){const a=w2s(l.a._x,l.a._y),b=w2s(l.b._x,l.b._y),al=dimLink(l);ctx.strokeStyle=(focus&&al===1)?'rgba(190,178,228,0.65)':'rgba(120,118,144,'+(0.16*al)+')';ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.lineTo(b.x,b.y);ctx.stroke();}
 
-    for(const nd of nodes){const s=w2s(nd._x,nd._y),r=Math.max(1.6,nd.r*cam.z),a=focus?((nd===focus||near.has(nd.id))?1:0.13):1,col=GROUP_COLORS[nd.group]||GROUP_COLORS.other;ctx.beginPath();ctx.arc(s.x,s.y,r,0,6.283);ctx.fillStyle=nd===hover?NODE_HOVER:col;ctx.globalAlpha=a*(nd.group==='other'?0.7:1);ctx.fill();ctx.globalAlpha=1;}
+    for(const nd of nodes){const s=w2s(nd._x,nd._y),r=Math.max(1.6,nd.r*cam.z),a=focus?((nd===focus||near.has(nd.id))?1:0.13):1,col=nd.gogo?GOGO_COLOR:(GROUP_COLORS[nd.group]||GROUP_COLORS.other);ctx.beginPath();ctx.arc(s.x,s.y,r,0,6.283);ctx.fillStyle=nd===hover?NODE_HOVER:col;ctx.globalAlpha=a*(nd.group==='other'?0.7:1);ctx.fill();ctx.globalAlpha=1;}
 
     if(hover){const s=w2s(hover._x,hover._y),r=Math.max(2,hover.r*cam.z);ctx.strokeStyle='rgba(240,236,248,0.45)';ctx.lineWidth=1.2;ctx.beginPath();ctx.arc(s.x,s.y,r+4,0,6.283);ctx.stroke();}
 
