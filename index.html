@@ -7,22 +7,23 @@
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   *{margin:0;padding:0;box-sizing:border-box;}
-  html,body{height:100%;background:#08080a;overflow:hidden;}
-  #root{position:relative;width:100vw;height:100vh;background:#08080a;font-family:'Montserrat',system-ui,sans-serif;overflow:hidden;}
+  html,body{height:100%;background:#0a0910;overflow:hidden;}
+  #root{position:relative;width:100vw;height:100vh;background:#0a0910;font-family:'Montserrat',system-ui,sans-serif;overflow:hidden;}
   #graph{position:absolute;inset:0;width:100%;height:100%;cursor:grab;}
   #graph:active{cursor:grabbing;}
   .title{position:absolute;top:18px;left:22px;z-index:10;pointer-events:none;}
-  .title .t1{font-weight:700;font-size:13px;letter-spacing:1.5px;color:#d8c074;text-shadow:0 0 12px rgba(216,192,116,0.35);}
-  .title .t2{font-size:10px;letter-spacing:0.5px;color:#6a6570;margin-top:3px;}
-  .legend{position:absolute;top:18px;right:18px;z-index:10;display:flex;flex-direction:column;gap:5px;font-size:10px;letter-spacing:0.3px;color:#7a7684;pointer-events:none;}
-  .legend div{display:flex;align-items:center;gap:7px;}
-  .legend i{width:9px;height:9px;border-radius:50%;display:inline-block;box-shadow:0 0 7px currentColor;}
-  .controls{position:absolute;bottom:18px;right:18px;z-index:10;display:flex;gap:6px;}
-  .controls button{width:32px;height:32px;border-radius:8px;border:1px solid #26242c;background:rgba(24,23,28,0.85);color:#9a96a0;font-size:16px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.15s;}
-  .controls button:hover{background:#2c2a34;color:#efe9f8;border-color:#3a3744;}
-  .hint{position:absolute;bottom:18px;left:22px;z-index:10;font-size:10px;color:#403d48;letter-spacing:0.4px;pointer-events:none;}
-  #status{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);z-index:20;color:#9a96a0;font-size:13px;text-align:center;line-height:1.7;}
-  #status .big{font-size:15px;color:#d8c074;font-weight:600;}
+  .title .t1{font-weight:700;font-size:14px;letter-spacing:1.6px;color:#f5d98a;text-shadow:0 0 16px rgba(245,201,91,0.45);}
+  .title .t2{font-size:10px;letter-spacing:0.5px;color:#736e84;margin-top:3px;}
+  .legend{position:absolute;top:16px;right:16px;z-index:10;display:flex;flex-direction:column;gap:7px;font-size:10.5px;letter-spacing:0.3px;
+          background:rgba(22,20,34,0.45);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);padding:11px 14px;border-radius:12px;border:1px solid rgba(255,255,255,0.06);pointer-events:none;}
+  .legend div{display:flex;align-items:center;gap:8px;}
+  .legend i{width:9px;height:9px;border-radius:50%;display:inline-block;box-shadow:0 0 8px currentColor,0 0 3px currentColor;}
+  .controls{position:absolute;bottom:18px;right:18px;z-index:10;display:flex;gap:7px;}
+  .controls button{width:34px;height:34px;border-radius:10px;border:1px solid rgba(255,255,255,0.07);background:rgba(22,20,34,0.5);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);color:#a59fb4;font-size:17px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.16s;}
+  .controls button:hover{background:rgba(52,46,70,0.7);color:#fbf7ff;border-color:rgba(255,255,255,0.16);}
+  .hint{position:absolute;bottom:20px;left:22px;z-index:10;font-size:10px;color:#46424f;letter-spacing:0.4px;pointer-events:none;}
+  #status{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);z-index:20;color:#a59fb4;font-size:13px;text-align:center;line-height:1.7;}
+  #status .big{font-size:15px;color:#f5d98a;font-weight:600;}
 </style>
 </head>
 <body>
@@ -33,10 +34,10 @@
     <div class="t2" id="subtitle">live graph</div>
   </div>
   <div class="legend" id="legend">
-    <div style="color:#d8b24a"><i></i><span style="color:#7a7684">Concepts</span></div>
-    <div style="color:#a48fd6"><i></i><span style="color:#7a7684">People &amp; Orgs</span></div>
-    <div style="color:#6f9bd1"><i></i><span style="color:#7a7684">Sources</span></div>
-    <div style="color:#5a5566"><i></i><span style="color:#7a7684">Unlinked</span></div>
+    <div style="color:#f5c95b"><i></i><span style="color:#8d8898">Concepts</span></div>
+    <div style="color:#b79ae8"><i></i><span style="color:#8d8898">People &amp; Orgs</span></div>
+    <div style="color:#79b8f2"><i></i><span style="color:#8d8898">Sources</span></div>
+    <div style="color:#6f6a80"><i></i><span style="color:#8d8898">Unlinked</span></div>
   </div>
   <div id="status">Loading your vault&hellip;</div>
   <div class="controls">
@@ -71,9 +72,10 @@
   }
   resize(); window.addEventListener('resize',()=>{resize();});
 
-  const GROUP_COLORS={concept:'#d8b24a',entity:'#a48fd6',source:'#6f9bd1',index:'#e6d28a',other:'#5a5566'};
-  const GLOW={concept:'216,178,74',entity:'164,143,214',source:'111,155,209',index:'230,210,138',other:'120,116,140'};
-  const NODE_HOVER='#fbf7ff', LABEL_COLOR='#9a96a4', LABEL_HI='#f2eefa';
+  const GROUP_COLORS={concept:'#f5c95b',entity:'#b79ae8',source:'#79b8f2',index:'#ffd98a',other:'#6f6a80'};
+  const GLOW={concept:'245,201,91',entity:'183,154,232',source:'121,184,242',index:'255,217,138',other:'120,116,140'};
+  const NODE_HOVER='#fffdf8', LABEL_COLOR='#a8a3b6', LABEL_HI='#f6f2fc';
+  const BOW=0.07;
   let nodes=[], links=[], adj={}, pulses=[];
   let alpha=0, fitZoom=1, T=0;
   const cam={x:0,y:0,z:1};
@@ -117,7 +119,7 @@
     const ns=[...map.values()];
     const lk=uniq.map(([a,b])=>({a:map.get(a),b:map.get(b)}));
     ns.forEach(n=>{ n.r=2.5+Math.min(n.deg,16)*0.95; });
-    [...ns].sort((a,b)=>b.deg-a.deg).slice(0,10).forEach(n=>n.hub=true);
+    [...ns].sort((a,b)=>b.deg-a.deg).slice(0,12).forEach(n=>n.hub=true);
     adj={}; ns.forEach(n=>adj[n.id]=new Set());
     lk.forEach(l=>{adj[l.a.id].add(l.b.id);adj[l.b.id].add(l.a.id);});
     return {nodes:ns,links:lk};
@@ -162,6 +164,7 @@
 
   const w2s=(x,y)=>({x:(x-cam.x)*cam.z+W/2,y:(y-cam.y)*cam.z+H/2});
   const s2w=(x,y)=>({x:(x-W/2)/cam.z+cam.x,y:(y-H/2)/cam.z+cam.y});
+  function ctrl(a,b){ const mx=(a.x+b.x)/2,my=(a.y+b.y)/2,dx=b.x-a.x,dy=b.y-a.y; return {x:mx-dy*BOW,y:my+dx*BOW}; }
   function fitView(pad){
     pad=pad||80; if(!nodes.length) return;
     let minx=1e9,miny=1e9,maxx=-1e9,maxy=-1e9;
@@ -182,7 +185,6 @@
   document.getElementById('zout').onclick=()=>cam.z=Math.max(0.04,cam.z*0.8);
   document.getElementById('zfit').onclick=()=>fitView();
 
-  // ---------- FORCE LAYOUT — never fully settles (gentle perpetual life) ----------
   function physics(){
     const n=nodes.length; if(!n) return;
     const REP=2800, GRAV=0.0009, SPRING=0.012, REST=95, DAMP=0.9, CAP=55;
@@ -191,49 +193,54 @@
     for(const nd of nodes){if(nd.fixed)continue;nd.vx+=-nd.x*GRAV+(Math.random()-0.5)*0.5;nd.vy+=-nd.y*GRAV+(Math.random()-0.5)*0.5;let sp=Math.hypot(nd.vx,nd.vy);if(sp>CAP){nd.vx=nd.vx/sp*CAP;nd.vy=nd.vy/sp*CAP;}nd.x+=nd.vx*alpha;nd.y+=nd.vy*alpha;nd.vx*=DAMP;nd.vy*=DAMP;}
   }
 
-  // ---------- ENERGY PULSES (links "firing") ----------
   function stepPulses(){
-    const PMAX=Math.min(60,Math.ceil(links.length/24));
+    const PMAX=Math.min(64,Math.ceil(links.length/22));
     for(const p of pulses) p.p+=p.sp;
     pulses=pulses.filter(p=>p.p<=1);
-    if(links.length && pulses.length<PMAX && Math.random()<0.6){
+    if(links.length && pulses.length<PMAX && Math.random()<0.65){
       const l=links[(Math.random()*links.length)|0];
       if(l) pulses.push({l,p:0,sp:0.006+Math.random()*0.013,c:GLOW[l.a.group]||GLOW.other});
     }
   }
 
-  // ---------- RENDER ----------
   function draw(){
     const g=ctx.createRadialGradient(W/2,H*0.42,0,W/2,H*0.42,Math.max(W,H)*0.85);
-    g.addColorStop(0,'#16151c'); g.addColorStop(0.55,'#0e0d12'); g.addColorStop(1,'#070709');
+    g.addColorStop(0,'#1c1830'); g.addColorStop(0.5,'#120f1e'); g.addColorStop(1,'#08070d');
     ctx.fillStyle=g; ctx.fillRect(0,0,W,H);
 
     const focus=hover, near=focus?adj[focus.id]:null;
-    const dimLink=l=>focus?((l.a===focus||l.b===focus)?1:0.04):1;
+    const dimLink=l=>focus?((l.a===focus||l.b===focus)?1:0.035):1;
 
-    // links
+    // curved links
     ctx.lineWidth=Math.max(0.4,cam.z*0.5);
-    for(const l of links){const a=w2s(l.a.x,l.a.y),b=w2s(l.b.x,l.b.y),al=dimLink(l);ctx.strokeStyle=(focus&&al===1)?'rgba(196,184,234,0.7)':'rgba(122,120,150,'+(0.15*al)+')';ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.lineTo(b.x,b.y);ctx.stroke();}
+    for(const l of links){const a=w2s(l.a.x,l.a.y),b=w2s(l.b.x,l.b.y),c=ctrl(a,b),al=dimLink(l);ctx.strokeStyle=(focus&&al===1)?'rgba(205,193,240,0.75)':'rgba(130,126,160,'+(0.14*al)+')';ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.quadraticCurveTo(c.x,c.y,b.x,b.y);ctx.stroke();}
 
-    // energy pulses + hub/focus glow (additive)
+    // energy pulses (ride the curve) + hub/focus bloom — additive
     ctx.globalCompositeOperation='lighter';
-    for(const p of pulses){const a=w2s(p.l.a.x,p.l.a.y),b=w2s(p.l.b.x,p.l.b.y),e=p.p,x=a.x+(b.x-a.x)*e,y=a.y+(b.y-a.y)*e,f=Math.sin(e*Math.PI);ctx.fillStyle='rgba('+p.c+','+(0.14*f)+')';ctx.beginPath();ctx.arc(x,y,6.5,0,6.283);ctx.fill();ctx.fillStyle='rgba('+p.c+','+(0.85*f)+')';ctx.beginPath();ctx.arc(x,y,2.1,0,6.283);ctx.fill();}
-    for(const nd of nodes){const isGlow=nd.hub||(focus&&(nd===focus||near.has(nd.id)));if(!isGlow)continue;const s=w2s(nd.x,nd.y),r=Math.max(2,nd.r*cam.z),col=GLOW[nd.group]||GLOW.other,pulse=0.10+0.04*Math.sin(T*0.04+nd.phase);ctx.fillStyle='rgba('+col+','+pulse+')';ctx.beginPath();ctx.arc(s.x,s.y,r+11,0,6.283);ctx.fill();}
+    for(const p of pulses){const a=w2s(p.l.a.x,p.l.a.y),b=w2s(p.l.b.x,p.l.b.y),c=ctrl(a,b),t=p.p,mt=1-t,x=mt*mt*a.x+2*mt*t*c.x+t*t*b.x,y=mt*mt*a.y+2*mt*t*c.y+t*t*b.y,f=Math.sin(t*Math.PI);ctx.fillStyle='rgba('+p.c+','+(0.13*f)+')';ctx.beginPath();ctx.arc(x,y,7,0,6.283);ctx.fill();ctx.fillStyle='rgba('+p.c+','+(0.9*f)+')';ctx.beginPath();ctx.arc(x,y,2,0,6.283);ctx.fill();}
+    for(const nd of nodes){const isGlow=nd.hub||(focus&&(nd===focus||near.has(nd.id)));if(!isGlow)continue;const s=w2s(nd.x,nd.y),r=Math.max(2,nd.r*cam.z),col=GLOW[nd.group]||GLOW.other,pls=0.11+0.045*Math.sin(T*0.04+nd.phase);ctx.fillStyle='rgba('+col+','+pls+')';ctx.beginPath();ctx.arc(s.x,s.y,r+13,0,6.283);ctx.fill();}
     ctx.globalCompositeOperation='source-over';
 
-    // node cores (with subtle breathing)
-    for(const nd of nodes){const s=w2s(nd.x,nd.y),br=1+0.08*Math.sin(T*0.05+nd.phase),r=Math.max(1.6,nd.r*cam.z*br),a=focus?((nd===focus||near.has(nd.id))?1:0.12):1,col=GROUP_COLORS[nd.group]||GROUP_COLORS.other;ctx.beginPath();ctx.arc(s.x,s.y,r,0,6.283);ctx.fillStyle=nd===hover?NODE_HOVER:col;ctx.globalAlpha=a*(nd.group==='other'?0.7:1);ctx.fill();ctx.globalAlpha=1;}
+    // nodes: soft halo + glossy core + specular highlight, with breathing
+    for(const nd of nodes){
+      const s=w2s(nd.x,nd.y),br=1+0.08*Math.sin(T*0.05+nd.phase),r=Math.max(1.6,nd.r*cam.z*br),
+            a=focus?((nd===focus||near.has(nd.id))?1:0.12):1,col=GROUP_COLORS[nd.group]||GROUP_COLORS.other,gl=GLOW[nd.group]||GLOW.other;
+      if(nd.group!=='other'){ctx.globalAlpha=a*0.13;ctx.fillStyle='rgba('+gl+',1)';ctx.beginPath();ctx.arc(s.x,s.y,r*1.9,0,6.283);ctx.fill();ctx.globalAlpha=1;}
+      ctx.beginPath();ctx.arc(s.x,s.y,r,0,6.283);ctx.fillStyle=nd===hover?NODE_HOVER:col;ctx.globalAlpha=a*(nd.group==='other'?0.65:1);ctx.fill();ctx.globalAlpha=1;
+      if(r>3.2){ctx.beginPath();ctx.arc(s.x-r*0.3,s.y-r*0.32,r*0.34,0,6.283);ctx.fillStyle='rgba(255,255,255,'+(0.45*a)+')';ctx.fill();}
+    }
 
-    // hovered focus ring
-    if(hover){const s=w2s(hover.x,hover.y),r=Math.max(2,hover.r*cam.z),rr=r+5+3*Math.sin(T*0.12);ctx.strokeStyle='rgba(245,240,250,0.45)';ctx.lineWidth=1.2;ctx.beginPath();ctx.arc(s.x,s.y,rr,0,6.283);ctx.stroke();}
+    if(hover){const s=w2s(hover.x,hover.y),r=Math.max(2,hover.r*cam.z),rr=r+5+3*Math.sin(T*0.12);ctx.strokeStyle='rgba(248,244,255,0.5)';ctx.lineWidth=1.2;ctx.beginPath();ctx.arc(s.x,s.y,rr,0,6.283);ctx.stroke();}
 
-    // labels — hubs at overview; cleared when zoomed in; hover always
+    // labels — hidden at overview, fade in as you zoom in; hover always
     ctx.textAlign='center';ctx.textBaseline='top';
-    const cand=[]; const hideAuto=cam.z>fitZoom*2.4;
+    const zin=cam.z/fitZoom, showAuto=zin>1.35;
+    const cand=[];
     for(const nd of nodes){
       if(!nd.label)continue;
       const screenR=nd.r*cam.z, related=focus&&(nd===focus||(near&&near.has(nd.id)));
-      if(focus){ if(!related) continue; } else { if(hideAuto||!nd.hub) continue; }
+      if(focus){ if(!related) continue; }
+      else { if(!showAuto) continue; if(!(nd.hub||screenR>6.5)) continue; }
       cand.push({nd,pri:nd===hover?1e9:(related?1e8+nd.deg:(nd.hub?1e6+nd.deg:screenR)),screenR,related});
     }
     cand.sort((a,b)=>b.pri-a.pri);
@@ -244,14 +251,14 @@
       const tw=ctx.measureText(nd.label).width,x=s.x,y=s.y+r+5,box={x0:x-tw/2-3,y0:y-1,x1:x+tw/2+3,y1:y+fs+2};
       let hit=false; if(nd!==hover){ for(const p of placed){ if(box.x0<p.x1&&box.x1>p.x0&&box.y0<p.y1&&box.y1>p.y0){hit=true;break;} } }
       if(hit) continue; placed.push(box);
-      ctx.lineWidth=3; ctx.lineJoin='round'; ctx.strokeStyle='rgba(8,8,10,0.92)'; ctx.strokeText(nd.label,x,y);
+      ctx.lineWidth=3; ctx.lineJoin='round'; ctx.strokeStyle='rgba(8,7,13,0.92)'; ctx.strokeText(nd.label,x,y);
       ctx.fillStyle=(nd===hover||c.related)?LABEL_HI:LABEL_COLOR; ctx.fillText(nd.label,x,y);
     }
   }
 
   function loop(){
     T++;
-    if(alpha>0.045) alpha*=0.985; else alpha=0.045;   // gentle floor → perpetual subtle motion
+    if(alpha>0.045) alpha*=0.985; else alpha=0.045;
     physics(); stepPulses(); draw();
     requestAnimationFrame(loop);
   }
