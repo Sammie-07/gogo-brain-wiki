@@ -180,7 +180,7 @@
   canvas.addEventListener('mousedown',e=>{const r=canvas.getBoundingClientRect(),sx=e.clientX-r.left,sy=e.clientY-r.top;lastX=sx;lastY=sy;const n=nodeAt(sx,sy);if(n){dragNode=n;n.fixed=true;alpha=Math.max(alpha,0.5);}else panning=true;});
   window.addEventListener('mousemove',e=>{const r=canvas.getBoundingClientRect(),sx=e.clientX-r.left,sy=e.clientY-r.top;if(dragNode){const wp=s2w(sx,sy);dragNode.x=wp.x;dragNode.y=wp.y;dragNode.vx=0;dragNode.vy=0;alpha=Math.max(alpha,0.35);}else if(panning){cam.x-=(sx-lastX)/cam.z;cam.y-=(sy-lastY)/cam.z;}else{hover=nodeAt(sx,sy);canvas.style.cursor=hover?'pointer':'grab';}lastX=sx;lastY=sy;});
   window.addEventListener('mouseup',()=>{if(dragNode){dragNode.fixed=false;dragNode=null;}panning=false;});
-  canvas.addEventListener('wheel',e=>{e.preventDefault();const r=canvas.getBoundingClientRect(),sx=e.clientX-r.left,sy=e.clientY-r.top,b=s2w(sx,sy),f=e.deltaY<0?1.12:0.89;cam.z=Math.max(0.04,Math.min(7,cam.z*f));const a=s2w(sx,sy);cam.x+=b.x-a.x;cam.y+=b.y-a.y;},{passive:false});
+  canvas.addEventListener('wheel',e=>{e.preventDefault();const r=canvas.getBoundingClientRect(),sx=e.clientX-r.left,sy=e.clientY-r.top,b=s2w(sx,sy);let f=Math.exp(-e.deltaY*0.0016);f=Math.max(0.9,Math.min(1.11,f));cam.z=Math.max(0.04,Math.min(7,cam.z*f));const a=s2w(sx,sy);cam.x+=b.x-a.x;cam.y+=b.y-a.y;},{passive:false});
   document.getElementById('zin').onclick=()=>cam.z=Math.min(7,cam.z*1.25);
   document.getElementById('zout').onclick=()=>cam.z=Math.max(0.04,cam.z*0.8);
   document.getElementById('zfit').onclick=()=>fitView();
