@@ -9,7 +9,7 @@
   *{margin:0;padding:0;box-sizing:border-box;}
   html,body{height:100%;background:#0c0b11;overflow:hidden;}
   #root{position:relative;width:100vw;height:100vh;background:#0c0b11;font-family:'Montserrat',system-ui,sans-serif;overflow:hidden;}
-  #graph{position:absolute;inset:0;width:100%;height:100%;cursor:grab;}
+  #graph{position:absolute;inset:0;width:100%;height:100%;cursor:grab;touch-action:none;}
   #graph:active{cursor:grabbing;}
   .title{position:absolute;top:18px;left:22px;z-index:10;pointer-events:none;}
   .title .t1{font-weight:700;font-size:13px;letter-spacing:1.4px;color:#e6c977;}
@@ -24,6 +24,14 @@
   .hint{position:absolute;bottom:20px;left:22px;z-index:10;font-size:10px;color:#403d48;letter-spacing:0.4px;pointer-events:none;}
   #status{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);z-index:20;color:#9d98a8;font-size:13px;text-align:center;line-height:1.7;}
   #status .big{font-size:15px;color:#e6c977;font-weight:600;}
+  /* mobile: lift controls above browser chrome, enlarge tap targets, compact legend */
+  @media (max-width:640px){
+    .controls{bottom:calc(env(safe-area-inset-bottom,0px) + 84px);right:14px;gap:9px;}
+    .controls button{width:46px;height:46px;font-size:22px;border-radius:12px;}
+    .hint{display:none;}
+    .legend{top:13px;right:13px;font-size:10px;gap:6px;padding:9px 12px;}
+    .title{top:13px;left:15px;}
+  }
 </style>
 </head>
 <body>
@@ -184,6 +192,38 @@
   window.addEventListener('mousemove',e=>{const r=canvas.getBoundingClientRect(),sx=e.clientX-r.left,sy=e.clientY-r.top;if(dragNode){const wp=s2w(sx,sy);dragNode.x=wp.x;dragNode.y=wp.y;dragNode.vx=0;dragNode.vy=0;alpha=Math.max(alpha,0.35);}else if(panning){cam.x-=(sx-lastX)/cam.z;cam.y-=(sy-lastY)/cam.z;}else{hover=nodeAt(sx,sy);canvas.style.cursor=hover?'pointer':'grab';}lastX=sx;lastY=sy;});
   window.addEventListener('mouseup',()=>{if(dragNode){dragNode.fixed=false;dragNode=null;}panning=false;});
   canvas.addEventListener('wheel',e=>{e.preventDefault();const r=canvas.getBoundingClientRect(),sx=e.clientX-r.left,sy=e.clientY-r.top,b=s2w(sx,sy);let f=Math.exp(-e.deltaY*0.0016);f=Math.max(0.9,Math.min(1.11,f));cam.z=Math.max(0.04,Math.min(7,cam.z*f));const a=s2w(sx,sy);cam.x+=b.x-a.x;cam.y+=b.y-a.y;},{passive:false});
+  // ---------- TOUCH (mobile): 1 finger = drag/pan & tap-to-focus, 2 fingers = pinch zoom ----------
+  function tpos(t){const r=canvas.getBoundingClientRect();return{x:t.clientX-r.left,y:t.clientY-r.top};}
+  let pinchDist=0;
+  canvas.addEventListener('touchstart',e=>{
+    if(e.touches.length===1){
+      const p=tpos(e.touches[0]);lastX=p.x;lastY=p.y;const n=nodeAt(p.x,p.y);
+      if(n){dragNode=n;n.fixed=true;hover=n;alpha=Math.max(alpha,0.5);}else{panning=true;hover=null;}
+    }else if(e.touches.length===2){
+      dragNode=null;panning=false;const a=tpos(e.touches[0]),b=tpos(e.touches[1]);pinchDist=Math.hypot(a.x-b.x,a.y-b.y);
+    }
+    e.preventDefault();
+  },{passive:false});
+  canvas.addEventListener('touchmove',e=>{
+    if(e.touches.length===1){
+      const p=tpos(e.touches[0]);
+      if(dragNode){const w=s2w(p.x,p.y);dragNode.x=w.x;dragNode.y=w.y;dragNode.vx=0;dragNode.vy=0;alpha=Math.max(alpha,0.35);}
+      else if(panning){cam.x-=(p.x-lastX)/cam.z;cam.y-=(p.y-lastY)/cam.z;}
+      lastX=p.x;lastY=p.y;
+    }else if(e.touches.length===2){
+      const a=tpos(e.touches[0]),b=tpos(e.touches[1]),mid={x:(a.x+b.x)/2,y:(a.y+b.y)/2},d=Math.hypot(a.x-b.x,a.y-b.y);
+      if(pinchDist>0){const w=s2w(mid.x,mid.y);cam.z=Math.max(0.04,Math.min(7,cam.z*(d/pinchDist)));const a2=s2w(mid.x,mid.y);cam.x+=w.x-a2.x;cam.y+=w.y-a2.y;}
+      pinchDist=d;
+    }
+    e.preventDefault();
+  },{passive:false});
+  canvas.addEventListener('touchend',e=>{
+    if(dragNode){dragNode.fixed=false;dragNode=null;}
+    if(e.touches.length===0){panning=false;pinchDist=0;}
+    else if(e.touches.length===1){const p=tpos(e.touches[0]);lastX=p.x;lastY=p.y;pinchDist=0;panning=true;}
+    e.preventDefault();
+  },{passive:false});
+
   document.getElementById('zin').onclick=()=>cam.z=Math.min(7,cam.z*1.25);
   document.getElementById('zout').onclick=()=>cam.z=Math.max(0.04,cam.z*0.8);
   document.getElementById('zfit').onclick=()=>fitView();
