@@ -312,13 +312,13 @@
 
     // labels — hidden at overview, reveal as you zoom in; hover always
     ctx.textAlign='center';ctx.textBaseline='top';
-    const zin=cam.z/fitZoom, showAuto=!anim && zin>1.35;
+    const zin=cam.z/fitZoom, mobile=TOUCH||W<=700, showAuto=!anim && !mobile && zin>1.35;
     const cand=[];
     for(const nd of nodes){
       if(!nd.label)continue;
       const screenR=nd.r*cam.z, related=focus&&(nd===focus||(near&&near.has(nd.id)));
       if(focus){ if(!related) continue; }
-      else { if(TOUCH||!showAuto) continue; if(!(nd.hub||screenR>6.5)) continue; }
+      else { if(!showAuto) continue; if(!(nd.hub||screenR>6.5)) continue; }
       cand.push({nd,pri:nd===hover?1e9:(related?1e8+nd.deg:(nd.hub?1e6+nd.deg:screenR)),screenR,related});
     }
     cand.sort((a,b)=>b.pri-a.pri);
