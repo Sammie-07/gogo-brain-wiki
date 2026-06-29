@@ -27,9 +27,9 @@
   #status .big{font-size:15px;color:#e6c977;font-weight:600;}
   /* mobile: lift controls above browser chrome, enlarge tap targets, compact legend */
   @media (max-width:640px){
-    .controls{bottom:calc(env(safe-area-inset-bottom,0px) + 84px);right:14px;gap:9px;}
-    .controls button{width:46px;height:46px;font-size:22px;border-radius:12px;}
-    .controls #anim{width:auto;height:46px;font-size:15px;padding:0 18px;}
+    .controls{flex-direction:column;align-items:flex-end;flex-wrap:nowrap;bottom:calc(env(safe-area-inset-bottom,0px) + 120px);right:14px;gap:11px;max-width:none;}
+    .controls button{width:52px;height:52px;font-size:23px;border-radius:14px;background:rgba(34,31,44,0.82);border-color:rgba(255,255,255,0.16);color:#d4cee0;}
+    .controls #anim{width:auto;height:52px;font-size:15px;padding:0 20px;background:rgba(44,32,54,0.88);color:#f0c75e;border-color:rgba(240,201,94,0.45);}
     .hint{display:none;}
     .legend{top:13px;right:13px;font-size:10px;gap:6px;padding:9px 12px;}
     .title{top:13px;left:15px;}
