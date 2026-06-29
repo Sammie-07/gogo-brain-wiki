@@ -18,9 +18,10 @@
           background:rgba(22,20,30,0.4);backdrop-filter:blur(9px);-webkit-backdrop-filter:blur(9px);padding:11px 14px;border-radius:11px;border:1px solid rgba(255,255,255,0.05);pointer-events:none;}
   .legend div{display:flex;align-items:center;gap:8px;}
   .legend i{width:9px;height:9px;border-radius:50%;display:inline-block;}
-  .controls{position:absolute;bottom:18px;right:18px;z-index:10;display:flex;gap:7px;}
+  .controls{position:absolute;bottom:18px;right:18px;z-index:10;display:flex;flex-wrap:wrap;justify-content:flex-end;gap:7px;max-width:calc(100vw - 36px);}
   .controls button{width:33px;height:33px;border-radius:9px;border:1px solid rgba(255,255,255,0.06);background:rgba(22,20,30,0.45);backdrop-filter:blur(9px);-webkit-backdrop-filter:blur(9px);color:#9d98a8;font-size:16px;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:.15s;}
   .controls button:hover{background:rgba(46,42,58,0.6);color:#efe9f8;}
+  #anim{width:auto;padding:0 14px;font-size:12px;letter-spacing:0.4px;white-space:nowrap;color:#e6c977;}
   .hint{position:absolute;bottom:20px;left:22px;z-index:10;font-size:10px;color:#403d48;letter-spacing:0.4px;pointer-events:none;}
   #status{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);z-index:20;color:#9d98a8;font-size:13px;text-align:center;line-height:1.7;}
   #status .big{font-size:15px;color:#e6c977;font-weight:600;}
@@ -28,6 +29,7 @@
   @media (max-width:640px){
     .controls{bottom:calc(env(safe-area-inset-bottom,0px) + 84px);right:14px;gap:9px;}
     .controls button{width:46px;height:46px;font-size:22px;border-radius:12px;}
+    .controls #anim{width:auto;height:46px;font-size:15px;padding:0 18px;}
     .hint{display:none;}
     .legend{top:13px;right:13px;font-size:10px;gap:6px;padding:9px 12px;}
     .title{top:13px;left:15px;}
@@ -50,7 +52,7 @@
   </div>
   <div id="status">Loading your vault&hellip;</div>
   <div class="controls">
-    <button id="anim" title="Replay the build animation" style="width:auto;padding:0 13px;font-size:12px;letter-spacing:0.4px;">&#10022; Animate</button>
+    <button id="anim" title="Replay the build animation">&#10022; Animate</button>
     <button id="zin" title="Zoom in">+</button>
     <button id="zout" title="Zoom out">&minus;</button>
     <button id="zfit" title="Fit to screen">&#9678;</button>
