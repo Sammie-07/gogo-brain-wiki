@@ -50,6 +50,7 @@
   </div>
   <div id="status">Loading your vault&hellip;</div>
   <div class="controls">
+    <button id="anim" title="Replay the build animation" style="width:auto;padding:0 13px;font-size:12px;letter-spacing:0.4px;">&#10022; Animate</button>
     <button id="zin" title="Zoom in">+</button>
     <button id="zout" title="Zoom out">&minus;</button>
     <button id="zfit" title="Fit to screen">&#9678;</button>
@@ -86,6 +87,7 @@
   const NODE_HOVER='#fbf7ff', LABEL_COLOR='#9a96a4', LABEL_HI='#f2eefa';
   let nodes=[], links=[], adj={};
   let alpha=0, fitZoom=1, T=0;
+  let anim=null, revealReady=false;
   const cam={x:0,y:0,z:1};
   // seeded RNG → identical, stable arrangement on every load
   let _seed=20260618;
@@ -228,6 +230,31 @@
   document.getElementById('zout').onclick=()=>cam.z=Math.max(0.04,cam.z*0.8);
   document.getElementById('zfit').onclick=()=>fitView();
 
+  // ---------- BUILD ANIMATION — brain assembles itself from Gogo outward ----------
+  function computeRevealOrder(){
+    const byId={}; nodes.forEach(n=>byId[n.id]=n);
+    nodes.forEach(n=>n.order=undefined);
+    let seed=nodes.find(n=>n.id===GOGO_ID);
+    if(!seed) seed=nodes.slice().sort((a,b)=>b.deg-a.deg)[0];
+    let order=0; const q=[];
+    if(seed){ seed.order=order++; q.push(seed); }
+    while(q.length){
+      const cur=q.shift();
+      const nb=[...(adj[cur.id]||[])].map(id=>byId[id]).filter(Boolean).sort((a,b)=>b.deg-a.deg);
+      for(const nx of nb){ if(nx.order===undefined){ nx.order=order++; q.push(nx); } }
+    }
+    for(const n of nodes){ if(n.order===undefined) n.order=order++; }
+    for(const l of links){ l.order=Math.max(l.a.order,l.b.order); }
+    revealReady=true;
+  }
+  function startAnim(){
+    if(!nodes.length) return;
+    if(!revealReady) computeRevealOrder();
+    fitView(); hover=null;
+    anim={start:performance.now(), dur:7000};
+  }
+  document.getElementById('anim').onclick=startAnim;
+
   // ---------- FORCE LAYOUT — settles and rests (no idle animation) ----------
   function physics(){
     const n=nodes.length; if(!n||alpha<0.004) return;
@@ -250,16 +277,39 @@
     const A=9;
     for(const nd of nodes){ if(nd.fixed){nd._x=nd.x;nd._y=nd.y;} else { nd._x=nd.x+A*Math.sin(T*0.03+nd.phase); nd._y=nd.y+A*Math.cos(T*0.024+nd.phase*1.3); } }
 
-    ctx.lineWidth=Math.max(0.4,cam.z*0.5);
-    for(const l of links){const a=w2s(l.a._x,l.a._y),b=w2s(l.b._x,l.b._y),al=dimLink(l);ctx.strokeStyle=(focus&&al===1)?'rgba(190,178,228,0.65)':'rgba(120,118,144,'+(0.16*al)+')';ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.lineTo(b.x,b.y);ctx.stroke();}
+    // build-animation reveal progress
+    let revealed=Infinity;
+    if(anim){
+      const p=Math.min(1,(performance.now()-anim.start)/anim.dur);
+      const e=p<0.5?2*p*p:1-Math.pow(-2*p+2,2)/2;   // easeInOutQuad
+      revealed=e*nodes.length;
+      if(p>=1){ anim=null; revealed=Infinity; }
+    }
 
-    for(const nd of nodes){const s=w2s(nd._x,nd._y),r=Math.max(1.6,nd.r*cam.z),a=focus?((nd===focus||near.has(nd.id))?1:0.13):1,col=nd.gogo?GOGO_COLOR:(GROUP_COLORS[nd.group]||GROUP_COLORS.other);ctx.beginPath();ctx.arc(s.x,s.y,r,0,6.283);ctx.fillStyle=nd===hover?NODE_HOVER:col;ctx.globalAlpha=a*(nd.group==='other'?0.7:1);ctx.fill();ctx.globalAlpha=1;}
+    ctx.lineWidth=Math.max(0.4,cam.z*0.5);
+    for(const l of links){
+      let lf=1;
+      if(anim){ const lo=Math.max(l.a.order,l.b.order); if(lo>=revealed) continue; lf=Math.max(0,Math.min(1,revealed-lo)); }
+      const A_=w2s(l.a._x,l.a._y), B_=w2s(l.b._x,l.b._y), al=dimLink(l);
+      let p0=A_, p1=B_;
+      if(anim){ const fwd=l.a.order<=l.b.order, src=fwd?A_:B_, dst=fwd?B_:A_; p0=src; p1={x:src.x+(dst.x-src.x)*lf,y:src.y+(dst.y-src.y)*lf}; }
+      ctx.strokeStyle=(focus&&al===1)?'rgba(190,178,228,0.65)':'rgba(120,118,144,'+(0.16*al*lf)+')';
+      ctx.beginPath();ctx.moveTo(p0.x,p0.y);ctx.lineTo(p1.x,p1.y);ctx.stroke();
+    }
+
+    for(const nd of nodes){
+      if(anim && nd.order>=revealed) continue;
+      const nf=anim?Math.max(0,Math.min(1,revealed-nd.order)):1;
+      const s=w2s(nd._x,nd._y),baseR=Math.max(1.6,nd.r*cam.z),r=anim?baseR*(0.35+0.65*nf):baseR,
+            a=focus?((nd===focus||near.has(nd.id))?1:0.13):1,col=nd.gogo?GOGO_COLOR:(GROUP_COLORS[nd.group]||GROUP_COLORS.other);
+      ctx.beginPath();ctx.arc(s.x,s.y,r,0,6.283);ctx.fillStyle=nd===hover?NODE_HOVER:col;ctx.globalAlpha=a*(nd.group==='other'?0.7:1)*nf;ctx.fill();ctx.globalAlpha=1;
+    }
 
     if(hover){const s=w2s(hover._x,hover._y),r=Math.max(2,hover.r*cam.z);ctx.strokeStyle='rgba(240,236,248,0.45)';ctx.lineWidth=1.2;ctx.beginPath();ctx.arc(s.x,s.y,r+4,0,6.283);ctx.stroke();}
 
     // labels — hidden at overview, reveal as you zoom in; hover always
     ctx.textAlign='center';ctx.textBaseline='top';
-    const zin=cam.z/fitZoom, showAuto=zin>1.35;
+    const zin=cam.z/fitZoom, showAuto=!anim && zin>1.35;
     const cand=[];
     for(const nd of nodes){
       if(!nd.label)continue;
