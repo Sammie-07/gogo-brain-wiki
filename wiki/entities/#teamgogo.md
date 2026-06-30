@@ -15,7 +15,9 @@ Full name: **Team Go International Family of Agents**. Real estate agent organiz
 - **Size**: 1,660 agent partners (as of June 2026)
 - **Reach**: Nearly every US state; 7 countries
 - **PPP**: 6.15 transactions/agent/year — roughly 3× the national brokerage average (~2)
-- **Transaction volume**: ~7,445 transactions in the trailing 12 months (early 2026); targeting ~10,000 in 2026
+- **Transaction volume**: ~7,451 transactions in the trailing 12 months (mid-2026); targeting ~10,000 in 2026
+- **Cumulative sales**: ~$15B since Gogo joined eXp (~7.5–8 years); ~$250M closed in May 2026
+- **Production history**: 2019 $70M · 2020 $200M · 2021 $1B · 2022 $1.8B · 2023 $2.1B · 2024 $3B · 2025 $3.5B (projecting $3.5–4B for 2026)
 - **Structure**: No fees between members; no revenue sharing between partners — they simply do real estate together as a family
 - **Website**: teamgogo.team
 

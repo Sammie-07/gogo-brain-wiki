@@ -64,6 +64,18 @@
 | [[entities/Alex Moeller]]       | Founder of Prosperity Tax Group and Wi-Fi Money; SETC tax credit specialist; ~2M social media followers; Hungarian immigrant; Day 1 speaker GoGet'Em Master Your Money week. |
 | [[entities/Quincy Beaker]]      | SEO expert; 25+ years experience; Toyota-level corporate clients; placed 1st at Tony Robbins Top 10 Influencers Mastermind with 6 Instagram followers; website beat Tony Robbins' own site. |
 | [[entities/Alyssa Stalker]]     | Team Gogo member (3+ years); two multiple 7-figure businesses; email marketing and organic marketing expert; GoGet'Em Community trainer. |
+| [[entities/Jason Dupree]]       | #teamgogo mortgage partner (Texana Bank); weekly "Mortgage Minutes"; runs the REMLO loan-originator program (Team Gogo = #1 REMLO group). |
+| [[entities/Jennifer Worthington]] | #teamgogo agent (27 yrs); founder of Clear Title; led the "Anatomy of a Transaction" series; top REMLO producer. |
+| [[entities/Jessica DeShane]]    | Escrow Manager & Closer at Clear Title; co-presented the title installment of "Anatomy of a Transaction." |
+| [[entities/Clear Title]]        | Michigan title company (founded by Jennifer Worthington, 2022); RON closings; Certified ID fraud prevention. |
+| [[entities/Thomas Heimann]]     | Tech entrepreneur & AI educator; founder of Cloud Title; author of "Twice Ahead"; built Sarah AI assistant + Apex AI Coach. |
+| [[entities/Cloud Title]]        | AI-powered title company founded by Thomas Heimann. |
+| [[entities/Matt Kemps]]         | CEO/co-founder of Azulio; top-1%-by-volume Austin agent (Lone Wolf Realty Group). |
+| [[entities/Rob Poulton]]        | Co-founder of Azulio; ex-CoreLogic Senior Director (built Core AI). |
+| [[entities/Azulio]]             | AI "done-with-you" real estate CRM on GoHighLevel; agentic AI hand-offs, digital farming. |
+| [[entities/Russ Laggan]]        | eXp VP of Training / face of eXp University; "attraction as a byproduct of production." |
+| [[entities/Natalie Davison]]    | eXp ICON agent & speaker (Canada); creator of the "Rabbit Hole" / Trust Ladder warm-lead framework. |
+| [[entities/Beth Silverman]]     | eXp ICON agent & Team Gogo OG (St. Pete, FL); investor-focused; niche-pivoting & attraction-over-production advocate. |
 
 ---
 
@@ -89,10 +101,12 @@
 | [[concepts/Tax Strategy]] | Business entity structure (S Corp, LLC, C Corp), SE tax reduction, QBI deduction (made permanent 2025), Big Beautiful Bill provisions, depreciation + 1031 exchange + cost segregation, family hiring + Roth IRA for kids, SETC credit, asset protection overlay. |
 | [[concepts/Legal Protection]] | Asset invisibility strategy, Wyoming LLC, land trusts, 8 common lawsuit categories for agents, E&O insurance, entity formation. |
 | [[concepts/Luxury Real Estate]] | Windy Goss's Magical Black Book Strategy — expired luxury MLS listings, premium physical marketing, FedEx to seller; positioning before listings; luxury brand building. |
+| [[concepts/AI for Real Estate]] | 3 eras of AI, intelligence briefs, client avatars, custom GPTs, AI agents (Claude Cowork), model selection, agentic CRM/digital farming (Azulio), Gogo's "second brain," eXp's Mira. |
+| [[concepts/Niche Finder]] | Gogo's AI niche tool ($24): 10-question form → niche statement, IG bios, 8 marketing ideas, SEO plan, 12-week blog calendar, 90-day plan; pivot-don't-restart; the Buffer/Hootsuite caveat. |
 
 ---
 
-## Sources (374 ingested)
+## Sources (345 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
@@ -421,6 +435,16 @@
 | [[sources/GoGetEm Training — Camera Confidence and Social Media Posting Workshop]] | Gogo Bethke | 2026-02-01 | February theme: camera confidence. 10 on-camera principles: eye contact, make-it-about-them, serve-don't-perform, stories-are-temporary. Live posting workshop. Instagram Stories captions + links workflow. Done With You program. |
 | [[sources/Gogo Bethke — The Quotes I Live By (Retreat Slides)]] | Gogo Bethke | — | 41-slide branded quote deck. Eight thematic clusters: limits, stories & self, mindset, spirituality, productivity & business, visibility & reputation, leadership & trust, wealth & ambition. ~25 Gogo originals + Henry Ford, George Lucas, Grant Cardone, Rockefeller, Zig Ziglar, Stephen Covey. |
 | [[sources/Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]] | Gogo Bethke | — | 71-page BBM Retreat Day 2 slide deck. Full leverage playbook: hourly rate math, VA team economics ($56/hr = 14 VAs, 584 hrs/week, 30,368 hrs/year, 10.8×), $2.7M on 24 hrs/week, in-person assistant types, passive income architecture, tracker suite (5 tools), automation stack (ManyChat, ChatGPT, vidIQ, Zapier, GHL, ClickFunnels, SendGrid), investment types, holistic success principle. |
+| [[sources/eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]] | Kristy Waker | 2026-05-06 | eXp tech stack walkthrough: the Hub (replacing Slack), TeamGogo map rebuilt with Claude, my eXp, Mira AI, revenue-share dashboard changes (co-sponsees now counted, level 15). Mortgage update by Jason Dupree. |
+| [[sources/Anatomy of a Transaction Part 4 — Title (Jennifer Worthington and Jessica DeShane)]] | Jennifer Worthington | 2026-05-13 | Title = the "spine" of a deal. Clear Title's Jennifer Worthington & Jessica DeShane on partnering with title, entity/identity verification, RON closings, Certified ID, the REMLO leaderboard. |
+| [[sources/AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]] | Thomas Heimann | 2026-05-20 | AI workshop: 3 eras of AI, personal/business intelligence briefs, named client avatars, custom GPTs, Claude Cowork agents, model selection (Sonnet/Opus/Haiku), tool stack. |
+| [[sources/Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]] | Matt Kemps | 2026-05-27 | Azulio AI CRM on GoHighLevel: per-listing AI agents, agentic hand-offs, conversation memory, voice AI, digital farming (LLM-indexed sites). TeamGogo pricing $595/$995. |
+| [[sources/Wine Not eXp — Monthly Presentation (May 2026)]] | Gogo Bethke | 2026-05-27 | Monthly recruiting deck: cap/commission math, mentorship, ICON, 5 ways to earn stock, 7-gen rev share, team structures, FastCap, REMLO. EXPI→AGNT ticker. |
+| [[sources/Attraction as a Byproduct of Production (Russ Laggan)]] | Russ Laggan | 2026-06-03 | eXp VP of Training: attraction as the "fries" to production's "hamburger"; SOI math; market-update-as-magnet (Gemini + YouTube video); "How's the market?" pitch; 5 stages of want. |
+| [[sources/The Rabbit Hole — Trust Ladder for Warm Leads (Natalie Davison)]] | Natalie Davison | 2026-06-10 | The Rabbit Hole / Trust Ladder (Visibility→Familiarity→Trust→Opportunity→Advocacy); fewer-but-intentional conversations; niche-community ROI; "be yourself as a daily practice." |
+| [[sources/GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]] | Gogo Bethke | 2026-06-17 | First monthly Roundtable. Full rev-share mechanics (FLA/FLQA, $5K qualifier, level unlocks, ICON/cap/new-agent bonuses) + Niche Finder tool walkthrough. |
+| [[sources/Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]] | Gogo Bethke | 2026-06-24 | Live Niche Finder training: $24 report from Gogo's AI "second brain" → IG bios, 8 marketing ideas, SEO, 12-week blog calendar, 90-day plan. AI search reads socials; pivot don't restart. Buffer/Hootsuite caveat. |
+| [[sources/Wine Not eXp — Monthly Presentation (June 2026)]] | Gogo Bethke | 2026-06-24 | June monthly recruiting deck: cap/stock/rev-share, EXPI→AGNT, $4K first-year cap bonus, co-sponsorship 5-day rule, 4 team types + "stay separate to double-dip," Team Gogo $15B cumulative / 7,451 trailing transactions. |
 
 ---
 

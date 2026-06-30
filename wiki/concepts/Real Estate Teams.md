@@ -209,6 +209,20 @@ Real estate commissions are volatile. $90K one month; $0 for two months. Bills a
 
 **Seasonal pattern:** Peaks in June–August (high real estate transaction season); lowest in December. Normal — not a sign of problems.
 
+### Mechanics: FLA, FLQA & Level Unlocks (detailed — June 2026 Roundtable)
+
+eXp pays revenue share 7 generations deep, funded from the company dollar (eXp works off 50% of revenue; ~10% feeds the rev-share bucket). **You never pay your sponsor** — it comes from the company side.
+
+- **FLA = Frontline Active** — an agent personally sponsored to you who pays the $85/month fee. May never sell ("dead weight").
+- **FLQA = Frontline Qualified Active** — qualifies by collecting **$5,000 in GCI/commission** (NOT two transactions — could be 5 leases at $1,000, a referral, any income type). Each $5,000 qualifies the agent for **6 months**, then they must re-qualify.
+- **Level-unlock math:** 1 FLQA opens Level 1; then **every 5 FLQAs opens the next level** — 5→L2, 10→L3, 15→L4, 20→L5, 25→L6, **30→L7** (eXp 2.0 lowered L7 from 40 to 30 FLQAs).
+- **Bonus overrides:** ICON agents have **all 7 levels open** automatically; capping agents have **levels 1–5**; brand-new agents have **levels 1–3** (and levels 1–3 are open all the time, not just year one). First-year agents also earn a **$4,000 cap bonus** per qualifying FLQA who caps in their first year; ~$1,400/frontline agent/year thereafter.
+- **Per-generation annual caps:** L1 $1,400 · L2 $1,600 · L3 $1,000 · L4 $600 · L5 $400 · L6 $1,000 · L7 $2,000.
+- **Your own production is irrelevant to rev share.** Gogo hasn't sold a house in 3.5 years and isn't even an FLQA to her own sponsor ([[Kurt Shewell]]). Rev share depends on your downline's production and your FLQA count.
+- **Rule of thumb:** ~half your FLAs become FLQAs (Gogo: 98 FLAs / ~46–47 FLQAs) — "if you need 30, go get 60."
+- **Off-boarding:** departed agents stay in your dashboard for a **12-month grace period** (was 6 months) to re-name the same sponsor; pending/new-construction deals can keep them showing up to 2 years — this distorts raw dashboard counts.
+- Gogo's lifetime rev share: **~$4.3M over 8 years** (she + Dwayne ~$5M across two lines).
+
 **How agents joined:** 100% organic from social media. No paid ads, no cold calling to recruit agents. Social media content + consistency = inbound agent attraction.
 
 **Timeline reality:** Nobody switches brokerages on day one. It takes months for agents to join, start transacting, and for revenue to flow back to you. Start now; be patient.

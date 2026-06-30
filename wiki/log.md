@@ -728,3 +728,12 @@ Per user directive, set the #teamgogo agent count to **1,660** everywhere the br
 - Updated all source/summary and quote-based size references (Real Estate Teams, The Circle, Personal Branding bio quote, Root Story bio quote, Finding Your Ideal Agent ×4, Downline Organization, CRM Grow, Social Media Strategies, The Circle Sales Page, eXp Realty Overview ×2, and the dated Wine Not April 2026 figure) — all now 1,660.
 - **Deliberately NOT changed:** non-agent-count numbers (sq ft, post reach, $/deal, coaching fees, audit-risk %, ManyChat "1,700 steps", rev-share dollar tiers, $13B/$14B sales), and two *generic teaching examples* ("how to build a downline of 1,500 agents") that are illustrative post-title ideas, not statements of #teamgogo's size.
 - Bumped [[#teamgogo]] `updated` to 2026-06-18 context.
+
+## [2026-06-30] ingest | 10 weekly #teamgogo / GoGet'Em call transcripts (May 6 – June 24, 2026)
+Ingested 10 Zoom meeting transcripts (raw VTTs copied to Clippings/). Created 10 source pages, 12 new entity pages, 2 new concept pages; updated eXp Realty, #teamgogo, and Real Estate Teams.
+- Sources: eXp Tools Update (Kristy Waker, 5/6); Anatomy of a Transaction Pt 4 — Title (Jennifer Worthington & Jessica DeShane, 5/13); AI for Real Estate (Thomas Heimann, 5/20); Azulio AI CRM (Matt Kemps & Rob Poulton, 5/27); Wine Not eXp — May 2026 (5/27 eve); Attraction as a Byproduct (Russ Laggan, 6/3); The Rabbit Hole (Natalie Davison, 6/10); GoGet'Em Roundtable — Rev Share & Niche Finder (6/17); Niche Finder Live Training (6/24); Wine Not eXp — June 2026 (6/24 eve).
+- New entities: Jason Dupree, Jennifer Worthington, Jessica DeShane, Clear Title, Thomas Heimann, Cloud Title, Matt Kemps, Rob Poulton, Azulio, Russ Laggan, Natalie Davison, Beth Silverman.
+- New concepts: AI for Real Estate; Niche Finder.
+- Updated: eXp Realty (EXPI→AGNT ticker, Hub/Slack-sunset + Mira, REMLO scale); #teamgogo (June stats: ~$15B cumulative, 7,451 trailing-12mo transactions, production history); Real Estate Teams (full FLA/FLQA rev-share mechanics + level unlocks — fills a long-flagged gap).
+- Canonical names enforced (Kristy Waker, Kurt Shewell, Radek Walesa, etc.). Niche Finder page records the Buffer/Hootsuite caveat (report surfaced them; Gogo flagged she doesn't use them).
+- Index source-count header corrected to 345.

@@ -58,8 +58,10 @@ eXp launched a co-sponsorship feature in May 2025. Incoming agents can now desig
 
 **ICON Program:**
 - After capping, close 20 additional transactions in the same anniversary year
-- Receive the full $16,000 cap back as eXp company stock (EXPI)
+- Receive the full $16,000 cap back as eXp company stock (ticker **AGNT** on NASDAQ — changed from **EXPI** in 2026)
 - Yasmin Rogers: 7x ICON agent
+
+> **Ticker update (2026):** eXp's NASDAQ ticker changed from **EXPI** to **AGNT** (AGENT). Per the May/June 2026 Wine Not eXp decks, the share price was ~$4.74 (historical high ~$90). Stock is awarded 5 ways: 1 paid (optional 5% commission stock-purchase at a 5% discount, vested immediately) + 4 gifted (200 on first annual closing, 400 when a sponsored agent first closes, 400 at cap, 16,000 at ICON; gifted shares vest over 3 years).
 
 **Revenue Share Tiers (7 generations):**
 | Tier | FLQA Required | Approx. % of Pool | Avg per Agent per Year |
@@ -100,6 +102,8 @@ Agents can become licensed loan officers and earn on the mortgages their buy-sid
 
 **Key legal point:** REMLO earners are "lender assistants" — they cannot make decisions on the mortgage file (no authority to approve/deny, no say on appraisal), which is why there is no conflict of interest. Payment does NOT appear on the settlement statement.
 
+**2026 scale:** REMLO runs through **Texana Bank** (one federal charter covers all 50 states — no 20-hour course, no SAFE exam). Pay is ~0.5% of the mortgage amount. The program topped **450+ agents** nationwide by mid-2026; **#teamgogo is the #1 REMLO group at Texana Bank**. [[Jason Dupree]] runs the weekly "Mortgage Minutes" update and the "What is REMLO?" sessions for the team.
+
 **Link:** gogobethke.com/remlo
 
 ## eXp Revenos (Lead Division)
@@ -123,7 +127,9 @@ Standard and Mega Icon teams require a **mandatory minimum 25% split to team lea
 
 ## eXp Hub
 
-Internal communication platform built in-house, replacing Slack (which replaced Facebook Workspace after Facebook discontinued it with 90-day notice). Hub is ~3 years old as of early 2026 and actively expanding features.
+Internal communication platform built in-house (personally led by Glenn Sanford), replacing Slack (which replaced Facebook Workspace after Facebook discontinued it with 90-day notice). Hub is ~3 years old as of early 2026 and actively expanding features.
+
+**2026 update:** Slack is being fully retired (~June 30, 2026); agents migrate to the Hub (hub.exprealty.com), now the single central app holding links to MIRA, eXp University, BoldTrail, my eXp, Canva, SkySlope, and state sites. A mobile app is available. Features include multi-person DMs, to-do lists/checklists, groups, a Discover tab, stories, and a "report an issue" button Glenn reads. **Mira** is eXp's AI assistant (built on ChatGPT, eXp-exclusive) in my eXp and the Hub — answers natural-language questions about your own production, downline, and revenue share; cannot pull other agents' numbers (privacy by design). See [[AI for Real Estate]].
 
 ## Leo Pareja's Team Mastery Mastermind
 
