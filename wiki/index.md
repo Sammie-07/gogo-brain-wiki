@@ -106,7 +106,7 @@
 
 ---
 
-## Sources (345 ingested)
+## Sources (347 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
@@ -445,6 +445,8 @@
 | [[sources/GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]] | Gogo Bethke | 2026-06-17 | First monthly Roundtable. Full rev-share mechanics (FLA/FLQA, $5K qualifier, level unlocks, ICON/cap/new-agent bonuses) + Niche Finder tool walkthrough. |
 | [[sources/Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]] | Gogo Bethke | 2026-06-24 | Live Niche Finder training: $24 report from Gogo's AI "second brain" → IG bios, 8 marketing ideas, SEO, 12-week blog calendar, 90-day plan. AI search reads socials; pivot don't restart. Buffer/Hootsuite caveat. |
 | [[sources/Wine Not eXp — Monthly Presentation (June 2026)]] | Gogo Bethke | 2026-06-24 | June monthly recruiting deck: cap/stock/rev-share, EXPI→AGNT, $4K first-year cap bonus, co-sponsorship 5-day rule, 4 team types + "stay separate to double-dip," Team Gogo $15B cumulative / 7,451 trailing transactions. |
+| [[sources/The Circle Coaching — Leadership, Team Rhythm and Rewiring Limiting Beliefs (de-identified)]] | Gogo Bethke | 2026-01-01 | **NDA de-identified.** Circle coaching frameworks: leadership realities, give-to-get reciprocity, "10 points of good," advisor vetting by lived experience, recurring meeting-rhythm design, Meta-verified content delegation, "opposite can be true" + elephant-and-stake belief work. |
+| [[sources/The Circle Coaching — Listings as a Lead Engine, Niche Clarity and the Value Ladder (de-identified)]] | Gogo Bethke | 2026-01-01 | **NDA de-identified.** "You list, you last"; every listing = two buyers/three commissions; 30-second personalized open-house follow-up; one-niche-at-a-time; value-ladder funnel (free→low→mid→high, buy-the-middle, price signals value); diversified income pillars. |
 
 ---
 

@@ -737,3 +737,10 @@ Ingested 10 Zoom meeting transcripts (raw VTTs copied to Clippings/). Created 10
 - Updated: eXp Realty (EXPI→AGNT ticker, Hub/Slack-sunset + Mira, REMLO scale); #teamgogo (June stats: ~$15B cumulative, 7,451 trailing-12mo transactions, production history); Real Estate Teams (full FLA/FLQA rev-share mechanics + level unlocks — fills a long-flagged gap).
 - Canonical names enforced (Kristy Waker, Kurt Shewell, Radek Walesa, etc.). Niche Finder page records the Buffer/Hootsuite caveat (report surfaced them; Gogo flagged she doesn't use them).
 - Index source-count header corrected to 345.
+
+## [2026-06-30] ingest | 3 private "The Circle" coaching calls — DE-IDENTIFIED (NDA)
+Ingested 3 Circle coaching-call transcripts (Google Docs) under client NDA. **Only Gogo's generalizable teachings were captured; all client names, locations, businesses, numbers, and personal circumstances were removed. Raw transcripts were NOT stored in the repo** (no Clippings copy; `original:` marked "NDA; transcript not retained").
+- Docs 1 & 2 overlapped heavily → merged into one source page: "The Circle Coaching — Leadership, Team Rhythm and Rewiring Limiting Beliefs (de-identified)".
+- Doc 3 → "The Circle Coaching — Listings as a Lead Engine, Niche Clarity and the Value Ladder (de-identified)".
+- De-identification done via subagents instructed to strip all PII and return only category-level exclusion lists (which the user reviewed and approved before writing).
+- Concepts touched: The Circle, Real Estate Teams, Mindset, Lead Generation, Open Houses, Wealth Building, Social Media and Email Marketing, Niche Finder.
