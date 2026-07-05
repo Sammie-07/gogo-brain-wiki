@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, brokerage, real-estate]
-sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]"]
-updated: 2026-05-18
+sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]"]
+updated: 2026-07-05
 ---
 
 # eXp Realty
@@ -86,6 +86,19 @@ Note: Fewer than **16% of eXp agents** collect any revenue share. Revenue share 
 | 2023 | $2.1B |
 | 2024 | $3B |
 | 2025 | $3.5B |
+
+## 500 Legacy Program
+
+A retirement/legacy path announced by eXp: an agent with **500+ agents across levels 1–7** who is an ICON (or is accepted into the program) can **unlock all 7 revenue-share levels** without meeting the usual FLQA requirements per level. Aimed at agents who have built a large organization but have dropped below their qualifying FLQA count and still want to be paid on every level.
+
+**Not automatic** — it carries heavy ongoing obligations: attend and teach at eXp events, run breakout sessions, show up for quarterly meetings and eXp Cons (the requirements must be fulfilled "on the eXp level"). Gogo doesn't use it — she keeps her FLQAs and has "no qualifications, I can do whatever." It's the fallback she'd apply for only if she fell below her allowed FLQA and wasn't an ICON.
+
+## Company Financials & Scale (2026)
+
+- **~89,000 agents** company-wide (the number Gogo uses when sizing where a downline lands — e.g., 50 personally sponsored ≈ top 100 of the company).
+- **Debt-free with ~$126M in cash** — which Gogo frames as eXp's single most important differentiator vs. competitors ("all of them are in debt and we're debt-free"). eXp made a **cash acquisition** of another company (Gogo couldn't recall the name on the call) — contrasted with a competitor's ~$800M (largely debt-funded) purchase of RE/MAX.
+- Only **~16% of eXp agents** collect any revenue share (84% earn zero) — reinforces that attraction is a genuine differentiator, not table stakes.
+- Competitive positioning vs. **The Real Brokerage**: eXp cap **$16K vs. Real ~$15K**; Real has only **5 rev-share levels** (no 6 & 7), requires agents to **stay active/producing** to collect rev share, and its share price hovers near the **$1 NASDAQ-delisting threshold**. See [[Real Estate Teams#Competitor Combat]].
 
 ## Mentor Program
 

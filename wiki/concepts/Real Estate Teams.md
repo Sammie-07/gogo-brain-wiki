@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [real-estate, teambuilding, agent-attraction, contracts, exp-realty, delegation]
-sources: ["[[How to Be a Successful Entrepreneur]]", "[[How to Build a Real Estate Team]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Setting Up 'Partner' Keyword on ManyChat]]", "[[Creating 3-Way Calls with Calendar — GoHighLevel Setup (Kristy Waker)]]", "[[How to and When to Use the Partner Keyword (Gogo Bethke)]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Content Pillars for Agent Attraction — Friday Strategy (Gogo Bethke)]]", "[[Co-Sponsorship at eXp — Gogo's Offer (Gogo Bethke)]]", "[[Finding Your Ideal Agent (Gogo Bethke)]]", "[[Revenue Share — How It Works (Gogo Bethke)]]", "[[Agent Attraction Through Real Stories (Gogo Bethke)]]", "[[Downline Organization — Creating Facebook and Instagram Accounts (Gogo Bethke)]]", "[[Reel Ideas for Agent Attraction (Gogo Bethke)]]", "[[Agent to CEO — Expert Mentors Live 51 Minutes (John Kitchens)]]", "[[Agent to CEO Overview (John Kitchens)]]", "[[People and Team Building Ep 149 (John Kitchens)]]", "[[Managing a High Performing Team — Gogo Community Call]]", "[[Working Genius Training (Tina Nicole)]]", "[[Hiring Virtual Assistants (Maria Peskam)]]", "[[Business Automation Framework (GoGetEm)]]", "[[Gogo Bethke on Expert Mentors Live — State of Business (John Kitchens)]]", "[[Realtor to CEO — Agent-to-CEO Transition (Beth Manning)]]", "[[ReBalance Your Business — Work Less and Make More (Kayla Lindsey)]]", "[[Expert Mentors Live Ep. 184 — Leadership Lessons (John Kitchens)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Propy — Blockchain and Crypto Real Estate Transactions (Eric Cruz)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]"]
+sources: ["[[How to Be a Successful Entrepreneur]]", "[[How to Build a Real Estate Team]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Setting Up 'Partner' Keyword on ManyChat]]", "[[Creating 3-Way Calls with Calendar — GoHighLevel Setup (Kristy Waker)]]", "[[How to and When to Use the Partner Keyword (Gogo Bethke)]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Content Pillars for Agent Attraction — Friday Strategy (Gogo Bethke)]]", "[[Co-Sponsorship at eXp — Gogo's Offer (Gogo Bethke)]]", "[[Finding Your Ideal Agent (Gogo Bethke)]]", "[[Revenue Share — How It Works (Gogo Bethke)]]", "[[Agent Attraction Through Real Stories (Gogo Bethke)]]", "[[Downline Organization — Creating Facebook and Instagram Accounts (Gogo Bethke)]]", "[[Reel Ideas for Agent Attraction (Gogo Bethke)]]", "[[Agent to CEO — Expert Mentors Live 51 Minutes (John Kitchens)]]", "[[Agent to CEO Overview (John Kitchens)]]", "[[People and Team Building Ep 149 (John Kitchens)]]", "[[Managing a High Performing Team — Gogo Community Call]]", "[[Working Genius Training (Tina Nicole)]]", "[[Hiring Virtual Assistants (Maria Peskam)]]", "[[Business Automation Framework (GoGetEm)]]", "[[Gogo Bethke on Expert Mentors Live — State of Business (John Kitchens)]]", "[[Realtor to CEO — Agent-to-CEO Transition (Beth Manning)]]", "[[ReBalance Your Business — Work Less and Make More (Kayla Lindsey)]]", "[[Expert Mentors Live Ep. 184 — Leadership Lessons (John Kitchens)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Propy — Blockchain and Crypto Real Estate Transactions (Eric Cruz)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]"]
 updated: 2026-07-05
 ---
 
@@ -232,6 +232,46 @@ eXp pays revenue share 7 generations deep, funded from the company dollar (eXp w
 **Blank revenue share tracker:** Available below the GSMC video. Download, make a copy, track from day one. "The only reason you should ever look back is to see how far you've come."
 
 > "I cannot be in a situation where I can't [rely on income]. So it's that guarantee that money is coming in right here."
+
+## Agent Attraction — Gogo's Top 10 Playbook
+
+*Source: [[Agent Attraction — The Top 10 Tips (Gogo Bethke)]] (#teamgogo training, Jul 2026). The fundamentals "that haven't changed because they don't need to."*
+
+1. **Mindset first.** "If you believe you can or you believe you can't, you're right." Nothing about the model matters if you don't believe you deserve a downline. Speak in **"when," never "if"** — *if* is a 50/50 belief.
+2. **Know the product** so you can handle any objection. Get on endless eXp calls; be first to say "I don't know, but I know who does — let me call you back" (she calls upline [[Kurt Johnson|Kurt]] → [[Mark Zeda|Mark Z]] → Dan Beer). Use **Mira** (eXp's dashboard AI) as a live product-knowledge tool.
+3. **Know your ideal agent** — "I'm looking for the agents who are looking for me" ([[Brent Gove]]). Run the [[Niche Finder]] **from the agent-attraction angle** for an attract-agents plan. Ideal = $4–7M producers (know paperwork, taste for money, cap → guaranteed rev share, coachable to ICON) plus "two steps behind you" agents who need systems.
+4. **Know your competition** (see combat table below) — interview competitors over coffee to learn their cap/cut math, then combat with numbers not feelings.
+5. **The attraction funnel:** post content → **"comment OR DM 'partner'"** (serious agents won't publicly comment where their broker sees) → ManyChat auto-message → videos → booking calendar. **Block your calendar ~2 weeks out even when free** (manufactured scarcity). Requiring the videos + the wait pre-qualifies prospects → near-100% close by call time.
+6. **Three-way call** (you + agent + Gogo) — etiquette below.
+7. **"Why Not eXp"** monthly group presentation (last Wednesday; ~2–2.5 hrs) — invite lukewarm prospects here first, then close on a three-way call.
+8. **Bragging isn't bragging when it's true** — show the screenshots (the $16K stock deposit). Bragging *needs others to be lesser*; confidence is genuine sharing. People who cry "bragging" usually aren't where you are.
+9. **Reverse-engineer their numbers** from the MLS or a lender and lead with money: "I ran your production over coffee — you paid RE/MAX ~$37K last year; here you'd bank $16K. I can make you $57K more doing the same thing." (Max Powers "you're bleeding money" cold-DM — 3 states / 3 brokerages / 3 caps.)
+10. **Tools:** a dedicated attraction *website* (not a hodge-podge of links), consistent video, wins/screenshots, onboarding systems (Team Gogo's $25 onboarding), and celebrate/gift agents — "what gets celebrated gets duplicated."
+
+### The Multiplication Math (why level 6 & 7 change everything)
+
+Done live with any prospect: put *your* believed 12-month number on line 1, then multiply by 2 down 7 generations (assuming each agent brings just 2). A front line of 50 → 100 → 200 → 400 → 800 → 1,600 → **3,200 on level 7**. Per-generation annual pay (L1 $1,400 · L2 $1,600 · L3 $1,000 · L4 $600 · L5 $400 · L6 $1,000 · **L7 $2,000**) makes that example ~**$10.48M/yr** at full build; even halved (the "50% suck" rule) it's ~$5M/yr. First-year sponsor bonus is **$4,000/capping agent**. This is why attraction must be done at a brokerage with **levels 6 & 7** — where most of the downline and the biggest checks eventually sit. Illustration Gogo uses: **Gene Frederick** (sponsored by **Elizabeth Riley**) carries ~5,000 more agents than his sponsor; that gap is Gene's L7 (Elizabeth's would-be L8) = ~**$10M/yr on level 7 alone**.
+
+### Competitor Combat
+
+| Objection | Combat |
+|---|---|
+| "I'm thinking about **The Real Brokerage**." | Real has **only 5 levels (no 6 & 7)** — where the money is; you must **stay an active producing agent** to ever collect rev share ("I'll be 84 selling a house to collect my millions?"); stock **hovers near $1** (NASDAQ-delisting risk → shares worth ~nothing on a private market); co-sponsorship **halves** your rev-share % per level. eXp is **$16K cap vs. Real's ~$15K**, debt-free with ~$126M cash. |
+| "**Keller Williams** has an $18K cap." | They hide the **6% royalty on top** (up to $3,000/yr to Gary Keller) — agents are so "drinking the Kool-Aid" they don't even mention it. "If you don't know what to do with three grand, here's my Venmo." |
+| "**Epic** gives free car washes." | One free car wash existed (Grand Rapids) — Sterling Heights agents were 3 hrs away. Math: your **$200 first-closing stock ÷ $15 = 13 car washes/year** for free at eXp. "Overpromised and underdelivered." |
+| "Real pays more on **level 1**." | Short-term gain, long-term loss — the real money is levels 6 & 7 over time, which Real doesn't have. On paper Real gives more shares, but at ~$1 each; "all I care about is what's in my bank account." |
+
+### Three-Way-Call Etiquette
+
+For members who don't want to pitch: lay the foundation (initial call + require the partner-page videos), then book the three-way call. On the call — **be on 3–5 min early**; introduce and lavishly "fluff the feathers" of *your agent*; say only a *tiny bit* about Gogo (over-listing her accolades diminishes the agent and gives them nothing to look up to); **text Gogo the agent's stats ~1 hour before** so she pitches the right thing (leads/FastCap for new agents; cap-back/ICON/retirement for producers). Two calls (Why Not eXp → three-way) typically close.
+
+### 500 Legacy Program (eXp)
+
+At **500 agents across levels 1–7**, an ICON (or accepted applicant) can **unlock all 7 levels** — a retirement path for agents who fall below their FLQA requirement but have the org size. Comes with heavy obligations: attend/teach at eXp events, breakouts, cons, quarterly meetings. Gogo doesn't use it (she keeps her FLQAs and has "no qualifications — I can do whatever").
+
+### Warm-Launch Your Switch (advice to newly-joining agents)
+
+Before the public announcement, personally call the 10–30 agents you already have relationships with: "I wanted you to hear it from me, not on socials — here are the three reasons I switched." Tailor the three reasons to each person (leads/family for newer agents; rev-share/exit-plan for broker-owners). Gogo's first ~10 partners came from this momentum right after her own announcement.
 
 ## "Monkey Does Monkey Do" — Social Proof Content Strategy
 

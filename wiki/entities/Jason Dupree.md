@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, lender, mortgage, exp-realty, REMLO]
-sources: ["[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[Anatomy of a Transaction Part 4 — Title (Jennifer Worthington and Jessica DeShane)]]", "[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Attraction as a Byproduct of Production (Russ Laggan)]]", "[[The Rabbit Hole — Trust Ladder for Warm Leads (Natalie Davison)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]"]
-updated: 2026-06-30
+sources: ["[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[Anatomy of a Transaction Part 4 — Title (Jennifer Worthington and Jessica DeShane)]]", "[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Attraction as a Byproduct of Production (Russ Laggan)]]", "[[The Rabbit Hole — Trust Ladder for Warm Leads (Natalie Davison)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]"]
+updated: 2026-07-05
 ---
 
 # Jason Dupree

@@ -110,11 +110,12 @@
 
 ---
 
-## Sources (357 ingested)
+## Sources (358 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
 | [[sources/How to Eat an Elephant — 2026 Goals]] | Gogo Bethke  | 2026-01-29 | Full goal-setting training: CPR, reverse engineering, commission math, ChatGPT prompts.      |
+| [[sources/Agent Attraction — The Top 10 Tips (Gogo Bethke)]] | Gogo Bethke | 2026-07-02 | #teamgogo Top 10 agent-attraction playbook: mindset + ×2 seven-generation math, competitor combat (Real/KW/Epic), DM-partner + calendar-scarcity funnel, three-way-call etiquette, bragging-vs-confidence, reverse-engineer-their-numbers, 500 Legacy. REMLO market update (Jason). |
 | [[sources/Red Light Green Light Exercise]]      | Gogo Bethke  | —          | Time audit exercise: categorize every daily task as green (money) or red (delegate).         |
 | [[sources/Lets Do Some Math Again]]             | Gogo Bethke  | 2026-04-13 | PPP argument for brokerage choice; Team Go stats; 71.1% of realtors sold 0 homes in 2025.    |
 | [[sources/I Send One Email a Day]]              | Gogo Bethke  | 2026-04-09 | Daily email newsletter practice; GoGet'Em Community.                                         |

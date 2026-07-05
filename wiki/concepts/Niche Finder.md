@@ -52,6 +52,7 @@ The live niche-training *How to Become the Obvious Choice in Your Market* is the
 - **AI search now reads social posts** (Instagram, TikTok), not just websites — so niche-keyword discipline on socials drives AI recommendations of you.
 - The generated report has recommended third-party schedulers like **Buffer and Hootsuite**; on the June 24 call Gogo flagged that she personally does not use or know those tools. (Reports surface tools present in the underlying knowledge; treat tool name-drops as suggestions, not Gogo's personal endorsement.)
 - Niches change as you change — **pivot, don't restart** your social account; your followers move with you.
+- **Run it twice — once for production, once for agent attraction.** Answering the questionnaire from the agent-attraction angle (who's your *ideal agent* to partner with, their pain/"pebble in the shoe," the language they speak) makes the report output an attract-*agents* plan: recruit-focused IG bio, blog posts, SEO keywords, and a 3-month day-by-day plan. See [[Real Estate Teams#Agent Attraction — Gogo's Top 10 Playbook]].
 
 ## Gogo's Take
 
