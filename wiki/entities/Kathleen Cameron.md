@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, coach, manifestation, mindset, author]
-sources: ["[[The Power of Manifestation Identity (Kathleen Cameron)]]"]
-updated: 2026-05-22
+sources: ["[[The Power of Manifestation Identity (Kathleen Cameron)]]", "[[Manifesting Through Personal Power]]"]
+updated: 2026-07-05
 ---
 
 # Kathleen Cameron
@@ -20,6 +20,15 @@ Kathleen Cameron is a Canadian coach (Toronto-based, with presence in Malibu) wh
 - **Based in:** Toronto (Canada) / Malibu, CA
 - **Influence:** Met Bob Proctor in 2019 — pivotal moment in her transformation
 - **Scale:** Reached 8-figure coaching business
+- **Signature masterclass:** "Manifesting Through the Use of Your Personal Power" (returning-favorite in Gogo's community, co-hosted with Natalia Shine).
+
+## Core Teaching — Personal Power / Manifestation
+
+- **Personal power = the "God essence" within** — the creator energy everyone carries (soul, Christ consciousness, infinite intelligence).
+- **The 95% invisible rule:** ~95% of any manifestation happens unseen behind the scenes and shows nothing until it hits 95% (like an upload bar) — you must surrender and trust, not check for proof.
+- **Law of compensation = three beliefs** (Bob Proctor's version, reframed as identity): you're paid greatly when *you believe* your work is the most important, that you're the best at it, and that you're irreplaceable.
+- **Identity over strategy:** results flow from self-concept, not tactics. Challenge every limiting label with **"According to who?"**
+- **Masculine grind vs. feminine receptive:** trading hustle/grind (more hours, same money) for feminine energetics (visualize, meditate, surrender, receive) is what unlocked million-dollar months while working less — "the effortless way."
 
 ## Core Teaching — Manifestation Identity
 

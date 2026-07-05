@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [lead-generation, sales, real-estate, social-media, referrals, automation]
-sources: ["[[GoGet'Em Brand Audit Call — Amanda Richards and Angela Kane]]", "[[How to Generate Buyer and Seller Leads (Amy Gregory)]]", "[[Marketing Through FREE Neighborhood Events (Stacey Leslie)]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[How Realtors Can Use AI to Generate Leads (Live Training)]]", "[[AI For Realtors — How to Use AI to Close 1 Deal Every Month]]", "[[Market Shifts with Aaron Novello]]", "[[How to Easily Sell $10M with Social Media]]", "[[Realtor's Secret to Extra Income — REMLO Program (Joe Vegas)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Landing Pages — Why You Need Them and How to Use Them Weekly]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Finding Your Ideal Client for Buyers and Sellers (Gogo Bethke)]]", "[[Pick Your Lane Buyers Sellers Property Type Mastery (Gogo Bethke)]]", "[[How to Own Your Price Point and Attract the Right Buyers (Gogo Bethke)]]", "[[The 5 Hashtags Strategy Target Your Local Market (Gogo Bethke)]]", "[[Get Instant MLS Alerts for New Listings (GoGetEm Community)]]", "[[Finding Your Ideal Clients and Targeting Them Effectively (Gogo Bethke)]]", "[[Who Is Your Ideal Client and How To Find Them (Gogo Bethke)]]", "[[The Art of the Gift — Gifting Strategy for Relationship Building (Katie Lawrence)]]", "[[GoGet'Em Training — Funnels and Technology (Gogo Bethke)]]", "[[GoGet'Em Webinar — Events-Based Lead Generation (Jessica and Seth)]]", "[[Poker Run and Progressive Open House Events (Savannah Gutierrez)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Self-Selling Seller System LIVE (Austin Rankin)]]", "[[Google My Business Optimization for Real Estate Agents (Noemi Chavez)]]"]
-updated: 2026-05-27
+sources: ["[[GoGet'Em Brand Audit Call — Amanda Richards and Angela Kane]]", "[[How to Generate Buyer and Seller Leads (Amy Gregory)]]", "[[Marketing Through FREE Neighborhood Events (Stacey Leslie)]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[How Realtors Can Use AI to Generate Leads (Live Training)]]", "[[AI For Realtors — How to Use AI to Close 1 Deal Every Month]]", "[[Market Shifts with Aaron Novello]]", "[[How to Easily Sell $10M with Social Media]]", "[[Realtor's Secret to Extra Income — REMLO Program (Joe Vegas)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Landing Pages — Why You Need Them and How to Use Them Weekly]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Finding Your Ideal Client for Buyers and Sellers (Gogo Bethke)]]", "[[Pick Your Lane Buyers Sellers Property Type Mastery (Gogo Bethke)]]", "[[How to Own Your Price Point and Attract the Right Buyers (Gogo Bethke)]]", "[[The 5 Hashtags Strategy Target Your Local Market (Gogo Bethke)]]", "[[Get Instant MLS Alerts for New Listings (GoGetEm Community)]]", "[[Finding Your Ideal Clients and Targeting Them Effectively (Gogo Bethke)]]", "[[Who Is Your Ideal Client and How To Find Them (Gogo Bethke)]]", "[[The Art of the Gift — Gifting Strategy for Relationship Building (Katie Lawrence)]]", "[[GoGet'Em Training — Funnels and Technology (Gogo Bethke)]]", "[[GoGet'Em Webinar — Events-Based Lead Generation (Jessica and Seth)]]", "[[Poker Run and Progressive Open House Events (Savannah Gutierrez)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Self-Selling Seller System LIVE (Austin Rankin)]]", "[[Google My Business Optimization for Real Estate Agents (Noemi Chavez)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]", "[[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]", "[[The AI Stack Top Agents Dont Talk About - Azulio CRM (Matt Kemps and Rob Poulton)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]"]
+updated: 2026-07-05
 ---
 
 # Lead Generation
@@ -459,14 +459,95 @@ Any agent pursuing both real estate transactions AND agent/eXp attraction must s
 
 Apply this anywhere you have a link-in-bio tool: Linktree, Beacons, Instagram's native link section, or any other platform.
 
+## Sphere-of-Influence System (Jon Pugle)
+
+[[Jon Pugle]] (GoGet'Em guest trainer) teaches that the fastest path to business — production and agent attraction — is the people who already know, like, and trust you, not open houses, paid leads, or cold strangers. **~80–90% of transactions come by referral or someone the client knows; only ~10% work with a stranger.** His framing: *"The antidote for AI is human connection"* — automations and back-office work get replaced, the people portion doesn't, so leaning into being human builds a moat AI cannot penetrate. This complements the [[#The Off-the-App Rule (Amy Gregory)|off-the-app rule]]: capture and nurture, but do it through genuine relationship.
+
+**Handwritten notes — the killer tactic.** A Guinness-record car salesman sold 13,000 cars in one year with no drip campaigns — just handwritten gratitude notes to everyone he'd met, every month. An agent copied it, mailed 40 notes his first month, and made **$40,000 from a single reply**. Notes stand out because nobody sends them; recipients keep them on their desk.
+- **Five notes a day** (drilled into Pugle by his stepdad, a 40-year top Southern California broker who ran Coldwell Banker): write and mail five handwritten notes every day and *"you'll never need to ask for business again."* Keep them 3–5 sentences, personal, no business card, no ask.
+
+**30-second gratitude videos.** Film a specific, genuine video for each person ("Hey Mike, thought of you, so grateful for you…") — never one generic clip blasted to everyone. Not salesy; sets you apart. (See [[Communication#Relationship and Gratitude Outreach (Jon Pugle)]].)
+
+**Interest-based CRM tagging.** Tag every contact by interest (golf, boating, kids' sports). Pugle's best lender flagged him under "golf" and periodically sent golf articles, jokes, products, invites — felt personal, wasn't. Ask ChatGPT to find a relevant article/product per interest tag, then send *"saw this and thought of you."* People love to be thought of. Put clients' kids and pets at the forefront — he won a listing by making the sellers' three dogs part of the pitch, then followed up with custom dog-bakery treats (still praised in his Yelp review years later): *"People love their pets and their children more than they love themselves."*
+
+**Community leadership + sponsorship economics.** Don't buy a static $250 little-league banner — pledge $250 (or $100) *from every closing* and broadcast it far and wide, so the whole community is motivated to send you business. Bring the free snow-cone/ice-cream truck on opening day (costs almost nothing), branded shirt on, no ask. If you won't sponsor, volunteer/lead (PTA, coach, church); if you won't lead, at least join a recurring hobby group at the same day/time/place so the same people see you consistently (echoes the [[#Neighborhood Community Strategy (Stacey Leslie)|7-times rule]]).
+
+### The 200-Person Power List → ~50 Closings
+
+The core engine. Build a list of your 200 best relationships, then:
+1. **Call all 200** (never text) — warm them for ~3 months by adding value first.
+2. **Ask each for ONE introduction** over the next 12 months, delivered as a **three-way text** — like introducing two people at a party; they'll honor it because it's specific and low-pressure. *"When you want to refer me everybody, you end up referring me nobody. So let's just start with one."*
+3. **Hold them accountable ~4× a year.**
+4. **The math:** 150 say yes → ~75 actually introduce → ~50 close. Even a botched version (~35 closings) makes you a local icon.
+
+**"Just want one" scales to every vendor.** Hold title, escrow, mortgage, and inspectors accountable to one introduction per year in exchange for your referrals — *"if you can't give me one, we don't work together anymore."*
+
+**The connector role is the whole job.** Ask each contact *"where's the pain?"* and what they need (HVAC, babysitter, housekeeper), map needs to vendors across your database, deliver warm intros both directions, and demand one real estate referral from each vendor in return. *"Connect people to the things and services… that they need… you will be rich."*
+
+**Board-of-directors dinner.** Once a year, take your 12 best (or most influential) referrers to a fancy dinner, present your goals, and ask them to co-author your client events and vendor list — *"people participate in things they author."* Treat influential-but-quiet people as if they already refer heavily and they start to.
+
+**Four client-appreciation events a year = ~30 touches.** Each event = 5 touches: save-the-date → invite → reminder → event → *"sorry we missed you"* (the most powerful — people want to be missed). Most invitees never show, so you get all the touches without paying for them; split the cost with lender/title. Use a **VIP intake form** (spouse, kids, pets, anniversary, favorite food/restaurant, charity) to send **unexpected, personalized gifts** — e.g. calling a client's vacation hotel to send chips-and-guac to their room (hotels often comp it). *"Treat people's children better than you treat them"* — send sick kids' gift baskets. (Systematizes the [[#Systematic Gifting as Relationship Prospecting (Katie Lawrence)|gifting]] approach around a captured data set.)
+
+## CRM Link → Video → Capture-Gate → Auto-Follow-Up (Gogo Bethke)
+
+*Source: [[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]*
+
+The missing middle step most agents skip: **never paste a raw listing link.** A bare link gets no traffic (only pity likes from mom and your best friend). The funnel:
+
+1. **Grab the link from your CRM.** Every agent has a company website with a built-in CRM. Pull a listing link from [[KVCore/BoldTrail]], Lofty, or your IDX front end (e.g. kristywaker.com). **Match the listing's price/type to your niche** — a $100K listing attracts $100K buyers.
+2. **Record a short personal video first, then attach the link.** *"It's really not about the house. It's really about me and my services."* Recap the listing in the written description too (most viewers watch muted), add on-screen captions, and put a plain CTA ("Click the link to see the listing") above the link.
+3. **Post per platform rules.** Facebook allows a direct link in a feed post; Instagram does not — use a **Story Link sticker.** Cross-post the link to LinkedIn and Google.
+4. **Capture-gate does the work.** In BoldTrail, a first-time visitor sees the full listing; after that they see ~3 photos, then a "log in with Facebook/Google or enter email + phone" gate (agent can require phone). Login pulls name/email/phone and notifies the agent. Lofty equivalent: Content → Websites → Settings → Lead Capture → registration popup trigger rule (by listings viewed or time). **If registration isn't turned on, a lead-capturing site captures nothing.** Self-built IDX sites (e.g. Panda IDX) usually lack live IDX and real capture.
+5. **Auto-responder that sounds like YOU.** Rewrite every generic drip message. The FIRST automated message should be a **video** with a personal intro + CTA — shoot **two versions: vertical** for the text auto-response, **horizontal** for the email auto-response. Sequence fires within seconds, then end of day, day 1, day 7, day 14…
+6. **Market reports/CMAs as follow-up fuel.** Set automated CMAs (Gogo prefers every 29 days = monthly); plug past clients' actual addresses into BoldTrail so they get updates on their own home. Use equity gain as an opener: *"I just made you $70K in a year — want to pull a HELOC and buy an investment property?"*
+
+**Preferred-vendors list as lead magnet + reciprocity** (husband's idea): you expect everyone to use you as their realtor, so return the favor. Build a directory of 3 vetted vendors per category (movers, painters, title, cleaning, handyman), starting with friends/family who have side businesses. Give it as a free gift the instant someone hits your account — instant value, credibility, trust (build in Canva). Mirrors [[#Sphere-of-Influence System (Jon Pugle)|Pugle's connector economics]] and [[Social Media and Email Marketing]].
+
+**Track leads, not views.** Views are vanity unless they convert to leads and US dollars — *"a million views from 17-year-olds who can't buy real estate is worth nothing."* Log leads-per-platform in a lead tracker.
+
+## AI-Powered Lead Generation — Azulio Stack (Matt Kemps and Rob Poulton)
+
+*Source: [[The AI Stack Top Agents Dont Talk About - Azulio CRM (Matt Kemps and Rob Poulton)]]*
+
+[[Azulio]] (co-founders [[Matt Kemps]] and [[Rob Poulton]]) is a done-with-you AI CRM built on [[GoHighLevel]], demoed for #teamgogo. It attacks the same "off-the-app / speed-to-lead" thesis with AI infrastructure. *"Most teams are not losing because of bad leads. They're losing in the gap between the lead arriving and the first real conversation."*
+
+**Speed-to-lead under 15 seconds** through high-trust channels like iMessage — sharpens the [[#The 78% First-Agent Rule|78% first-agent / 5-minute rule]] to seconds. Claimed outcomes: 400%+ ROI, ~40 hours saved per week per team. Azulio never fires a scheduled drip on top of a live AI conversation — any reply turns off the workflow so the consumer isn't double-messaged.
+
+**Anonymous-visitor skip tracing.** Captures website visitors with no form fill, skip-traces email/phone, checks DNC status, records a full session replay (cursor movement, device, browser, timestamp, event counts), and even finds the visitor's LinkedIn — surfacing leads to work or refer out via the [[teamgogo Map]]. *"It doesn't feel like a cold call now because I know what they did and what they were interested in… I'm not guessing."*
+
+**Outbound AI calling with TCPA opt-in.** Requires a TCPA opt-in; a recent GoHighLevel change lets the opt-in live on a Meta lead form. Metrics cited: **~60% answer rate, ~82% appointment-set rate.** Voice via [[ElevenLabs]] (top-converting voice "Jessa"); full transcripts/recordings retained for coaching.
+
+**Per-listing and per-lead-source AI agents.** Each yard sign carries a QR code tied to a property-specific AI agent (square footage, floor plans, builder, MUD/PID, showing calendar) that books showings directly; the AI adjusts by lead type (FSBO, cash buyer, new construction). Agentic AI-to-AI transfers hand a call between specialist agents; conversation memory recognizes a lead who resurfaces months later.
+
+**Digital farming** replaces postcards/door-knocking: branded neighborhood property websites (fed IDX, recent closings, agent branding) with **CSS stripped out** so [[Claude]]/GPT read only the keywords — the site is consumed by AI models within 5 minutes to 5 hours of going live and surfaces as **free organic leads with no ad spend.**
+
+**Pricing (team-go discount):** $5.95/mo (no digital farming) or $9.95/mo (with it); retail $16.95/mo + $5,000 setup fee, waived for #teamgogo. Setup 3–4 weeks; results in 30–60 days.
+
+> "Let the conversation and the automation of the day-to-day process be generated by AI, but you should show up as a human. Those agents who can do that part of the job are going to win every day." — [[Gogo Bethke]]
+
+## Relocation Niche Lead Magnet + Funnel Qualification (Allison)
+
+*Source: [[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]*
+
+[[Allison]] (Staten Island → New Jersey relocation niche) proves niche discipline in dollars: 52 transactions, $26M volume, ~$250K attributed directly to Instagram. Her bio reads *"selling in Staten Island, moving to New Jersey"* — one person, not everybody. Lead-gen mechanics:
+- **Qualify hard at intake.** She only works clients who *must* move (home already in contract); **first-time buyers get routed to the team**, not worked personally. Refuses luxury: *"relocation will never go out of style."*
+- **Geo-tag the origin market**, not where you're filming — she tags Staten Island on every post so content surfaces where relocating homeowners still live.
+- **Per-post dollar value:** $250K ÷ ~1,000 posts/year ≈ **$250 per post** — every post carries a dollar value even when it doesn't directly close.
+- **Funnel:** [[GoHighLevel]] pipeline (lead → warm → appointment → contract) + automated email drips + [[ManyChat]]; captions/scripts written in [[Claude]].
+
+[[Cat West]]'s attraction-side lead gen uses **CMA mailer/farming reels** (CMA box B-roll → lead capture with **discount codes**, via Mailbox Power) and a **dedicated attraction booking link** (Calendly) separate from her real estate calendar — an application of the [[#Two-Button Link-in-Bio — Filtering Agent Attraction vs. Real Estate|two-button filter]].
+
 ## Related
 
 - [[Social Media and Email Marketing]]
 - [[Real Estate Teams]]
+- [[Communication]]
+- [[AI for Real Estate]]
 - [[Negotiation]]
 - [[Personal Branding]]
 - [[GoGet'Em Community]]
 - [[Gogo Bethke]]
+- [[Jon Pugle]]
 - [[Katie Lawrence]]
 - [[Austin Rankin]]
 - [[Erin DiCarlo]]
@@ -474,3 +555,8 @@ Apply this anywhere you have a link-in-bio tool: Linktree, Beacons, Instagram's 
 - [[Jessica]]
 - [[Seth]]
 - [[Savannah Gutierrez]]
+- [[Azulio]]
+- [[Matt Kemps]]
+- [[Rob Poulton]]
+- [[Allison]]
+- [[Cat West]]

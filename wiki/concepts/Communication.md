@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [communication, leadership, influence, mindset, team-culture]
-sources: ["[[The Art of Conscious Communication (Jamie Miller)]]", "[[Amplify Your Influence — Introduction (René Rodriguez)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]"]
-updated: 2026-05-22
+sources: ["[[The Art of Conscious Communication (Jamie Miller)]]", "[[Amplify Your Influence — Introduction (René Rodriguez)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]"]
+updated: 2026-07-05
 ---
 
 # Communication
@@ -76,6 +76,22 @@ Applying these frameworks in real estate contexts:
 - "I have to make calls" vs. "I get to talk to people who need help" → same calls, different energy brought to them
 - Morning self-talk and daily internal narration set the tone for everything that follows
 
+## Relationship and Gratitude Outreach (Jon Pugle)
+
+[[Jon Pugle]] applies communication as the core of sphere-of-influence business: the way you reach out — not just whether you reach out — determines whether relationships convert. His premise mirrors the leadership frameworks above but aimed outward at clients and referral partners: *"The antidote for AI is human connection."* Automations get replaced; genuinely human communication is the moat.
+
+**Gratitude as the medium, not the ask.** Communicate to make people feel thought of, never to extract. Two signature tactics:
+- **Handwritten notes** — 3–5 sentences, personal, no business card, no ask. They land precisely because they carry no agenda; recipients keep them on their desk.
+- **30-second gratitude videos** — filmed specifically for one person (*"Hey Mike, thought of you, so grateful for you…"*), never a generic clip blasted to everyone. Specificity is what makes it feel like communication rather than marketing.
+
+**"People participate in things they author."** The most durable buy-in comes from letting people co-create. Pugle's board-of-directors dinner asks top referrers to co-author his client events and vendor list — participation follows authorship. Treat influential-but-quiet people as if they already refer heavily and they grow into it. (Parallels [[#Influence Science (René Rodriguez)|authentic influence]] — serving the person being influenced rather than manipulating.)
+
+> "People participate in things they author. Write that down." — Jon Pugle
+
+**Situational-trigger outreach removes the "I don't know what to say" excuse.** Anchor the contact to a real-world reason so there's no pressure: *"driving by your neighborhood," "I'll be in your area Tuesday anyway," "I'm already showing a house nearby — want to piggyback?"* Telling people you'll already be there takes the weight off the ask. Mine their last three social posts and comment on something specific — the guessing game is over. (This is the relationship-side of the [[Lead Generation#Sphere-of-Influence System (Jon Pugle)|interest-based CRM tagging]] system.)
+
+**Care communicates louder than pitch.** *"Treat people's children better than you treat them. They will love you absolutely forever."* Put clients' kids and pets at the forefront of every conversation — the message people actually hear is *you see what matters to me.*
+
 ## Gogo's Personal Communication Work
 
 Gogo hired [[Zee Slingsby]] for a communication reset — recognizing that even experienced communicators and teachers benefit from dedicated attention to *how* they speak, not just *what* they say. She brings communication experts into the GoGet'Em community because she applies the same standard to herself.
@@ -89,3 +105,5 @@ Gogo hired [[Zee Slingsby]] for a communication reset — recognizing that even 
 - [[Jamie Miller]]
 - [[René Rodriguez]]
 - [[Ludmila Woodruff]]
+- [[Jon Pugle]]
+- [[Lead Generation]]

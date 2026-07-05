@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [marketing, social-media, email, content, lead-generation, automation, manychat, ai]
-sources: ["[[GoGet'Em Training — Camera Confidence and Social Media Posting Workshop]]", "[[GoGet'Em Social Media Challenge Kickoff — Community Training]]", "[[GoGet'Em Brand Audit Call #3 — Stacey and Gina Brand Reviews]]", "[[Getting Video Testimonials from Clients (Gogo Bethke)]]", "[[Why Local Event Reels Matter for Realtors (Gogo Bethke)]]", "[[Structuring the Perfect Client Success Story for Local Branding (Gogo Bethke)]]", "[[The 5 Hashtags Strategy Target Your Local Market (Gogo Bethke)]]", "[[Pick Your Lane Buyers Sellers Property Type Mastery (Gogo Bethke)]]", "[[How to Own Your Price Point and Attract the Right Buyers (Gogo Bethke)]]", "[[Reel Ideas for Buyers (Gogo Bethke)]]", "[[How to Add Filters to Stories (Gogo Bethke)]]", "[[How to Find Filters on Instagram (Laura Kurz)]]", "[[Equipment Used for Social Media (Gogo Bethke)]]", "[[Confidence and Body Language (Gogo Bethke)]]", "[[How to Find Trending Ideas (Gogo Bethke)]]", "[[How to Save Trending Audios and Use Them (Gogo Bethke)]]", "[[I Send One Email a Day]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Red Light Green Light Exercise]]", "[[Google Ads Strategy for Realtors]]", "[[AI For Real Estate Agents — How to Use AI to Generate Leads]]", "[[How I Scaled From One-on-One to Group Coaching]]", "[[Automations Are the Cheapest Way to Leverage Your Time]]", "[[How to Use ManyChat]]", "[[How to Use ChatGPT to Sound Like Yourself]]", "[[How to Grow Your Email List]]", "[[Social Media Weekly Schedule for Realtors]]", "[[Social Media Posting Schedule (Gogo Bethke)]]", "[[How to Easily Sell $10M with Social Media]]", "[[Cold Calling Burnout to YouTube Breakthrough]]", "[[The Power of Your Feedback]]", "[[Setting Up 'Partner' Keyword on ManyChat]]", "[[How to Generate Buyer and Seller Leads (Amy Gregory)]]", "[[How to Market Your Digital Product on Social Media (Zee Slingsby)]]", "[[How to Create a Database for Email Marketing (Gogopreneur)]]", "[[Marketing Through FREE Neighborhood Events (Stacey Leslie)]]", "[[AI For Realtors — How to Use AI to Close 1 Deal Every Month]]", "[[How Realtors Can Use AI to Generate Leads (Live Training)]]", "[[The Simple Formula to Turn Social Media into Cash]]", "[[Website vs Funnel — What Every Entrepreneur Needs to Know (Shreed)]]", "[[Connecting Your Facebook and Instagram Business Pages]]", "[[Remove Old, Confusing Branding (Instagram Feed Audit)]]", "[[How to Add or Update Your Bio on GoHighLevel Funnels]]", "[[Landing Pages — Why You Need Them and How to Use Them Weekly]]", "[[Build Your Funnels (Gogo Bethke)]]", "[[How to and When to Use the Partner Keyword (Gogo Bethke)]]", "[[Setting Up Partner Keyword on ManyChat (Technical Walkthrough)]]", "[[Market Education and Neighborhood Insights (Gogo Bethke)]]", "[[Homes Under X Price — Niche Property Feature Videos (Gogo Bethke)]]", "[[How-To Buyer Seller Content (Gogo Bethke)]]", "[[Holiday Events for Real Estate Lead Generation (Gogo Bethke)]]", "[[Local Small Business Spotlights and Giveaways (Gogo Bethke)]]", "[[Never Eat Alone (Gogo Bethke)]]", "[[Content Pillars for Agent Attraction — Friday Strategy (Gogo Bethke)]]", "[[Agent Attraction Hashtags (Gogo Bethke)]]", "[[What Hashtags You Need to Use (Gogo Bethke)]]", "[[Find Competitors and Reverse Engineer (Gogo Bethke)]]", "[[Finding Your Ideal Client for Buyers and Sellers (Gogo Bethke)]]", "[[GoGet'Em Community Posting Schedule Calendar (Kristy Waker)]]", "[[How to Create Custom Funnels (Kristy Waker)]]", "[[How to Edit Reels and Stories on Instagram (Gogo Bethke)]]", "[[How to Edit Videos in CapCut (GoGetEm Community)]]", "[[Setting Up Buyer Keyword on ManyChat - Flow Explained (GoGetEm Community)]]", "[[Reel Ideas for Sellers (Gogo Bethke)]]", "[[Reel Ideas for Agent Attraction (Gogo Bethke)]]", "[[Email Structure — Writing Emails That Convert (Carol, GSMC)]]", "[[My Thoughts on Emails (Gogo Bethke)]]", "[[Email Subject Lines (Carol, GSMC)]]", "[[Carousels — Why and How to Use Them (Gogo Bethke)]]", "[[Creating Engaging Carousel Posts with ChatGPT]]", "[[Storytelling Videos — The Idea Behind Them (Gogo Bethke)]]", "[[Instagram Stories — Ideas and Daily Strategy (Gogo Bethke)]]", "[[Instagram Highlight Bubbles — Creating and Organizing Story Collections (Laura, GSMC)]]", "[[Highlights and Pinned Posts (Gogo Bethke)]]", "[[Automate Your Real Estate Marketing With AI (Carrie Soave)]]", "[[ManyChat Keyword Automation from Scratch (Jonathan Trage)]]", "[[Learn How to Leverage Your Time by Creating Digital Offers and Online Courses with Zee Slingsby]]"]
-updated: 2026-05-27
+sources: ["[[GoGet'Em Training — Camera Confidence and Social Media Posting Workshop]]", "[[GoGet'Em Social Media Challenge Kickoff — Community Training]]", "[[GoGet'Em Brand Audit Call #3 — Stacey and Gina Brand Reviews]]", "[[Getting Video Testimonials from Clients (Gogo Bethke)]]", "[[Why Local Event Reels Matter for Realtors (Gogo Bethke)]]", "[[Structuring the Perfect Client Success Story for Local Branding (Gogo Bethke)]]", "[[The 5 Hashtags Strategy Target Your Local Market (Gogo Bethke)]]", "[[Pick Your Lane Buyers Sellers Property Type Mastery (Gogo Bethke)]]", "[[How to Own Your Price Point and Attract the Right Buyers (Gogo Bethke)]]", "[[Reel Ideas for Buyers (Gogo Bethke)]]", "[[How to Add Filters to Stories (Gogo Bethke)]]", "[[How to Find Filters on Instagram (Laura Kurz)]]", "[[Equipment Used for Social Media (Gogo Bethke)]]", "[[Confidence and Body Language (Gogo Bethke)]]", "[[How to Find Trending Ideas (Gogo Bethke)]]", "[[How to Save Trending Audios and Use Them (Gogo Bethke)]]", "[[I Send One Email a Day]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Red Light Green Light Exercise]]", "[[Google Ads Strategy for Realtors]]", "[[AI For Real Estate Agents — How to Use AI to Generate Leads]]", "[[How I Scaled From One-on-One to Group Coaching]]", "[[Automations Are the Cheapest Way to Leverage Your Time]]", "[[How to Use ManyChat]]", "[[How to Use ChatGPT to Sound Like Yourself]]", "[[How to Grow Your Email List]]", "[[Social Media Weekly Schedule for Realtors]]", "[[Social Media Posting Schedule (Gogo Bethke)]]", "[[How to Easily Sell $10M with Social Media]]", "[[Cold Calling Burnout to YouTube Breakthrough]]", "[[The Power of Your Feedback]]", "[[Setting Up 'Partner' Keyword on ManyChat]]", "[[How to Generate Buyer and Seller Leads (Amy Gregory)]]", "[[How to Market Your Digital Product on Social Media (Zee Slingsby)]]", "[[How to Create a Database for Email Marketing (Gogopreneur)]]", "[[Marketing Through FREE Neighborhood Events (Stacey Leslie)]]", "[[AI For Realtors — How to Use AI to Close 1 Deal Every Month]]", "[[How Realtors Can Use AI to Generate Leads (Live Training)]]", "[[The Simple Formula to Turn Social Media into Cash]]", "[[Website vs Funnel — What Every Entrepreneur Needs to Know (Shreed)]]", "[[Connecting Your Facebook and Instagram Business Pages]]", "[[Remove Old, Confusing Branding (Instagram Feed Audit)]]", "[[How to Add or Update Your Bio on GoHighLevel Funnels]]", "[[Landing Pages — Why You Need Them and How to Use Them Weekly]]", "[[Build Your Funnels (Gogo Bethke)]]", "[[How to and When to Use the Partner Keyword (Gogo Bethke)]]", "[[Setting Up Partner Keyword on ManyChat (Technical Walkthrough)]]", "[[Market Education and Neighborhood Insights (Gogo Bethke)]]", "[[Homes Under X Price — Niche Property Feature Videos (Gogo Bethke)]]", "[[How-To Buyer Seller Content (Gogo Bethke)]]", "[[Holiday Events for Real Estate Lead Generation (Gogo Bethke)]]", "[[Local Small Business Spotlights and Giveaways (Gogo Bethke)]]", "[[Never Eat Alone (Gogo Bethke)]]", "[[Content Pillars for Agent Attraction — Friday Strategy (Gogo Bethke)]]", "[[Agent Attraction Hashtags (Gogo Bethke)]]", "[[What Hashtags You Need to Use (Gogo Bethke)]]", "[[Find Competitors and Reverse Engineer (Gogo Bethke)]]", "[[Finding Your Ideal Client for Buyers and Sellers (Gogo Bethke)]]", "[[GoGet'Em Community Posting Schedule Calendar (Kristy Waker)]]", "[[How to Create Custom Funnels (Kristy Waker)]]", "[[How to Edit Reels and Stories on Instagram (Gogo Bethke)]]", "[[How to Edit Videos in CapCut (GoGetEm Community)]]", "[[Setting Up Buyer Keyword on ManyChat - Flow Explained (GoGetEm Community)]]", "[[Reel Ideas for Sellers (Gogo Bethke)]]", "[[Reel Ideas for Agent Attraction (Gogo Bethke)]]", "[[Email Structure — Writing Emails That Convert (Carol, GSMC)]]", "[[My Thoughts on Emails (Gogo Bethke)]]", "[[Email Subject Lines (Carol, GSMC)]]", "[[Carousels — Why and How to Use Them (Gogo Bethke)]]", "[[Creating Engaging Carousel Posts with ChatGPT]]", "[[Storytelling Videos — The Idea Behind Them (Gogo Bethke)]]", "[[Instagram Stories — Ideas and Daily Strategy (Gogo Bethke)]]", "[[Instagram Highlight Bubbles — Creating and Organizing Story Collections (Laura, GSMC)]]", "[[Highlights and Pinned Posts (Gogo Bethke)]]", "[[Automate Your Real Estate Marketing With AI (Carrie Soave)]]", "[[ManyChat Keyword Automation from Scratch (Jonathan Trage)]]", "[[Learn How to Leverage Your Time by Creating Digital Offers and Online Courses with Zee Slingsby]]", "[[The Fundamentals - Social Media Machine and Branding (Gogo Bethke)]]", "[[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]", "[[Master Your Copywriting and AI Brand Voice (Gogo Bethke)]]"]
+updated: 2026-07-05
 ---
 
 # Social Media and Email Marketing
@@ -1786,6 +1786,183 @@ ManyChat automation is **not available on LinkedIn** — DM response must be han
 
 **The rule:** If you post a CTA on LinkedIn ("DM me for X"), someone must be ready to respond. Don't publish a call to action on any platform you can't honor. If you're not actively managing LinkedIn, still have a VA check it periodically — leads can be buried under spam and missed entirely.
 
+## Camera Confidence — 10 Principles
+
+*Source: [[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]*
+
+Ten principles for showing up on camera with authority. The through-line: make it about the viewer, not about you.
+
+1. **Don't reintroduce yourself in every post.** Followers already chose to follow you — they know who you are. Only introduce yourself in cold-audience ads.
+2. **Look yourself in the eye on selfie videos** — stare into the lens, not the screen. It feels direct and personal to the viewer.
+3. **Stop apologizing before you speak.** Openings like "sorry, I'm not good at this" make people question your value before you've said anything.
+4. **Talk to one person, not the internet.** Call out the specific target in the first sentence. *"When you're talking to everybody, you're talking to nobody."*
+5. **Open with tension, not information.** Weak: "Today I want to talk about buyer leads." Strong: "If you're posting and no one is reaching out, this is the mistake you're making."
+6. **Sit/stand like you belong there.** Posture changes psychology — carry yourself as the expert.
+7. **Don't over-smile or nervous-laugh.** Authority comes from controlled energy.
+8. **Speak ~15% slower** than feels natural.
+9. **Stop re-watching yourself 20 times** — it wastes billable time (see the hourly-rate math below).
+10. **Make it about them, not you** — "if you're struggling with…" not "I'm so excited to share…"
+
+**Hourly-rate math to kill re-watching:** take last year's total income → divide by 2,080 (work hours/year) → divide by 60 for a per-minute rate. Every unnecessary rewatch flushes those dollars.
+
+> "Serve, don't perform. When you focus on serving instead of performing, confidence naturally increases."
+
+## CRM Lead-Capture Link Mechanics
+
+*Source: [[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]*
+
+The core mistake agents make: **posting a raw listing link with no video.** A bare link gets no traffic — only pity likes from mom and your best friend.
+
+> "You just take the link and you post it. You can't do that. There is a step in the middle… You're going to have to create a video in the middle."
+
+### The Missing Middle Step
+1. Grab a listing link from your CRM — every agent has a company website with a built-in CRM and IDX ([[KVCore/BoldTrail]], Lofty, or the front end of your IDX site).
+2. **Match the listing to your niche** — a $100K listing attracts $100K buyers; a $750K listing attracts $750K buyers.
+3. **Record a short personal video first**, then attach the link. *"It's really not about the house. It's about me and my services and my abilities to help you get into this house."*
+
+### Getting the Link From Computer to Phone
+- Email / text / message it to yourself
+- Chrome three-dots → "Create QR code" or "Send to your devices"
+- Mac/iPhone: AirDrop or universal copy-paste (copy on phone, paste on computer)
+- Shorten long links with **[[TinyURL]]** (tinyurl.com)
+
+### Platform Link Rules — Facebook Feed vs. Instagram Stories
+| Platform | Where links work | Method |
+|----------|-----------------|--------|
+| **Facebook** | **Feed** post | Add video + paste the link directly in the description |
+| **Instagram** | **Stories only** (no feed links) | Stickers → Link → paste URL |
+| LinkedIn / Google | Cross-post | Re-share the same link after posting |
+
+**Video best practices:** Recap the listing details in the written description too — most viewers watch **muted** (in a bathroom stall at their corporate job), so cater to both listeners and readers. Add on-screen **captions** (record video → swipe up → Captions filter). Put a plain CTA ("Click the link to see the listing") *above* the link.
+
+### The Lead-Capture Gate (BoldTrail)
+First-ever visit shows the full listing; after that a visitor sees ~3 photos, then hits a gate: "log in with Facebook / Google or enter email + phone." The agent can require a phone number. Login pulls in name/email/phone and notifies the agent (text is instant; dashboard sometimes lags). This reveals who is looking so you can follow up.
+
+**Lofty settings:** Content → Websites → Settings → Lead Capture → "registration popup trigger rule" (configurable by number of listings viewed or by time). If registration isn't turned on, a lead-capturing website captures nothing. Self-built IDX sites (e.g. Panda IDX) usually lack live IDX (full MLS feed) and real lead capture.
+
+## Auto-Responder Setup — Make It Sound Like You
+
+*Source: [[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]*
+
+All CRMs ship generic drip messages that scream "system." Rewrite them one text and one email at a time. The sequence fires: first message within seconds → end of day → day 1 → day 7 → day 14…
+
+**The first automated message should be a video** with a personal intro + CTA. Shoot **two versions**:
+- **Vertical** → for the text-message auto-response
+- **Horizontal** → for the email/computer auto-response
+
+**Market reports / CMAs as follow-up fuel:** Set automated market reports (Gogo prefers every 29 days = monthly). For past clients, plug their actual address into BoldTrail so they get updates on their specific home — then use equity gain as a conversation opener ("I just made you $70K in a year — want to pull a HELOC and buy an investment property?").
+
+> "Technology is our best friend. It just has to be set up to be our best friend."
+
+## The Social Media Machine — One-to-Many Funnel
+
+*Source: [[The Fundamentals - Social Media Machine and Branding (Gogo Bethke)]]*
+
+The **Machine** is a one-to-many marketing funnel: one post reaches thousands, lives forever, and feeds traffic from every platform (YouTube, Instagram, Facebook, LinkedIn, TikTok, email) into **one destination — your website/landing page — where you close them.**
+
+**Business on business, then share to personal.** Running your business on a personal account caps you (~5,000 followers, no ads, no privacy). Run it on a business page and auto-share to personal so friends still see it. *"Business happens on business, then you share it to personal, then your people going to take you seriously."*
+
+### Scheduled-but-Invisible Weekday Cadence
+Gogo rejects third-party schedulers — they kill reach. "Scheduled" means a **fixed weekly rhythm**, not automation software. Same audience/concept each weekday, different content:
+
+| Day | Audience | Content |
+|-----|----------|---------|
+| Mon | Sellers | "What's your home worth" |
+| Tue | Anyone | Any listing / brand |
+| Wed | Buyers | "Search for homes" |
+| Thu | Anyone | Any listing / brand |
+| Fri | Agents | Agent attraction / "partner with me" |
+| Sat | — | Open houses |
+| Sun | Existing audience | Emotional post |
+
+**Beat the algorithm with [[ManyChat]] keywords.** Instagram/Facebook suppress posts with direct links and show your post to **<2% of followers.** Comment-triggered keywords (e.g. "comment SOCIAL") auto-DM the link instead. Gogo once lost community access for over-triggering automation, so she now mixes keywords with occasional direct links.
+
+## Copywriting — The COPYWRITING Framework
+
+*Source: [[Master Your Copywriting and AI Brand Voice (Gogo Bethke)]]*
+
+Copywriting is "the way we communicate" — its purpose is to **speak the language of your ideal client** so the right people find you. Do the ideal-client and ideal-agent homework first: *"You can't write to someone you haven't defined."*
+
+> "When we get to speak the language of our ideal client, we find our ideal client. And when you find your ideal client, they're ideal for a reason because they're just like you."
+
+### Email Structure — Hook → Problem → Story → Solution → CTA
+*(Fernie's framework.)* Agents fail on **messaging, not consistency.** Structure every email in five beats:
+1. **Hook** — *"The hook is everything. If they don't open it, nothing else matters."*
+2. **Problem** — name the pain
+3. **Story** — make it human and relatable
+4. **Solution** — your answer
+5. **CTA** — one single, explicit call to action (DM, call, or text + number). One CTA, not five options, or people do nothing.
+
+**Email is a shortcut, not a replacement.** You still must know what to say and who you're talking to; ChatGPT then drafts in seconds. *"ChatGPT is your shortcut, not your replacement."*
+
+### Weekly Email Theme Calendar (Pre-Batching)
+Pre-batch emails on a weekly theme calendar so you never stare at a blank screen. Gogo's team sends one email/day:
+
+| Day | Theme |
+|-----|-------|
+| Mon | Social challenge |
+| Wed | [[REMLO]] / partner |
+| Thu | The Circle |
+| Sat | Business tips |
+| Sun | Mindset |
+
+**Beginners start at one email/week**, rotating money-maker segments (buyers / sellers / investors / renters). Emails go out through **[[GoHighLevel]]** (~$97/mo, 30-day free trial) — Gogo dumps her whole sphere there for mass emailing, reserving [[KVCore]] for actual buyer/seller leads. Dedicated email-scheduling training is planned for month 9 (September).
+
+### Custom-GPT Brand Voice
+[[Kristy Waker]] built a shareable custom GPT — **"My AI Brand Voice"** — on Gogo's account. Paste 3–5 pieces of your own writing (emails, social posts, Zoom transcripts) via "Fast-Track Voice Setup," or use "Guided Interview" (~20 questions) if you have no content. It outputs a full brand-voice profile → paste into ChatGPT → Settings → **Personalization → Custom Instructions**, so every future chat writes in your voice. (See [[Personal Branding#My AI Brand Voice — Custom GPT Setup]].)
+
+Gogo works AI by **voice, not typing**: *"I hit the microphone, I talk to it like it's my best friend."* Tell it the full story, then say "act like the best social media marketer on the face of the earth."
+
+### Specificity — Convince With Numbers
+A closing post improves dramatically once you add real numbers (multiple offers, cash buyer, next-door lot, rental strategy). Investors want the bottom line, not fluff. *"This is how I convince someone working with me — with numbers, not with words."*
+
+### AI-vs-Human Writing Tells (strip these out)
+- **Em dashes** (the "AI signature")
+- **Buzzwords**: leverage, optimize, "unlock your potential," "boost revenue"
+- Missing space before the first word
+- Uniform paragraph lengths
+- "In today's fast-paced world," and "in conclusion"
+
+**Humans** mix sentence lengths, use contractions, add opinions/stories/local references. Read it aloud and break where you run out of air. **Maintain your GPT over time** — revisit custom instructions every 1–2 years (Gogo's still listed old kid ages and a stale bio); correct it live ("no, I'd never say that") so it keeps learning.
+
+**The 3-step AI workflow:** (1) give context, audience, tone, goal → (2) generate a rough draft → (3) human-edit for readability, voice, specificity, and CTA.
+
+## Proof Is in the Bank Account — Agent Panel (Allison & Cat West)
+
+*Source: [[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]*
+
+Gogo's frame for this panel: judge social media by **"the proof in the US dollars in the bank account,"** not views or likes. Two money paths — GCI from transactions ([[Allison]]) and revenue share from agent attraction ([[Cat West]]).
+
+### Allison — Dollar-Per-Post ROI + Relocation Niche
+[[Allison]] runs a **Staten Island → New Jersey relocation niche.** Best solo year: 52 transactions, $26M volume, **~$250K attributed directly to Instagram.** Her bio literally reads "selling in Staten Island, moving to New Jersey" — speaking to one person, not everybody.
+
+**Per-post dollar value (Gogo's math):** $250K ÷ ~1,000 posts/year ≈ **$250 per post.** Every post carries a dollar value even if it doesn't directly close a client.
+
+- **Niche discipline:** only works clients who *must* move (their house is already in contract); avoids first-time buyers; refuses luxury because "relocation will never go out of style."
+- **Geo-tagging:** tags Staten Island on *every* post (even when filming in NJ) so content surfaces where her relocating homeowners actually are.
+- **"Vlog tours"** = neighborhood tours (not other agents' listings) — invented after agents pushed back on her filming their homes.
+- **Production system:** films every Friday 9–2 with a $20/hr assistant on camera + a printed 14pt script (in her own words); pays an in-house full-time editor instead of $1,500–$2,000/mo agencies that "can't do real estate because it's emotional and it has to be you."
+
+> "Nobody's buying EXP. Nobody. They're buying you." — Allison
+
+### Cat West — Reels-vs-Stories Mix + Faith-Based Attraction
+[[Cat West]] (Oviedo FL; Christian top-producer coaching brand): 120-agent org, 28 personally sponsored (~28 attracted via Instagram), ~$100K rev share/12mo, 555 agent leads in database.
+
+**Reels attract, stories convert.** *"It doesn't happen in the reel. It happens in the DMs… you have to use your DMs like they're God."* (Allison). Lifestyle content proves she's a real person. Agent attraction is a long game — best agents take **6 months to 1.5 years** of relationship-building before joining.
+
+- **Attraction content that converts:** farming/mailer reels (CMA box B-roll → lead capture with discount codes; uses Mailbox Power) + openly talking about faith and what eXp has done for her.
+- **Bio as storefront:** line 1 = who I am, line 2 = who I help, line 3 = lead magnet (3-day faith devotional).
+- **Agent avatar:** someone selling $5M+/year, loves Jesus, mom of young kids — she *wants* wrong-fit followers to leave so raving fans binge her content.
+
+### Shared Instagram Mechanics
+- Post **≥1×/day** if using it as a business (Allison in a "growth phase" at 3×/day); stay in stories daily.
+- Instagram **penalizes scheduled/copy-pasted posts** — post manually in-app.
+- Use native **"shared access"** (business/creator + verified) to let a teammate post on your behalf without sharing your password.
+- **One-account rule:** never run separate personal/professional accounts — promote everything (team brand, community) under your personal brand account; make the others collaborators.
+- **Tooling:** both moved caption/script work from ChatGPT to **Claude**; both run [[GoHighLevel]] pipelines (lead → warm → appointment → contract) with drips + [[ManyChat]]; both use BoldTrail selectively for links.
+
+> "Every post has a dollar value attached to it… 250,000 divided by a thousand posts, $250 per post." — Gogo Bethke
+
 ## Related
 
 - [[Gogo Bethke]]
@@ -1796,3 +1973,6 @@ ManyChat automation is **not available on LinkedIn** — DM response must be han
 - [[Ashley Brock]]
 - [[Personal Branding]]
 - [[Lead Generation]]
+- [[Allison]]
+- [[Cat West]]
+- [[GoHighLevel]]

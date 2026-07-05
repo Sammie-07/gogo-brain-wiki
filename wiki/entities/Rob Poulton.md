@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, ai, crm, technology]
-sources: ["[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]"]
-updated: 2026-06-30
+sources: ["[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[The AI Stack Top Agents Dont Talk About - Azulio CRM]]"]
+updated: 2026-07-05
 ---
 
 # Rob Poulton
@@ -18,6 +18,7 @@ Rob Poulton is the co-founder of [[Azulio]] and its technical/AI mind. He previo
 - Co-founder of [[Azulio]] (with [[Matt Kemps]]).
 - Ex-CoreLogic Senior Director (built Core AI); ex-Microsoft ($100M turnaround); ex-Clear Capital.
 - Core thesis: "Most teams are not losing because of bad leads — they are losing in the gap between the lead arriving and the first real conversation. We built Azulio to eliminate that gap."
+- On not chasing tech: "You don't want to be chasing the tech... it's going to be something else next year. Truth is, you all shouldn't really care... what you want to do is help folks connect." Also: "CRM is a four-letter word. Starts with an F. And it's not fun."
 
 ## Related
 

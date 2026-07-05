@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [real-estate, teambuilding, agent-attraction, contracts, exp-realty, delegation]
-sources: ["[[How to Be a Successful Entrepreneur]]", "[[How to Build a Real Estate Team]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Setting Up 'Partner' Keyword on ManyChat]]", "[[Creating 3-Way Calls with Calendar — GoHighLevel Setup (Kristy Waker)]]", "[[How to and When to Use the Partner Keyword (Gogo Bethke)]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Content Pillars for Agent Attraction — Friday Strategy (Gogo Bethke)]]", "[[Co-Sponsorship at eXp — Gogo's Offer (Gogo Bethke)]]", "[[Finding Your Ideal Agent (Gogo Bethke)]]", "[[Revenue Share — How It Works (Gogo Bethke)]]", "[[Agent Attraction Through Real Stories (Gogo Bethke)]]", "[[Downline Organization — Creating Facebook and Instagram Accounts (Gogo Bethke)]]", "[[Reel Ideas for Agent Attraction (Gogo Bethke)]]", "[[Agent to CEO — Expert Mentors Live 51 Minutes (John Kitchens)]]", "[[Agent to CEO Overview (John Kitchens)]]", "[[People and Team Building Ep 149 (John Kitchens)]]", "[[Managing a High Performing Team — Gogo Community Call]]", "[[Working Genius Training (Tina Nicole)]]", "[[Hiring Virtual Assistants (Maria Peskam)]]", "[[Business Automation Framework (GoGetEm)]]", "[[Gogo Bethke on Expert Mentors Live — State of Business (John Kitchens)]]", "[[Realtor to CEO — Agent-to-CEO Transition (Beth Manning)]]", "[[ReBalance Your Business — Work Less and Make More (Kayla Lindsey)]]", "[[Expert Mentors Live Ep. 184 — Leadership Lessons (John Kitchens)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Propy — Blockchain and Crypto Real Estate Transactions (Eric Cruz)]]"]
-updated: 2026-05-22
+sources: ["[[How to Be a Successful Entrepreneur]]", "[[How to Build a Real Estate Team]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Setting Up 'Partner' Keyword on ManyChat]]", "[[Creating 3-Way Calls with Calendar — GoHighLevel Setup (Kristy Waker)]]", "[[How to and When to Use the Partner Keyword (Gogo Bethke)]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Content Pillars for Agent Attraction — Friday Strategy (Gogo Bethke)]]", "[[Co-Sponsorship at eXp — Gogo's Offer (Gogo Bethke)]]", "[[Finding Your Ideal Agent (Gogo Bethke)]]", "[[Revenue Share — How It Works (Gogo Bethke)]]", "[[Agent Attraction Through Real Stories (Gogo Bethke)]]", "[[Downline Organization — Creating Facebook and Instagram Accounts (Gogo Bethke)]]", "[[Reel Ideas for Agent Attraction (Gogo Bethke)]]", "[[Agent to CEO — Expert Mentors Live 51 Minutes (John Kitchens)]]", "[[Agent to CEO Overview (John Kitchens)]]", "[[People and Team Building Ep 149 (John Kitchens)]]", "[[Managing a High Performing Team — Gogo Community Call]]", "[[Working Genius Training (Tina Nicole)]]", "[[Hiring Virtual Assistants (Maria Peskam)]]", "[[Business Automation Framework (GoGetEm)]]", "[[Gogo Bethke on Expert Mentors Live — State of Business (John Kitchens)]]", "[[Realtor to CEO — Agent-to-CEO Transition (Beth Manning)]]", "[[ReBalance Your Business — Work Less and Make More (Kayla Lindsey)]]", "[[Expert Mentors Live Ep. 184 — Leadership Lessons (John Kitchens)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Propy — Blockchain and Crypto Real Estate Transactions (Eric Cruz)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]"]
+updated: 2026-07-05
 ---
 
 # Real Estate Teams
@@ -501,6 +501,23 @@ In a historically down market (2024 — fewer transactions than 2008), the agent
 - One agent cannot be all of the above without burning out
 - Each team member earns from the relationship; the agent doesn't need to do everything
 
+## Faith-Based Agent Attraction — Instagram to Rev Share (Cat West)
+
+*Source: [[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]*
+
+[[Cat West]] (Oviedo FL; 8 years in real estate; [[eXp Realty]]; Gogo's business partner ~5 years) is Gogo's proof case that Instagram converts to **revenue share**, not just GCI — the [[#Ideal Agent Profile — ChatGPT Framework|ideal-agent / inbound model]] executed through a faith-based brand.
+
+**Results (last 12 months):** organization of **120 agents**, **28 personally sponsored** (~28 attracted via Instagram), **~$100K revenue share**, **555 agent leads** in database, 10 coaching clients. Frames attraction exactly like production: *"Your client becomes the agent versus the buyers and sellers. Know the product you're selling, and know who you're selling it to."*
+
+**Agent avatar (the recruit-side ideal client):** someone selling **$5M+/year, who loves Jesus, and is a mom of young kids.** Cat deliberately wants wrong-fit followers to leave: *"the people who stay are going to be your raving fans and they're going to binge all of your content."* Brand = Christian top-producer coaching realtors *"to scale without burnout."* Bio as storefront: line 1 = who I am, line 2 = who I help, line 3 = lead magnet (3-day faith devotional for realtors). Keyword/CTA is "partner."
+
+**The reels-attract / stories-convert mechanic.** Agent attraction is a long game — the best agents take **6 months to 1.5 years** of relationship-building before joining. The division of labor across content types:
+- **Reels attract** — top-of-funnel reach (farming/mailer reels, faith content, "what eXp has done for me").
+- **Stories build the relationship and convert** — *"it happens in the DMs."* Lifestyle content proves she's a real person.
+- **"People are buying you, not eXp."** Echoed by [[Allison]]: *"Nobody's buying eXp… they're buying you."* The brand and the relationship — not the brokerage pitch — do the attracting, reinforcing the [[#Agent Attraction Automation (ManyChat)|"facts tell, stories sell"]] principle.
+
+This validates the two-audience model: the same following holds buyers/sellers (GCI) and agents (rev share). Cat monetizes the agent side through consistent faith-anchored content, a dedicated "partner" keyword, and a separate attraction booking link.
+
 ## Blockchain and Transaction Technology (Eric Cruz — Propy)
 
 [[Eric Cruz]] (VP Sales, Propy) represents a new category of team infrastructure: technology partners who replace manual transaction processes with blockchain-based systems.
@@ -538,3 +555,5 @@ In a historically down market (2024 — fewer transactions than 2008), the agent
 - [[Beth Manning]]
 - [[Kayla Lindsey]]
 - [[Aaron Novello]]
+- [[Cat West]]
+- [[Allison]]

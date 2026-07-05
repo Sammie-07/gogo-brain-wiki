@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, title, ai]
-sources: ["[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]"]
-updated: 2026-06-30
+sources: ["[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[AI Leverage - Personal AI System]]"]
+updated: 2026-07-05
 ---
 
 # Cloud Title

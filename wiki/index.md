@@ -76,6 +76,10 @@
 | [[entities/Russ Laggan]]        | eXp VP of Training / face of eXp University; "attraction as a byproduct of production." |
 | [[entities/Natalie Davison]]    | eXp ICON agent & speaker (Canada); creator of the "Rabbit Hole" / Trust Ladder warm-lead framework. |
 | [[entities/Beth Silverman]]     | eXp ICON agent & Team Gogo OG (St. Pete, FL); investor-focused; niche-pivoting & attraction-over-production advocate. |
+| [[entities/Juan Carlos Baronetti]] | Founder of Goldbar Staffing; delegation/staffing authority; GoGet'Em "Fundamentals" guest on reclaiming time through hiring. |
+| [[entities/Cat West]]           | eXp top producer (Oviedo FL); faith-based (Christian) agent-attraction brand; ~28 sponsored agents, ~$100K rev share via Instagram. Distinct from [[entities/Kat]]. |
+| [[entities/Allison]]            | eXp broker-owner; Staten Island→NJ relocation niche; $250K+ Instagram-attributed transactions; dollar-per-post ROI. |
+| [[entities/Jon Pugle]]          | Sphere-of-influence / referral trainer; GoGet'Em guest; handwritten notes, 200-person power list, board-of-directors dinner; "human connection is the moat against AI." |
 
 ---
 
@@ -106,7 +110,7 @@
 
 ---
 
-## Sources (347 ingested)
+## Sources (357 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
@@ -447,6 +451,16 @@
 | [[sources/Wine Not eXp — Monthly Presentation (June 2026)]] | Gogo Bethke | 2026-06-24 | June monthly recruiting deck: cap/stock/rev-share, EXPI→AGNT, $4K first-year cap bonus, co-sponsorship 5-day rule, 4 team types + "stay separate to double-dip," Team Gogo $15B cumulative / 7,451 trailing transactions. |
 | [[sources/The Circle Coaching — Leadership, Team Rhythm and Rewiring Limiting Beliefs (de-identified)]] | Gogo Bethke | 2026-01-01 | **NDA de-identified.** Circle coaching frameworks: leadership realities, give-to-get reciprocity, "10 points of good," advisor vetting by lived experience, recurring meeting-rhythm design, Meta-verified content delegation, "opposite can be true" + elephant-and-stake belief work. |
 | [[sources/The Circle Coaching — Listings as a Lead Engine, Niche Clarity and the Value Ladder (de-identified)]] | Gogo Bethke | 2026-01-01 | **NDA de-identified.** "You list, you last"; every listing = two buyers/three commissions; 30-second personalized open-house follow-up; one-niche-at-a-time; value-ladder funnel (free→low→mid→high, buy-the-middle, price signals value); diversified income pillars. |
+| [[sources/The Fundamentals - Social Media Machine and Branding (Gogo Bethke)]] | Gogo Bethke | — | GoGet'Em "January Fundamentals": foundation-first content machine, weekday posting cadence, brand consistency ("Target test"), own-your-.com + brand-vs-LLC separation, delegation economics (Juan Carlos Baronetti / Goldbar Staffing), AI avatar pipeline, 3-tier digital-product pricing. |
+| [[sources/Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]] | Gogo Bethke | — | 10 camera-confidence principles; CRM link → video → capture-gate → auto-follow-up; FB-feed-vs-IG-stories link rules; auto-responder setup; preferred-vendor lead magnet; Done-With-You ($4,800/yr). |
+| [[sources/What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]] | Gogo Bethke | — | Panel with Allison (relocation niche, $/post ROI, $250K IG-attributed) & Cat West (faith-based agent attraction, 28 sponsored agents, ~$100K rev share); reels-vs-stories; in-house editor; Claude scripting. |
+| [[sources/AI Leverage - Personal AI System (Thomas Heimann)]] | Thomas Heimann | — | 3 eras of AI; Personal/Business Intelligence Brief + Client Avatar foundation docs; agentic multi-agent workflows; DeepSeek cost math ($142/mo); Apex AI Coach + Sarah AI; "AI authority in your market." |
+| [[sources/The AI Stack Top Agents Dont Talk About - Azulio CRM (Matt Kemps and Rob Poulton)]] | Matt Kemps | — | Azulio deep-dive: speed-to-lead <15s, per-listing AI agents, conversation memory, digital farming (LLM-indexed pages), $5.95/$9.95 pricing, TCPA outbound AI calling, agentic AI-to-AI transfers, iMessage/Siri assistant. |
+| [[sources/How to Become the Obvious Choice in Your Market (Gogo Bethke)]] | Gogo Bethke | — | "Obvious Choice" niche training behind the $24.99 Niche Finder report: niche from your real life, niche evolves, bio-in-5-words, Top 8 marketing ideas, SEO exact-keyword match, 12-week blog calendar, 90-day plan, $5/day ads. |
+| [[sources/ChatGPT is a Conversation, Claude is a Command Center (Carrie Soave)]] | Carrie Soave | — | Claude as AI operating system vs ChatGPT chatbot; 5 layers of Claude; Autonomy Spectrum L0–L3; Operators vs Spectators; Cowork folder structure + global instructions; markdown token efficiency; plan-tier pricing. |
+| [[sources/Manifesting Through Personal Power (Kathleen Cameron)]] | Kathleen Cameron | — | Personal power / God essence; the 95% invisible rule; vibrational match; identity-over-strategy ("According to who?"); masculine-grind vs feminine-receptive energy; law of compensation; $2K→$50K/mo case study. |
+| [[sources/Master Your Copywriting and AI Brand Voice (Gogo Bethke)]] | Gogo Bethke | — | Custom-GPT brand voice from your own writing; email structure Hook→Problem→Story→Solution→CTA; specificity in prompts; AI-vs-human writing tells; weekly email themes; pre-batching with GoHighLevel; 3-step AI workflow. |
+| [[sources/Generating Business From Your Sphere (Jon Pugle)]] | Jon Pugle | — | Sphere-first system: handwritten notes (5/day), gratitude videos, situational triggers, interest-based CRM tagging, the 200-person power list → 3-way-text intros → ~50 closings, board-of-directors dinner, 4 appreciation events/yr, connector economics. "Human connection is the antidote to AI." |
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [mindset, law-of-attraction, visualization, personal-development, entrepreneurship]
-sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Can We Have It All]]", "[[Work-Life Balance Secrets]]", "[[How to Master Your Mindset for Business and Life Success]]", "[[From an Au Pair to a Millionaire]]", "[[How Your Feelings Can Sabotage Your Life and Success]]", "[[How to Reprogram Your Mind]]", "[[Unrealistic Goals Real Results]]", "[[A Conversation Between Two Immigrant Women]]", "[[eXp Realty Has Changed My Life]]", "[[Money Frequency]]", "[[Gogopreneur — Public Speaking Episode 4]]", "[[Market Shifts with Aaron Novello]]", "[[What It Takes to Grow a Real Estate Business Through Chaos (Beth Silverman)]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[From 11-Year-Old Entrepreneur to Real Estate Powerhouse (Elise Palacios)]]", "[[The Power of Manifestation Identity (Kathleen Cameron)]]", "[[How to Cut the Baggage That's Slowing You Down (Gary Coxe)]]", "[[Marriage Advice (Gogo and Dwayne shorts)]]", "[[Confidence and Body Language (Gogo Bethke)]]", "[[Quotes I Live By (Presentation)]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[Money Mindset Mastery — Production Accelerator Event (Presentation)]]", "[[Agent to CEO — Full Presentation]]", "[[Business Foundations — Mindset, Systems, and Building Your Team with Virtual Assistants]]", "[[Business Time Management Strategy That Works]]", "[[Mastering Your Numbers — Leads, Time & Revenue]]", "[[Live Q&A — Delegation, Marketing & Growth Hacks]]", "[[The Shit Our Parents Didn't Teach Us — Mixing Strategy and Mindset with Barbara Schreihans]]", "[[The Identity Shift That Redefines Your Ceiling (Craig Siegel)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]", "[[The Art of Conscious Communication (Jamie Miller)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[Your 2026 Goals Reverse Engineered — Open to Public (Gogo Bethke)]]", "[[From an Au Pair to a Millionaire — Day 5 (Gogo Bethke)]]", "[[GoGet'Em Guest Training — Krista Mashore — Origin Story and Mindset]]", "[[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]"]
-updated: 2026-05-27
+sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Can We Have It All]]", "[[Work-Life Balance Secrets]]", "[[How to Master Your Mindset for Business and Life Success]]", "[[From an Au Pair to a Millionaire]]", "[[How Your Feelings Can Sabotage Your Life and Success]]", "[[How to Reprogram Your Mind]]", "[[Unrealistic Goals Real Results]]", "[[A Conversation Between Two Immigrant Women]]", "[[eXp Realty Has Changed My Life]]", "[[Money Frequency]]", "[[Gogopreneur — Public Speaking Episode 4]]", "[[Market Shifts with Aaron Novello]]", "[[What It Takes to Grow a Real Estate Business Through Chaos (Beth Silverman)]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[From 11-Year-Old Entrepreneur to Real Estate Powerhouse (Elise Palacios)]]", "[[The Power of Manifestation Identity (Kathleen Cameron)]]", "[[How to Cut the Baggage That's Slowing You Down (Gary Coxe)]]", "[[Marriage Advice (Gogo and Dwayne shorts)]]", "[[Confidence and Body Language (Gogo Bethke)]]", "[[Quotes I Live By (Presentation)]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[Money Mindset Mastery — Production Accelerator Event (Presentation)]]", "[[Agent to CEO — Full Presentation]]", "[[Business Foundations — Mindset, Systems, and Building Your Team with Virtual Assistants]]", "[[Business Time Management Strategy That Works]]", "[[Mastering Your Numbers — Leads, Time & Revenue]]", "[[Live Q&A — Delegation, Marketing & Growth Hacks]]", "[[The Shit Our Parents Didn't Teach Us — Mixing Strategy and Mindset with Barbara Schreihans]]", "[[The Identity Shift That Redefines Your Ceiling (Craig Siegel)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]", "[[The Art of Conscious Communication (Jamie Miller)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[Your 2026 Goals Reverse Engineered — Open to Public (Gogo Bethke)]]", "[[From an Au Pair to a Millionaire — Day 5 (Gogo Bethke)]]", "[[GoGet'Em Guest Training — Krista Mashore — Origin Story and Mindset]]", "[[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Manifesting Through Personal Power (Kathleen Cameron)]]"]
+updated: 2026-07-05
 ---
 
 # Mindset
@@ -183,6 +183,42 @@ Manifestation begins with identity, not action. You must *own* the identity of w
 - The imagination is the primary tool — what you can vividly hold in imagination, you can experience
 
 Kathleen's own journey began after meeting Bob Proctor in 2019. Related to Gogo's law of attraction practice (see above).
+
+## Manifesting Through Personal Power (Kathleen Cameron)
+
+A deeper masterclass extending [[Kathleen Cameron]]'s identity framework — trade masculine hustle for "personal power" (the God essence within), where identity and vibration, not strategy, create results.
+
+**Personal power = the God essence within.** Everyone carries a creator energy (soul, Christ consciousness, infinite intelligence, the universe). Tapping it means remembering you are a spiritual being having a human experience — not alone, not merely surviving.
+
+**The 95% invisible rule.** ~95% of any manifestation happens behind the scenes, unseen until it hits 95% — like an upload bar that shows nothing until it completes. You must surrender and trust rather than constantly checking for proof.
+
+> "If you knew without a shadow of a doubt that it was going to upload, you would walk away from your phone and let it upload... You have to be in that surrender state."
+
+**Manifestation = vibrational match, not creation.** The money/love/house already exists; you don't "make" it, you move it into your experience by becoming a vibrational match and removing vibrational resistance. You can't shame others' wealth and expect wealth. (Compare [[Money Frequency]] above.)
+
+**Identity over strategy — "According to who?"** Results flow from self-concept, not tactics or right/wrong action. Challenge every limiting label with one question:
+
+> "According to who? Like who says you don't know enough? Who says that you aren't smart enough? Who says that you're too old?... You do. Somewhere along the line, you heard it somewhere."
+
+> "Who I was yesterday created today. Who I am today creates my tomorrow... I can influence reality by thinking new thoughts today."
+
+**Masculine grind vs. feminine receptive energy.** Her old self was hustle/grind — heavy masculine, more hours for the same money. Pouring into feminine energetics (visualize, meditate, dream, surrender, receive) unlocked million-dollar months while working *less* — "the effortless way" (less effort, not zero).
+
+**Imagination is the #1 business tool.** Everything begins in the mind (universal law); act from the assumption it's already done. What you can vividly hold in imagination, you can experience. (Reinforces "If I Cannot Imagine It, I Cannot Have It" above.)
+
+**Law of compensation = three beliefs.** Bob Proctor's version — you are paid greatly when *you believe* (1) your work is the most important, (2) you are the best at it, and (3) you are irreplaceable. It is really an identity question, not a market question.
+
+**No disappointment, guilt, or shame.** These are the lowest-frequency, useless emotions — they manifest more of the same. She has removed disappointment from her consciousness. "There is no problem, only the solution" — don't dwell in the problem more than a moment.
+
+> "Disappointment is a useless feeling. Guilt, useless feeling. Shame, useless feeling... it is not creating the outcome that you desire."
+
+**Detachment / surrender.** "I want you but I don't need you" — love your current life fully while desiring more; attachment and neediness repel. If a manifestation misses your timeline, hold it — you may be at 94%. Order it like an Amazon parcel and trust it arrives.
+
+**Empowerment beats "high vibe."** Happy ≠ rich (if it did, all happy people would be wealthy). What matters is radical self-belief and empowerment — bold decisions and risk-taking — not mood. Pair spiritual practice with identity/personal-growth work; rituals only work if you believe in them. Ask: "What am I pretending not to know?"
+
+**Case study ($2K→$50K/mo).** Christian, a hustler working 16-hr days, 6–7 days/week for $2,000/mo, joined her program, cut to 4–6 hrs/day, and made $12,000 in 3 weeks — heading toward a ~$50,000 month by week four. He was forced to redefine his masculinity around identity, not grind.
+
+> "Delusion is just something that nobody else believes in... I'm willing to believe in what the masses don't believe in, and it keeps showing up for me."
 
 ## Drag Metaphor — Cut the Baggage (Gary Coxe)
 

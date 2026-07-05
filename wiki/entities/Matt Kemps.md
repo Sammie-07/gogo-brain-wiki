@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, ai, crm, real-estate, exp-realty]
-sources: ["[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]"]
-updated: 2026-06-30
+sources: ["[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[The AI Stack Top Agents Dont Talk About - Azulio CRM]]"]
+updated: 2026-07-05
 ---
 
 # Matt Kemps
@@ -19,6 +19,7 @@ Matt Kemps is a top-producing Austin/North Austin agent (luxury, new constructio
 - CEO & co-founder of [[Azulio]] (with [[Rob Poulton]]).
 - Cited a single QR-code lead chain that produced a $1.3M listing sale plus a $4.5M buy-side ($5.8M volume) for ~15 minutes of work.
 - Thesis: "It doesn't feel like a cold call now... I know what they did and what they were interested in."
+- Teaches Azulio's **Thursday open AI training** (11am CST); Azulio-specific training runs Wednesdays 11am CST.
 
 ## Related
 

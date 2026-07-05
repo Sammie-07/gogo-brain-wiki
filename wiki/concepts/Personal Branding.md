@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [personal-branding, social-media, tracking, marketing, identity]
-sources: ["[[GoGet'Em Social Media Challenge Kickoff — Community Training]]", "[[GoGet'Em Brand Audit Call #3 — Stacey and Gina Brand Reviews]]", "[[GoGet'Em Brand Audit Call — Amanda Richards and Angela Kane]]", "[[GoGet'Em Training — Camera Confidence and Social Media Posting Workshop]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[AI For Real Estate Agents — How to Use AI to Generate Leads]]", "[[Update Your Facebook Business Page Name and Username]]", "[[Create Your Facebook Business Page from Scratch]]", "[[Business Email — Creating Your Business Gmail]]", "[[Updating Your LinkedIn Profile]]", "[[Creating Engaging Social Media Covers with Canva]]", "[[Creating Your Own Smart Number in BoldTrail KVCore]]", "[[From Passion to Paycheck (Coleen Otero)]]", "[[Amplify Your Influence with René Rodriguez]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[The Simple Formula to Turn Social Media into Cash]]", "[[Social Media Marketing Doesn't Have to Be Hard (Gogo shorts)]]", "[[Who Says You Can't Be Fabulous and Successful (Gogo shorts)]]", "[[AI For Realtors — How to Use AI to Close 1 Deal Every Month]]", "[[Connecting Your Facebook and Instagram Business Pages]]", "[[Creating and Customizing Your YouTube Channel (Kristy Waker)]]", "[[Your Bio is Your First Impression]]", "[[Setting Up Your Google Business Profile for Success (Kristy Waker)]]", "[[Remove Old, Confusing Branding (Instagram Feed Audit)]]", "[[Brand Consistency Across Social Media Platforms (Kristy Waker)]]", "[[Add Links and Contact Info to Instagram]]", "[[Create Professional Instagram Account (Kristy Waker)]]", "[[Domain Forwarding to Your Real Estate Website (Kristy Waker)]]", "[[Create 3 Bios with ChatGPT (Gogo Bethke)]]", "[[Define Your 3 Core ZIP Codes (Gogo Bethke)]]", "[[Define Your 3 Micro-Niches (Gogo Bethke)]]", "[[Create Your Local Expert Tagline (Gogo Bethke)]]", "[[What Copywriting Actually Is (Gogo Bethke)]]", "[[The 5 Core Elements of High-Converting Copy (Gogo Bethke)]]", "[[Homepage Structure — Copywriting for Websites (Gogo Bethke)]]", "[[Copywriting for Organic Social Media Posts (Gogo Bethke)]]", "[[Creating an Email Signature Using Canva (Ellen, GSMC)]]", "[[Adding Your Email Signature to Gmail (Kristy Waker, GSMC)]]", "[[From Discovery to Deal — Website Copywriting for Social Media (GGTC)]]", "[[My AI Brand Voice — Custom GPT Setup (GSMC)]]", "[[Root Story (Gogo Bethke)]]", "[[How We Can Work Together (Gogo Bethke)]]", "[[Highlights and Pinned Posts (Gogo Bethke)]]", "[[Instagram Highlight Bubbles — Creating and Organizing Story Collections (Laura, GSMC)]]", "[[Getting Video Testimonials from Clients (Gogo Bethke)]]", "[[Structuring the Perfect Client Success Story for Local Branding (Gogo Bethke)]]", "[[Pick Your Lane Buyers Sellers Property Type Mastery (Gogo Bethke)]]", "[[How to Own Your Price Point and Attract the Right Buyers (Gogo Bethke)]]", "[[How to Create a QR Code in Canva (Ellen)]]"]
-updated: 2026-05-27
+sources: ["[[GoGet'Em Social Media Challenge Kickoff — Community Training]]", "[[GoGet'Em Brand Audit Call #3 — Stacey and Gina Brand Reviews]]", "[[GoGet'Em Brand Audit Call — Amanda Richards and Angela Kane]]", "[[GoGet'Em Training — Camera Confidence and Social Media Posting Workshop]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[AI For Real Estate Agents — How to Use AI to Generate Leads]]", "[[Update Your Facebook Business Page Name and Username]]", "[[Create Your Facebook Business Page from Scratch]]", "[[Business Email — Creating Your Business Gmail]]", "[[Updating Your LinkedIn Profile]]", "[[Creating Engaging Social Media Covers with Canva]]", "[[Creating Your Own Smart Number in BoldTrail KVCore]]", "[[From Passion to Paycheck (Coleen Otero)]]", "[[Amplify Your Influence with René Rodriguez]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[The Simple Formula to Turn Social Media into Cash]]", "[[Social Media Marketing Doesn't Have to Be Hard (Gogo shorts)]]", "[[Who Says You Can't Be Fabulous and Successful (Gogo shorts)]]", "[[AI For Realtors — How to Use AI to Close 1 Deal Every Month]]", "[[Connecting Your Facebook and Instagram Business Pages]]", "[[Creating and Customizing Your YouTube Channel (Kristy Waker)]]", "[[Your Bio is Your First Impression]]", "[[Setting Up Your Google Business Profile for Success (Kristy Waker)]]", "[[Remove Old, Confusing Branding (Instagram Feed Audit)]]", "[[Brand Consistency Across Social Media Platforms (Kristy Waker)]]", "[[Add Links and Contact Info to Instagram]]", "[[Create Professional Instagram Account (Kristy Waker)]]", "[[Domain Forwarding to Your Real Estate Website (Kristy Waker)]]", "[[Create 3 Bios with ChatGPT (Gogo Bethke)]]", "[[Define Your 3 Core ZIP Codes (Gogo Bethke)]]", "[[Define Your 3 Micro-Niches (Gogo Bethke)]]", "[[Create Your Local Expert Tagline (Gogo Bethke)]]", "[[What Copywriting Actually Is (Gogo Bethke)]]", "[[The 5 Core Elements of High-Converting Copy (Gogo Bethke)]]", "[[Homepage Structure — Copywriting for Websites (Gogo Bethke)]]", "[[Copywriting for Organic Social Media Posts (Gogo Bethke)]]", "[[Creating an Email Signature Using Canva (Ellen, GSMC)]]", "[[Adding Your Email Signature to Gmail (Kristy Waker, GSMC)]]", "[[From Discovery to Deal — Website Copywriting for Social Media (GGTC)]]", "[[My AI Brand Voice — Custom GPT Setup (GSMC)]]", "[[Root Story (Gogo Bethke)]]", "[[How We Can Work Together (Gogo Bethke)]]", "[[Highlights and Pinned Posts (Gogo Bethke)]]", "[[Instagram Highlight Bubbles — Creating and Organizing Story Collections (Laura, GSMC)]]", "[[Getting Video Testimonials from Clients (Gogo Bethke)]]", "[[Structuring the Perfect Client Success Story for Local Branding (Gogo Bethke)]]", "[[Pick Your Lane Buyers Sellers Property Type Mastery (Gogo Bethke)]]", "[[How to Own Your Price Point and Attract the Right Buyers (Gogo Bethke)]]", "[[How to Create a QR Code in Canva (Ellen)]]", "[[The Fundamentals - Social Media Machine and Branding (Gogo Bethke)]]", "[[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]", "[[Master Your Copywriting and AI Brand Voice (Gogo Bethke)]]"]
+updated: 2026-07-05
 ---
 
 # Personal Branding
@@ -1217,6 +1217,82 @@ The reframe: instead of "I'm so excited to share this" → address the viewer's 
 
 **Practical check for any piece of content:** Who is this really for — me or them?
 
+## Brand Consistency — The "Target Test"
+
+*Source: [[The Fundamentals - Social Media Machine and Branding (Gogo Bethke)]]*
+
+> "Your brand is you. And you have to be exactly the same everywhere until people recognize you at the grocery store and they say, 'Oh my gosh, aren't you that go-go chick that sells real estate?'"
+
+The bar for brand consistency is a physical-world recognition test: **same name, same bio, same current photo across every platform** — plus yard signs, email signature, and business cards — until strangers recognize you in the grocery store (the "Target test").
+
+**Critical caveat:** the photo must **actually look like you today.** No decades-old graduation photo. If a stranger can't match the face on your feed to the face in the aisle, the whole consistency chain breaks.
+
+This is the recognition mechanism behind [[Personal Branding#Same Photo Everywhere]] and [[Personal Branding#Same Username Everywhere]] — the Target test is simply the outcome those rules are engineered to produce.
+
+## Own Your .com + Brand-vs-LLC Separation
+
+*Source: [[The Fundamentals - Social Media Machine and Branding (Gogo Bethke)]]*
+
+**Own yourname.com and your Instagram handle — check both *before* naming any brand.** Only one owner is possible on Instagram + .com; everywhere else (Facebook, LinkedIn) multiples can coexist. Domains are ~$11/year.
+
+> "Owning a website, guys, is like $11 a year. If you can't afford $11 a year, take a night shift at Taco Bell, still buy your .com."
+
+Buy your kids' .com too (see [[Personal Branding#Pro Tip: Buy Your Children's Names]]).
+
+### Never Name Your LLC After Your Brand
+Naming your LLC after your public brand "serves you up on a silver platter" to anyone who wants to sue you — they know exactly where to look to see what you own.
+
+> "Do not name your LLC your brand… you just served it up on a silver platter to someone if they want to sue you. You know exactly where to find what you own."
+
+**Brand ≠ LLC.** Hide assets via holding companies and trusts ("a box in a box in a box") using a firm like [[Anderson Advisors]]. Gogo holds **27 LLCs** under an unlimited plan.
+
+## Hub-and-Spoke Domain Architecture
+
+*Source: [[The Fundamentals - Social Media Machine and Branding (Gogo Bethke)]]*
+
+> "All roads lead to yourname.com."
+
+Every venture gets its own website, but each one **feeds back to the personal-name hub.** The personal domain is the center; the ventures are spokes.
+
+**Gogo's model:** [[gogobethke.com]] is the hub. It funnels to — and is fed by — [[Gogo's Real Estate Team]], [[GoGet'Em Community]], [[The Circle (Coaching Program)]], the [[Gopreneur Podcast]], boot camps, and agent attraction. This is the branding counterpart to the [[Social Media and Email Marketing#The Social Media Machine — One-to-Many Funnel|one-to-many social funnel]]: all platforms and all ventures ultimately route back to the single personal hub, where the relationship (and the sale) closes.
+
+## You Are the Brand, Not the Brokerage
+
+*Source: [[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]*
+
+The panel's unanimous verdict: clients and recruits buy the *person*, never the company logo.
+
+> "Nobody's buying EXP. Nobody. They're buying you. I don't care what company you're from." — [[Allison]]
+
+[[Cat West]] applies the same logic to agent attraction — she deliberately repels wrong-fit followers so raving fans self-select in: *"I want those people who are not into who I am to leave, because the people who stay are going to be your raving fans."* Gogo's framing: *"Your client becomes the agent versus the buyers and sellers. Know the product you're selling, and know who you're selling it to."*
+
+**Practical branding rules from the panel:**
+- **One account, personal brand.** Never split personal/professional — promote team brand and community under your personal account; make the others collaborators.
+- **Bio as storefront** — a clean three-line structure (who I am / who I help / lead magnet) beats a title salad.
+- **Evolve your brand as your life phases change** — *"your soul will tell you when you've outgrown an era."*
+
+## On-Camera Brand Presence
+
+*Source: [[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]*
+
+Your brand is not just how you look on paper — it's how you carry yourself on camera. The **10 camera-confidence principles** (full list in [[Social Media and Email Marketing#Camera Confidence — 10 Principles]]) are, at their core, brand-presence rules: look people in the eye, don't apologize before you speak, hold your posture like the expert you are, and above all **make it about them, not you.**
+
+> "It's really not about the house. It's really about me and my services and my abilities to help you get into this house."
+
+**On-brand automated messaging:** every auto-responder, ManyChat reply, and drip message must sound like *you* — CRMs ship generic copy that "screams system." Rewrite them in your voice so the person on the other end never realizes it's automated. Track what matters: the **brand tracker** logs views/followers per platform; the **lead tracker** logs leads per platform — because *"we want those views to equal US dollars in your bank account."*
+
+## Brand Voice via Custom GPT
+
+*Source: [[Master Your Copywriting and AI Brand Voice (Gogo Bethke)]]*
+
+> "Copywriting is you in a written format. Period."
+
+A consistent written voice is a brand asset — and it can be codified into AI. [[Kristy Waker]]'s custom GPT **"My AI Brand Voice"** captures your voice as a reusable profile so every piece of copy sounds like you, not a robot. (Full setup: [[Personal Branding#My AI Brand Voice — Custom GPT Setup]].)
+
+**The rule that makes voice a brand:** sound like you, always — typos, accent, imperfect grammar and all. Gogo never fixes her quirks (*"if I change that, I lose my power"*). The custom GPT's job is to *preserve* that fingerprint at scale, then strip the AI tells (em dashes, buzzwords, uniform paragraphs — see [[Social Media and Email Marketing#AI-vs-Human Writing Tells (strip these out)]]) so the output reads as authentically human.
+
+**Maintain the voice over time.** Revisit custom instructions every 1–2 years and correct the GPT live when it drifts — a brand voice that's frozen to a two-year-old version of you (old kid ages, stale bio) stops being consistent with the real you.
+
 ## Related
 
 - [[Gogo Bethke]]
@@ -1227,3 +1303,6 @@ The reframe: instead of "I'm so excited to share this" → address the viewer's 
 - [[GoGet'Em Community]]
 - [[Open Houses]]
 - [[Lead Generation]]
+- [[Allison]]
+- [[Cat West]]
+- [[Anderson Advisors]]
