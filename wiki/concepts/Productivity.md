@@ -9,6 +9,7 @@ tags:
   - automation
   - tracking
 sources:
+  - "[[Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]]"
   - "[[Red Light Green Light Exercise]]"
   - "[[How to Eat an Elephant — 2026 Goals]]"
   - "[[Where Are You At — Brand Tracker]]"
@@ -55,7 +56,7 @@ sources:
   - "[[Greatness Tracker — Three Trackers System (Katie)]]"
   - "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]"
   - "[[The Fundamentals - Social Media Machine and Branding (Gogo Bethke)]]"
-updated: 2026-07-05
+updated: 2026-07-06
 ---
 
 # Productivity
@@ -764,13 +765,13 @@ Reframe the objection "I can't believe I'm paying two assistants" with: *where w
 
 **Rule:** All of Gogo's help is cross-trained from day one. Single-point-of-failure VAs are a liability.
 
-## Delegation Economics — $200/hr vs. $10 Tasks (Juan Carlos Baronetti)
+## Delegation Economics — $200/hr vs. $10 Tasks (Jason Matthews)
 
-[[Juan Carlos Baronetti]] of [[Goldbar Staffing]], guesting in the GoGet'Em "Fundamentals" session, sharpened Gogo's hourly-rate math into a staffing case for an executive assistant.
+[[Jason Matthews]] of [[Goldbar Staffing]], guesting in the GoGet'Em "Fundamentals" session, sharpened Gogo's hourly-rate math into a staffing case for an executive assistant.
 
 **The core trade.** Agents are worth $200+/hour (Gogo frames her own skillset at $50–$200/hr and up) but spend that time on $10/hr tasks — email, CRM entry, MLS, design, scheduling. Every hour on a low-value task is $190 left on the table.
 
-> "You're all worth $200 an hour or more... and you're trading that $200 an hour for 10 bucks. It's because you are obsessed with doing low value tasks." — [[Juan Carlos Baronetti]]
+> "You're all worth $200 an hour or more... and you're trading that $200 an hour for 10 bucks. It's because you are obsessed with doing low value tasks." — [[Jason Matthews]]
 
 **The method — audit, then offload.**
 1. Audit a full 24 hours of your schedule (the [[#The Red Light / Green Light Exercise|red-light/green-light]] audit applied to time).
@@ -778,9 +779,20 @@ Reframe the objection "I can't believe I'm paying two assistants" with: *where w
 3. Hand them to an executive assistant.
 4. Result: reclaim ~**30 hrs/week** — then reinvest that time into the single highest-ROI activity.
 
-**Content is the highest-ROI protected activity.** The reclaimed hours go straight into content creation — the one-to-many "machine" that compounds. Baronetti cites [[Alex Hormozi]]: he runs $200M/yr companies yet still spends **25 hrs/week** personally on content. If the reclaimed time isn't protected for content (25+ hrs/wk), the delegation loses its leverage.
+**Content is the highest-ROI protected activity.** The reclaimed hours go straight into content creation — the one-to-many "machine" that compounds. Matthews cites [[Alex Hormozi]]: he runs $200M/yr companies yet still spends **25 hrs/week** personally on content. If the reclaimed time isn't protected for content (25+ hrs/wk), the delegation loses its leverage.
 
 **Staffing economics (GGTC "Done With You" framing).** One dedicated VA runs ~$12,000/yr; the "Done With You" upgrade rents access to Gogo's 14 assistants twice weekly for 52 weeks at $400/mo ($4,800/yr) — the same delegation logic packaged as shared leverage. Ties directly to the [[#Hourly Rate Formula|hourly-rate filter]] and the [[#The Leverage Hierarchy|leverage hierarchy]] above.
+
+### VA Hiring Mechanics (Jason Matthews — "Speed to Lead")
+
+*Source: [[Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]].*
+
+- **ROI, not cost.** Don't ask "what does a VA cost" ($800–$1,500/mo) — ask "what will it make." A VA producing 2 deals/mo at $6K = $12K (10× cost); 2 leads/week ≈ 8 deals/mo ≈ $48K. *"Give me $1,200 and I'll give you back $48,000."*
+- **"Buy Back Your Time" ([[Wealth Building|Dan Martell]]).** Jason built a Claude-powered assessment that computes hourly rate, profit margin, and the *silent cost* of self-doing admin. Live example — Melissa: $140K gross, ~$20K net (14% margin), 54 hrs/wk, ~20 hrs on ~$7/hr admin → **~$70K/yr** silently lost.
+- **Automate before headcount.** Cheap AI/tools first ($20–29/mo — [[ManyChat]], GoHighLevel), *then* hire.
+- **Hire at 75% capacity**, not when your head is already spinning.
+- **Always keep two cross-trained VAs** so illness/turnover never breaks operations; a VA is YOUR full-time employee (even via an agency), never a rotating rented worker.
+- **SOP-first, ~90-day ramp.** Record each task once into a Google Drive SOP library ("I do it/you watch → you do it/I watch → you do it alone"); budget up to 90 days to fully train.
 
 ## Related
 
@@ -794,4 +806,4 @@ Reframe the objection "I can't believe I'm paying two assistants" with: *where w
 - [[Curt Shewell]]
 - [[Tina Nicole]]
 - [[Maria Peskam]]
-- [[Juan Carlos Baronetti]]
+- [[Jason Matthews]]

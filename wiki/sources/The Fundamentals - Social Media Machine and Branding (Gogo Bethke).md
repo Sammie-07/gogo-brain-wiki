@@ -9,7 +9,7 @@ tags: [social-media, personal-branding, productivity, delegation, ai]
 
 # The Fundamentals — Social Media Machine & Branding
 
-> January "Fundamentals" GoGet'Em Community live where [[Gogo Bethke]] lays the foundational bricks of the year-long social media challenge: delegation economics (guest [[Juan Carlos Baronetti]]), the "one-to-many marketing machine," brand consistency, domain/LLC strategy, and a live AI-avatar content workflow using [[Higgsfield]] + [[HeyGen]].
+> January "Fundamentals" GoGet'Em Community live where [[Gogo Bethke]] lays the foundational bricks of the year-long social media challenge: delegation economics (guest [[Jason Matthews]]), the "one-to-many marketing machine," brand consistency, domain/LLC strategy, and a live AI-avatar content workflow using [[Higgsfield]] + [[HeyGen]].
 
 ## Key Takeaways
 - **The year is a "house": lay every brick.** January = fundamentals (36 short videos released the first Monday of each month). Skipping bricks (steps) collapses the house; follow every step in order or "it will not work."
@@ -24,7 +24,7 @@ tags: [social-media, personal-branding, productivity, delegation, ai]
 - **AI-avatar content workflow (live demo).** Pick a reference image on Pinterest → download the [[Higgsfield]] reference/browser extension → create a "Soul ID character" from ~30 selfies/video screenshots (varied hair, makeup, angles) → hit "Recreate" to render your face → export → [[HeyGen]] "photo-to-video" with your cloned voice/script → generate a talking avatar video in ~5 minutes. Use it on no-makeup days to keep posting without filming.
 - **Three-tier digital product pricing.** Low ticket $9.99–$99, medium ~$299–$599/mo, high ticket $1,000–$9,999. Buyers gravitate to the middle option, so structure your desired seller as the middle. Impulse-swipe ceiling (no human contact) is ~$1,400; high ticket needs trust + a sales team (a **setter** who books and a **closer** who sells — be your own closer 10–20 times and record the calls to train future closers).
 - **Membership retention drops around month 4–5.** Deliver the promised value within the first four months because most members quit chasing a "Staples easy button" without doing the work. Gogo notes it's harder to sell a $79 membership than a $7,000 course.
-- **Delegation economics ([[Juan Carlos Baronetti]] / [[Goldbar Staffing]]).** Agents are worth $200+/hour but trade it doing $10 tasks (email, CRM, MLS, design, scheduling). Audit 24 hours of your schedule; outsource low-value tasks to an executive assistant to reclaim ~30 hrs/week — then reinvest that time into content. Cited [[Alex Hormozi]]: $200M/yr companies, yet he spends 25 hrs/week on content.
+- **Delegation economics ([[Jason Matthews]] / [[Goldbar Staffing]]).** Agents are worth $200+/hour but trade it doing $10 tasks (email, CRM, MLS, design, scheduling). Audit 24 hours of your schedule; outsource low-value tasks to an executive assistant to reclaim ~30 hrs/week — then reinvest that time into content. Cited [[Alex Hormozi]]: $200M/yr companies, yet he spends 25 hrs/week on content.
 - **GGTC program structure & offers.** Base is $79/mo or $799/yr; the "Done With You" upgrade gives access to Gogo's 14 assistants twice weekly for 52 weeks at $400/mo ($4,800/yr, payment plans available) — framed against one VA costing ~$12,000/yr. Tools: brand tracker (bookmark + monthly follower/view logging on the 1st), shared posting calendar, the "100 Audit Club" (qualify for a personal brand-audit live), 10% affiliate program, Mon–Fri 9–5 ET chat support.
 
 ## Quotes
@@ -40,14 +40,14 @@ tags: [social-media, personal-branding, productivity, delegation, ai]
 
 > "AI loves me and I love AI. That's our new quote for the year. I do everything with AI. Every email I write, it's a good email and then it's even better."
 
-> "You're all worth $200 an hour or more... and you're trading that $200 an hour for 10 bucks. It's because you are obsessed with doing low value tasks." — [[Juan Carlos Baronetti]]
+> "You're all worth $200 an hour or more... and you're trading that $200 an hour for 10 bucks. It's because you are obsessed with doing low value tasks." — [[Jason Matthews]]
 
 ## Wiki Pages Updated
 - [[entities/Gogo Bethke]] — adds her 14-assistant team, 27 LLCs via Anderson Advisors, gogobethke.com hub-and-spoke brand architecture, GGTC as her fourth ~$1M digital product, AI-first workflow, night-owl schedule.
 - [[concepts/Social Media and Email Marketing]] — adds the one-to-many "machine" funnel, weekday posting cadence, ManyChat keyword workaround for the <2% organic-reach algorithm, business-vs-personal account rule.
 - [[concepts/Personal Branding]] — adds the "Target test" cross-platform consistency doctrine, own-your-name.com strategy, brand-vs-LLC separation, hub-and-spoke domain model.
-- [[concepts/Productivity]] — adds Juan Carlos Baronetti's $200/hr-vs-$10 delegation math, schedule-audit method, executive-assistant staffing to reclaim ~30 hrs/week.
+- [[concepts/Productivity]] — adds Jason Matthews's $200/hr-vs-$10 delegation math, schedule-audit method, executive-assistant staffing to reclaim ~30 hrs/week.
 - [[concepts/AI Tools and Automation]] — adds the Higgsfield → HeyGen avatar-video pipeline (Soul ID characters, photo-to-video, voice cloning).
 - [[concepts/Digital Products and Pricing]] — adds the low/medium/high three-tier model, middle-anchor psychology, $1,400 impulse ceiling, setter/closer sales roles, month-4 membership churn.
-- [[entities/Juan Carlos Baronetti]] — NEW entity (see below).
+- [[entities/Jason Matthews]] — NEW entity (see below).
 - [[entities/GoGet'Em Community]] — adds program tiers, Done With You upgrade, brand tracker, posting calendar, 100 Audit Club, affiliate program.

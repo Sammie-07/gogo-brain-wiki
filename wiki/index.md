@@ -76,7 +76,8 @@
 | [[entities/Russ Laggan]]        | eXp VP of Training / face of eXp University; "attraction as a byproduct of production." |
 | [[entities/Natalie Davison]]    | eXp ICON agent & speaker (Canada); creator of the "Rabbit Hole" / Trust Ladder warm-lead framework. |
 | [[entities/Beth Silverman]]     | eXp ICON agent & Team Gogo OG (St. Pete, FL); investor-focused; niche-pivoting & attraction-over-production advocate. |
-| [[entities/Juan Carlos Baronetti]] | Founder of Goldbar Staffing; delegation/staffing authority; GoGet'Em "Fundamentals" guest on reclaiming time through hiring. |
+| [[entities/Jason Matthews]] | Founder of Goldbar Staffing (~$300M NY sales background); delegation/staffing + sales-systems authority; GoGet'Em "Fundamentals" & "Speed to Lead" guest. Canonical name (was mis-transcribed "Juan Carlos Baronetti"). |
+| [[entities/Goldbar Staffing]] | Jason Matthews's nationwide real-estate VA/staffing company ("Goldie" delegation tool); full-time cross-trained VAs on a buy-back-your-time model. |
 | [[entities/Cat West]]           | eXp top producer (Oviedo FL); faith-based (Christian) agent-attraction brand; ~28 sponsored agents, ~$100K rev share via Instagram. Distinct from [[entities/Kat]]. |
 | [[entities/Allison]]            | eXp broker-owner; Staten Island→NJ relocation niche; $250K+ Instagram-attributed transactions; dollar-per-post ROI. |
 | [[entities/Jon Pugle]]          | Sphere-of-influence / referral trainer; GoGet'Em guest; handwritten notes, 200-person power list, board-of-directors dinner; "human connection is the moat against AI." |
@@ -110,12 +111,13 @@
 
 ---
 
-## Sources (358 ingested)
+## Sources (359 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
 | [[sources/How to Eat an Elephant — 2026 Goals]] | Gogo Bethke  | 2026-01-29 | Full goal-setting training: CPR, reverse engineering, commission math, ChatGPT prompts.      |
 | [[sources/Agent Attraction — The Top 10 Tips (Gogo Bethke)]] | Gogo Bethke | 2026-07-02 | #teamgogo Top 10 agent-attraction playbook: mindset + ×2 seven-generation math, competitor combat (Real/KW/Epic), DM-partner + calendar-scarcity funnel, three-way-call etiquette, bragging-vs-confidence, reverse-engineer-their-numbers, 500 Legacy. REMLO market update (Jason). |
+| [[sources/Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]] | Jason Matthews | — | Sales-system training: 3 buckets, setter/closer/overseer roles, 100-leads->5-6-opps funnel math, 5-minute speed-to-lead rule, scaling ladder (LOs->developers->broker-owners->credit unions), VA ROI reframe, Buy Back Your Time, GHL+ManyChat. |
 | [[sources/Red Light Green Light Exercise]]      | Gogo Bethke  | —          | Time audit exercise: categorize every daily task as green (money) or red (delegate).         |
 | [[sources/Lets Do Some Math Again]]             | Gogo Bethke  | 2026-04-13 | PPP argument for brokerage choice; Team Go stats; 71.1% of realtors sold 0 homes in 2025.    |
 | [[sources/I Send One Email a Day]]              | Gogo Bethke  | 2026-04-09 | Daily email newsletter practice; GoGet'Em Community.                                         |
@@ -452,7 +454,7 @@
 | [[sources/Wine Not eXp — Monthly Presentation (June 2026)]] | Gogo Bethke | 2026-06-24 | June monthly recruiting deck: cap/stock/rev-share, EXPI→AGNT, $4K first-year cap bonus, co-sponsorship 5-day rule, 4 team types + "stay separate to double-dip," Team Gogo $15B cumulative / 7,451 trailing transactions. |
 | [[sources/The Circle Coaching — Leadership, Team Rhythm and Rewiring Limiting Beliefs (de-identified)]] | Gogo Bethke | 2026-01-01 | **NDA de-identified.** Circle coaching frameworks: leadership realities, give-to-get reciprocity, "10 points of good," advisor vetting by lived experience, recurring meeting-rhythm design, Meta-verified content delegation, "opposite can be true" + elephant-and-stake belief work. |
 | [[sources/The Circle Coaching — Listings as a Lead Engine, Niche Clarity and the Value Ladder (de-identified)]] | Gogo Bethke | 2026-01-01 | **NDA de-identified.** "You list, you last"; every listing = two buyers/three commissions; 30-second personalized open-house follow-up; one-niche-at-a-time; value-ladder funnel (free→low→mid→high, buy-the-middle, price signals value); diversified income pillars. |
-| [[sources/The Fundamentals - Social Media Machine and Branding (Gogo Bethke)]] | Gogo Bethke | — | GoGet'Em "January Fundamentals": foundation-first content machine, weekday posting cadence, brand consistency ("Target test"), own-your-.com + brand-vs-LLC separation, delegation economics (Juan Carlos Baronetti / Goldbar Staffing), AI avatar pipeline, 3-tier digital-product pricing. |
+| [[sources/The Fundamentals - Social Media Machine and Branding (Gogo Bethke)]] | Gogo Bethke | — | GoGet'Em "January Fundamentals": foundation-first content machine, weekday posting cadence, brand consistency ("Target test"), own-your-.com + brand-vs-LLC separation, delegation economics (Jason Matthews / Goldbar Staffing), AI avatar pipeline, 3-tier digital-product pricing. |
 | [[sources/Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]] | Gogo Bethke | — | 10 camera-confidence principles; CRM link → video → capture-gate → auto-follow-up; FB-feed-vs-IG-stories link rules; auto-responder setup; preferred-vendor lead magnet; Done-With-You ($4,800/yr). |
 | [[sources/What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]] | Gogo Bethke | — | Panel with Allison (relocation niche, $/post ROI, $250K IG-attributed) & Cat West (faith-based agent attraction, 28 sponsored agents, ~$100K rev share); reels-vs-stories; in-house editor; Claude scripting. |
 | [[sources/AI Leverage - Personal AI System (Thomas Heimann)]] | Thomas Heimann | — | 3 eras of AI; Personal/Business Intelligence Brief + Client Avatar foundation docs; agentic multi-agent workflows; DeepSeek cost math ($142/mo); Apex AI Coach + Sarah AI; "AI authority in your market." |

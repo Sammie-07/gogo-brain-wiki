@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [lead-generation, sales, real-estate, social-media, referrals, automation]
-sources: ["[[GoGet'Em Brand Audit Call — Amanda Richards and Angela Kane]]", "[[How to Generate Buyer and Seller Leads (Amy Gregory)]]", "[[Marketing Through FREE Neighborhood Events (Stacey Leslie)]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[How Realtors Can Use AI to Generate Leads (Live Training)]]", "[[AI For Realtors — How to Use AI to Close 1 Deal Every Month]]", "[[Market Shifts with Aaron Novello]]", "[[How to Easily Sell $10M with Social Media]]", "[[Realtor's Secret to Extra Income — REMLO Program (Joe Vegas)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Landing Pages — Why You Need Them and How to Use Them Weekly]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Finding Your Ideal Client for Buyers and Sellers (Gogo Bethke)]]", "[[Pick Your Lane Buyers Sellers Property Type Mastery (Gogo Bethke)]]", "[[How to Own Your Price Point and Attract the Right Buyers (Gogo Bethke)]]", "[[The 5 Hashtags Strategy Target Your Local Market (Gogo Bethke)]]", "[[Get Instant MLS Alerts for New Listings (GoGetEm Community)]]", "[[Finding Your Ideal Clients and Targeting Them Effectively (Gogo Bethke)]]", "[[Who Is Your Ideal Client and How To Find Them (Gogo Bethke)]]", "[[The Art of the Gift — Gifting Strategy for Relationship Building (Katie Lawrence)]]", "[[GoGet'Em Training — Funnels and Technology (Gogo Bethke)]]", "[[GoGet'Em Webinar — Events-Based Lead Generation (Jessica and Seth)]]", "[[Poker Run and Progressive Open House Events (Savannah Gutierrez)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Self-Selling Seller System LIVE (Austin Rankin)]]", "[[Google My Business Optimization for Real Estate Agents (Noemi Chavez)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]", "[[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]", "[[The AI Stack Top Agents Dont Talk About - Azulio CRM (Matt Kemps and Rob Poulton)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]"]
-updated: 2026-07-05
+sources: ["[[GoGet'Em Brand Audit Call — Amanda Richards and Angela Kane]]", "[[How to Generate Buyer and Seller Leads (Amy Gregory)]]", "[[Marketing Through FREE Neighborhood Events (Stacey Leslie)]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[How Realtors Can Use AI to Generate Leads (Live Training)]]", "[[AI For Realtors — How to Use AI to Close 1 Deal Every Month]]", "[[Market Shifts with Aaron Novello]]", "[[How to Easily Sell $10M with Social Media]]", "[[Realtor's Secret to Extra Income — REMLO Program (Joe Vegas)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Landing Pages — Why You Need Them and How to Use Them Weekly]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Finding Your Ideal Client for Buyers and Sellers (Gogo Bethke)]]", "[[Pick Your Lane Buyers Sellers Property Type Mastery (Gogo Bethke)]]", "[[How to Own Your Price Point and Attract the Right Buyers (Gogo Bethke)]]", "[[The 5 Hashtags Strategy Target Your Local Market (Gogo Bethke)]]", "[[Get Instant MLS Alerts for New Listings (GoGetEm Community)]]", "[[Finding Your Ideal Clients and Targeting Them Effectively (Gogo Bethke)]]", "[[Who Is Your Ideal Client and How To Find Them (Gogo Bethke)]]", "[[The Art of the Gift — Gifting Strategy for Relationship Building (Katie Lawrence)]]", "[[GoGet'Em Training — Funnels and Technology (Gogo Bethke)]]", "[[GoGet'Em Webinar — Events-Based Lead Generation (Jessica and Seth)]]", "[[Poker Run and Progressive Open House Events (Savannah Gutierrez)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Self-Selling Seller System LIVE (Austin Rankin)]]", "[[Google My Business Optimization for Real Estate Agents (Noemi Chavez)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]", "[[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]", "[[The AI Stack Top Agents Dont Talk About - Azulio CRM (Matt Kemps and Rob Poulton)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]", "[[Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]]"]
+updated: 2026-07-06
 ---
 
 # Lead Generation
@@ -536,6 +536,30 @@ The missing middle step most agents skip: **never paste a raw listing link.** A 
 - **Funnel:** [[GoHighLevel]] pipeline (lead → warm → appointment → contract) + automated email drips + [[ManyChat]]; captions/scripts written in [[Claude]].
 
 [[Cat West]]'s attraction-side lead gen uses **CMA mailer/farming reels** (CMA box B-roll → lead capture with **discount codes**, via Mailbox Power) and a **dedicated attraction booking link** (Calendly) separate from her real estate calendar — an application of the [[#Two-Button Link-in-Bio — Filtering Agent Attraction vs. Real Estate|two-button filter]].
+
+## Speed to Lead — Sales System (Jason Matthews)
+
+*Source: [[Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]]. [[Jason Matthews]] of [[Goldbar Staffing]] — the sales-system layer beneath lead gen: what to do with leads once they arrive so more convert to appointments.*
+
+**Escape the "roller coaster."** Referral-hostage income swings ($30K month -> $8K month, the "seesaw effect"); the fix is a controlled, systemized operation where you know exactly where each deal comes from without becoming the bottleneck who runs everything and plateaus.
+
+**The three buckets (business health):**
+1. **New / qualified leads** — top of funnel. Weak here = a *marketing* problem.
+2. **Conversion** — leads to appointments to clients. Weak here = a *sales-pitch/follow-up* problem.
+3. **Nurture / past clients** — repeat & referral. Weak here = a *nurture* problem.
+
+Track all three in a CRM; the weak bucket tells you what to fix. **Funnel math:** ~**100 leads -> 5–6 real opportunities** — a 10-name database can't grow a business.
+
+**The three roles (master in order):**
+- **Setter** — responds in **30 sec–5 min** while the lead is hot; books the appointment.
+- **Closer** — justifies value and closes. *Master this yourself first.*
+- **Overseer / sales manager** — tracks the three numbers across buckets. *Step up here last, after delegating setting.*
+
+**Speed-to-lead / 5-minute rule.** Every DM/text/email answered within 5 minutes in business hours; first morning hour clears overnight messages. Enforced on Gogo's team with a 3-strike write-up (third = fired). Automate the instant response with [[ManyChat]] and run everything through **GoHighLevel** (CRM, smart-number texting, contracts, DMs, email) with the entire phone database uploaded and tagged (SOI/buyer/seller/closed).
+
+**The scaling ladder — close bigger lead *sources*, not one buyer at a time:** one buyer -> **loan officers** (bulk buyers) -> **developers** (50 listings at once) -> **broker-owners** (an army of setters) -> a **credit union / bank** (all their pre-approvals). Gogo's Michigan credit-union deal fed pre-approved buyers to Team GoGo agents for referral fees.
+
+**Staffing the system** (see [[Productivity]] and [[Goldbar Staffing]]): automate first (cheap AI/tools $20–29/mo), then hire; reframe a VA as ROI not cost ("$1,200 in -> $48,000 out"); hire at **75% capacity**; keep **two cross-trained VAs**; SOP-first training with a ~**90-day** ramp.
 
 ## Related
 
