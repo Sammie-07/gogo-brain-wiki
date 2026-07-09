@@ -40,8 +40,8 @@ tags: [lead-generation, sales, speed-to-lead, delegation, virtual-assistants, au
 > "Are you running a part-time business or full-time? A full-time business with a part-time system — that's why it's broken."
 
 ## Wiki Pages Updated
-- [[entities/Jason Matthews]] — canonical entity (renamed from the mis-transcribed "Juan Carlos Baronetti"); adds his ~$300M NY background, the setter/closer/overseer framework, funnel math, VA ROI reframe.
-- [[entities/Goldbar Staffing]] — NEW entity page (Jason's staffing company; "Goldie" delegation tool).
+- [[entities/Jason Matthews]] — NEW entity (Goldbar sales-systems trainer; distinct from Goldbar CEO [[Juan Carlos Baronetti]]); his ~$300M NY background, the setter/closer/overseer framework, funnel math, VA ROI reframe.
+- [[entities/Goldbar Staffing]] — NEW entity page (CEO [[Juan Carlos Baronetti]]; Jason Matthews presents through it; "Goldie" delegation tool).
 - [[concepts/Lead Generation]] — new "Speed to Lead — Sales System" section: three buckets, setter/closer/overseer, funnel math, the scaling ladder, 5-minute rule.
 - [[concepts/Productivity]] — VA ROI reframe, hire-at-75%, two-cross-trained-VAs, 90-day SOP ramp, "Buy Back Your Time" assessment.
 - [[concepts/Wealth Building]] — Dan Martell "Buy Back Your Time" hourly-rate / opportunity-cost framing.
