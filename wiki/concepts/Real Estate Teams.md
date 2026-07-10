@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [real-estate, teambuilding, agent-attraction, contracts, exp-realty, delegation]
-sources: ["[[How to Be a Successful Entrepreneur]]", "[[How to Build a Real Estate Team]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Setting Up 'Partner' Keyword on ManyChat]]", "[[Creating 3-Way Calls with Calendar — GoHighLevel Setup (Kristy Waker)]]", "[[How to and When to Use the Partner Keyword (Gogo Bethke)]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Content Pillars for Agent Attraction — Friday Strategy (Gogo Bethke)]]", "[[Co-Sponsorship at eXp — Gogo's Offer (Gogo Bethke)]]", "[[Finding Your Ideal Agent (Gogo Bethke)]]", "[[Revenue Share — How It Works (Gogo Bethke)]]", "[[Agent Attraction Through Real Stories (Gogo Bethke)]]", "[[Downline Organization — Creating Facebook and Instagram Accounts (Gogo Bethke)]]", "[[Reel Ideas for Agent Attraction (Gogo Bethke)]]", "[[Agent to CEO — Expert Mentors Live 51 Minutes (John Kitchens)]]", "[[Agent to CEO Overview (John Kitchens)]]", "[[People and Team Building Ep 149 (John Kitchens)]]", "[[Managing a High Performing Team — Gogo Community Call]]", "[[Working Genius Training (Tina Nicole)]]", "[[Hiring Virtual Assistants (Maria Peskam)]]", "[[Business Automation Framework (GoGetEm)]]", "[[Gogo Bethke on Expert Mentors Live — State of Business (John Kitchens)]]", "[[Realtor to CEO — Agent-to-CEO Transition (Beth Manning)]]", "[[ReBalance Your Business — Work Less and Make More (Kayla Lindsey)]]", "[[Expert Mentors Live Ep. 184 — Leadership Lessons (John Kitchens)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Propy — Blockchain and Crypto Real Estate Transactions (Eric Cruz)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]"]
-updated: 2026-07-05
+sources: ["[[How to Be a Successful Entrepreneur]]", "[[How to Build a Real Estate Team]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Setting Up 'Partner' Keyword on ManyChat]]", "[[Creating 3-Way Calls with Calendar — GoHighLevel Setup (Kristy Waker)]]", "[[How to and When to Use the Partner Keyword (Gogo Bethke)]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Content Pillars for Agent Attraction — Friday Strategy (Gogo Bethke)]]", "[[Co-Sponsorship at eXp — Gogo's Offer (Gogo Bethke)]]", "[[Finding Your Ideal Agent (Gogo Bethke)]]", "[[Revenue Share — How It Works (Gogo Bethke)]]", "[[Agent Attraction Through Real Stories (Gogo Bethke)]]", "[[Downline Organization — Creating Facebook and Instagram Accounts (Gogo Bethke)]]", "[[Reel Ideas for Agent Attraction (Gogo Bethke)]]", "[[Agent to CEO — Expert Mentors Live 51 Minutes (John Kitchens)]]", "[[Agent to CEO Overview (John Kitchens)]]", "[[People and Team Building Ep 149 (John Kitchens)]]", "[[Managing a High Performing Team — Gogo Community Call]]", "[[Working Genius Training (Tina Nicole)]]", "[[Hiring Virtual Assistants (Maria Peskam)]]", "[[Business Automation Framework (GoGetEm)]]", "[[Gogo Bethke on Expert Mentors Live — State of Business (John Kitchens)]]", "[[Realtor to CEO — Agent-to-CEO Transition (Beth Manning)]]", "[[ReBalance Your Business — Work Less and Make More (Kayla Lindsey)]]", "[[Expert Mentors Live Ep. 184 — Leadership Lessons (John Kitchens)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Propy — Blockchain and Crypto Real Estate Transactions (Eric Cruz)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]"]
+updated: 2026-07-09
 ---
 
 # Real Estate Teams
@@ -576,9 +576,16 @@ This validates the two-audience model: the same following holds buyers/sellers (
 
 **For teams considering proptech adoption:** Propy is the earliest adopter case study — a real estate transaction company that made 24-hour closings and zero wire fraud its core value proposition before the market demanded it.
 
+## First 100 Agents — 25 Directs (Knolly Williams)
+
+*Source: [[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]. [[Knolly Williams]] on scaling a downline without adding hours.*
+
+To reach your first **100 agents**, focus on **25 directs** (personally sponsored front line) — the rest of the org multiplies beneath them. The simplest daily action: **invite 10 people a day** to the monthly team meeting (a short ~20–30 min call). Don't sleep on **revenue share** — Knolly's rev share funded a 3-year, all-expenses move to Puerto Rico. He built a **300+ agent eXp organization** through co-sponsorship + automation without adding hours to his week.
+
 ## Related
 
 - [[Gogo Bethke]]
+- [[Knolly Williams]]
 - [[#teamgogo]]
 - [[eXp Realty]]
 - [[Productivity]]

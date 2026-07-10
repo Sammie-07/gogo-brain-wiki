@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, lender, mortgage, exp-realty, REMLO]
-sources: ["[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[Anatomy of a Transaction Part 4 — Title (Jennifer Worthington and Jessica DeShane)]]", "[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Attraction as a Byproduct of Production (Russ Laggan)]]", "[[The Rabbit Hole — Trust Ladder for Warm Leads (Natalie Davison)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]"]
-updated: 2026-07-05
+sources: ["[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[Anatomy of a Transaction Part 4 — Title (Jennifer Worthington and Jessica DeShane)]]", "[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Attraction as a Byproduct of Production (Russ Laggan)]]", "[[The Rabbit Hole — Trust Ladder for Warm Leads (Natalie Davison)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]"]
+updated: 2026-07-09
 ---
 
 # Jason Dupree
@@ -25,8 +25,10 @@ Jason Dupree is a loan officer at Texana Bank and the recurring mortgage partner
 - Agents become licensed loan officers in all 50 states **day one** under the bank charter — no 20-hour course, no SAFE exam (you become a bank employee).
 - **Qualification:** 6 buy-side transactions in the prior 12 months.
 - **Pay:** ~0.5% of the mortgage amount (~$1,500 on a $300K loan); per-file averages cited at ~$1,600–$2,200. Also earns on HELOCs/bridge loans previously referred out.
-- Program topped **450+ agents** nationwide by mid-2026; framed as a "4-year head start" on competitors.
-- REMLO-of-the-month examples: Melissa Albert (+$5,800 in a month), J.R. St. Julian, Kelly LaFave, [[Jennifer Worthington]], Morgan Tower.
+- Program topped **450+ agents** (~463 by Jul 2026) nationwide; framed as a "4-year head start" on competitors.
+- REMLO-of-the-month examples: Melissa Albert (+$5,800 in a month; nearing ICON), Macy (5 closings, 7th of ~463 REMLOs), J.R. St. Julian, Kelly LaFave, [[Jennifer Worthington]], Morgan Tower.
+
+**Jul 9, 2026 mortgage minute (Knolly Williams call):** rates ticked back up on renewed geopolitical uncertainty (Iran) — but less competition means buyers can win on price now and refi in 12–24 months. Pushed **bridge loans** (remove the home-sale contingency) and a standout **non-front-loaded-interest loan product** — on a recent $1.1M deal projected to save the client ~$900K in interest despite a higher headline rate (Gogo booked him to explain it in detail the following week).
 
 ## Related
 

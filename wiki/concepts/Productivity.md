@@ -9,6 +9,7 @@ tags:
   - automation
   - tracking
 sources:
+  - "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]"
   - "[[Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]]"
   - "[[Red Light Green Light Exercise]]"
   - "[[How to Eat an Elephant — 2026 Goals]]"
@@ -56,7 +57,7 @@ sources:
   - "[[Greatness Tracker — Three Trackers System (Katie)]]"
   - "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]"
   - "[[The Fundamentals - Social Media Machine and Branding (Gogo Bethke)]]"
-updated: 2026-07-06
+updated: 2026-07-09
 ---
 
 # Productivity
@@ -794,6 +795,22 @@ Reframe the objection "I can't believe I'm paying two assistants" with: *where w
 - **Always keep two cross-trained VAs** so illness/turnover never breaks operations; a VA is YOUR full-time employee (even via an agency), never a rotating rented worker.
 - **SOP-first, ~90-day ramp.** Record each task once into a Google Drive SOP library ("I do it/you watch → you do it/I watch → you do it alone"); budget up to 90 days to fully train.
 
+## Delegate Everything — The 46-Step Insight (Knolly Williams)
+
+*Source: [[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]].*
+
+[[Knolly Williams]] ran 100+ closed deals/year — a solo peak of **153 transactions in one year with no team production** — and never worked Friday through Sunday, by delegating every task that doesn't legally require his license.
+
+**The 46-step audit.** Knolly's listing business is a **46-step process, and only 3–5 of those steps actually require a real estate license.** Everything else — including inputting the listing into the MLS — does *not* require a license and can be handed off. He does only the license-required steps and delegates the other ~41.
+
+**Mantra: "Delegate everything — you can."** He writes the phrase and then literally crosses out "you can." Own the business, not the job. The belief that keeps agents stuck is *"I'm the only one who can do this."*
+
+> "Delegate everything you *can* — cross out 'you can.' Delegate everything."
+
+The false belief to kill is that the owner is irreplaceable at the task level. Knolly's counter: whatever you're convinced only you can do, someone (or something) else can do it faster — "Claude just did it in 1.3 seconds." Uniqueness lives in the license-required steps and the relationships, not the admin.
+
+**"Do the Two" time-block.** The one non-negotiable, non-delegable money block is a protected **daily 2-hour "lead-generation bunker"** (e.g., 9–11am, undisturbed — no email, no admin, no interruptions). Lead generation is the single green-light activity the owner must personally guard; everything outside those two hours is a candidate for delegation. This maps directly onto the [[#Hourly Rate Formula|hourly-rate filter]] and the [[#The Red Light / Green Light Exercise|red-light/green-light]] audit above — "Do the Two" is the green light; the 41 non-license steps are the red light.
+
 ## Related
 
 - [[Goal Setting]]
@@ -808,3 +825,4 @@ Reframe the objection "I can't believe I'm paying two assistants" with: *where w
 - [[Maria Peskam]]
 - [[Juan Carlos Baronetti]]
 - [[Jason Matthews]]
+- [[Knolly Williams]]

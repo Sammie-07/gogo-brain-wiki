@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [mindset, law-of-attraction, visualization, personal-development, entrepreneurship]
-sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Can We Have It All]]", "[[Work-Life Balance Secrets]]", "[[How to Master Your Mindset for Business and Life Success]]", "[[From an Au Pair to a Millionaire]]", "[[How Your Feelings Can Sabotage Your Life and Success]]", "[[How to Reprogram Your Mind]]", "[[Unrealistic Goals Real Results]]", "[[A Conversation Between Two Immigrant Women]]", "[[eXp Realty Has Changed My Life]]", "[[Money Frequency]]", "[[Gogopreneur — Public Speaking Episode 4]]", "[[Market Shifts with Aaron Novello]]", "[[What It Takes to Grow a Real Estate Business Through Chaos (Beth Silverman)]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[From 11-Year-Old Entrepreneur to Real Estate Powerhouse (Elise Palacios)]]", "[[The Power of Manifestation Identity (Kathleen Cameron)]]", "[[How to Cut the Baggage That's Slowing You Down (Gary Coxe)]]", "[[Marriage Advice (Gogo and Dwayne shorts)]]", "[[Confidence and Body Language (Gogo Bethke)]]", "[[Quotes I Live By (Presentation)]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[Money Mindset Mastery — Production Accelerator Event (Presentation)]]", "[[Agent to CEO — Full Presentation]]", "[[Business Foundations — Mindset, Systems, and Building Your Team with Virtual Assistants]]", "[[Business Time Management Strategy That Works]]", "[[Mastering Your Numbers — Leads, Time & Revenue]]", "[[Live Q&A — Delegation, Marketing & Growth Hacks]]", "[[The Shit Our Parents Didn't Teach Us — Mixing Strategy and Mindset with Barbara Schreihans]]", "[[The Identity Shift That Redefines Your Ceiling (Craig Siegel)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]", "[[The Art of Conscious Communication (Jamie Miller)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[Your 2026 Goals Reverse Engineered — Open to Public (Gogo Bethke)]]", "[[From an Au Pair to a Millionaire — Day 5 (Gogo Bethke)]]", "[[GoGet'Em Guest Training — Krista Mashore — Origin Story and Mindset]]", "[[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Manifesting Through Personal Power (Kathleen Cameron)]]"]
-updated: 2026-07-05
+sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Can We Have It All]]", "[[Work-Life Balance Secrets]]", "[[How to Master Your Mindset for Business and Life Success]]", "[[From an Au Pair to a Millionaire]]", "[[How Your Feelings Can Sabotage Your Life and Success]]", "[[How to Reprogram Your Mind]]", "[[Unrealistic Goals Real Results]]", "[[A Conversation Between Two Immigrant Women]]", "[[eXp Realty Has Changed My Life]]", "[[Money Frequency]]", "[[Gogopreneur — Public Speaking Episode 4]]", "[[Market Shifts with Aaron Novello]]", "[[What It Takes to Grow a Real Estate Business Through Chaos (Beth Silverman)]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[From 11-Year-Old Entrepreneur to Real Estate Powerhouse (Elise Palacios)]]", "[[The Power of Manifestation Identity (Kathleen Cameron)]]", "[[How to Cut the Baggage That's Slowing You Down (Gary Coxe)]]", "[[Marriage Advice (Gogo and Dwayne shorts)]]", "[[Confidence and Body Language (Gogo Bethke)]]", "[[Quotes I Live By (Presentation)]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[Money Mindset Mastery — Production Accelerator Event (Presentation)]]", "[[Agent to CEO — Full Presentation]]", "[[Business Foundations — Mindset, Systems, and Building Your Team with Virtual Assistants]]", "[[Business Time Management Strategy That Works]]", "[[Mastering Your Numbers — Leads, Time & Revenue]]", "[[Live Q&A — Delegation, Marketing & Growth Hacks]]", "[[The Shit Our Parents Didn't Teach Us — Mixing Strategy and Mindset with Barbara Schreihans]]", "[[The Identity Shift That Redefines Your Ceiling (Craig Siegel)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]", "[[The Art of Conscious Communication (Jamie Miller)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[Your 2026 Goals Reverse Engineered — Open to Public (Gogo Bethke)]]", "[[From an Au Pair to a Millionaire — Day 5 (Gogo Bethke)]]", "[[GoGet'Em Guest Training — Krista Mashore — Origin Story and Mindset]]", "[[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Manifesting Through Personal Power (Kathleen Cameron)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]"]
+updated: 2026-07-09
 ---
 
 # Mindset
@@ -495,6 +495,24 @@ Entrepreneurial mindset = pioneer mindset. Employee mindset cannot coexist with 
 
 When emotional patterns are misaligned → financial frustration, brand stagnation, no traction. Alignment precedes results.
 
+## Default to Design & Abundance (Knolly Williams)
+
+*Source: [[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]].*
+
+[[Knolly Williams]]' opening mindset "rock": most people are living a life they never consciously chose, and the market is never the real problem.
+
+**Move from default to design.** Most people live by *default* — their career, spouse, and city were chosen by circumstance, not decision. A Gallup poll (~150,000 people) found roughly **70% dislike their jobs** — proof of how many lives run on autopilot. The fix is to map what you truly *desire and require*, then hand your subconscious (which drives ~88% of behavior) one clear, consistent instruction and stop changing it.
+
+> "The universe is waiting to take your order. But it's like a waiter — if you keep changing your order, the food never comes out."
+
+**"The answer is always you."** Blaming conditions is a lie. "It's the market" doesn't survive the numbers — national home sales were flat-to-growing from 2023 into 2025, so the transactions were always there.
+
+> "It's not the market. It's always us."
+
+**Abundance always exists.** Knolly's gazelle-migration analogy: on the savanna there's always water and always grass — "the gazelles just know how to go find it." Scarcity is a perception problem, not a supply problem. He pairs this with [[Jim Rohn]]: if you redistributed all the wealth evenly, it would flow right back into the same pockets — because wealth follows the person, not the circumstance.
+
+**"Choose your hard."** Every path is hard, so pick which hard you want. Broke is hard. Cold-calling is hard. Being on camera is hard. There is no easy option — only a chosen one. And Knolly chooses the version that feels good: *"I choose to make it fun and easy… it doesn't have to be hustle and grind."*
+
 ## Related
 
 - [[Goal Setting]]
@@ -509,3 +527,4 @@ When emotional patterns are misaligned → financial frustration, brand stagnati
 - [[Aaron Novello]]
 - [[Krista Mashore]]
 - [[Alex Moeller]]
+- [[Knolly Williams]]

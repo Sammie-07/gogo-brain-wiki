@@ -79,6 +79,7 @@
 | [[entities/Juan Carlos Baronetti]] | CEO of Goldbar Staffing; delegation/staffing authority; GoGet'Em "Fundamentals" guest on reclaiming time through hiring. |
 | [[entities/Jason Matthews]] | Goldbar Staffing trainer (~$300M NY sales background); sales-systems / speed-to-lead + staffing; GoGet'Em "Speed to Lead" guest. Distinct from Goldbar CEO Juan Carlos Baronetti. |
 | [[entities/Goldbar Staffing]] | Real-estate VA/staffing company (CEO Juan Carlos Baronetti; trainer Jason Matthews); "Goldie" delegation tool; full-time cross-trained VAs on a buy-back-your-time model. |
+| [[entities/Knolly Williams]] | Best-selling author & listing-first solo agent (1,000+ deals/10 yrs, 153 solo, no cold calls); 300+ agent eXp org; creator of the "5 Big Rocks" + Triple My Listings; GoGet'Em guest (Jul 2026). |
 | [[entities/Cat West]]           | eXp top producer (Oviedo FL); faith-based (Christian) agent-attraction brand; ~28 sponsored agents, ~$100K rev share via Instagram. Distinct from [[entities/Kat]]. |
 | [[entities/Allison]]            | eXp broker-owner; Staten Island→NJ relocation niche; $250K+ Instagram-attributed transactions; dollar-per-post ROI. |
 | [[entities/Jon Pugle]]          | Sphere-of-influence / referral trainer; GoGet'Em guest; handwritten notes, 200-person power list, board-of-directors dinner; "human connection is the moat against AI." |
@@ -112,13 +113,14 @@
 
 ---
 
-## Sources (359 ingested)
+## Sources (360 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
 | [[sources/How to Eat an Elephant — 2026 Goals]] | Gogo Bethke  | 2026-01-29 | Full goal-setting training: CPR, reverse engineering, commission math, ChatGPT prompts.      |
 | [[sources/Agent Attraction — The Top 10 Tips (Gogo Bethke)]] | Gogo Bethke | 2026-07-02 | #teamgogo Top 10 agent-attraction playbook: mindset + ×2 seven-generation math, competitor combat (Real/KW/Epic), DM-partner + calendar-scarcity funnel, three-way-call etiquette, bragging-vs-confidence, reverse-engineer-their-numbers, 500 Legacy. REMLO market update (Jason). |
 | [[sources/Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]] | Jason Matthews | — | Sales-system training: 3 buckets, setter/closer/overseer roles, 100-leads->5-6-opps funnel math, 5-minute speed-to-lead rule, scaling ladder (LOs->developers->broker-owners->credit unions), VA ROI reframe, Buy Back Your Time, GHL+ManyChat. |
+| [[sources/The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]] | Knolly Williams | 2026-07-09 | Listing-first solo playbook: 5 Big Rocks (default->design, "do the two" 2-hr bunker, SOI 18-touch, farm/"be the mayor", delegate everything / 46-step), the 3 lead-source buckets (SOI/farm/niche), free sponsor-funded farming, open-house-as-event, "it's the market is a lie", 25-directs agent attraction. |
 | [[sources/Red Light Green Light Exercise]]      | Gogo Bethke  | —          | Time audit exercise: categorize every daily task as green (money) or red (delegate).         |
 | [[sources/Lets Do Some Math Again]]             | Gogo Bethke  | 2026-04-13 | PPP argument for brokerage choice; Team Go stats; 71.1% of realtors sold 0 homes in 2025.    |
 | [[sources/I Send One Email a Day]]              | Gogo Bethke  | 2026-04-09 | Daily email newsletter practice; GoGet'Em Community.                                         |

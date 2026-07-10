@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [lead-generation, sales, real-estate, social-media, referrals, automation]
-sources: ["[[GoGet'Em Brand Audit Call — Amanda Richards and Angela Kane]]", "[[How to Generate Buyer and Seller Leads (Amy Gregory)]]", "[[Marketing Through FREE Neighborhood Events (Stacey Leslie)]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[How Realtors Can Use AI to Generate Leads (Live Training)]]", "[[AI For Realtors — How to Use AI to Close 1 Deal Every Month]]", "[[Market Shifts with Aaron Novello]]", "[[How to Easily Sell $10M with Social Media]]", "[[Realtor's Secret to Extra Income — REMLO Program (Joe Vegas)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Landing Pages — Why You Need Them and How to Use Them Weekly]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Finding Your Ideal Client for Buyers and Sellers (Gogo Bethke)]]", "[[Pick Your Lane Buyers Sellers Property Type Mastery (Gogo Bethke)]]", "[[How to Own Your Price Point and Attract the Right Buyers (Gogo Bethke)]]", "[[The 5 Hashtags Strategy Target Your Local Market (Gogo Bethke)]]", "[[Get Instant MLS Alerts for New Listings (GoGetEm Community)]]", "[[Finding Your Ideal Clients and Targeting Them Effectively (Gogo Bethke)]]", "[[Who Is Your Ideal Client and How To Find Them (Gogo Bethke)]]", "[[The Art of the Gift — Gifting Strategy for Relationship Building (Katie Lawrence)]]", "[[GoGet'Em Training — Funnels and Technology (Gogo Bethke)]]", "[[GoGet'Em Webinar — Events-Based Lead Generation (Jessica and Seth)]]", "[[Poker Run and Progressive Open House Events (Savannah Gutierrez)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Self-Selling Seller System LIVE (Austin Rankin)]]", "[[Google My Business Optimization for Real Estate Agents (Noemi Chavez)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]", "[[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]", "[[The AI Stack Top Agents Dont Talk About - Azulio CRM (Matt Kemps and Rob Poulton)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]", "[[Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]]"]
-updated: 2026-07-06
+sources: ["[[GoGet'Em Brand Audit Call — Amanda Richards and Angela Kane]]", "[[How to Generate Buyer and Seller Leads (Amy Gregory)]]", "[[Marketing Through FREE Neighborhood Events (Stacey Leslie)]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[How Realtors Can Use AI to Generate Leads (Live Training)]]", "[[AI For Realtors — How to Use AI to Close 1 Deal Every Month]]", "[[Market Shifts with Aaron Novello]]", "[[How to Easily Sell $10M with Social Media]]", "[[Realtor's Secret to Extra Income — REMLO Program (Joe Vegas)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Landing Pages — Why You Need Them and How to Use Them Weekly]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Finding Your Ideal Client for Buyers and Sellers (Gogo Bethke)]]", "[[Pick Your Lane Buyers Sellers Property Type Mastery (Gogo Bethke)]]", "[[How to Own Your Price Point and Attract the Right Buyers (Gogo Bethke)]]", "[[The 5 Hashtags Strategy Target Your Local Market (Gogo Bethke)]]", "[[Get Instant MLS Alerts for New Listings (GoGetEm Community)]]", "[[Finding Your Ideal Clients and Targeting Them Effectively (Gogo Bethke)]]", "[[Who Is Your Ideal Client and How To Find Them (Gogo Bethke)]]", "[[The Art of the Gift — Gifting Strategy for Relationship Building (Katie Lawrence)]]", "[[GoGet'Em Training — Funnels and Technology (Gogo Bethke)]]", "[[GoGet'Em Webinar — Events-Based Lead Generation (Jessica and Seth)]]", "[[Poker Run and Progressive Open House Events (Savannah Gutierrez)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Self-Selling Seller System LIVE (Austin Rankin)]]", "[[Google My Business Optimization for Real Estate Agents (Noemi Chavez)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]", "[[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]", "[[The AI Stack Top Agents Dont Talk About - Azulio CRM (Matt Kemps and Rob Poulton)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]", "[[Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]"]
+updated: 2026-07-09
 ---
 
 # Lead Generation
@@ -560,6 +560,37 @@ Track all three in a CRM; the weak bucket tells you what to fix. **Funnel math:*
 **The scaling ladder — close bigger lead *sources*, not one buyer at a time:** one buyer -> **loan officers** (bulk buyers) -> **developers** (50 listings at once) -> **broker-owners** (an army of setters) -> a **credit union / bank** (all their pre-approvals). Gogo's Michigan credit-union deal fed pre-approved buyers to Team GoGo agents for referral fees.
 
 **Staffing the system** (see [[Productivity]] and [[Goldbar Staffing]]): automate first (cheap AI/tools $20–29/mo), then hire; reframe a VA as ROI not cost ("$1,200 in -> $48,000 out"); hire at **75% capacity**; keep **two cross-trained VAs**; SOP-first training with a ~**90-day** ramp.
+
+## Listings, Sphere & Farm — The 5 Big Rocks (Knolly Williams)
+
+*Source: [[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]. [[Knolly Williams]] — listing-side lead gen: where every seller lead actually comes from and how to work it in 2 hours a day.*
+
+**The three lead-SOURCE buckets.** Every lead you will ever get comes from one of three places, and ~27 lead-gen tactics all collapse into these three:
+1. **Sphere of Influence** — the biggest bucket: everyone who knows, likes, and trusts you. Includes your camera/social audience — people who "know you" from your content but aren't yet on your list. *"It matters who you know, but what really matters is who knows you."*
+2. **Farm** — a geographic area you dominate and become the known agent for.
+3. **Niche / specialty** — what you're *known* for (a property type, price point, or client type).
+
+"Three hooks in the water beats one" — work all three sources rather than betting everything on one tactic.
+
+**Do NOT confuse these with the pipeline buckets.** Knolly's three are lead **SOURCES** (where a lead originates). The [[#Speed to Lead — Sales System (Jason Matthews)|Jason Matthews]] new/conversion/nurture buckets are pipeline **STAGES** (where a lead sits in your funnel). A single sphere lead (source) can move through all three pipeline stages.
+
+**"Do the Two."** Spend a daily 2-hour "lead-generation bunker" doing only three things: (1) generate new seller prospects, (2) follow up with existing prospects, or (3) build marketing plans. Nothing else counts. Behind on your goals → 3 hrs/day × 6 days. On track → 2 hrs/day × 4 days.
+
+**SOI 18-touch/year system.** Touch every person in your sphere ~18× a year (roughly a touch every 3 weeks) via: a **monthly e-newsletter** + a **quarterly postcard** + **calling everyone twice a year**. Costs ~2 hrs/week and is essentially free. Why it matters: NAR 2025 shows **70%+ of business is referral**, yet only **~9–11% of past clients reuse their agent** — because agents stop staying in touch. Delegate the database build: import contacts from your phone, Facebook, and old email into a CRM, then **scrub + tag everyone** (past client, agent, buyer/seller, neighborhood) so you can segment your sends.
+
+**"When you list, you last."** Listings are the game in any market. *The Millionaire Real Estate Agent* (Gary Keller / [[Jay Papasan]] / Dave Jenks) studied the top 100 US agents — ~100% were listing-focused. More listings is also the **#1 source of buyers** (buyers call on your signs and listings).
+
+**Free farming / "be the mayor."** EDDM (Every Door Direct Mail) runs ~$0.25/home; 1,000 postcards ≈ $300 total — **fully offset by selling 4 sponsor ad spots** on the back at $75 each (e.g. a roofer, painter, pool company, landscaper). Add an **"Item of Value" coupon** so recipients keep the card. Then *be the mayor*: post local news, interview new businesses (5–8 min videos), run a community Facebook group / YouTube channel. Get owner lists from your title rep or from tax records.
+
+**Open houses as "events."** Turn the open house into a wine / happy-hour event. Make the **first hour neighbors-only** (invite the 20–30 nearest homes). Sponsors cover it (lender/title buys the wine; a local restaurant provides free appetizers for the first 10–15 guests). By the time the house opens to the public, the neighbors are laughing and relaxed — and start asking *"how do I get this at my house?"* (i.e. they become your next listings).
+
+**No listings yet? Hold others' open + circle-prospect.** Ask a listing agent to let you hold their listing open. **Circle-prospect each listing 3×**, each with a different script: **just listed** → **under contract** ("we had 16 showings — who do you know that's selling?") → **just sold**.
+
+**"It's the market" is a lie.** National existing-home sales (pulled live): 2023 ≈ **4.66M**, 2024 ≈ **4.68M**, 2025 ≈ **4.74M** — flat-to-growing. Homes are always selling; if you're not getting them, the constraint is you, not the market.
+
+> "It's not the market. It's always us. The answer is always you."
+
+**10→30 deals math.** 30 deals/year = **3/month**. At a $500K average sale price, ~30 deals ≈ your average sale price in annual income — the reframe that makes a big number feel like a small daily habit.
 
 ## Related
 
