@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [lead-generation, sales, real-estate, social-media, referrals, automation]
-sources: ["[[GoGet'Em Brand Audit Call — Amanda Richards and Angela Kane]]", "[[How to Generate Buyer and Seller Leads (Amy Gregory)]]", "[[Marketing Through FREE Neighborhood Events (Stacey Leslie)]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[How Realtors Can Use AI to Generate Leads (Live Training)]]", "[[AI For Realtors — How to Use AI to Close 1 Deal Every Month]]", "[[Market Shifts with Aaron Novello]]", "[[How to Easily Sell $10M with Social Media]]", "[[Realtor's Secret to Extra Income — REMLO Program (Joe Vegas)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Landing Pages — Why You Need Them and How to Use Them Weekly]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Finding Your Ideal Client for Buyers and Sellers (Gogo Bethke)]]", "[[Pick Your Lane Buyers Sellers Property Type Mastery (Gogo Bethke)]]", "[[How to Own Your Price Point and Attract the Right Buyers (Gogo Bethke)]]", "[[The 5 Hashtags Strategy Target Your Local Market (Gogo Bethke)]]", "[[Get Instant MLS Alerts for New Listings (GoGetEm Community)]]", "[[Finding Your Ideal Clients and Targeting Them Effectively (Gogo Bethke)]]", "[[Who Is Your Ideal Client and How To Find Them (Gogo Bethke)]]", "[[The Art of the Gift — Gifting Strategy for Relationship Building (Katie Lawrence)]]", "[[GoGet'Em Training — Funnels and Technology (Gogo Bethke)]]", "[[GoGet'Em Webinar — Events-Based Lead Generation (Jessica and Seth)]]", "[[Poker Run and Progressive Open House Events (Savannah Gutierrez)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Self-Selling Seller System LIVE (Austin Rankin)]]", "[[Google My Business Optimization for Real Estate Agents (Noemi Chavez)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]", "[[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]", "[[The AI Stack Top Agents Dont Talk About - Azulio CRM (Matt Kemps and Rob Poulton)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]", "[[Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]"]
-updated: 2026-07-09
+sources: ["[[GoGet'Em Brand Audit Call — Amanda Richards and Angela Kane]]", "[[How to Generate Buyer and Seller Leads (Amy Gregory)]]", "[[Marketing Through FREE Neighborhood Events (Stacey Leslie)]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[How Realtors Can Use AI to Generate Leads (Live Training)]]", "[[AI For Realtors — How to Use AI to Close 1 Deal Every Month]]", "[[Market Shifts with Aaron Novello]]", "[[How to Easily Sell $10M with Social Media]]", "[[Realtor's Secret to Extra Income — REMLO Program (Joe Vegas)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Landing Pages — Why You Need Them and How to Use Them Weekly]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Finding Your Ideal Client for Buyers and Sellers (Gogo Bethke)]]", "[[Pick Your Lane Buyers Sellers Property Type Mastery (Gogo Bethke)]]", "[[How to Own Your Price Point and Attract the Right Buyers (Gogo Bethke)]]", "[[The 5 Hashtags Strategy Target Your Local Market (Gogo Bethke)]]", "[[Get Instant MLS Alerts for New Listings (GoGetEm Community)]]", "[[Finding Your Ideal Clients and Targeting Them Effectively (Gogo Bethke)]]", "[[Who Is Your Ideal Client and How To Find Them (Gogo Bethke)]]", "[[The Art of the Gift — Gifting Strategy for Relationship Building (Katie Lawrence)]]", "[[GoGet'Em Training — Funnels and Technology (Gogo Bethke)]]", "[[GoGet'Em Webinar — Events-Based Lead Generation (Jessica and Seth)]]", "[[Poker Run and Progressive Open House Events (Savannah Gutierrez)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Self-Selling Seller System LIVE (Austin Rankin)]]", "[[Google My Business Optimization for Real Estate Agents (Noemi Chavez)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]", "[[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]", "[[The AI Stack Top Agents Dont Talk About - Azulio CRM (Matt Kemps and Rob Poulton)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]", "[[Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]", "[[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]"]
+updated: 2026-07-12
 ---
 
 # Lead Generation
@@ -591,6 +591,68 @@ Track all three in a CRM; the weak bucket tells you what to fix. **Funnel math:*
 > "It's not the market. It's always us. The answer is always you."
 
 **10→30 deals math.** 30 deals/year = **3/month**. At a $500K average sale price, ~30 deals ≈ your average sale price in annual income — the reframe that makes a big number feel like a small daily habit.
+
+## Circle Coaching — Keyword Capture, Story Content & Listings-First
+
+*Sources: [[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]], [[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]], [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]. Private [[The Circle|Circle]] coaching, de-identified — Gogo's generalizable teachings only.*
+
+> "You could create all this content, but if you're not capturing buyers and sellers, what good does it serve?"
+
+**The market isn't the problem — effort is.** Roughly the same number of homes sell yearly; when many agents sell nothing, it's effort and skill, not conditions. Rising attrition = market share to take, and the barrier to entry has never been lower — build a lead-capture landing page "in five minutes with your morning coffee."
+
+### Buyer/Seller Keyword Auto-Capture
+
+A [[ManyChat]]-style keyword play, tightened to the rules that actually make it convert:
+- **Minimize steps — go straight to booking.** Every extra click loses people; the keyword should hand back a single booking link, not a maze.
+- **Separate buyers and sellers** — two calendars, two keywords. Never one funnel for both.
+- **Deploy on both platforms and both surfaces** — Facebook *and* Instagram, DMs *and* comments. Post to one linked account to auto-post the other.
+- **Name the exact keyword in the video.** The in-video CTA must say the literal keyword; the keyword then auto-DMs a warm, niche-specific message with the single booking link.
+- **Always test end-to-end** before relying on it — trigger the keyword yourself and confirm the full sequence fires.
+
+### Home-Tour Content Engine
+
+Block a recurring **"black" filming slot** (a standing weekly time, e.g. Thursday mornings) and shoot 2–3 clustered homes in one run. **Target "coming soon" / soon-to-go-live listings** so one video drives weekend open-house traffic — the content and the open house feed each other. Do more talking-head video and keep niching down.
+
+### Lead-Magnet + Community-Entry Sequence
+
+A free niche guide (PDF/landing page) with email capture feeds the nurture pipeline — promote it in **3–5 relevant niche communities**. Then earn the right to pitch:
+- Join 3–5 groups → introduce yourself through **shared identity, not a pitch** → answer questions **daily for ~2 weeks before** ever mentioning a listing. "Trust is built through shared identity, not sales pitches."
+- Content authority = genuinely useful, non-obvious local/vertical knowledge (inspection quirks, area rules, lifestyle logistics) — not sales claims.
+
+### Story Reels + Seeded Live Q&A
+
+- 60–90-sec reels from your **real stories** — talk from the heart off a few bullet points, don't script. Record a long-form live, then chop it into 90-sec clips.
+- Announce a recurring **Instagram Live Q&A** fed by the Stories question box, and **seed the questions** (VA/peers/pseudo-buyers) so it never stalls.
+- *(AI execution layer: dictate a raw story → get the 5 bullets that hit in <90 sec; generate "expert" Q&A questions when live ones aren't coming — see [[AI for Real Estate]].)*
+
+### Keyword-SEO Blog Batch → Direct Booking
+
+One keyword-targeted blog post **per week — a 12-week batch** — to rank locally. Every guide links to a **direct calendar booking**, not a generic homepage. **Compliance guardrail:** never give steering opinions on schools or "good" districts — route to a neutral third-party site and add fair-housing disclaimers (steering can cost your license).
+
+### Past-Client Equity Outreach
+
+**Never "just ask for business" — lead with value.** Pull past buyers, verify they still own, run a current CMA, and open with real numbers: *"I already thought of you — your home is worth $X now, you have $Y in equity; when you're ready we can use it."*
+- **Automated market-report drip** (21/29-day) → personal follow-up: "How'd you like the numbers? You have equity — let's use it."
+- **Multiple exits from one relationship:** move-up sale, or equity → investment property; dual-licensing earns you the mortgage, HELOC, and buy side of the same client.
+- **Timing triggers** in the CRM at 3-yr and 5-yr post-close; prioritize life-event signals.
+
+### Listings-First — "You List, You Last"
+
+> "You list, you last."
+
+As long as you're the listing agent, you stay durable in any market — and listings are the **#1 source of buyers**.
+- **Every listing should produce two buyers → three commissions:** the seller side, the buyer of *that* home, and a buyer who buys a comparable nearby (already shopping that area/price at the open house). Buyer agents holding it open let the rainmaker "triple dip" with no extra prospecting. *(Full open-house mechanics: [[Open Houses#The Two-Buyer Open-House System (Circle coaching)]].)*
+- **Listing-side fiduciary duty:** sell for the most money, in the least time, with the least hassle. Master that and market noise stops mattering.
+- **Own your brand and your data** so you don't depend on third-party portals for leads or distribution.
+
+### Buyer-Generation Weekly Menu
+
+When production drops on the buyer side, the fix is simply re-allocating time/energy/marketing back — "when you pour focus into one area, another gives." A week that fills itself:
+- **"Tour of the day" video 3×/week** (pick ~3 specialties)
+- **Open houses both weekend days**
+- **Buyer social content** (e.g. rate updates) 2–3×/week
+
+→ fills seven days and produces "more buyers than you know what to do with." Also: **don't run all 8–12 tactics at once** — the plan is a menu, not a mandate; pick 2–3 and execute.
 
 ## Related
 

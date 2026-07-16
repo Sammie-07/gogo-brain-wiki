@@ -113,7 +113,7 @@
 
 ---
 
-## Sources (360 ingested)
+## Sources (365 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
@@ -121,6 +121,11 @@
 | [[sources/Agent Attraction — The Top 10 Tips (Gogo Bethke)]] | Gogo Bethke | 2026-07-02 | #teamgogo Top 10 agent-attraction playbook: mindset + ×2 seven-generation math, competitor combat (Real/KW/Epic), DM-partner + calendar-scarcity funnel, three-way-call etiquette, bragging-vs-confidence, reverse-engineer-their-numbers, 500 Legacy. REMLO market update (Jason). |
 | [[sources/Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]] | Jason Matthews | — | Sales-system training: 3 buckets, setter/closer/overseer roles, 100-leads->5-6-opps funnel math, 5-minute speed-to-lead rule, scaling ladder (LOs->developers->broker-owners->credit unions), VA ROI reframe, Buy Back Your Time, GHL+ManyChat. |
 | [[sources/The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]] | Knolly Williams | 2026-07-09 | Listing-first solo playbook: 5 Big Rocks (default->design, "do the two" 2-hr bunker, SOI 18-touch, farm/"be the mayor", delegate everything / 46-step), the 3 lead-source buckets (SOI/farm/niche), free sponsor-funded farming, open-house-as-event, "it's the market is a lie", 25-directs agent attraction. |
+| [[sources/The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]] | Gogo Bethke | — | NDA de-identified: partnership clean-break exit script, small-team-as-exit-strategy, buyer/seller keyword auto-capture, effort-not-market, hard-work≠money. |
+| [[sources/The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]] | Gogo Bethke | — | NDA de-identified: quarterly CPA, cost-seg on every rental, 1031 no-touch rule, LLC-per-property box-in-box-in-trust, card separation, automate-bookkeeping. |
+| [[sources/The Circle Coaching — Leadership Load, The Opposite Can Be True and Meeting Cadence (de-identified)]] | Gogo Bethke | — | NDA de-identified: "opposite can be true" worksheet, points/karma, hypnotic rhythm, rotating monthly meeting cadence, Meta-Verified/Shared-Access media delegation. |
+| [[sources/The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]] | Gogo Bethke | — | NDA de-identified: own-the-niche-you-live, AI-as-execution-layer, fight-your-TC full-service, post-departure referral clause, abundance mindset. |
+| [[sources/The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]] | Gogo Bethke | — | NDA de-identified: "you list you last" two-buyers/three-commissions, open-house two-buyer video follow-up, the value ladder, AI second brain + accountability dashboard. |
 | [[sources/Red Light Green Light Exercise]]      | Gogo Bethke  | —          | Time audit exercise: categorize every daily task as green (money) or red (delegate).         |
 | [[sources/Lets Do Some Math Again]]             | Gogo Bethke  | 2026-04-13 | PPP argument for brokerage choice; Team Go stats; 71.1% of realtors sold 0 homes in 2025.    |
 | [[sources/I Send One Email a Day]]              | Gogo Bethke  | 2026-04-09 | Daily email newsletter practice; GoGet'Em Community.                                         |

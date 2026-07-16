@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [niche-finder, ai, personal-branding, marketing, tool]
-sources: ["[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[How to Become the Obvious Choice in Your Market (Gogo Bethke)]]"]
-updated: 2026-07-05
+sources: ["[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[How to Become the Obvious Choice in Your Market (Gogo Bethke)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]"]
+updated: 2026-07-12
 ---
 
 # Niche Finder
@@ -58,6 +58,20 @@ The live niche-training *How to Become the Obvious Choice in Your Market* is the
 
 > "Stop trying to be the best realtor for everyone. Be the only realtor for the first responders buying new builds in Martin County." — Gogo Bethke
 > "If it does not name your niche in the first 5 words, you are invisible." — Gogo Bethke
+
+## Circle Coaching — One Niche at a Time
+
+*Sources: [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]], [[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]. Private [[The Circle|Circle]] coaching, de-identified — Gogo's generalizable teachings only.*
+
+**Run the Niche Finder for ONE segment at a time — never blend.** Don't merge listings vs. buyers vs. upsizers into a single report. Answer the 10 questions for one segment, generate, then **re-run** for the next. Blended inputs produce a muddy niche and generic ideas.
+
+**Specificity is what makes the output usable.** Specific answers — price point, seller age band, motivation — produce a sharper niche plus the **8 marketing ideas** and the **90-day posting schedule** a VA can load straight into a scheduler. Vague inputs can't be delegated.
+
+**Team leaders still need a defined listing-side niche.** Even if buyer agents catch "all buyers," the leader's defined listing niche feeds the whole team — it's the engine, not an optional refinement.
+
+**Solve the avatar's objection *inside* the offer.** If your ideal client is "too busy to learn," build the offer around exactly that (async/recorded, late-night live, "watch anytime") and **say so directly**. The niche isn't just who they are — it's answering their specific objection in how the offer is structured.
+
+*(Companion principle — [[Personal Branding#Circle Coaching — Niche Ownership & Verified Delegation|own the niche you're already living]] rather than inventing a new one.)*
 
 ## Related
 

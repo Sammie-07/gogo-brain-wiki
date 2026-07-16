@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [legal-protection, asset-protection, real-estate, business-structure, risk-management]
-sources: [[[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]]]
-updated: 2026-05-25
+sources: [[[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]]]
+updated: 2026-07-12
 ---
 
 # Legal Protection
@@ -51,6 +51,21 @@ From [[Toby Mathis]]: **"Appear to own nothing personally while controlling ever
 3. **Maintain accurate records** — the paper trail is your defense in any dispute.
 4. **E&O Insurance** — Errors and Omissions coverage for professional mistakes; required by most brokerages.
 5. **Stay compliant** — state licensing laws, federal Fair Housing, agency disclosure rules.
+
+## Box-in-a-Box Asset Protection (Circle coaching)
+
+From a private [[The Circle|Circle]] coaching call (de-identified) — [[Gogo Bethke]]'s "box inside a box inside a box" structure for making ownership untraceable and lawsuits un-contagious.
+
+- **One LLC per property**, each with its own bank account and card. Never pool multiple rentals or run them through one account — a lawsuit over one property would otherwise expose the whole shared pot.
+- **The nesting:** property → its own **LLC** → monthly profit **sweeps up to a holding company** (never leave more than bill-paying money in the property account) → the holding company is owned by a **living trust** (not public record).
+- **Children as trustees, not owners.** They can manage the entities and draw salaries, but they don't "own" it — which sidesteps inheritance tax.
+- **Registered agent on each entity** to shield identity in public records, so no one can total up what you own or target other assets after a first lawsuit.
+
+> "My name is nowhere to be found. The LLC is in a holding company, the holding company is in a trust. Good luck."
+
+- **Avoid "piercing the corporate veil."** Co-mingling personal and business money is the #1 way to void LLC protection. Each entity's card is used only for that entity — never cross them.
+- **Confirm before moving a mortgaged property into an LLC.** Some lenders treat the transfer as an ownership/commercial change and could call the loan due — use experienced practitioner-advisors before you retitle.
+- **Roll out without overwhelm:** one property per month (LLC → bank account → next). An unlimited-LLC service with a single dashboard/"blueprint" of all entities pays for itself at scale.
 
 ## Related
 - [[Tax Strategy]]

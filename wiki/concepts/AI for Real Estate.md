@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [ai, productivity, marketing, lead-generation, real-estate]
-sources: ["[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[AI Leverage — Build Your Personal AI System (Thomas Heimann)]]", "[[The AI Stack Top Agents Don't Talk About — Azulio CRM Deep Dive (Matt Kemps and Rob Poulton)]]", "[[ChatGPT is a Conversation. Claude is a Command Center. (Carrie Soave)]]", "[[Master Your Copywriting & AI Brand Voice (Gogo Bethke)]]"]
-updated: 2026-07-05
+sources: ["[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[AI Leverage — Build Your Personal AI System (Thomas Heimann)]]", "[[The AI Stack Top Agents Don't Talk About — Azulio CRM Deep Dive (Matt Kemps and Rob Poulton)]]", "[[ChatGPT is a Conversation. Claude is a Command Center. (Carrie Soave)]]", "[[Master Your Copywriting & AI Brand Voice (Gogo Bethke)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]"]
+updated: 2026-07-12
 ---
 
 # AI for Real Estate
@@ -68,6 +68,33 @@ AI is moving from chatbots you operate to agents that operate for you. The agent
 > "I built a whole website, all of that, which blew my mind... but I used up all of mine, and then Monday my team was like, oh, you were in the wrong cloud... So how do you know what does what?" — Gogo Bethke
 
 AI is a force multiplier, not a replacement: "if you can put that human element back into the game, you're gonna be the agent who wins." But beware shiny-object syndrome — pick the tools that compound, and feed them good inputs.
+
+## AI as an Execution Layer & the Second Brain (Circle coaching)
+
+*Source: de-identified [[The Circle|Circle]] coaching (NDA — no member specifics). [[Gogo Bethke]]'s generalizable teaching only.*
+
+### AI as an execution multiplier
+
+Use Claude/AI not as a chatbot but as the layer that *executes* what you'd otherwise never get to:
+- **Dictate a raw story → get the 5 bullets** that hit the point, then talk to camera from those bullets for a **<90-second reel**. Talk from the heart with a few bullet points; don't script.
+- **Strategy doc → a batch of niche SEO blog articles** (e.g., a 12-week batch, one keyword-targeted post per week) to rank locally.
+- **Generate "expert" Q&A questions** when live questions aren't coming in organically — seed a recurring Instagram Live Q&A so it never stalls.
+
+### Two publishing guardrails + prompt discipline
+
+1. **Read it / make it sound like you.** Anything you put out represents you.
+2. **Remove the AI signature** — strip the tells (em dashes, buzzwords, uniform paragraph lengths).
+3. **Prompt discipline:** give full context on the goal *first*, or AI will justify your existing framing instead of doing the reframing work you actually need.
+
+### The AI "second brain"
+
+Gogo built an AI "second brain" trained on **~15 years** of her knowledge *and* her voice; members chat with it any time for after-hours questions. Two access models illustrate the economics:
+- The [[Niche Finder]] runs **free via your own AI** (with provided prompt verbiage) — or **paid via her trained brain**, priced because it consumes *her* data.
+- Members are encouraged to **build their own AI brain** by feeding it their own coaching transcripts — your transcripts become your compounding asset.
+
+### Shared-drive default for team AI output
+
+When a team runs one AI account, **set a shared-drive folder as the default save location** so the whole team gets automatic access with no per-file requests — and have assistants join the setup call to implement it.
 
 ## Related
 

@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [mindset, law-of-attraction, visualization, personal-development, entrepreneurship]
-sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Can We Have It All]]", "[[Work-Life Balance Secrets]]", "[[How to Master Your Mindset for Business and Life Success]]", "[[From an Au Pair to a Millionaire]]", "[[How Your Feelings Can Sabotage Your Life and Success]]", "[[How to Reprogram Your Mind]]", "[[Unrealistic Goals Real Results]]", "[[A Conversation Between Two Immigrant Women]]", "[[eXp Realty Has Changed My Life]]", "[[Money Frequency]]", "[[Gogopreneur — Public Speaking Episode 4]]", "[[Market Shifts with Aaron Novello]]", "[[What It Takes to Grow a Real Estate Business Through Chaos (Beth Silverman)]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[From 11-Year-Old Entrepreneur to Real Estate Powerhouse (Elise Palacios)]]", "[[The Power of Manifestation Identity (Kathleen Cameron)]]", "[[How to Cut the Baggage That's Slowing You Down (Gary Coxe)]]", "[[Marriage Advice (Gogo and Dwayne shorts)]]", "[[Confidence and Body Language (Gogo Bethke)]]", "[[Quotes I Live By (Presentation)]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[Money Mindset Mastery — Production Accelerator Event (Presentation)]]", "[[Agent to CEO — Full Presentation]]", "[[Business Foundations — Mindset, Systems, and Building Your Team with Virtual Assistants]]", "[[Business Time Management Strategy That Works]]", "[[Mastering Your Numbers — Leads, Time & Revenue]]", "[[Live Q&A — Delegation, Marketing & Growth Hacks]]", "[[The Shit Our Parents Didn't Teach Us — Mixing Strategy and Mindset with Barbara Schreihans]]", "[[The Identity Shift That Redefines Your Ceiling (Craig Siegel)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]", "[[The Art of Conscious Communication (Jamie Miller)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[Your 2026 Goals Reverse Engineered — Open to Public (Gogo Bethke)]]", "[[From an Au Pair to a Millionaire — Day 5 (Gogo Bethke)]]", "[[GoGet'Em Guest Training — Krista Mashore — Origin Story and Mindset]]", "[[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Manifesting Through Personal Power (Kathleen Cameron)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]"]
-updated: 2026-07-09
+sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Can We Have It All]]", "[[Work-Life Balance Secrets]]", "[[How to Master Your Mindset for Business and Life Success]]", "[[From an Au Pair to a Millionaire]]", "[[How Your Feelings Can Sabotage Your Life and Success]]", "[[How to Reprogram Your Mind]]", "[[Unrealistic Goals Real Results]]", "[[A Conversation Between Two Immigrant Women]]", "[[eXp Realty Has Changed My Life]]", "[[Money Frequency]]", "[[Gogopreneur — Public Speaking Episode 4]]", "[[Market Shifts with Aaron Novello]]", "[[What It Takes to Grow a Real Estate Business Through Chaos (Beth Silverman)]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[From 11-Year-Old Entrepreneur to Real Estate Powerhouse (Elise Palacios)]]", "[[The Power of Manifestation Identity (Kathleen Cameron)]]", "[[How to Cut the Baggage That's Slowing You Down (Gary Coxe)]]", "[[Marriage Advice (Gogo and Dwayne shorts)]]", "[[Confidence and Body Language (Gogo Bethke)]]", "[[Quotes I Live By (Presentation)]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[Money Mindset Mastery — Production Accelerator Event (Presentation)]]", "[[Agent to CEO — Full Presentation]]", "[[Business Foundations — Mindset, Systems, and Building Your Team with Virtual Assistants]]", "[[Business Time Management Strategy That Works]]", "[[Mastering Your Numbers — Leads, Time & Revenue]]", "[[Live Q&A — Delegation, Marketing & Growth Hacks]]", "[[The Shit Our Parents Didn't Teach Us — Mixing Strategy and Mindset with Barbara Schreihans]]", "[[The Identity Shift That Redefines Your Ceiling (Craig Siegel)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]", "[[The Art of Conscious Communication (Jamie Miller)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[Your 2026 Goals Reverse Engineered — Open to Public (Gogo Bethke)]]", "[[From an Au Pair to a Millionaire — Day 5 (Gogo Bethke)]]", "[[GoGet'Em Guest Training — Krista Mashore — Origin Story and Mindset]]", "[[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Manifesting Through Personal Power (Kathleen Cameron)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]", "[[The Circle Coaching — Leadership Load, The Opposite Can Be True and Meeting Cadence (de-identified)]]", "[[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]"]
+updated: 2026-07-12
 ---
 
 # Mindset
@@ -512,6 +512,82 @@ When emotional patterns are misaligned → financial frustration, brand stagnati
 **Abundance always exists.** Knolly's gazelle-migration analogy: on the savanna there's always water and always grass — "the gazelles just know how to go find it." Scarcity is a perception problem, not a supply problem. He pairs this with [[Jim Rohn]]: if you redistributed all the wealth evenly, it would flow right back into the same pockets — because wealth follows the person, not the circumstance.
 
 **"Choose your hard."** Every path is hard, so pick which hard you want. Broke is hard. Cold-calling is hard. Being on camera is hard. There is no easy option — only a chosen one. And Knolly chooses the version that feels good: *"I choose to make it fun and easy… it doesn't have to be hustle and grind."*
+
+## Circle Coaching Reframes
+
+A cluster of mindset tools Gogo teaches inside her private [[The Circle|Circle]] coaching. NDA-protected; only her generalizable teachings are captured.
+
+### "The Opposite Can Be True" Worksheet
+
+A one-page writing exercise for dislodging limiting beliefs. List ~5 negative beliefs you genuinely feel, then force your brain to write the *literal opposite* of each — and argue that the opposite might be the real truth. Tony Robbins' frame: **"the opposite is more than likely the truth."** A coping story like "I'm not enough" often inverts to the actual cause — "I'm too much for them to handle."
+
+**Truth is just an accepted thought.** Two people hold opposite "truths" about the same thing, which proves these are chosen beliefs, not facts. Do not let yourself — or your AI — justify the status quo. Give AI full context on the reframe you want first, or it will simply defend your existing framing. Unexamined beliefs repeat: "same Groundhog Day next year."
+
+> "The opposite is more than likely the truth."
+
+### The Points / Karma System
+
+Life scores your actions like a credit score. **Put out 10 points of good and the universe *must* return 10** — it does not have a choice. When someone harms you, that's a separate small "ding" on *their* account; it does not subtract from what you are owed. Do your 10 points daily and trust the return rather than keeping score against the people who wronged you. (Ties to Zig Ziglar — help enough people get what they want.)
+
+### Hard Work ≠ Money
+
+Many top producers subconsciously believe money only comes from grinding — so when money arrives easily, they self-sabotage and it "goes away," because we get what we believe. The fix is to teach your brain that **slowing down doesn't mean going out of business.**
+
+**The nervous system lags the new reality.** Reaching freedom can leave your body still in survival mode ("slow means death"). Expect an awkward adjustment period — it is normal, not a warning sign. And **make the *next* decision:** the deliberate choice that made you a hustler has to be consciously re-made when you arrive, or you stay stuck running old habits in a new season.
+
+### Ego vs. Heart
+
+> "Your ego is not your amigo."
+
+The head justifies and delays; the heart answers instantly. **If an answer took time to arrive, it came from the head, not the heart.** Lead business decisions — including firing and partnership exits — with the head; but read your gut instantly and trust the fast answer for what you actually want. Keeping a brand name or a failing partnership "because it's mine" is usually an ego decision.
+
+### Pebbles → Bricks
+
+> "God will throw you little pebbles, and if you don't listen on the pebble level, He's going to throw you a brick."
+
+A recurring problem is a lesson you haven't learned yet. Ask **"what am I meant to learn?"** — once you learn it, that problem never returns; you simply level up to the next one. Not every decision is a home run; some only exist to teach a lesson, and **cutting losses is maturity, not failure.** (Extends [[#Hardship as Unlearned Lesson (Gogo Bethke)|Hardship as Unlearned Lesson]] above.)
+
+### Hypnotic Rhythm & Elephant Chains
+
+The first ~7–8 years of childhood set your core beliefs. The chained elephant never tries to escape as an adult even though it easily could — so ask which childhood "chains" still bind you. Per *Outwitting the Devil* (Napoleon Hill), **~98% of daily thoughts simply repeat yesterday's** — "a broken record" running on the subconscious — which is why you often can't fix it by conscious effort alone. A third party (coach, therapist, immersive transformational event) is sometimes required.
+
+> "98% is a broken record that we've been telling ourselves for God knows how long."
+
+> "If we could fix ourselves, we would have."
+
+Reading: *Think and Grow Rich* (reread — it lands differently each time) and *Outwitting the Devil*.
+
+### Adversity as Curriculum
+
+Hard chapters are material to study so you can later teach others. **"If you really want to learn it, teach it."** The question in a difficult season is not "why me?" but "what is this here to teach me that I'll one day hand to someone else?"
+
+### It's Lonely at the Top
+
+Surpassing 99% of people makes you structurally *different* from 99% of people — so isolation at the top is a feature of the position, not evidence of failure. Expect it; don't misread it as something going wrong.
+
+### Abundance Over Gatekeeping
+
+> "Trying to protect my slice of the pie never works, because it isn't yours."
+
+Gatekeeping and hoarding never produce wealth — help more people get what they want instead. Extend this to competitors: losing a deal to a cheaper or better-connected agent "doesn't affect you; it's their life." Reframe losses as protection. And **learn from those ahead of you** — assuming you already have it figured out is the ceiling; take top producers to coffee, DM peers outside your market to sidestep scarcity thinking.
+
+### "Not Even Jesus Turned Everyone Christian"
+
+> "Not even Jesus turned everyone Christian — I just need the people who are looking for me."
+
+You do not need a 100% close rate. Chasing everyone is a scarcity trap. Speak to the specific people who are already looking for you and let the rest go. (Reinforces [[#"Their Opinion Doesn't Pay Your Bills"|the people filter]] above.)
+
+### Don't Carry Inherited Trauma
+
+A family member's past hardship is "not yours to carry." Clinging to inherited pain or a scarcity story that was never yours caps your growth. Set it down — it is not a debt you owe. (Compare the immigrant "why aren't they here?" reframe above.)
+
+### 2× Is Harder Than 10×
+
+A 2× goal is dangerous because it lets you keep doing everything yourself — just harder. A true multiple (10×) is mathematically impossible to grind out alone, so it *forces* systems and leverage. The scarier, bigger goal is actually the easier path because it makes you build the machine. (Pairs with **subtract-before-you-add**: see [[Productivity]].)
+
+### Own Your Numbers
+
+State your numbers plainly and be proud of them; don't hide behind vague figures. Owning your numbers — production, income, pipeline — is a mindset position: you can't navigate from, or attract more than, a number you refuse to look at.
 
 ## Related
 

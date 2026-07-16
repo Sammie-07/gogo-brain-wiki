@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [open-houses, lead-generation, real-estate, sop, follow-up, social-media]
-sources: ["[[How to Host Open Houses]]", "[[How to Host Open Houses (Summary)]]"]
-updated: 2026-04-30
+sources: ["[[How to Host Open Houses]]", "[[How to Host Open Houses (Summary)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]"]
+updated: 2026-07-12
 ---
 
 # Open Houses
@@ -133,6 +133,28 @@ Key elements:
 > "You have to outwork everyone. You have to outperform everyone. You have to out-expert everyone. You have to out-market everyone. You have to out-follow-up everyone."
 
 > "If you want what the top 1% has, you have to do what 99% is not willing to do."
+
+## The Two-Buyer Open-House System (Circle coaching)
+
+*Source: [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]. Private [[The Circle|Circle]] coaching, de-identified — Gogo's generalizable teachings only.*
+
+The open house is the engine that turns one listing into **two buyers and three commissions** (seller side + the buyer of that home + a buyer for a comparable nearby). It only works if the opens are guaranteed and the follow-up is relentless.
+
+**Write weekend opens into the listing agreement.** Held **every Saturday and Sunday until sold** — not optional, not weather-dependent. Baking it into the agreement is what makes the two-buyer math dependable.
+
+**Personalized ~30-second driveway video to every attendee, by name.** Recorded in the driveway before you leave — one individual video per attendee/couple, **never a blast.** Same rhythm every time:
+1. **Greet by name** (pulled from the sign-in sheet)
+2. **Thank them** for coming
+3. **Give the update** — traffic count, level of interest
+4. "If you want to offer, **tell your realtor**"
+5. "If you don't have one, **I'd love to represent you**"
+6. "If this isn't the home, **I'd love to show you others** in the same area and price range"
+
+That last line is what harvests the *second* buyer — the person already shopping that area and price who won't buy this house but will buy a comparable one.
+
+**Monday 9:00 a.m. review.** A standing team meeting to review the weekend: which homes were held, traffic counts, and whether **every** attendee was followed up. "Buyers are liars" — follow up with all of them regardless of what they claimed at the door.
+
+**Delegate and keep the split.** Hand open houses to a **licensed team member** and still earn the split (~50%) without giving up your weekends and family time — "50–60% of *something* beats burnout."
 
 ## Related
 
