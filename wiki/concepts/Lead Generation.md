@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [lead-generation, sales, real-estate, social-media, referrals, automation]
-sources: ["[[GoGet'Em Brand Audit Call — Amanda Richards and Angela Kane]]", "[[How to Generate Buyer and Seller Leads (Amy Gregory)]]", "[[Marketing Through FREE Neighborhood Events (Stacey Leslie)]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[How Realtors Can Use AI to Generate Leads (Live Training)]]", "[[AI For Realtors — How to Use AI to Close 1 Deal Every Month]]", "[[Market Shifts with Aaron Novello]]", "[[How to Easily Sell $10M with Social Media]]", "[[Realtor's Secret to Extra Income — REMLO Program (Joe Vegas)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Landing Pages — Why You Need Them and How to Use Them Weekly]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Finding Your Ideal Client for Buyers and Sellers (Gogo Bethke)]]", "[[Pick Your Lane Buyers Sellers Property Type Mastery (Gogo Bethke)]]", "[[How to Own Your Price Point and Attract the Right Buyers (Gogo Bethke)]]", "[[The 5 Hashtags Strategy Target Your Local Market (Gogo Bethke)]]", "[[Get Instant MLS Alerts for New Listings (GoGetEm Community)]]", "[[Finding Your Ideal Clients and Targeting Them Effectively (Gogo Bethke)]]", "[[Who Is Your Ideal Client and How To Find Them (Gogo Bethke)]]", "[[The Art of the Gift — Gifting Strategy for Relationship Building (Katie Lawrence)]]", "[[GoGet'Em Training — Funnels and Technology (Gogo Bethke)]]", "[[GoGet'Em Webinar — Events-Based Lead Generation (Jessica and Seth)]]", "[[Poker Run and Progressive Open House Events (Savannah Gutierrez)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Self-Selling Seller System LIVE (Austin Rankin)]]", "[[Google My Business Optimization for Real Estate Agents (Noemi Chavez)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]", "[[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]", "[[The AI Stack Top Agents Dont Talk About - Azulio CRM (Matt Kemps and Rob Poulton)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]", "[[Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]", "[[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]"]
+sources: ["[[GoGet'Em Brand Audit Call — Amanda Richards and Angela Kane]]", "[[How to Generate Buyer and Seller Leads (Amy Gregory)]]", "[[Marketing Through FREE Neighborhood Events (Stacey Leslie)]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[How Realtors Can Use AI to Generate Leads (Live Training)]]", "[[AI For Realtors — How to Use AI to Close 1 Deal Every Month]]", "[[Market Shifts with Aaron Novello]]", "[[How to Easily Sell $10M with Social Media]]", "[[Realtor's Secret to Extra Income — REMLO Program (Joe Vegas)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Landing Pages — Why You Need Them and How to Use Them Weekly]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Finding Your Ideal Client for Buyers and Sellers (Gogo Bethke)]]", "[[Pick Your Lane Buyers Sellers Property Type Mastery (Gogo Bethke)]]", "[[How to Own Your Price Point and Attract the Right Buyers (Gogo Bethke)]]", "[[The 5 Hashtags Strategy Target Your Local Market (Gogo Bethke)]]", "[[Get Instant MLS Alerts for New Listings (GoGetEm Community)]]", "[[Finding Your Ideal Clients and Targeting Them Effectively (Gogo Bethke)]]", "[[Who Is Your Ideal Client and How To Find Them (Gogo Bethke)]]", "[[The Art of the Gift — Gifting Strategy for Relationship Building (Katie Lawrence)]]", "[[GoGet'Em Training — Funnels and Technology (Gogo Bethke)]]", "[[GoGet'Em Webinar — Events-Based Lead Generation (Jessica and Seth)]]", "[[Poker Run and Progressive Open House Events (Savannah Gutierrez)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Self-Selling Seller System LIVE (Austin Rankin)]]", "[[Google My Business Optimization for Real Estate Agents (Noemi Chavez)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]", "[[Social Media Marketing Mindset and Lead Capturing (Gogo Bethke)]]", "[[The AI Stack Top Agents Dont Talk About - Azulio CRM (Matt Kemps and Rob Poulton)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]", "[[Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]", "[[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]"]
 updated: 2026-07-16
 ---
 
@@ -666,6 +666,37 @@ Marketing an assumable listing is an **inbound-lead magnet** in a high-rate mark
 
 **Auto-added inventory.** In covered MLS areas (e.g., South Florida / Beaches / Miami), a property is **auto-added to the marketplace the moment it's listed** — but only if its loan is assumable and below 5%. eXp bought an enterprise license, so every eXp agent gets free access. See [[Assumable Mortgages]] for the full assumability rules and fee structure.
 
+## Google Business Profile — Build It, Prove It, Feed It (Kalie Kinsella)
+
+*Source: [[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]. A #teamgogo / GoGet'Em live training with guest [[Kalie Kinsella]] ("That Google Girl"). This **deepens** the [[#Google Business Profile Optimization (Noemi Chavez)|Noemi Chavez GBP section]] above with the mechanics of ranking a profile in the AI-search era.*
+
+> "Google doesn't rank businesses now. It's ranking confidence. It is ranking validity." — Kalie Kinsella
+
+**Why the game changed.** Google's local search **relaunched (~June 6, 2026)** running roughly **30× more verification checks**, and the Google Business Profile (GBP) now behaves like **social media** — it wants frequent fresh updates and engagement, not a set-it-and-forget-it listing. The whole framework is **"Build it, Prove it, Feed it":** build the profile, prove your business and expertise are legitimate, then continuously feed it content and engagement.
+
+> "Build it, prove it, feed it. If you take anything away from today, this is the theme." — Kalie Kinsella
+
+**List as an individual practitioner / Service Area Business (SAB).** A real estate agent is remote — no storefront. Do **not** fabricate an office; **a P.O. box counts as a fake office and triggers suspensions.** Never create profiles to rank in cities you don't actually serve.
+
+**Top-5 setup priorities:**
+1. **Identity & ownership** — claim/own the profile under a **branded Google Workspace email**, enable **2-step verification**, and keep yourself **sole owner** with assistants/vendors added as **"managers" only** (never co-owners).
+2. **Address / service area** — list **specific cities, ZIPs, and communities** within drivable range; **never the whole state**.
+3. **Categories & services** — primary category **"Real Estate Agent"** (not "agency/brokerage" unless you *are* the brokerage) plus only a few **relevant secondaries** — too many can hurt ranking.
+4. **Complete every field** — hours (**never 24/7** — it reads as fake), website, appointment link; a fully complete profile signals validity.
+5. **Visual trust** — **real local photos/video, not Canva stock** (Google scans Canva's stock inventory and discounts it).
+
+**Reviews.** Ask after **every closing** (use a scripted post-closing email + text); **vendors, title, lender, and co-op agents all count**; review-for-review trades are fine, but **never buy, pay for, or reward reviews.** Respond within **24–48 hours**, and clear any backlog at **one per day** — never all at once, which looks bot-like.
+
+**Rankings compound over 3–4 months, not overnight** — review the profile monthly as a standing calendar appointment. **Blogging is back as the #1 ranking driver** ("The number one way to rank up in Google is blogging. Is that crazy? It's back."). **Publish GBP updates like social posts** — market updates, community guides, open houses, "question of the day" — so the profile keeps feeding.
+
+**The 5-Day Google Visibility Challenge:** Day 1 audit + ownership; Day 2 categories/services/hours/appointment links; Day 3 visual proof (headshot, logo, local photos, a 30–60s video); Day 4 review system (post-closing email + text templates, direct review link); Day 5 publish an update + record baseline metrics (calls, clicks, direction requests, appointments) + schedule monthly maintenance.
+
+**Secret tool:** [answerthepublic.com](https://answerthepublic.com) surfaces the actual questions people ask in your area — mine it for hyper-local content (and see the [[AI for Real Estate#AI Search & "Search Everywhere Optimization" (Kalie Kinsella)|AI-search behavior]] driving those long queries).
+
+**Warnings:** photos take **7–14 days to verify** (don't re-upload — it resets the clock); **GBP can't post most MLS listings** (legal/validity conflicts); Google's paid **"verified relocation lead" / Local Services Ads (LSAs)** program now spans 50 states (Gogo is skeptical vs. Zillow/Realtor.com/Trulia spend); and beware **lead-scam texts spoofing Google** to phish agents.
+
+This is the free-traffic engine underneath [[Personal Branding#Brand Syndication for Search (Kalie Kinsella)|brand syndication]] — a consistent profile is what Google trusts enough to rank.
+
 ## Related
 
 - [[Social Media and Email Marketing]]
@@ -681,6 +712,7 @@ Marketing an assumable listing is an **inbound-lead magnet** in a high-rate mark
 - [[Austin Rankin]]
 - [[Erin DiCarlo]]
 - [[Noemi Chavez]]
+- [[Kalie Kinsella]]
 - [[Jessica]]
 - [[Seth]]
 - [[Savannah Gutierrez]]

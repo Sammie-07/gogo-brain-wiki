@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [ai, productivity, marketing, lead-generation, real-estate]
-sources: ["[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[AI Leverage — Build Your Personal AI System (Thomas Heimann)]]", "[[The AI Stack Top Agents Don't Talk About — Azulio CRM Deep Dive (Matt Kemps and Rob Poulton)]]", "[[ChatGPT is a Conversation. Claude is a Command Center. (Carrie Soave)]]", "[[Master Your Copywriting & AI Brand Voice (Gogo Bethke)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]"]
-updated: 2026-07-12
+sources: ["[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[AI Leverage — Build Your Personal AI System (Thomas Heimann)]]", "[[The AI Stack Top Agents Don't Talk About — Azulio CRM Deep Dive (Matt Kemps and Rob Poulton)]]", "[[ChatGPT is a Conversation. Claude is a Command Center. (Carrie Soave)]]", "[[Master Your Copywriting & AI Brand Voice (Gogo Bethke)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]"]
+updated: 2026-07-16
 ---
 
 # AI for Real Estate
@@ -96,9 +96,22 @@ Gogo built an AI "second brain" trained on **~15 years** of her knowledge *and* 
 
 When a team runs one AI account, **set a shared-drive folder as the default save location** so the whole team gets automatic access with no per-file requests — and have assistants join the setup call to implement it.
 
+## AI Search & "Search Everywhere Optimization" (Kalie Kinsella)
+
+*Source: [[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]. [[Kalie Kinsella]] ("That Google Girl"), #teamgogo / GoGet'Em training.*
+
+**Gemini and AI search changed how buyers search.** Instead of two-word queries, people now type **long, specific prompts** into Gemini and AI-powered search — bundling **relocation + new construction + commute time + lifestyle** into a single ask. To surface in those results, a profile must show **hyper-local, service-specific proof**, not generic "top realtor" claims. When AI answers a real estate question, **Google checks the [[Google Business Profile]] first, then the website, then the reviews** — so the whole trust chain has to be consistent and complete.
+
+**"SEO" now means "Search Everywhere Optimization"** (credited to trainer Ryan McClure): being on one platform isn't enough when AI models pull signals from everywhere.
+
+> "It's no longer search engine optimization. It's search everywhere optimization. If you're not everywhere, you're kind of nowhere on a digital level." — Kalie Kinsella
+
+**Google now ranks confidence and validity, not businesses.** Its ~June 2026 local relaunch runs roughly **30× more verification checks**, so the AI-era ranking currency is a **legitimate, consistent, actively-fed identity** across profiles. This is the same shift behind Gogo's [[#Gogo's "second brain" / Niche Finder|Niche Finder]] insight that **AI search now reads social posts, not just websites** — niche-keyword discipline everywhere is what earns the AI recommendation. The execution playbook lives in [[Lead Generation#Google Business Profile — Build It, Prove It, Feed It (Kalie Kinsella)|Build it, Prove it, Feed it]]; the consistency rules in [[Personal Branding#Brand Syndication for Search (Kalie Kinsella)|brand syndication]].
+
 ## Related
 
 - [[Thomas Heimann]]
+- [[Kalie Kinsella]]
 - [[Carrie Soave]]
 - [[Azulio]]
 - [[Claude Cowork]]
