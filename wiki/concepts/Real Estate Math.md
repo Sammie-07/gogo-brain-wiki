@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [real-estate, math, brokerage, production, exp-realty]
-sources: ["[[Lets Do Some Math Again]]", "[[How to Eat an Elephant — 2026 Goals]]"]
-updated: 2026-04-15
+sources: ["[[Lets Do Some Math Again]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]"]
+updated: 2026-07-16
 ---
 
 # Real Estate Math
@@ -64,6 +64,25 @@ For an agent whose strength is being in front of people (Gogo's own lane), open 
 > "That's why it matters where you hang your license. That's why it matters where you learn. That's why it matters where you get referrals from. That's why it matters where you do business."
 
 The math argument: being surrounded by agents with a PPP of 6+ vs. 2 is a direct input to your own production, referral flow, and learning environment.
+
+## Assumable Mortgage Math (AssumeList)
+
+*Source: [[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]*
+
+The numbers behind assuming a seller's low-rate loan — the affordability lever [[AssumeList]] surfaces for [[#teamgogo]] in a high-rate market.
+
+**Which loans qualify.** Only **FHA, VA, and USDA** loans are assumable — never conventional. USDA adds an income test: the assuming buyer's income must be **≤115% of local median household income**.
+
+**The equity-gap formula.** The buyer assumes only the *remaining balance*, not the sale price — so they must cover the gap created by appreciation and paydown. In practice that's **~10% down**, with the balance above that financed by a **second mortgage**:
+
+```
+Purchase price − remaining assumable balance = equity gap
+Equity gap  ≈  ~10% cash down  +  second mortgage (the rest)
+```
+
+**Monthly savings.** Assuming a sub-3% loan instead of originating at ~6.25% saves roughly **$500–$1,000/month today** (down from $2,000–$3,000 a few years ago, when the rate spread was wider). Some buyers pursue an assumption to save as little as ~$100/month.
+
+**The display threshold.** AssumeList only surfaces homes whose assumable loan sits **below 5%** — the line where the assumption is worth the added second-mortgage complexity versus a fresh loan. See [[Assumable Mortgages]] for the full mechanics and fee structure.
 
 ## Related
 

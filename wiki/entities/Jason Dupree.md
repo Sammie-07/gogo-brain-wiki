@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, lender, mortgage, exp-realty, REMLO]
-sources: ["[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[Anatomy of a Transaction Part 4 — Title (Jennifer Worthington and Jessica DeShane)]]", "[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Attraction as a Byproduct of Production (Russ Laggan)]]", "[[The Rabbit Hole — Trust Ladder for Warm Leads (Natalie Davison)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]"]
-updated: 2026-07-09
+sources: ["[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[Anatomy of a Transaction Part 4 — Title (Jennifer Worthington and Jessica DeShane)]]", "[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Attraction as a Byproduct of Production (Russ Laggan)]]", "[[The Rabbit Hole — Trust Ladder for Warm Leads (Natalie Davison)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]"]
+updated: 2026-07-16
 ---
 
 # Jason Dupree
@@ -29,6 +29,8 @@ Jason Dupree is a loan officer at Texana Bank and the recurring mortgage partner
 - REMLO-of-the-month examples: Melissa Albert (+$5,800 in a month; nearing ICON), Macy (5 closings, 7th of ~463 REMLOs), J.R. St. Julian, Kelly LaFave, [[Jennifer Worthington]], Morgan Tower.
 
 **Jul 9, 2026 mortgage minute (Knolly Williams call):** rates ticked back up on renewed geopolitical uncertainty (Iran) — but less competition means buyers can win on price now and refi in 12–24 months. Pushed **bridge loans** (remove the home-sale contingency) and a standout **non-front-loaded-interest loan product** — on a recent $1.1M deal projected to save the client ~$900K in interest despite a higher headline rate (Gogo booked him to explain it in detail the following week).
+
+**Jul 15, 2026 mortgage minute (AssumeList call):** ~75% of current purchases are first-time buyers (~54%) + investors (~23%); rates at a **2-year high** (per CNBC). REMLO agents earn on the transaction, the loan, and a later refinance. Highlighted a **100%-forgivable down-payment-assistance grant** (forgivable after 6 payments / 7 months; FHA-based; set high ~7.25% to harvest credits, then FHA-streamline to ~6.25%; income limit ~150% AMI) and investor programs (**DSCR, bank-statement loans, HELOC-to-invest, LLC structuring**).
 
 ## Related
 

@@ -80,6 +80,8 @@
 | [[entities/Jason Matthews]] | Goldbar Staffing trainer (~$300M NY sales background); sales-systems / speed-to-lead + staffing; GoGet'Em "Speed to Lead" guest. Distinct from Goldbar CEO Juan Carlos Baronetti. |
 | [[entities/Goldbar Staffing]] | Real-estate VA/staffing company (CEO Juan Carlos Baronetti; trainer Jason Matthews); "Goldie" delegation tool; full-time cross-trained VAs on a buy-back-your-time model. |
 | [[entities/Knolly Williams]] | Best-selling author & listing-first solo agent (1,000+ deals/10 yrs, 153 solo, no cold calls); 300+ agent eXp org; creator of the "5 Big Rocks" + Triple My Listings; GoGet'Em guest (Jul 2026). |
+| [[entities/AssumeList]] | Assumable-mortgage marketplace (Nora Simpson & Mike Lorino); surfaces sub-5% FHA/VA/USDA loans; eXp enterprise license (free for all agents); #teamgogo guest (Jul 2026). |
+| [[entities/Alexis Carrera]] | Michigan eXp listing agent & REMLO in #teamgogo; creator of the "skin in the game" Marketing Services Agreement (client bears marketing-cost risk). |
 | [[entities/Cat West]]           | eXp top producer (Oviedo FL); faith-based (Christian) agent-attraction brand; ~28 sponsored agents, ~$100K rev share via Instagram. Distinct from [[entities/Kat]]. |
 | [[entities/Allison]]            | eXp broker-owner; Staten Island→NJ relocation niche; $250K+ Instagram-attributed transactions; dollar-per-post ROI. |
 | [[entities/Jon Pugle]]          | Sphere-of-influence / referral trainer; GoGet'Em guest; handwritten notes, 200-person power list, board-of-directors dinner; "human connection is the moat against AI." |
@@ -110,10 +112,11 @@
 | [[concepts/Luxury Real Estate]] | Windy Goss's Magical Black Book Strategy — expired luxury MLS listings, premium physical marketing, FedEx to seller; positioning before listings; luxury brand building. |
 | [[concepts/AI for Real Estate]] | 3 eras of AI, intelligence briefs, client avatars, custom GPTs, AI agents (Claude Cowork), model selection, agentic CRM/digital farming (Azulio), Gogo's "second brain," eXp's Mira. |
 | [[concepts/Niche Finder]] | Gogo's AI niche tool ($24): 10-question form → niche statement, IG bios, 8 marketing ideas, SEO plan, 12-week blog calendar, 90-day plan; pivot-don't-restart; the Buffer/Hootsuite caveat. |
+| [[concepts/Assumable Mortgages]] | Buyer assumes a seller's sub-5% FHA/VA/USDA loan; equity-gap second mortgage; investor angle (VA); AssumeList marketplace + agent playbook. |
 
 ---
 
-## Sources (365 ingested)
+## Sources (366 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
@@ -126,6 +129,7 @@
 | [[sources/The Circle Coaching — Leadership Load, The Opposite Can Be True and Meeting Cadence (de-identified)]] | Gogo Bethke | — | NDA de-identified: "opposite can be true" worksheet, points/karma, hypnotic rhythm, rotating monthly meeting cadence, Meta-Verified/Shared-Access media delegation. |
 | [[sources/The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]] | Gogo Bethke | — | NDA de-identified: own-the-niche-you-live, AI-as-execution-layer, fight-your-TC full-service, post-departure referral clause, abundance mindset. |
 | [[sources/The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]] | Gogo Bethke | — | NDA de-identified: "you list you last" two-buyers/three-commissions, open-house two-buyer video follow-up, the value ladder, AI second brain + accountability dashboard. |
+| [[sources/Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]] | Gogo Bethke | 2026-07-15 | #teamgogo: assumable-mortgage marketplace AssumeList (sub-5% FHA/VA/USDA, equity-gap 2nd mortgage, eXp enterprise license); Jason Dupree REMLO minute (forgivable DPA grant); Alexis Carrera "skin in the game" marketing agreement. |
 | [[sources/Red Light Green Light Exercise]]      | Gogo Bethke  | —          | Time audit exercise: categorize every daily task as green (money) or red (delegate).         |
 | [[sources/Lets Do Some Math Again]]             | Gogo Bethke  | 2026-04-13 | PPP argument for brokerage choice; Team Go stats; 71.1% of realtors sold 0 homes in 2025.    |
 | [[sources/I Send One Email a Day]]              | Gogo Bethke  | 2026-04-09 | Daily email newsletter practice; GoGet'Em Community.                                         |

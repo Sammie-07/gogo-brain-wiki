@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, brokerage, real-estate]
-sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]"]
-updated: 2026-07-05
+sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]"]
+updated: 2026-07-16
 ---
 
 # eXp Realty
@@ -161,6 +161,10 @@ Training program to help new agents reach cap quickly (~every 6 weeks/quarterly)
 - Stats: 384 agents claimed 1,930 leads through FastCap
 - Leads source: **Realty.com**
 - **Graduates receive free Realty.com leads for 1 year**; can pay to continue after
+
+## AssumeList Enterprise License
+
+[[eXp Realty|Leo Pareja]] purchased an enterprise license to **[[AssumeList]]** (assumable-mortgage marketplace), so **every eXp agent gets free access** to what is otherwise a ~$80/month service. Agents register at AssumeList.com/exp with code **BZEUEVKM** (business + eXp email), issue **buyer sub-accounts**, and in covered MLS areas their listings are auto-added once on the MLS (if the loan is assumable and below 5%). See [[Assumable Mortgages]].
 
 ## Tool and Training Ecosystem
 
