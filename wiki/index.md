@@ -84,6 +84,7 @@
 | [[entities/Alexis Carrera]] | Michigan eXp listing agent & REMLO in #teamgogo; creator of the "skin in the game" Marketing Services Agreement (client bears marketing-cost risk). |
 | [[entities/Kalie Kinsella]] | "That Google Girl" — Google Business Profile / local-SEO specialist; GoGet'Em guest; "Build it, Prove it, Feed it" framework. |
 | [[entities/Kirby Chan]] | Toronto-area eXp agent; AI-SEO / GEO teacher (get cited by ChatGPT/Gemini/Claude), "parasite SEO," AI video pipeline; runs the AI SEO Boot Camp attraction funnel. |
+| [[entities/Jeannie Steele]] | Top #teamgogo solo producer; dominates an 8,000-person Montana county via give-first community marketing; "be the name they already know." |
 | [[entities/Cat West]]           | eXp top producer (Oviedo FL); faith-based (Christian) agent-attraction brand; ~28 sponsored agents, ~$100K rev share via Instagram. Distinct from [[entities/Kat]]. |
 | [[entities/Allison]]            | eXp broker-owner; Staten Island→NJ relocation niche; $250K+ Instagram-attributed transactions; dollar-per-post ROI. |
 | [[entities/Jon Pugle]]          | Sphere-of-influence / referral trainer; GoGet'Em guest; handwritten notes, 200-person power list, board-of-directors dinner; "human connection is the moat against AI." |
@@ -118,7 +119,7 @@
 
 ---
 
-## Sources (369 ingested)
+## Sources (370 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
@@ -135,6 +136,7 @@
 | [[sources/Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]] | Gogo Bethke | 2026-07-15 | #teamgogo: assumable-mortgage marketplace AssumeList (sub-5% FHA/VA/USDA, equity-gap 2nd mortgage, eXp enterprise license); Jason Dupree REMLO minute (forgivable DPA grant); Alexis Carrera "skin in the game" marketing agreement. |
 | [[sources/Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]] | Kalie Kinsella | — | GBP/local-SEO playbook: "Build it, Prove it, Feed it," Google ranks confidence/validity, individual-practitioner/SAB, name-as-identity-field, brand syndication, reviews, blogging-is-back, 5-day challenge, answerthepublic.com. |
 | [[sources/AI SEO and Google Ranking for Listings (Kirby Chan)]] | Kirby Chan | — | AI-SEO / GEO for listings: dominate a small city, Google "Helpful Content," one niche service page at a time, drip reviews, "parasite SEO" to get cited by ChatGPT/Gemini/Claude, Claude→HeyGen AI video pipeline, foreign-language SEO, boot-camp attraction funnel. |
+| [[sources/Building a Dominant Business in a Small Market (Jeannie Steele)]] | Jeannie Steele | 2026-07-23 | Small-market domination: near-total share of an 8,000-person county via give-first gifting (~100 handmade/mo), institutional gratitude, town-tradition events, community boards, builder/land niche, "I don't compete" + non-negotiable fee, best-marketer-wins photography moat. |
 | [[sources/Red Light Green Light Exercise]]      | Gogo Bethke  | —          | Time audit exercise: categorize every daily task as green (money) or red (delegate).         |
 | [[sources/Lets Do Some Math Again]]             | Gogo Bethke  | 2026-04-13 | PPP argument for brokerage choice; Team Go stats; 71.1% of realtors sold 0 homes in 2025.    |
 | [[sources/I Send One Email a Day]]              | Gogo Bethke  | 2026-04-09 | Daily email newsletter practice; GoGet'Em Community.                                         |

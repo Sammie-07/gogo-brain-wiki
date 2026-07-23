@@ -713,9 +713,20 @@ The **"$15 AI SEO Boot Camp"** doubles as a revenue-share recruiting funnel — 
 
 Growth cited: **10 agents (2024) → 21 → 146.** This is the [[#"Everybody Is Getable"|"pebble in the shoe"]] and [[#Ideal Agent Profile — ChatGPT Framework|ideal-agent]] logic executed through a low-ticket product instead of pure content — the boot camp is the top of the attraction funnel, and the sister-city targeting keeps it non-competitive.
 
+## Attracting Self-Sufficient Producers (Jeannie Steele case)
+
+*Source: [[Building a Dominant Business in a Small Market (Jeannie Steele)]].*
+
+Gogo's downline skews toward high producers who need no training or hand-holding — a direct product of who her brand attracts.
+
+> "I attract high producers who don't require training. They're not needy, they're just ready to go. It's who I attract." — Gogo Bethke
+
+[[Jeannie Steele]] is the illustrating case: a top-ranked #teamgogo producer (**#1 by transactions, #5 by volume** in an org of ~1,700) who runs her own dominant small-market business with no need for Gogo to teach her the fundamentals. This is the [[#Ideal Agent Profile — ChatGPT Framework|ideal-agent]] model paying off — attract the already-capable and you lead a team of self-starters, not dependents.
+
 ## Related
 
 - [[Gogo Bethke]]
+- [[Jeannie Steele]]
 - [[Knolly Williams]]
 - [[#teamgogo]]
 - [[eXp Realty]]

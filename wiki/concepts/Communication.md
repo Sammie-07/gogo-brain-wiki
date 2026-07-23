@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [communication, leadership, influence, mindset, team-culture]
-sources: ["[[The Art of Conscious Communication (Jamie Miller)]]", "[[Amplify Your Influence — Introduction (René Rodriguez)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]"]
-updated: 2026-07-05
+sources: ["[[The Art of Conscious Communication (Jamie Miller)]]", "[[Amplify Your Influence — Introduction (René Rodriguez)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]", "[[Building a Dominant Business in a Small Market (Jeannie Steele)]]"]
+updated: 2026-07-23
 ---
 
 # Communication
@@ -96,9 +96,30 @@ Applying these frameworks in real estate contexts:
 
 Gogo hired [[Zee Slingsby]] for a communication reset — recognizing that even experienced communicators and teachers benefit from dedicated attention to *how* they speak, not just *what* they say. She brings communication experts into the GoGet'Em community because she applies the same standard to herself.
 
+## Listing Scripts — "I Don't Compete" & the Non-Negotiable Fee (Jeannie Steele)
+
+*Source: [[Building a Dominant Business in a Small Market (Jeannie Steele)]]. [[Jeannie Steele]] on the listing conversation as a confidence and boundary exercise, not a persuasion one.*
+
+**"I don't compete."** In 12+ years Jeannie competed for only 5 listings and won zero — and she's fine with that. Her stance, drawn from *The Full Fee Agent*: **if a seller is interviewing you, they've already chosen** the agent they want; the interview is theater. So she doesn't perform. She wishes them luck, keeps her marketing running, and moves on. Refusing to compete is itself the positioning — the agent who won't audition reads as the agent who doesn't need to.
+
+**The non-negotiable-fee script.** Jeannie draws a hard line between two different fees. **Buyer-side compensation is negotiable**; **her listing fee is not.** When a seller asks "what will you take?" on her own fee, she stands up:
+
+> "Mine's not negotiable. Take it or leave it. That's what I charge. If you don't like it, hire somebody else. I am not the agent for you." — Jeannie Steele
+
+Naming yourself out of the deal ("I am not the agent for you") is the move — it hands the choice back to the seller and signals you're not the one who needs the sale.
+
+**Speed is the edge.** Rather than argue value, she competes on velocity: *"I list very quickly — don't have a day, let's roll."* Being the fastest to get a home live is a differentiator no fee negotiation can match.
+
+**The boundary line — "were we ever?"** When a friend who had secretly interviewed other agents behind her back asked whether they were still friends, Jeannie answered:
+
+> "'Are we still friends?' And I said, 'Were we ever?'" — Jeannie Steele
+
+The line illustrates the same non-negotiable posture applied to relationships: she doesn't chase people who don't value her, friend or client.
+
 ## Related
 
 - [[Mindset]]
+- [[Jeannie Steele]]
 - [[Negotiation]]
 - [[Real Estate Teams]]
 - [[Gogo Bethke]]

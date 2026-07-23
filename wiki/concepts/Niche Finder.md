@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [niche-finder, ai, personal-branding, marketing, tool]
-sources: ["[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[How to Become the Obvious Choice in Your Market (Gogo Bethke)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[AI SEO and Google Ranking for Listings (Kirby Chan)]]"]
+sources: ["[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[How to Become the Obvious Choice in Your Market (Gogo Bethke)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[AI SEO and Google Ranking for Listings (Kirby Chan)]]", "[[Building a Dominant Business in a Small Market (Jeannie Steele)]]"]
 updated: 2026-07-23
 ---
 
@@ -83,9 +83,20 @@ The live niche-training *How to Become the Obvious Choice in Your Market* is the
 
 **Foreign-language niches have near-zero competition.** Writing content — and a separate site/GBP/Instagram — in a second language (Portuguese, Chinese) ranks far faster because almost no one competes there. *"If you speak a different language, start writing content in that language. There's no competition there."* — Kirby Chan
 
+## Combine Real Estate With What You Love — the Builder/Land Niche (Jeannie Steele)
+
+*Source: [[Building a Dominant Business in a Small Market (Jeannie Steele)]]. [[Jeannie Steele]] — a solo agent who captured near-total market share of an 8,000-person Montana county.*
+
+**Build your lead gen around what you genuinely love.** Jeannie hates cold-calling and door-knocking, so she anchored her entire lead-gen system to what she actually loves — crafting. She and her four kids handmake ~100 gifts a month and walk them to Main Street businesses. The niche isn't just *who* you serve, it's *how* you generate — pick a method you'll never burn out on because it's already how you like to spend your time. (Same "your niche comes from your real life" principle, applied to the activity, not just the avatar.)
+
+**Her avatar is the builder/land buyer.** Jeannie works with **5 builders** and specializes in land and spec homes. This niche has a distinctive economic signature: buying land to build drives **transaction *count* up while lowering average price**. That's why her rankings split so widely — **#1 by transactions but #5 by volume inside #teamgogo**, and #38 vs. ~#85 in the US among eXp individual producers. High deal count, lower per-deal price. If you want to rank by transactions, a land/builder niche is structurally suited to it. Example: she took a stalled 80-acre subdivision, split it into minor subdivisions, and paired the seller with a builder for spec homes — one relationship generating many transactions.
+
+**Niche knowledge sourced from community service.** Jeannie was invited onto the county **planning board** and **board of health**, and the subdivision/planning knowledge she gained there fed her builder niche directly. Serving on local boards isn't just goodwill — it's how she acquired the specialized, hard-to-copy knowledge that makes her the obvious choice for land and new-construction deals.
+
 ## Related
 
 - [[Gogo Bethke]]
+- [[Jeannie Steele]]
 - [[AI for Real Estate]]
 - [[Personal Branding]]
 - [[Social Media and Email Marketing]]
