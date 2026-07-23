@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [tax-strategy, wealth-building, real-estate, business-structure, legal]
-sources: [[[Tax Strategy and IRS Myths — Estate Planning Part 2 (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[Tax Planning For Real Estate Investors 101 (Toby Mathis)]], [[Big Beautiful Bill Tax Overhaul — Individual Breaks Part 1 (Toby Mathis)]], [[Trump's Big Beautiful Bill — Business Tax Breaks Part 2 (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[How To Invest In Your Kids' Roth IRA (And Make Them Millionaires Tax-Free)]], [[How to Bring Your Family Into Your Business for Maximum Tax Benefits (Barbara Schreihans)]], [[Tax-Free Family Business Strategies — Part 2 (Barbara Schreihans)]], [[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]], [[Tax Credit Tools for Real Estate — 45L and Cost Segregation (Dawn Lavanway, Eric Oliver)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]]]
-updated: 2026-07-12
+sources: [[[Tax Strategy and IRS Myths — Estate Planning Part 2 (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[Tax Planning For Real Estate Investors 101 (Toby Mathis)]], [[Big Beautiful Bill Tax Overhaul — Individual Breaks Part 1 (Toby Mathis)]], [[Trump's Big Beautiful Bill — Business Tax Breaks Part 2 (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[How To Invest In Your Kids' Roth IRA (And Make Them Millionaires Tax-Free)]], [[How to Bring Your Family Into Your Business for Maximum Tax Benefits (Barbara Schreihans)]], [[Tax-Free Family Business Strategies — Part 2 (Barbara Schreihans)]], [[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]], [[Tax Credit Tools for Real Estate — 45L and Cost Segregation (Dawn Lavanway, Eric Oliver)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]]
+updated: 2026-07-23
 ---
 
 # Tax Strategy
@@ -68,6 +68,11 @@ From a private [[The Circle|Circle]] coaching call (de-identified) — [[Gogo Be
 - **Cost segregation on every rental.** A separate engineering study (a few thousand dollars each) that your CPA does *not* do by default — you commission it and hand the report to the CPA. Roughly ~30% of a property's value can be written off. Do only as many studies per year as needed to offset that year's income. A CPA who's never mentioned it probably doesn't know it — a red flag. **Does not require an LLC.** (See the [[#Key Tax Strategy: Cost Segregation]] and [[#Tax Credit Tools — 45L Energy Credit and Cost Segregation]] sections above for the mechanics.)
 - **1031-exchange discipline.** A like-kind exchange defers the gain on an appreciated rental. Line up a **qualified intermediary in advance**; ~90-day reinvest window; proceeds move **title-company to title-company** — the money can never touch your personal account, even for a second, or the gain becomes taxable.
 - **Buy-and-hold.** Selling creates taxable income; the plan is to buy and hold inside the trust and let assets compound.
+
+**Audit-proof paperwork discipline (added):**
+- **Keep itemized paper receipts** — meals especially. A digital-only record may not survive an audit; store the physical receipts organized **by year**.
+- **Pay quarterly estimates on time and forward the confirmation** to both your bookkeeper and your accountant, so everyone's records reconcile.
+- **Bring completed prior-year returns to a new CPA** when you switch, so they can pick up with full context.
 
 ## Related
 - [[Legal Protection]]

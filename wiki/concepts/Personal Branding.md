@@ -17,23 +17,23 @@ A single master sheet containing every brand asset. Gogo requires this document 
 
 **What goes in it:**
 
-| Field | Example (Gogo's) |
-|-------|-----------------|
-| Name | Gogo Bethke |
-| Brand / username | Gogo's Real Estate |
-| Instagram profile link | direct URL |
-| Facebook link | direct URL |
-| YouTube link | direct URL |
-| LinkedIn link | direct URL |
-| TikTok link | (if applicable) |
-| Personal website | gogobethke.com |
-| Real estate website | gogorealestateteam.com (kvCORE) |
-| Google Business Profile | direct URL |
-| Branded email | christy@gogorealestate.com (example format) |
-| Headshot links | cloud folder or direct URLs |
-| Bio link | direct URL |
-| Smart phone number | kvCORE number |
-| Brand hashtags | #gogobethke, #gogorealestate, #gogetemcommunity |
+| Field                   | Example (Gogo's)                                |
+| ----------------------- | ----------------------------------------------- |
+| Name                    | Gogo Bethke                                     |
+| Brand / username        | Gogo's Real Estate                              |
+| Instagram profile link  | direct URL                                      |
+| Facebook link           | direct URL                                      |
+| YouTube link            | direct URL                                      |
+| LinkedIn link           | direct URL                                      |
+| TikTok link             | (if applicable)                                 |
+| Personal website        | gogobethke.com                                  |
+| Real estate website     | gogorealestateteam.com (kvCORE)                 |
+| Google Business Profile | direct URL                                      |
+| Branded email           | christy@gogorealestate.com (example format)     |
+| Headshot links          | cloud folder or direct URLs                     |
+| Bio link                | direct URL                                      |
+| Smart phone number      | kvCORE number                                   |
+| Brand hashtags          | #gogobethke, #gogorealestate, #gogetemcommunity |
 
 **Why it matters:** At any moment — for a coaching call, an audit, a collaboration, or a rebrand — everything needed to represent your brand is in one place. No hunting across platforms.
 
@@ -1293,78 +1293,10 @@ A consistent written voice is a brand asset — and it can be codified into AI. 
 
 **Maintain the voice over time.** Revisit custom instructions every 1–2 years and correct the GPT live when it drifts — a brand voice that's frozen to a two-year-old version of you (old kid ages, stale bio) stops being consistent with the real you.
 
-## Circle Coaching — Niche Ownership & Verified Delegation
-
-*Source: [[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]. Private [[The Circle|Circle]] coaching, de-identified — Gogo's generalizable teachings only.*
-
-> "Stop trying to be everything to everyone."
-
-**Own the niche you're already living — don't invent one.** When lived experience already forms a clear specialty, the move isn't to manufacture a new angle: "You don't need a new niche — you need to own the one you've been living." **Translate lived experience into authority** a competitor can't buy — lead with the personally-lived story, not a sales claim.
-
-**Write positioning for the audience's knowledge, not yours.** Use the **broadest recognizable geographic/category label** the audience will actually know. If they won't recognize the hyper-local name, name the region — the point is to be found, not to be precise.
-
-### Marketing-Release Testimonials
-
-Testimonials are a branding asset only if you can *reuse* them — so capture and license accordingly:
-- Ask for a **recorded video** focused on the **emotional arc** (how they felt, what changed), not a feature list.
-- Post it as a **reel** → repurpose into a written **case study** → later run it as a **paid ad**.
-- Get a **signed marketing release** (name, image, voice) up front so the testimonial can legally run as advertising down the line.
-
-### Verified Media Delegation
-
-So a VA can produce and post as the brand without sharing passwords or diluting the verified identity:
-- **Meta Verified** for the account
-- **Shared Access** (not shared logins) for team members
-- **Curate approved media into a shared album** the VA pulls from — the brand stays consistent and the owner keeps control.
-
-## Marketing Services Agreement & Media Release (Alexis Carrera / Gogo)
-
-*Source: [[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]*
-
-Two paperwork moves that signal professionalism and put clients on the hook — the branding theme underneath both: run your business like a business and clients take you more seriously.
-
-### The "Skin in the Game" Marketing Services Agreement
-
-[[Alexis Carrera]] built this after eating ~$1,200 in marketing costs when a seller fired her mid-listing. The agreement makes the client — not the agent — carry marketing-cost risk. Two structures:
-
-- **Option A — agent advances, seller reimburses.** The agent fronts marketing costs; the seller **reimburses documented third-party marketing expenses** if they cancel, withdraw, or terminate. Can optionally be **escrowed with title up front** so the money is already set aside.
-- **Option B — client pays vendors directly.** The client pays photographers, stagers, and other vendors themselves; the agent may offer a **commission credit at closing** as a goodwill offset.
-
-**Rules that make it enforceable:** always specify **a dollar amount AND a payment deadline** (vague terms don't hold), and clear the language with your broker and state before using it. Framed as a **commitment device** — the "neuroscience of sales" — that signals you take the listing seriously.
-
-**Commission ≠ marketing.** Marketing is an out-of-pocket expense separate from the listing fee:
-
-> "You get the Porsche, you pay for the Porsche… marketing is external, out of my pocket for listing this for you." — Alexis Carrera
-
-> "I will only learn one lesson really hard once. I said I'm never going down that road again." — Alexis Carrera
-
-### Gogo's Marketing / Photo Release
-
-A separate release granting rights to use a client's **image, likeness, voice, and property** across social, ads, and website — **no time limit, no geographic limit, and no opt-out.** The only way out is not to be home during filming. Pairs with the [[#Marketing-Release Testimonials|testimonial]] release logic: capture the rights up front so content can legally run as advertising later.
-
-> "The more serious I got about running my business like a business and respecting it like a business, the more serious they took me." — Gogo Bethke
-
-## Brand Syndication for Search (Kalie Kinsella)
-
-*Source: [[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]. [[Kalie Kinsella]] ("That Google Girl"), #teamgogo / GoGet'Em training. The [[Same Photo Everywhere]] / [[Same Username Everywhere]] principles, now with a search-engine reason to enforce them.*
-
-**Consistency is no longer just recognition — it's rankability.** Your **name, phone, logo, and headshot must be identical** across your [[Google Business Profile]], website, LinkedIn, Facebook, Instagram, and TikTok. **Google actively scans your social profiles for consistency** and cross-references them against your GBP; a **missing LinkedIn has caused GBP suspensions** because the identity chain looked incomplete. This is the branding half of the [[Lead Generation#Google Business Profile — Build It, Prove It, Feed It (Kalie Kinsella)|Build it, Prove it, Feed it]] playbook — inconsistency reads as low confidence, and Google now ranks confidence.
-
-**The name field is an identity field, not a keyword field.** Your GBP (and every profile) name must match your **legal LLC or DBA exactly** — Google cross-checks public and IRS records. **Keyword-stuffing the name** ("Best Arizona Realtor," "#1 Luxury Agent") causes **suspensions**, and Google gives **no ranking weight to a real estate license** regardless.
-
-> "Your profile name is an identity field. It is not an SEO sentence." — Kalie Kinsella
-
-**Own your own website.** Point your brand to *your* domain, **not the brokerage homepage** — the brokerage page pushes the brokerage's contact info and controls the keywords. Owning the site lets you control the copy, updates, and the identity Google verifies against (reinforces [[#Own Your Name]] and [[#You Are the Brand, Not the Brokerage]]).
-
-**You are the local authority, not just an agent.** Position the whole brand around the place you serve:
-
-> "You are more than a real estate agent — you are a lifestyle guide for the area you service." — Kalie Kinsella
-
 ## Related
 
 - [[Gogo Bethke]]
 - [[Laura Kurz]]
-- [[Kalie Kinsella]]
 - [[Kristy Waker]]
 - [[Social Media and Email Marketing]]
 - [[Productivity]]

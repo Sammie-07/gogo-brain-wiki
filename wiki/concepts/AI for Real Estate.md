@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [ai, productivity, marketing, lead-generation, real-estate]
-sources: ["[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[AI Leverage — Build Your Personal AI System (Thomas Heimann)]]", "[[The AI Stack Top Agents Don't Talk About — Azulio CRM Deep Dive (Matt Kemps and Rob Poulton)]]", "[[ChatGPT is a Conversation. Claude is a Command Center. (Carrie Soave)]]", "[[Master Your Copywriting & AI Brand Voice (Gogo Bethke)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]"]
-updated: 2026-07-16
+sources: ["[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[AI Leverage — Build Your Personal AI System (Thomas Heimann)]]", "[[The AI Stack Top Agents Don't Talk About — Azulio CRM Deep Dive (Matt Kemps and Rob Poulton)]]", "[[ChatGPT is a Conversation. Claude is a Command Center. (Carrie Soave)]]", "[[Master Your Copywriting & AI Brand Voice (Gogo Bethke)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]"]
+updated: 2026-07-23
 ---
 
 # AI for Real Estate
@@ -107,6 +107,24 @@ When a team runs one AI account, **set a shared-drive folder as the default save
 > "It's no longer search engine optimization. It's search everywhere optimization. If you're not everywhere, you're kind of nowhere on a digital level." — Kalie Kinsella
 
 **Google now ranks confidence and validity, not businesses.** Its ~June 2026 local relaunch runs roughly **30× more verification checks**, so the AI-era ranking currency is a **legitimate, consistent, actively-fed identity** across profiles. This is the same shift behind Gogo's [[#Gogo's "second brain" / Niche Finder|Niche Finder]] insight that **AI search now reads social posts, not just websites** — niche-keyword discipline everywhere is what earns the AI recommendation. The execution playbook lives in [[Lead Generation#Google Business Profile — Build It, Prove It, Feed It (Kalie Kinsella)|Build it, Prove it, Feed it]]; the consistency rules in [[Personal Branding#Brand Syndication for Search (Kalie Kinsella)|brand syndication]].
+
+## Keyword Responder & Team Dashboard (Circle coaching)
+
+*Source: [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]. Private [[The Circle|Circle]] coaching, de-identified — Gogo's generalizable teachings only.*
+
+Two small automations that punch above their weight:
+
+### Automated DM / keyword responder
+
+An automated DM/keyword responder **captures inbound "buy" / "sell"** intent — including **typos and near-misses** of those words — and **routes each lead** to the right destination (buyer calendar vs. seller calendar). Because real people misspell, the trigger set has to be forgiving, not literal. **Test it with the team first:** trigger every keyword variation yourself and confirm the full sequence fires before you rely on it in the wild. (Same buyer/seller split and end-to-end testing discipline as the [[Lead Generation#Buyer/Seller Keyword Auto-Capture|keyword auto-capture]] play.)
+
+### Team dashboard + automated weekly progress summary
+
+Run the team on a **shared dashboard** and wire an **automated weekly progress summary to the leader** so status arrives without anyone chasing it. The point isn't surveillance — it's **momentum**: the summary **celebrates the small completed tasks** (booked the CPA meeting, filed the LLC, scheduled the weekend opens), because visible small wins are what keep people moving.
+
+> "The little things are the make-it-or-break-it."
+
+This is the AI/systems side of the same accountability loop described in [[The Circle#The team-dashboard momentum loop (de-identified)]].
 
 ## Related
 

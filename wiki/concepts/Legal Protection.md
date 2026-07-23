@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [legal-protection, asset-protection, real-estate, business-structure, risk-management]
-sources: [[[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]]]
-updated: 2026-07-12
+sources: [[[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]]
+updated: 2026-07-23
 ---
 
 # Legal Protection
@@ -66,6 +66,11 @@ From a private [[The Circle|Circle]] coaching call (de-identified) — [[Gogo Be
 - **Avoid "piercing the corporate veil."** Co-mingling personal and business money is the #1 way to void LLC protection. Each entity's card is used only for that entity — never cross them.
 - **Confirm before moving a mortgaged property into an LLC.** Some lenders treat the transfer as an ownership/commercial change and could call the loan due — use experienced practitioner-advisors before you retitle.
 - **Roll out without overwhelm:** one property per month (LLC → bank account → next). An unlimited-LLC service with a single dashboard/"blueprint" of all entities pays for itself at scale.
+
+**Choosing the right advisor (Circle coaching, added):**
+- **Use an integrated advisor** — an asset-planning *and* tax attorney under one roof — not a small general attorney who only hands you the strictly-legal path. You want someone who plans the whole structure, not just answers the narrow legal question.
+- **Never recommend a company you haven't personally used.** Only point people to providers you've run through yourself.
+- **Don't proactively alert the lender** before moving a financed property into an LLC until you understand the implications — get asset-planning advice *first*, then decide how to proceed (see [[Assumable Mortgages]]).
 
 ## Related
 - [[Tax Strategy]]

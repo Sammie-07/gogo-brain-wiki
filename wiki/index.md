@@ -117,7 +117,7 @@
 
 ---
 
-## Sources (367 ingested)
+## Sources (368 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
@@ -130,6 +130,7 @@
 | [[sources/The Circle Coaching — Leadership Load, The Opposite Can Be True and Meeting Cadence (de-identified)]] | Gogo Bethke | — | NDA de-identified: "opposite can be true" worksheet, points/karma, hypnotic rhythm, rotating monthly meeting cadence, Meta-Verified/Shared-Access media delegation. |
 | [[sources/The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]] | Gogo Bethke | — | NDA de-identified: own-the-niche-you-live, AI-as-execution-layer, fight-your-TC full-service, post-departure referral clause, abundance mindset. |
 | [[sources/The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]] | Gogo Bethke | — | NDA de-identified: "you list you last" two-buyers/three-commissions, open-house two-buyer video follow-up, the value ladder, AI second brain + accountability dashboard. |
+| [[sources/The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]] | Gogo Bethke | — | NDA de-identified: stay-in-your-genius + "Ideal Day" exercise, body-double productivity method, hire-to-strengths + cost-of-a-mis-hire math, "let them eliminate themselves" trials + hire-two-keep-one, self-generation split structure, open-houses-as-engine, email best practices. |
 | [[sources/Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]] | Gogo Bethke | 2026-07-15 | #teamgogo: assumable-mortgage marketplace AssumeList (sub-5% FHA/VA/USDA, equity-gap 2nd mortgage, eXp enterprise license); Jason Dupree REMLO minute (forgivable DPA grant); Alexis Carrera "skin in the game" marketing agreement. |
 | [[sources/Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]] | Kalie Kinsella | — | GBP/local-SEO playbook: "Build it, Prove it, Feed it," Google ranks confidence/validity, individual-practitioner/SAB, name-as-identity-field, brand syndication, reviews, blogging-is-back, 5-day challenge, answerthepublic.com. |
 | [[sources/Red Light Green Light Exercise]]      | Gogo Bethke  | —          | Time audit exercise: categorize every daily task as green (money) or red (delegate).         |

@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [real-estate, teambuilding, agent-attraction, contracts, exp-realty, delegation]
-sources: ["[[How to Be a Successful Entrepreneur]]", "[[How to Build a Real Estate Team]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Setting Up 'Partner' Keyword on ManyChat]]", "[[Creating 3-Way Calls with Calendar — GoHighLevel Setup (Kristy Waker)]]", "[[How to and When to Use the Partner Keyword (Gogo Bethke)]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Content Pillars for Agent Attraction — Friday Strategy (Gogo Bethke)]]", "[[Co-Sponsorship at eXp — Gogo's Offer (Gogo Bethke)]]", "[[Finding Your Ideal Agent (Gogo Bethke)]]", "[[Revenue Share — How It Works (Gogo Bethke)]]", "[[Agent Attraction Through Real Stories (Gogo Bethke)]]", "[[Downline Organization — Creating Facebook and Instagram Accounts (Gogo Bethke)]]", "[[Reel Ideas for Agent Attraction (Gogo Bethke)]]", "[[Agent to CEO — Expert Mentors Live 51 Minutes (John Kitchens)]]", "[[Agent to CEO Overview (John Kitchens)]]", "[[People and Team Building Ep 149 (John Kitchens)]]", "[[Managing a High Performing Team — Gogo Community Call]]", "[[Working Genius Training (Tina Nicole)]]", "[[Hiring Virtual Assistants (Maria Peskam)]]", "[[Business Automation Framework (GoGetEm)]]", "[[Gogo Bethke on Expert Mentors Live — State of Business (John Kitchens)]]", "[[Realtor to CEO — Agent-to-CEO Transition (Beth Manning)]]", "[[ReBalance Your Business — Work Less and Make More (Kayla Lindsey)]]", "[[Expert Mentors Live Ep. 184 — Leadership Lessons (John Kitchens)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Propy — Blockchain and Crypto Real Estate Transactions (Eric Cruz)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]", "[[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]]", "[[The Circle Coaching — Leadership Load, The Opposite Can Be True and Meeting Cadence (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]"]
-updated: 2026-07-12
+sources: ["[[How to Be a Successful Entrepreneur]]", "[[How to Build a Real Estate Team]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Setting Up 'Partner' Keyword on ManyChat]]", "[[Creating 3-Way Calls with Calendar — GoHighLevel Setup (Kristy Waker)]]", "[[How to and When to Use the Partner Keyword (Gogo Bethke)]]", "[[CRM Grow — Video-Gated Lead Capture (Gogo Bethke)]]", "[[Content Pillars for Agent Attraction — Friday Strategy (Gogo Bethke)]]", "[[Co-Sponsorship at eXp — Gogo's Offer (Gogo Bethke)]]", "[[Finding Your Ideal Agent (Gogo Bethke)]]", "[[Revenue Share — How It Works (Gogo Bethke)]]", "[[Agent Attraction Through Real Stories (Gogo Bethke)]]", "[[Downline Organization — Creating Facebook and Instagram Accounts (Gogo Bethke)]]", "[[Reel Ideas for Agent Attraction (Gogo Bethke)]]", "[[Agent to CEO — Expert Mentors Live 51 Minutes (John Kitchens)]]", "[[Agent to CEO Overview (John Kitchens)]]", "[[People and Team Building Ep 149 (John Kitchens)]]", "[[Managing a High Performing Team — Gogo Community Call]]", "[[Working Genius Training (Tina Nicole)]]", "[[Hiring Virtual Assistants (Maria Peskam)]]", "[[Business Automation Framework (GoGetEm)]]", "[[Gogo Bethke on Expert Mentors Live — State of Business (John Kitchens)]]", "[[Realtor to CEO — Agent-to-CEO Transition (Beth Manning)]]", "[[ReBalance Your Business — Work Less and Make More (Kayla Lindsey)]]", "[[Expert Mentors Live Ep. 184 — Leadership Lessons (John Kitchens)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Tapping Into Listing Inventory — Older Adult Sellers (Erin DiCarlo)]]", "[[Propy — Blockchain and Crypto Real Estate Transactions (Eric Cruz)]]", "[[What Top Agents Do Differently on Instagram - Month 5 (Gogo Bethke, Allison, Cat West)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]", "[[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]]", "[[The Circle Coaching — Leadership Load, The Opposite Can Be True and Meeting Cadence (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]"]
+updated: 2026-07-23
 ---
 
 # Real Estate Teams
@@ -638,6 +638,68 @@ Avoid transaction coordinators who only do contract-to-close (leaving you to ent
 > "2× is harder than 10×."
 
 A 2× goal lets you keep doing it yourself; a true multiple forces systems and leverage. The math: **four team members × 40 hrs = 160 hrs/week** running without you. Pair with **"subtract before you add"** — decide what you'll stop doing to make room to grow: "growth without it is just more chaos."
+
+## Hiring, Trials & Split Structure (Circle coaching)
+
+*Source: [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]. Private [[The Circle|Circle]] coaching, NDA — no member specifics; [[Gogo Bethke]]'s generalizable teachings only.*
+
+### You can't change people — hire to strengths
+
+> "You cannot change somebody, no matter how much you show in front of them."
+
+Stop trying to convert a poor-fit hire into a version of you. Keep people **in their lane**: give a reliable single-transaction-type closer *more* of what they're good at and remove friction (hand off the paperwork they resist) rather than forcing a role they'll never grow into.
+
+**Delegate ideation, not just execution.** Slow down and ask "what ideas do *you* have?" — it surfaces concepts your own brain can't reach, shows how each person thinks, and keeps the work energizing for them. (Extends [[#Hire your weaknesses; know your genius; cap your capacity|hire-your-weaknesses]] from execution into thinking.)
+
+> "Slow down enough where you can give time and space to your team and let them bring you things."
+
+### The cost-of-a-mis-hire math
+
+Frame a wrong-seat hire as a concrete lost-revenue number, not a salary line:
+
+**(# lead opportunities given) × (typical conversion) × (avg transaction value) × (commission %) = revenue the wrong person *lost* you.**
+
+Seeing the real dollar figure — not the paycheck — is what clarifies the decision to move on. Pairs with the [[People & Team Building Systems (John Kitchens — Ep. 149)#The Enthusiastic Rehire Test|Enthusiastic Rehire Test]] and [[#Ones and Threes|Ones and Threes]].
+
+### The "glorified assistant" trap
+
+Bringing someone in as an **equal / high-split partner when they can't actually generate business** is an expensive, repeatable mistake. A person who can't self-source is an assistant on a partner's comp — diagnose generation ability *before* setting the split.
+
+### "Let them eliminate themselves" — the time-boxed trial
+
+Avoid the emotional cost of firing by setting a **time-boxed performance trial with a clear, objective bar**. Missing the bar means they remove *themselves* from the privilege.
+
+> "I'll give you 90 days / X open houses. If you don't secure at least one buy-side client, you lose the right to hold opens and keep doing [what you're good at]. It's not me firing you — you eliminated yourself."
+
+**Hire two, keep one.** For a lead-conversion seat, put **two agents on a 90-day trial**, create healthy competition, and track everyone's numbers (opens held, traffic, follow-ups, conversions, closings). Keep the closer.
+
+### Mandatory meeting standards
+
+> "I run a business over here, and this is a job."
+
+**Mandatory means mandatory.** On time every time; message ahead if truly delayed; a no-show or late-without-notice → **warning → exit**, regardless of relationship. **Schedule mandatory calls early (9:00 a.m.)** so later appointments are never an excuse. Seasonal calendar flexibility is a **leadership choice you make deliberately**, not one the team imposes on you. (Reinforces the [[#Rotating meeting cadence & working-session culture|weekly meeting + Friday check-in]] cadence.)
+
+### Diagnose the real need: assistant vs. showing agent vs. VA
+
+Most "I need an assistant" problems are actually **online problems** solvable via screen-share with existing virtual help. Three non-interchangeable roles:
+
+1. **In-person assistant** — a body physically required in the room.
+2. **Showing agent** — paid per showing.
+3. **Virtual assistant / accountability partner** — online admin + holds your calendar.
+
+**Affordable in-person model:** a stay-at-home parent on a school-hours (~20 hrs/wk) schedule for physical listing tasks. Diagnose which role the pain actually calls for before hiring the expensive one.
+
+### A split structure that rewards self-generation
+
+- **Listing side ~60/40** to the rainmaker (who covers photography, signage, marketing) — a 50/50 listing split leaves the owner unprofitable.
+- **Buy side ~50/50** baseline.
+- **Self-generated leads** (the agent's own sphere/farming, zero team connection): give the agent **~5–10% more** (e.g., 55/45 in their favor).
+- **Team-handed leads:** the more the team hands over, the *less* the agent's share.
+- **Define "self-generated" tightly** — a lead met *at your open house* or from *your sign or database* is a **team lead**, not self-generated.
+
+> "Why would you expect to be handed anything in this life? Nothing gets handed."
+
+**Honor existing agreements; roll new structures into the *next* hire's contract** rather than re-trading with current agents. (Connects to [[#Team Contract|the written team contract]] and [[#Splits and Cap Structure at eXp|eXp split mechanics]].)
 
 ## Related
 

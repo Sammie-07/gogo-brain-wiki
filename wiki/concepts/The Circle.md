@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [the-circle, coaching, mastermind, operations, payment, contract, community, four-freedoms, positioning]
-sources: [[[The Circle Coaching Contract (Gogo Bethke)]], [[The Circle Sales Page (gogobethke.com)]], [[Mindset Shift From Real Estate Agent To Entrepreneur]], [[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]], [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]]
-updated: 2026-07-12
+sources: [[[The Circle Coaching Contract (Gogo Bethke)]], [[The Circle Sales Page (gogobethke.com)]], [[Mindset Shift From Real Estate Agent To Entrepreneur]], [[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]], [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]]
+updated: 2026-07-23
 ---
 
 # The Circle
@@ -187,6 +187,12 @@ The detailed-notes discipline (especially logging *blockers*) is what makes the 
 ### AI "second brain" as a member benefit
 
 Members get access to an AI "second brain" trained on ~15 years of Gogo's knowledge and voice — chat with it any time for after-hours questions between calls. Members are also encouraged to build their *own* AI brain from their coaching transcripts. See [[AI for Real Estate#AI as an Execution Layer & the Second Brain (Circle coaching)]].
+
+### The team-dashboard momentum loop (de-identified)
+
+Beyond the member's own Friday check-in, the coaching pushes members to run *their teams* on the same instrument: a **shared team dashboard** plus an **automated weekly progress summary to the leader**, so status surfaces without chasing. The summary deliberately **celebrates small completed tasks** to sustain momentum — "the little things are the make-it-or-break-it" — the team-level echo of the member's own blueprint loop. (Setup mechanics: [[AI for Real Estate#Keyword Responder & Team Dashboard (Circle coaching)]].)
+
+The broader coaching emphasis behind it: **delegate out of your weaknesses and stay in your genius zone.** Members are coached to monetize what they'd do for free and hire out the rest — the dashboard exists to make that delegation *trackable*, so handing work off doesn't mean losing visibility on it.
 
 ## Related
 

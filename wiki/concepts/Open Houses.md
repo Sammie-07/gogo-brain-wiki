@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [open-houses, lead-generation, real-estate, sop, follow-up, social-media]
-sources: ["[[How to Host Open Houses]]", "[[How to Host Open Houses (Summary)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]"]
-updated: 2026-07-12
+sources: ["[[How to Host Open Houses]]", "[[How to Host Open Houses (Summary)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]"]
+updated: 2026-07-23
 ---
 
 # Open Houses
@@ -155,6 +155,27 @@ That last line is what harvests the *second* buyer — the person already shoppi
 **Monday 9:00 a.m. review.** A standing team meeting to review the weekend: which homes were held, traffic counts, and whether **every** attendee was followed up. "Buyers are liars" — follow up with all of them regardless of what they claimed at the door.
 
 **Delegate and keep the split.** Hand open houses to a **licensed team member** and still earn the split (~50%) without giving up your weekends and family time — "50–60% of *something* beats burnout."
+
+## Open Houses as a Multi-Client Engine (Circle coaching)
+
+*Source: [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]. Private [[The Circle|Circle]] coaching, NDA — no member specifics; [[Gogo Bethke]]'s generalizable teachings only. Deepens [[#The Two-Buyer Open-House System (Circle coaching)|the two-buyer system]].*
+
+**One property, worked correctly, yields multiple transactions** — the buyer of that home, a listing from that buyer's current home, plus additional buyers already shopping the area and price.
+
+**The opportunity math.** Listings/month × weekend slots = a stack of monthly "opportunities." Even a *low* conversion rate off that volume produces meaningful, recurring monthly income. The engine is throughput, not any single open converting.
+
+**What makes it a *real* open house** (vs. sitting in a house hoping):
+- **Market it in advance** and actively **drive traffic** to it.
+- **Signage** leading in.
+- **Post across social and go live** from the property.
+- **Follow up with every visitor** — no exceptions.
+- **Zero results = diagnose the cause:** is it a **traffic/marketing** problem (nobody came) or a **conversion** problem (people came, nobody moved)? The fix is different for each.
+
+**The recruiting pitch to fill the open-house / buyer seat.** To attract the agent who will hold your opens, put the income opportunity in concrete numbers:
+
+> State your **listing volume** + **average price point** + **your own time constraint**, then translate it into the **concrete monthly income potential** that agent can earn *if they run the proven process.*
+
+This reframes "hold my open houses" (a chore) into "here's a repeatable monthly paycheck" — and pairs with [[Real Estate Teams#"Let them eliminate themselves" — the time-boxed trial|the time-boxed open-house trial]] and [[#The Two-Buyer Open-House System (Circle coaching)|delegating the opens while keeping the split]].
 
 ## Related
 

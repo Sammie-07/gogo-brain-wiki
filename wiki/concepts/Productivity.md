@@ -60,7 +60,8 @@ sources:
   - "[[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]]"
   - "[[The Circle Coaching — Leadership Load, The Opposite Can Be True and Meeting Cadence (de-identified)]]"
   - "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]"
-updated: 2026-07-12
+  - "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]"
+updated: 2026-07-23
 ---
 
 # Productivity
@@ -860,6 +861,26 @@ When a team runs a single shared AI account, set a **shared drive folder as the 
 ### Subtract Before You Add
 
 Before adding any new activity, product, or channel, **decide what you'll stop doing to make room for it.** Growth layered on top of an already-full plate isn't growth — "growth without it is just more chaos." This is the operational partner to the "2× is harder than 10×" mindset (see [[Mindset]]): real leverage requires removing your own low-value work first, not just piling on. Related discipline: **don't run multiple products at once** — focus on one.
+
+## The Body-Double Method & Real-Time Scheduling (Circle coaching)
+
+Delegation and calendar tactics Gogo teaches inside her private [[The Circle|Circle]] coaching. NDA-protected; only her generalizable teachings are captured.
+
+### The Body-Double / Human-Anchor Method
+
+For tasks you genuinely resist, stop fighting willpower — **attach another human to the same calendar block.** A solo 9:00 block won't get done; a 9:00 block with someone else on it will. You don't have to *do* the task alone — you just need to be present in the motion: you click "pay," they screen-share and tell you which button, the password, how much. The other person carries the momentum you can't summon on your own.
+
+- **Batch low-energy admin into one recurring desk-day** (numbers, contracts, taxes, account admin) instead of doing it in fragments between appointments. One dense block beats scattered attempts.
+- **Know the temperament — body-double vs. separation worker.** The anchor method fits people who need company to move. But some people (and some hires — bookkeepers especially) need **isolation** to focus. Match the method to the person: a "separation worker" gets a quiet lane, not a body-double.
+- **Reframe the cost of help.** The objection is always the hourly rate. But the real cost of not hiring is the revenue that never gets made because the task stays undone.
+
+> "The price is not this person's hourly rate. The cost is not making the millions, because it's not going to get done."
+
+This is the missing-motivation companion to the [[#Hourly Rate Formula|hourly-rate filter]] and the [[#The Red Light / Green Light Exercise|red-light/green-light]] audit: those tell you *what* to hand off; the body-double method gets the resisted task moving until the handoff exists. (Compare the [[#The accountability partner trick|accountability-partner trick]] Gogo uses on her own workouts and contract reading.)
+
+### Real-Time Reverse-Scheduling in Meetings
+
+Don't leave a meeting with vague to-dos. As each project comes up, nail down on the spot: *what do I do / what do you do / by when / how much time does each side need / who's on it* — and **calendar every step in the moment.** Break a big task into micro-blocks, each with an owner and a duration, and drop them straight into the calendar before the conversation moves on. The plan is built in the room, not "later." (Same discipline as pre-scheduling recurring meetings to remove decision fatigue — see [[#Calendar & Schedule|Calendar & Schedule]] — applied live to one-off project work.)
 
 ## Related
 
