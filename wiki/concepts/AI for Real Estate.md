@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [ai, productivity, marketing, lead-generation, real-estate]
-sources: ["[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[AI Leverage — Build Your Personal AI System (Thomas Heimann)]]", "[[The AI Stack Top Agents Don't Talk About — Azulio CRM Deep Dive (Matt Kemps and Rob Poulton)]]", "[[ChatGPT is a Conversation. Claude is a Command Center. (Carrie Soave)]]", "[[Master Your Copywriting & AI Brand Voice (Gogo Bethke)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]"]
+sources: ["[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[AI Leverage — Build Your Personal AI System (Thomas Heimann)]]", "[[The AI Stack Top Agents Don't Talk About — Azulio CRM Deep Dive (Matt Kemps and Rob Poulton)]]", "[[ChatGPT is a Conversation. Claude is a Command Center. (Carrie Soave)]]", "[[Master Your Copywriting & AI Brand Voice (Gogo Bethke)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]", "[[AI SEO and Google Ranking for Listings (Kirby Chan)]]"]
 updated: 2026-07-23
 ---
 
@@ -126,10 +126,50 @@ Run the team on a **shared dashboard** and wire an **automated weekly progress s
 
 This is the AI/systems side of the same accountability loop described in [[The Circle#The team-dashboard momentum loop (de-identified)]].
 
+## AI SEO & Getting Cited by AI / GEO (Kirby Chan)
+
+*Source: [[AI SEO and Google Ranking for Listings (Kirby Chan)]]. [[Kirby Chan]] (Toronto-area agent; "AI SEO Boot Camp"), #teamgogo / [[GoGet'Em Community]] guest training.*
+
+This is the offense to [[#AI Search & "Search Everywhere Optimization" (Kalie Kinsella)|Kalie Kinsella's]] defense: where Kinsella makes your [[Google Business Profile]] consistent enough to be *trusted* by AI search, [[Kirby Chan]] engineers the content the AI actually *reads and cites*. Both answer the same shift — AI now reads everything, not just your website.
+
+### Google's "Helpful Content" update — helpfulness beats authority
+
+Google's ranking currency moved from authority/backlinks to **genuine helpfulness plus reader behavior** (dwell time / low bounce). Consequences:
+- A new, thin site can **outrank Zillow/Redfin** on a specific query if the article actually helps the reader and holds them on the page.
+- **AI-written content is not penalized** — Google doesn't care who (or what) authored it; it rewards whether the content helps and whether readers stay. This unlocks AI-scale content production without SEO risk.
+- The play: **"Google real estate"** — own the SERP for one keyword cluster (e.g., "Richmond Hill downsizing") across website, blogs, videos, and AI-Overview citations, one niche service page at a time.
+
+### Parasite SEO — write for the machines, not the humans
+
+**"Parasite SEO":** post daily self-promoting content ("best/top agent in [city]") on high-authority third-party platforms — **LinkedIn, Rate My Agent**, etc. No human reads these posts. But **ChatGPT, Gemini, and Claude crawl them and cite you** when a user asks "who's the best agent in [city]."
+
+> "Who's going to read it? Nobody. AI reads it." — Kirby Chan
+
+Guardrail: don't scam the system (fake reviews, bought links). *"It's not worth scamming Google. They're too powerful — if they ban your page, it's all gone."*
+
+### GEO — be the agent the AI recommends
+
+The funnel goal is **GEO (Generative Engine Optimization): get cited by AI.** Buyers increasingly ask ChatGPT/Gemini/Claude for an agent and **call directly without ever visiting a website** — *"ChatGPT told me to call you."* Being the AI-recommended name is the new page-one. This is the same reality behind Gogo's [[#Gogo's "second brain" / Niche Finder|Niche Finder]] insight (AI search reads social posts) and Kinsella's trust chain (Google checks GBP → website → reviews before it answers).
+
+### The AI video pipeline (~5 min/video)
+
+Video production collapses to an assembly line: **[[Carrie Soave|Claude]] writes the script → [[HeyGen]] AI twin (or Captions.ai) voices/reads it → an AI editor adds B-roll.** ~5 minutes per finished video.
+
+> "You don't make videos anymore. You go to AI, and AI makes your videos. AI is your ultimate director of operations." — Kirby Chan
+
+**Brand-protection rule:** run the AI-twin videos on **separate niche Instagram accounts**, so your **main personal brand stays 100% real** (a human on camera). The AI twin scales the niche funnels; it never impersonates you on your primary brand.
+
+### Foreign-language SEO — compete where no one is
+
+Write content — and stand up a separate site / [[Google Business Profile]] / Instagram — **in a second language** (Portuguese, Chinese, etc.) for **near-zero competition** and far faster ranking. AI writes and voices it for you.
+
+> "If you speak a different language, start writing content in that language. There's no competition there." — Kirby Chan
+
 ## Related
 
 - [[Thomas Heimann]]
 - [[Kalie Kinsella]]
+- [[Kirby Chan]]
 - [[Carrie Soave]]
 - [[Azulio]]
 - [[Claude Cowork]]

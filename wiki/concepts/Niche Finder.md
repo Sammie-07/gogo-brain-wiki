@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [niche-finder, ai, personal-branding, marketing, tool]
-sources: ["[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[How to Become the Obvious Choice in Your Market (Gogo Bethke)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]"]
-updated: 2026-07-12
+sources: ["[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[How to Become the Obvious Choice in Your Market (Gogo Bethke)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[AI SEO and Google Ranking for Listings (Kirby Chan)]]"]
+updated: 2026-07-23
 ---
 
 # Niche Finder
@@ -73,6 +73,16 @@ The live niche-training *How to Become the Obvious Choice in Your Market* is the
 
 *(Companion principle — [[Personal Branding#Circle Coaching — Niche Ownership & Verified Delegation|own the niche you're already living]] rather than inventing a new one.)*
 
+## Sister-City Geography & One Niche Page at a Time (Kirby Chan)
+
+*Source: [[AI SEO and Google Ranking for Listings (Kirby Chan)]]. [[Kirby Chan]] (Toronto-area agent) on choosing where and what to rank for.*
+
+**Pick a smaller winnable geography — not the saturated metro.** Don't fight the whole metro. Toronto has ~100k agents; Kirby instead owns **Richmond Hill** (~10k agents, few of them online) and ranks on Google in ~8–9 months. The narrower, less-contested city is the same "be the only, not the best" logic applied to geography — a thin new site can outrank the portals when the pond is winnable.
+
+**One niche/service page at a time.** Build a single service page (downsizing, probate, divorce, expired, first-time), master its ranking, then move to the next — never spread across all niches at once. (Same one-segment-at-a-time discipline as the [[#Circle Coaching — One Niche at a Time|Circle coaching]] rule, extended to SEO pages.)
+
+**Foreign-language niches have near-zero competition.** Writing content — and a separate site/GBP/Instagram — in a second language (Portuguese, Chinese) ranks far faster because almost no one competes there. *"If you speak a different language, start writing content in that language. There's no competition there."* — Kirby Chan
+
 ## Related
 
 - [[Gogo Bethke]]
@@ -80,3 +90,4 @@ The live niche-training *How to Become the Obvious Choice in Your Market* is the
 - [[Personal Branding]]
 - [[Social Media and Email Marketing]]
 - [[Lead Generation]]
+- [[Kirby Chan]]
