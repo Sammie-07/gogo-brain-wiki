@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, team-gogo, support, gohighlevel]
-sources: ["[[How to Add or Update Your Bio on GoHighLevel Funnels]]"]
-updated: 2026-04-30
+sources: ["[[How to Add or Update Your Bio on GoHighLevel Funnels]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]"]
+updated: 2026-08-06
 ---
 
 # Rafael Mino

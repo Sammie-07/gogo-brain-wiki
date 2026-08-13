@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [open-houses, lead-generation, real-estate, sop, follow-up, social-media]
-sources: ["[[How to Host Open Houses]]", "[[How to Host Open Houses (Summary)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]"]
-updated: 2026-07-23
+sources: ["[[How to Host Open Houses]]", "[[How to Host Open Houses (Summary)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]"]
+updated: 2026-08-13
 ---
 
 # Open Houses
@@ -177,9 +177,25 @@ That last line is what harvests the *second* buyer — the person already shoppi
 
 This reframes "hold my open houses" (a chore) into "here's a repeatable monthly paycheck" — and pairs with [[Real Estate Teams#"Let them eliminate themselves" — the time-boxed trial|the time-boxed open-house trial]] and [[#The Two-Buyer Open-House System (Circle coaching)|delegating the opens while keeping the split]].
 
+## QR-Code Capture = Legal Right to Contact (Adam Gillespie)
+
+*Source: [[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]. [[Adam Gillespie]], #teamgogo / [[GoGet'Em Community]] guest hosted by [[Alexis Carrera]].*
+
+Adam replaces the paper sign-in sheet with a **QR code on a tablet** — and the reason is legal, not just convenience.
+
+- **Paper sign-in = no legal right to contact.** *"If they're just signing a piece of paper, you don't have legal rights to text or communicate with them, or call them."* When they instead **scan the QR code and hit submit on the [[Lofty]] form** (name, number, email + a couple of soft questions — *not* "are you working with an agent?"), **they agree to let you market to them.** The opt-in is what makes the follow-up legal.
+- **You get *real* contact info.** Because the form gates something they want (Adam texts and emails the property flyer + neighborhood demographics + school info via a Google Drive link on submit), people don't hand over bogus numbers — "I have something that they want." It also plays as eco-friendly ("no paper flyers — save the trees").
+- **Lofty enriches and routes it automatically.** On submit, Lofty **auto-tags the property address**, runs an **email verification**, **searches their social**, and triggers the open-house smart plan — feeding the lead straight into the [[Lead Generation#The 5-Ingredient Nurture System — "Success Pie" (Adam Gillespie)|5-ingredient nurture system]] with no manual entry.
+- **Unlimited landing pages.** Lofty gives unlimited landing pages, so you build a **forced-registration open-house page** and can share that same link across Facebook — the modern version of Gogo's original KVCore trick (paste a listing link → forced registration → CRM). This is the piece a prior Lofty trainer on a #teamgogo call couldn't demonstrate; it *is* doable via a Lofty landing page.
+
+This solves the failure [[Alexis Carrera]] confessed on the same call — the open-house sign-in sheet "to never be looked at again." A captured, opted-in, auto-nurtured lead stays top-of-mind for the "foreseeable future" even if they don't buy now.
+
 ## Related
 
 - [[Gogo Bethke]]
+- [[Adam Gillespie]]
+- [[Lead Generation]]
+- [[AI for Real Estate]]
 - [[Social Media and Email Marketing]]
 - [[Productivity]]
 - [[Goal Setting]]

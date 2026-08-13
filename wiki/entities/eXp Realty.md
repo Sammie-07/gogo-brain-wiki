@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, brokerage, real-estate]
-sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]"]
-updated: 2026-07-16
+sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]"]
+updated: 2026-08-13
 ---
 
 # eXp Realty
@@ -168,7 +168,7 @@ Training program to help new agents reach cap quickly (~every 6 weeks/quarterly)
 
 ## Tool and Training Ecosystem
 
-- **CRM (3 choices):** BoldTrail (formerly KVCore — same system, rebranded), Lofty, or Close. Agent picks one, keeps for a year; can switch next year. Gogo recommends BoldTrail.
+- **CRM (3 choices):** BoldTrail (formerly KVCore — same system, rebranded), Lofty, or Close. Agent picks one, **keeps for a year, can switch next year** (if you chose wrong and aren't far in, you can push eXp to switch early). Gogo recommends BoldTrail; [[Adam Gillespie]] argues **Lofty** is superior for solo agents (BoldTrail/KVCore is "built for brokerages," clunky). Only **Close** doesn't come with a website; the eXp CRMs include IDX/MLS (unlike **GoHighLevel**, which lacks IDX). **Data ownership:** anything you put in an eXp-provided program belongs to eXp per the **ICA** — which is why you must **request permission to export your leads** when switching (eXp grants it and doesn't market to them). Buying Lofty direct ≈ **$399/mo** (full website $49/mo add-on vs. a free basic site).
 - **Training:** eXp University, #teamgogo weekly (Wednesday 1pm EST), Fast Forward Movement (FFM), FastCap (every ~6 weeks), Team Leader Academy ($2,500/yr), ICON Mastermind, Team Mastery Mastermind (Leo Pareja, $20M+ teams)
 - **Tools:** SISU, Skyslope, eXp.World, Canva, Slack, Revenos, FastCAP, FastATTRACT, My Link My Lead, InstaCard
 - **Certs:** NAEA (Certified Listing Agent, Certified Buyers Agent), Honey Badgers

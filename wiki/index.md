@@ -88,6 +88,7 @@
 | [[entities/Cat West]]           | eXp top producer (Oviedo FL); faith-based (Christian) agent-attraction brand; ~28 sponsored agents, ~$100K rev share via Instagram. Distinct from [[entities/Kat]]. |
 | [[entities/Allison]]            | eXp broker-owner; Staten Island→NJ relocation niche; $250K+ Instagram-attributed transactions; dollar-per-post ROI. |
 | [[entities/Jon Pugle]]          | Sphere-of-influence / referral trainer; GoGet'Em guest; handwritten notes, 200-person power list, board-of-directors dinner; "human connection is the moat against AI." |
+| [[entities/Adam Gillespie]]     | Denver eXp Realtor + AI/CRM coach (2024 Inman AI Award); Hivo AI / Apex Elite AI; Wolfpack; the "5 Ingredients" Lofty nurture system; "AI is back of house, the human is front of house." |
 
 ---
 
@@ -113,16 +114,17 @@
 | [[concepts/Tax Strategy]] | Business entity structure (S Corp, LLC, C Corp), SE tax reduction, QBI deduction (made permanent 2025), Big Beautiful Bill provisions, depreciation + 1031 exchange + cost segregation, family hiring + Roth IRA for kids, SETC credit, asset protection overlay. |
 | [[concepts/Legal Protection]] | Asset invisibility strategy, Wyoming LLC, land trusts, 8 common lawsuit categories for agents, E&O insurance, entity formation. |
 | [[concepts/Luxury Real Estate]] | Windy Goss's Magical Black Book Strategy — expired luxury MLS listings, premium physical marketing, FedEx to seller; positioning before listings; luxury brand building. |
-| [[concepts/AI for Real Estate]] | 3 eras of AI, intelligence briefs, client avatars, custom GPTs, AI agents (Claude Cowork), model selection, agentic CRM/digital farming (Azulio), Gogo's "second brain," eXp's Mira. |
+| [[concepts/AI for Real Estate]] | 3 eras of AI, intelligence briefs, client avatars, custom GPTs, AI agents (Claude Cowork), model selection, agentic CRM/digital farming (Azulio), Gogo's "second brain," eXp's Mira; AI back-of-house / human-in-the-loop + clone-yourself execution layer (Adam Gillespie). |
 | [[concepts/Niche Finder]] | Gogo's AI niche tool ($24): 10-question form → niche statement, IG bios, 8 marketing ideas, SEO plan, 12-week blog calendar, 90-day plan; pivot-don't-restart; the Buffer/Hootsuite caveat. |
 | [[concepts/Assumable Mortgages]] | Buyer assumes a seller's sub-5% FHA/VA/USDA loan; equity-gap second mortgage; investor angle (VA); AssumeList marketplace + agent playbook. |
 
 ---
 
-## Sources (370 ingested)
+## Sources (375 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
+| [[sources/The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]] | Adam Gillespie | 2026-08-12 | #teamgogo/GoGet'Em (host Alexis Carrera): Adam Gillespie's "5 Ingredients to Success Pie" — property alerts + informational email drip + auto text + AI holiday cards + 36-call/603-day schedule; auto-pause; "the lead is not the win, the booked appointment is"; AI back-of-house / human-in-the-loop; clone-yourself GPT; open-house QR→Lofty landing page = legal opt-in; Lofty vs BoldTrail; ICA data ownership. Jason Dupree Aug 12 mortgage minute. |
 | [[sources/How to Eat an Elephant — 2026 Goals]] | Gogo Bethke  | 2026-01-29 | Full goal-setting training: CPR, reverse engineering, commission math, ChatGPT prompts.      |
 | [[sources/Agent Attraction — The Top 10 Tips (Gogo Bethke)]] | Gogo Bethke | 2026-07-02 | #teamgogo Top 10 agent-attraction playbook: mindset + ×2 seven-generation math, competitor combat (Real/KW/Epic), DM-partner + calendar-scarcity funnel, three-way-call etiquette, bragging-vs-confidence, reverse-engineer-their-numbers, 500 Legacy. REMLO market update (Jason). |
 | [[sources/Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]] | Jason Matthews | — | Sales-system training: 3 buckets, setter/closer/overseer roles, 100-leads->5-6-opps funnel math, 5-minute speed-to-lead rule, scaling ladder (LOs->developers->broker-owners->credit unions), VA ROI reframe, Buy Back Your Time, GHL+ManyChat. |
@@ -136,6 +138,10 @@
 | [[sources/Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]] | Gogo Bethke | 2026-07-15 | #teamgogo: assumable-mortgage marketplace AssumeList (sub-5% FHA/VA/USDA, equity-gap 2nd mortgage, eXp enterprise license); Jason Dupree REMLO minute (forgivable DPA grant); Alexis Carrera "skin in the game" marketing agreement. |
 | [[sources/Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]] | Kalie Kinsella | — | GBP/local-SEO playbook: "Build it, Prove it, Feed it," Google ranks confidence/validity, individual-practitioner/SAB, name-as-identity-field, brand syndication, reviews, blogging-is-back, 5-day challenge, answerthepublic.com. |
 | [[sources/AI SEO and Google Ranking for Listings (Kirby Chan)]] | Kirby Chan | — | AI-SEO / GEO for listings: dominate a small city, Google "Helpful Content," one niche service page at a time, drip reviews, "parasite SEO" to get cited by ChatGPT/Gemini/Claude, Claude→HeyGen AI video pipeline, foreign-language SEO, boot-camp attraction funnel. |
+| [[sources/How To Invest for Beginners — The Ultimate Guide (Toby Mathis)]] | Toby Mathis | — | Beginner index investing: crash-history/don't-panic, S&P >10%, time-in-not-timing, cash-is-trash, the compounding math ($5/day → $1.3M), the 5-step set-and-forget system, Roth/custodial for kids. |
+| [[sources/The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]] | Gogo Bethke | — | NDA de-identified: consistency/tempo + journaling exercises, clean partnership dissolution (hold-harmless + 2-sided NDA), GCI-vs-profit, golden-handcuffs retention, hire-for-hustle/DISC, 90-day self-exit, reface-don't-reorder signage, niche master class. |
+| [[sources/The Relationship Beneath Results — Deeply Connected Method (Ludmila Woodruff)]] | Ludmila Woodruff | — | Somatic/nervous-system coaching: "the way you relate to one thing is how you relate to everything," meaning-making chain, neuroception/safety, triggers-as-map, body-first regulation, IFS parts work, money=safety imprint. |
+| [[sources/Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]] | Kristy Waker | 2026-08-06 | #teamgogo tools reference: the 3-folder bookmark system (#teamgogo/eXp/Real Estate), the eXp platform map (Hub 43-app store, My eXp, eXp University, SkySlope/Forms), + Jason Dupree July REMLO numbers ($23.79M / ~$119K). |
 | [[sources/Building a Dominant Business in a Small Market (Jeannie Steele)]] | Jeannie Steele | 2026-07-23 | Small-market domination: near-total share of an 8,000-person county via give-first gifting (~100 handmade/mo), institutional gratitude, town-tradition events, community boards, builder/land niche, "I don't compete" + non-negotiable fee, best-marketer-wins photography moat. |
 | [[sources/Red Light Green Light Exercise]]      | Gogo Bethke  | —          | Time audit exercise: categorize every daily task as green (money) or red (delegate).         |
 | [[sources/Lets Do Some Math Again]]             | Gogo Bethke  | 2026-04-13 | PPP argument for brokerage choice; Team Go stats; 71.1% of realtors sold 0 homes in 2025.    |

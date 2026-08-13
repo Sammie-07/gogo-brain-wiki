@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [ai, productivity, marketing, lead-generation, real-estate]
-sources: ["[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[AI Leverage — Build Your Personal AI System (Thomas Heimann)]]", "[[The AI Stack Top Agents Don't Talk About — Azulio CRM Deep Dive (Matt Kemps and Rob Poulton)]]", "[[ChatGPT is a Conversation. Claude is a Command Center. (Carrie Soave)]]", "[[Master Your Copywriting & AI Brand Voice (Gogo Bethke)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]", "[[AI SEO and Google Ranking for Listings (Kirby Chan)]]"]
-updated: 2026-07-23
+sources: ["[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[AI Leverage — Build Your Personal AI System (Thomas Heimann)]]", "[[The AI Stack Top Agents Don't Talk About — Azulio CRM Deep Dive (Matt Kemps and Rob Poulton)]]", "[[ChatGPT is a Conversation. Claude is a Command Center. (Carrie Soave)]]", "[[Master Your Copywriting & AI Brand Voice (Gogo Bethke)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]", "[[AI SEO and Google Ranking for Listings (Kirby Chan)]]", "[[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]"]
+updated: 2026-08-13
 ---
 
 # AI for Real Estate
@@ -96,6 +96,10 @@ Gogo built an AI "second brain" trained on **~15 years** of her knowledge *and* 
 
 When a team runs one AI account, **set a shared-drive folder as the default save location** so the whole team gets automatic access with no per-file requests — and have assistants join the setup call to implement it.
 
+### Contract diffing & backwards planning
+
+Two more uses that put AI to work in the back office. **Diff contracts:** paste your own version *and* the attorney's returned draft into an AI assistant and ask it to **"tell me the differences so I don't miss it"** — it surfaces every change between the two so nothing slips through on a redline you'd otherwise skim. And use AI for **backwards business-planning prompts** — hand it the take-home target and let it work back to the required transactions, agent count, and activities (the same reverse-engineering logic Gogo applies to team economics; see [[Real Estate Teams]]).
+
 ## AI Search & "Search Everywhere Optimization" (Kalie Kinsella)
 
 *Source: [[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]. [[Kalie Kinsella]] ("That Google Girl"), #teamgogo / GoGet'Em training.*
@@ -165,9 +169,37 @@ Write content — and stand up a separate site / [[Google Business Profile]] / I
 
 > "If you speak a different language, start writing content in that language. There's no competition there." — Kirby Chan
 
+## Back of House vs. Front of House — the Human in the Loop (Adam Gillespie)
+
+*Source: [[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]. [[Adam Gillespie]] (Denver eXp Realtor + AI/CRM coach, 2024 Inman AI Award), a #teamgogo / [[GoGet'Em Community]] guest hosted by [[Alexis Carrera]].*
+
+Adam is "one of AI's biggest fans" (certified prompt engineer; certified in AI ethics, ML, and LLMs) and yet **refuses to let AI talk to his leads.** The doctrine:
+
+> "AI is not your relationship creator, you are… AI should be back of house. Most agents want the AI in the front of the house." — Adam Gillespie
+
+- **The restaurant model:** AI belongs in the *back of house* (the repetitive, mundane work); the human is *front of house* (meeting clients, building relationships, closing). Agents chasing AI voice dialers and chatbots have it backwards.
+- **The public does not want AI, even though you do.** Entrepreneurs like AI because they see what it does for the business; "the rest of society thinks it's the end of the world." The only two industries where AI voice answering is *welcome* are cable and cell-phone companies "because nobody likes to talk to them." *"If you don't want to be contacted by AI, why should your clients want to be contacted by AI?"*
+- **The counter-trend:** since 2022, the human craving for human touch is claimed to be the highest in 50 years — so a real human on the phone is a *differentiator*, not a cost.
+- **The empty-metric tell:** when someone brags "my Lofty AI contacted X people and had Y conversations," ask how many became appointments → signed agencies → closed deals. "They never respond, because the answer is zero."
+- **The workflow:** use AI to *write the messaging* in your voice, let the automation *initiate* the response, then **jump in as the human in the loop** the moment a lead raises their hand — enforced in the CRM by the [[Lead Generation#The 5-Ingredient Nurture System — "Success Pie" (Adam Gillespie)|auto-pause rule]] that stops every automation the instant a real conversation starts. This is the same "show up as a human, let AI run the day-to-day" conclusion [[Gogo Bethke]] draws about the [[Lead Generation#AI-Powered Lead Generation — Azulio Stack (Matt Kemps and Rob Poulton)|Azulio stack]].
+
+## Clone Yourself — the Personal AI Execution Layer (Adam Gillespie)
+
+*Source: [[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]].*
+
+The high-leverage move isn't using the CRM's canned AI — it's **cloning yourself into a custom GPT** trained on your voice, story, and goals (Adam has run his since ~2022). What his clone does:
+- **Drafts long replies "cussing and sounding just like me"** in ~3 minutes instead of 20–30 (e.g., responding to a prospect's 5-page email from the call transcript + the email).
+- Writes **blogs and YouTube scripts** (any non-tutorial video on his channel "was written with my AI clone"), and runs **SWOT analyses** on his businesses — no canned responses because "it knows everything about me, what my real goals are."
+- The payoff is **compounded time savings** — the same "buy back your time" thesis as the [[Productivity]] leverage hierarchy.
+
+**Custom GPTs also erase the language barrier in nurture.** Adam runs **duplicate smart plans tagged by language** (English/Spanish) that fire the right one off a tag, plus a custom GPT trained on **informal Russian** and **[[HeyGen]]** video translation to serve a repeat client in his own language: "please communicate the way you want to communicate. I got you." (Same clone-your-voice principle as [[Kristy Waker]]'s "My AI Brand Voice" GPT in the [[#Custom-GPT brand voice & prompt formula (Gogo Bethke), from Master Your Copywriting|brand-voice section]] above — and exactly what [[Alexis Carrera]] is mid-build on via [[Claude]] + ChatGPT to attach to her own Lofty.)
+
+**Vibe-coding custom tools.** Adam built a **branded mortgage calculator** (pulls average tax/insurance by zip via a free API, embedded Calendly CTA) by vibe-coding it on ChatGPT and dropping it into Lofty's custom-HTML — escaping the template look while keeping a lead-capture call to action. Decks built in **Gamma.app** from a single prompt (~5 min).
+
 ## Related
 
 - [[Thomas Heimann]]
+- [[Adam Gillespie]]
 - [[Kalie Kinsella]]
 - [[Kirby Chan]]
 - [[Carrie Soave]]

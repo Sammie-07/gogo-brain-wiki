@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, trainer, community, real-estate]
-sources: ["[[Securing Your Domain]]", "[[Creating and Customizing Your YouTube Channel (Kristy Waker)]]", "[[Setting Up Your Google Business Profile for Success (Kristy Waker)]]", "[[Brand Consistency Across Social Media Platforms (Kristy Waker)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Create Professional Instagram Account (Kristy Waker)]]", "[[Domain Forwarding to Your Real Estate Website (Kristy Waker)]]", "[[Creating 3-Way Calls with Calendar — GoHighLevel Setup (Kristy Waker)]]", "[[Adding Your Email Signature to Gmail (Kristy Waker, GSMC)]]", "[[Creating an Email Signature Using Canva (Ellen, GSMC)]]", "[[VA Pay Tutorial (Kristy Waker)]]", "[[Managing a High Performing Team — Gogo Community Call]]", "[[Gogo Bethke on Expert Mentors Live — State of Business (John Kitchens)]]", "[[Mastering Your Numbers — Leads, Time & Revenue]]"]
-updated: 2026-06-03
+sources: ["[[Securing Your Domain]]", "[[Creating and Customizing Your YouTube Channel (Kristy Waker)]]", "[[Setting Up Your Google Business Profile for Success (Kristy Waker)]]", "[[Brand Consistency Across Social Media Platforms (Kristy Waker)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Create Professional Instagram Account (Kristy Waker)]]", "[[Domain Forwarding to Your Real Estate Website (Kristy Waker)]]", "[[Creating 3-Way Calls with Calendar — GoHighLevel Setup (Kristy Waker)]]", "[[Adding Your Email Signature to Gmail (Kristy Waker, GSMC)]]", "[[Creating an Email Signature Using Canva (Ellen, GSMC)]]", "[[VA Pay Tutorial (Kristy Waker)]]", "[[Managing a High Performing Team — Gogo Community Call]]", "[[Gogo Bethke on Expert Mentors Live — State of Business (John Kitchens)]]", "[[Mastering Your Numbers — Leads, Time & Revenue]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]"]
+updated: 2026-08-06
 ---
 
 # Kristy Waker

@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [legal-protection, asset-protection, real-estate, business-structure, risk-management]
-sources: [[[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]]
-updated: 2026-07-23
+sources: [[[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]]]
+updated: 2026-08-06
 ---
 
 # Legal Protection
@@ -71,6 +71,18 @@ From a private [[The Circle|Circle]] coaching call (de-identified) — [[Gogo Be
 - **Use an integrated advisor** — an asset-planning *and* tax attorney under one roof — not a small general attorney who only hands you the strictly-legal path. You want someone who plans the whole structure, not just answers the narrow legal question.
 - **Never recommend a company you haven't personally used.** Only point people to providers you've run through yourself.
 - **Don't proactively alert the lender** before moving a financed property into an LLC until you understand the implications — get asset-planning advice *first*, then decide how to proceed (see [[Assumable Mortgages]]).
+
+## Dissolving a Partnership — Paperwork (Circle coaching)
+
+*Source: [[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]]. Private [[The Circle|Circle]] coaching, NDA — no member specifics; [[Gogo Bethke]]'s generalizable teaching only. General education, not legal advice.*
+
+When ending a business partnership, secure your key assets, relationships, and records *first*, then dissolve — deliberately, not in a rage.
+
+- **Formalize the dissolution in writing through the attorney who drafted the original operating agreement** — exact termination date, remaining steps assigned per party, and deadlines (tracked on a shared spreadsheet with a hard target date).
+- **Always include a hold-harmless clause + a mutual (two-sided) NDA** — "either way it's nobody's business," and two-sided so the departing party feels protected too, not just you.
+- **AI contract diffing:** run *your* draft *and* the attorney's returned draft through an AI assistant — "tell me the differences so I don't miss it" — so no edit slips past you unnoticed (see [[AI for Real Estate]]).
+
+The team-relationship side of a clean exit (graceful blame, preserving a downline/local relationship) lives in [[Real Estate Teams#Partnership Exits & Full-Service Delegation (Circle coaching)|Real Estate Teams]].
 
 ## Related
 - [[Tax Strategy]]

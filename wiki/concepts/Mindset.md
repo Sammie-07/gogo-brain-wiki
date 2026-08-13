@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [mindset, law-of-attraction, visualization, personal-development, entrepreneurship]
-sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Can We Have It All]]", "[[Work-Life Balance Secrets]]", "[[How to Master Your Mindset for Business and Life Success]]", "[[From an Au Pair to a Millionaire]]", "[[How Your Feelings Can Sabotage Your Life and Success]]", "[[How to Reprogram Your Mind]]", "[[Unrealistic Goals Real Results]]", "[[A Conversation Between Two Immigrant Women]]", "[[eXp Realty Has Changed My Life]]", "[[Money Frequency]]", "[[Gogopreneur — Public Speaking Episode 4]]", "[[Market Shifts with Aaron Novello]]", "[[What It Takes to Grow a Real Estate Business Through Chaos (Beth Silverman)]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[From 11-Year-Old Entrepreneur to Real Estate Powerhouse (Elise Palacios)]]", "[[The Power of Manifestation Identity (Kathleen Cameron)]]", "[[How to Cut the Baggage That's Slowing You Down (Gary Coxe)]]", "[[Marriage Advice (Gogo and Dwayne shorts)]]", "[[Confidence and Body Language (Gogo Bethke)]]", "[[Quotes I Live By (Presentation)]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[Money Mindset Mastery — Production Accelerator Event (Presentation)]]", "[[Agent to CEO — Full Presentation]]", "[[Business Foundations — Mindset, Systems, and Building Your Team with Virtual Assistants]]", "[[Business Time Management Strategy That Works]]", "[[Mastering Your Numbers — Leads, Time & Revenue]]", "[[Live Q&A — Delegation, Marketing & Growth Hacks]]", "[[The Shit Our Parents Didn't Teach Us — Mixing Strategy and Mindset with Barbara Schreihans]]", "[[The Identity Shift That Redefines Your Ceiling (Craig Siegel)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]", "[[The Art of Conscious Communication (Jamie Miller)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[Your 2026 Goals Reverse Engineered — Open to Public (Gogo Bethke)]]", "[[From an Au Pair to a Millionaire — Day 5 (Gogo Bethke)]]", "[[GoGet'Em Guest Training — Krista Mashore — Origin Story and Mindset]]", "[[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Manifesting Through Personal Power (Kathleen Cameron)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]", "[[The Circle Coaching — Leadership Load, The Opposite Can Be True and Meeting Cadence (de-identified)]]", "[[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]"]
-updated: 2026-07-23
+sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[Can We Have It All]]", "[[Work-Life Balance Secrets]]", "[[How to Master Your Mindset for Business and Life Success]]", "[[From an Au Pair to a Millionaire]]", "[[How Your Feelings Can Sabotage Your Life and Success]]", "[[How to Reprogram Your Mind]]", "[[Unrealistic Goals Real Results]]", "[[A Conversation Between Two Immigrant Women]]", "[[eXp Realty Has Changed My Life]]", "[[Money Frequency]]", "[[Gogopreneur — Public Speaking Episode 4]]", "[[Market Shifts with Aaron Novello]]", "[[What It Takes to Grow a Real Estate Business Through Chaos (Beth Silverman)]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[From 11-Year-Old Entrepreneur to Real Estate Powerhouse (Elise Palacios)]]", "[[The Power of Manifestation Identity (Kathleen Cameron)]]", "[[How to Cut the Baggage That's Slowing You Down (Gary Coxe)]]", "[[Marriage Advice (Gogo and Dwayne shorts)]]", "[[Confidence and Body Language (Gogo Bethke)]]", "[[Quotes I Live By (Presentation)]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[Money Mindset Mastery — Production Accelerator Event (Presentation)]]", "[[Agent to CEO — Full Presentation]]", "[[Business Foundations — Mindset, Systems, and Building Your Team with Virtual Assistants]]", "[[Business Time Management Strategy That Works]]", "[[Mastering Your Numbers — Leads, Time & Revenue]]", "[[Live Q&A — Delegation, Marketing & Growth Hacks]]", "[[The Shit Our Parents Didn't Teach Us — Mixing Strategy and Mindset with Barbara Schreihans]]", "[[The Identity Shift That Redefines Your Ceiling (Craig Siegel)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]", "[[The Art of Conscious Communication (Jamie Miller)]]", "[[The Season of Disappointment — Mindset in a Real Estate Recession (Aaron Novello)]]", "[[Your 2026 Goals Reverse Engineered — Open to Public (Gogo Bethke)]]", "[[From an Au Pair to a Millionaire — Day 5 (Gogo Bethke)]]", "[[GoGet'Em Guest Training — Krista Mashore — Origin Story and Mindset]]", "[[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Manifesting Through Personal Power (Kathleen Cameron)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]", "[[The Circle Coaching — Leadership Load, The Opposite Can Be True and Meeting Cadence (de-identified)]]", "[[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]", "[[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]]", "[[The Relationship Beneath Results — Deeply Connected Method (Ludmila Woodruff)]]"]
+updated: 2026-08-06
 ---
 
 # Mindset
@@ -401,6 +401,26 @@ Most leadership breakdowns aren't strategy failures — they're nervous system f
 
 **Presence = the prerequisite.** Being present (not reactive) is not optional for leaders — it is the foundation skill everything else rests on.
 
+## The Relationship Beneath Results — Somatic Mindset (Ludmila Woodruff)
+
+[[Ludmila Woodruff]]'s second GoGet'Em session ("Deeply Connected Method") reframes mindset itself as a *body* problem, not a thought problem — the relationship beneath the results.
+
+**The one-thing thesis.** How you relate to any single thing is how you relate to nearly everything. Revenue, delegation, leadership, marriage, and parenting all run off one internal pattern, so the leverage point is the pattern, not the tactic.
+
+> "The way you relate to one thing is the way you relate to almost everything in your life." — Ludmila Woodruff
+
+**We relate to the meaning, not the reality.** Humans are "meaning-making machines." An experience isn't the driver — the *meaning* you assigned it (about yourself, others, the world) is. That meaning becomes an emotional imprint stored in the body, which generates predictions, which fire a protection behavior, which produces your results: **experience → meaning → body imprint → prediction → protection behavior → results.**
+
+> "We don't relate to reality. We relate to the meaning we created about reality." — Ludmila Woodruff
+
+**Triggers reveal what doesn't feel safe.** A trigger in sales, marketing, or client work is a map marker — it points to an unhealed part that feels disrespected, rejected, mocked, or not good/smart enough. The more you get triggered, the more precisely you can locate the belief still running you (and the protection behavior it drives: avoidance, procrastination, over-analysis, micromanaging).
+
+**The embodiment exercise.** Eyes closed, drop a statement into the body — *"My business means ___"* / *"Money means ___"* — and answer with the first word or sensation, not the thought-out answer. The subconscious reply (e.g., "validation," felt in the gut) usually contradicts the conscious wish, exposing the real imprint driving behavior. Mindset is only ~10%; the rest is subconscious and somatic, which is why affirmations alone rarely move it (compare [[#Identity Reprogramming (Rock Thomas)|repetition + emotion]] above).
+
+**Money = a safety imprint.** Childhood exposure to parents' money fights or "financial abuse" wires "money = safety/survival," which then shapes adult earning and risk behavior — a somatic counterpart to the inherited [[#Money Mindset (Barbara Schreihans)|money-relationship]] and [[#Money Frequency|money-frequency]] work above.
+
+**"Self energy" — you're not broken, you adapted.** Everyone is born with an authentic self (courage, curiosity, presence, regulation). You weren't weaker before your patterns formed — you *adapted to survive*. The work is transforming what's in the way, not repairing a defective person. (Rhymes with [[#Stay in Your Genius — Hire Out Your Weaknesses|"God didn't design a broken person"]] above.)
+
 ## Conscious Communication (Jamie Miller)
 
 Most communication is autopilot — default patterns learned in childhood, triggered under pressure. Conscious communication is the deliberate practice of choosing words, tone, and presence rather than falling into inherited patterns.
@@ -618,6 +638,36 @@ People build relentlessly toward "freedom" without ever defining what freedom lo
 **Homework — "Your Perfect Day":** if you hit every goal, made all the money, had the systems and the team, were debt-free with more income than you could spend — *what does a day actually look like? What gets you out of bed? Who are you with? Why do you really do this?* Write it out in detail.
 
 Part of the exercise is separating two drivers people routinely confuse: wanting to stay **relevant and active** versus needing to **hustle for money.** Know which is actually running you — because if you've already won financially but keep grinding as if you haven't, you're answering a question you no longer need to ask (compare [[#Hard Work ≠ Money|Hard Work ≠ Money]] above). Defining the ideal day makes the vision specific enough to steer toward, the same way [[#"If I Cannot Imagine It, I Cannot Have It"|"if I cannot imagine it, I cannot have it"]] makes a goal real enough to attract.
+
+## Consistency, Tempo & Journaling Exercises (Circle coaching)
+
+More mindset tools Gogo teaches inside her private [[The Circle|Circle]] coaching. NDA-protected; only her generalizable teachings are captured.
+
+### Maintain a Tempo — Don't Sprint
+
+Doing the work is non-negotiable, but the goal is a **steady tempo you can hold**, not a sprint. Procrastination compounds: push one task back and it pushes the next, until you "look up and have a holy-[—] moment" and burn out. Growth requires learning to maintain the tempo rather than binge-and-crash. And watch your crutches — **a prop you need to hit your tempo (e.g., a glass of wine twice a week just to finish the work) is a red flag, not a system.** If a habit is propping up the pace, the pace is wrong. (Compare [[#Hard Work ≠ Money|Hard Work ≠ Money]] — the nervous system has to learn that slowing down isn't dying.)
+
+### "Diarrhea of the Right Hand"
+
+Hand-write stream-of-consciousness with **no filter** — whatever comes, onto the page — then **read it back aloud the next morning.** Writing forces more honesty than internal monologue, and hearing it the next day cements the lesson and lets you see the pattern from the outside. (Pairs with the [[#"The Opposite Can Be True" Worksheet|opposite-can-be-true]] and journaling reframes above.)
+
+### The "Who I Think I Am Not" Exercise
+
+Write a long list of **"I am not ___"** statements straight from the heart — every limiting label you carry — then **read them aloud.** Hearing your own limiting beliefs spoken exposes them as absurd, which is the first step to replacing them. The whole exercise rests on the core reframe:
+
+> "It's not who you are that holds you back. It's who you think you are not."
+
+### Debrief Every Failure in Writing
+
+After any failed venture or relationship, **write the debrief: "what did I learn?"** Reframing in writing converts a loss into curriculum — "they're not necessarily mistakes; sometimes it's just figuring out who we are." (Extends [[#Hardship as Unlearned Lesson (Gogo Bethke)|Hardship as Unlearned Lesson]] and [[#Adversity as Curriculum|Adversity as Curriculum]].)
+
+### Pebbles → Bricks & Pink Flags
+
+Act on the early **"pink flags"** before they escalate to red — a small warning you ignore comes back bigger.
+
+> "God will throw you pebbles, but if you don't listen on the pebble level, He will throw you a brick."
+
+And know your own low-mood/hormonal windows: **don't make permanent judgments (quitting, firing, ending a partnership) during a temporary low.** Wait for the window to pass before deciding anything you can't undo. (Reinforces the [[#Pebbles → Bricks|Pebbles → Bricks]] reframe above.)
 
 ## Related
 

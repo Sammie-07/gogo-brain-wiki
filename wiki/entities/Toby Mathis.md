@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, tax-attorney, wealth-building, real-estate, trust, legacy]
-sources: ["[[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]]", "[[Tax Strategy and IRS Myths — Estate Planning Part 2 (Toby Mathis)]]"]
-updated: 2026-05-22
+sources: ["[[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]]", "[[Tax Strategy and IRS Myths — Estate Planning Part 2 (Toby Mathis)]]", "[[How To Invest for Beginners — The Ultimate Guide (Toby Mathis)]]"]
+updated: 2026-08-06
 ---
 
 # Toby Mathis
@@ -21,6 +21,7 @@ Toby Mathis is a tax attorney with 25+ years of experience who owns over 300 pro
   - Tax Tuesday: free bi-weekly Q&A (every other week)
   - YouTube: search "Toby Mathis"
   - Free initial consultation with Kelly (assess potential savings before any engagement)
+- **Infinity Investing** (infinityinvesting.com): his beginner-investing education brand. Philosophy — consistent, hands-off **index investing** ("set it and forget it"), **time in the market not timing**, **cash is trash** (inflation), and compounding via low-cost ETFs (SPY/VOO). See [[How To Invest for Beginners — The Ultimate Guide (Toby Mathis)]] and [[Wealth Building#Beginner Index Investing — "Set It and Forget It" (Toby Mathis)]].
 - **Business structure framework:**
   - Sole proprietor = worst option; vast majority of agents start here and overpay
   - S-corp: saves 10-15% of net; 35x less likely to be audited than Schedule C

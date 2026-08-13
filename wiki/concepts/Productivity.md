@@ -61,7 +61,8 @@ sources:
   - "[[The Circle Coaching — Leadership Load, The Opposite Can Be True and Meeting Cadence (de-identified)]]"
   - "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]"
   - "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]"
-updated: 2026-07-23
+  - "[[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]]"
+updated: 2026-08-06
 ---
 
 # Productivity
@@ -881,6 +882,12 @@ This is the missing-motivation companion to the [[#Hourly Rate Formula|hourly-ra
 ### Real-Time Reverse-Scheduling in Meetings
 
 Don't leave a meeting with vague to-dos. As each project comes up, nail down on the spot: *what do I do / what do you do / by when / how much time does each side need / who's on it* — and **calendar every step in the moment.** Break a big task into micro-blocks, each with an owner and a duration, and drop them straight into the calendar before the conversation moves on. The plan is built in the room, not "later." (Same discipline as pre-scheduling recurring meetings to remove decision fatigue — see [[#Calendar & Schedule|Calendar & Schedule]] — applied live to one-off project work.)
+
+## Rhythm Through Busy Seasons (Circle coaching)
+
+A scheduling principle Gogo teaches inside her private [[The Circle|Circle]] coaching. NDA-protected; only her generalizable teachings are captured.
+
+The work is non-negotiable, but the **method flexes with the season** (summer, busy season, kids home) while the **rhythm stays intact** — you adapt how you do it rather than abandoning it. The key move is to **adjust your involvement by context:** when you're fully present, the team makes fewer independent calls and leans on you; when you step away, deliberately lean harder on the team and trust the systems you built. The target state is one where **"if you stop, the money doesn't stop."** Design the whole rhythm around your own creative/energy window instead of forcing a schedule that fights it (compare [[#Gogo's Current Work Schedule|the compressed Mon–Wed schedule]] and [[Mindset#Maintain a Tempo — Don't Sprint|maintain a tempo]]).
 
 ## Related
 
