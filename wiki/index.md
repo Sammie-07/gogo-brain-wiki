@@ -89,6 +89,7 @@
 | [[entities/Allison]]            | eXp broker-owner; Staten Island→NJ relocation niche; $250K+ Instagram-attributed transactions; dollar-per-post ROI. |
 | [[entities/Jon Pugle]]          | Sphere-of-influence / referral trainer; GoGet'Em guest; handwritten notes, 200-person power list, board-of-directors dinner; "human connection is the moat against AI." |
 | [[entities/Adam Gillespie]]     | Denver eXp Realtor + AI/CRM coach (2024 Inman AI Award); Hivo AI / Apex Elite AI; Wolfpack; the "5 Ingredients" Lofty nurture system; "AI is back of house, the human is front of house." |
+| [[entities/Jesse Dau]]          | Channel Junkies co-founder; 7× eXp ICON; $450M+ real estate + $450M YouTube; long-form-organic YouTube for relocation buyers; refer-off/out-of-production model; "we sell homes, not views." |
 
 ---
 
@@ -101,7 +102,7 @@
 | [[concepts/Mindset]] | Law of attraction, "if I can't imagine it I can't have it," CEO mindset shift, "you can have it all." |
 | [[concepts/Productivity]] | Hourly rate formula, leverage hierarchy (automations→VAs→staff), red/green exercise, full tracker suite, calendar system. |
 | [[concepts/Real Estate Math]] | PPP, brokerage selection math, commission reverse-engineering, NAR stats. |
-| [[concepts/Social Media and Email Marketing]] | Ideal client niche, daily email, ManyChat automation, hashtag strategy, 78% rule, 5-minute rule, organic vs paid conversion rates. |
+| [[concepts/Social Media and Email Marketing]] | Ideal client niche, daily email, ManyChat automation, hashtag strategy, 78% rule, 5-minute rule, organic vs paid conversion rates; long-form-organic YouTube system (Jesse Dau) — relocation avatar, 3-stage funnel, home-tour structure, algorithm checklist. |
 | [[concepts/Paid Advertising]] | Google Ads for realtors: LSA vs. search ads, quality score, find + remind retargeting. |
 | [[concepts/Open Houses]] | Full SOP: MLS by Thursday, door knocking, signs, cookies, sign-in trick, security sweep, same-day video follow-up. |
 | [[concepts/Personal Branding]] | Brand Tracker doc, monthly Growth Tracker, never include location in brand name, own your name, Audit Club. |
@@ -120,10 +121,11 @@
 
 ---
 
-## Sources (375 ingested)
+## Sources (376 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
+| [[sources/Win with YouTube (Jesse Dau)]] | Jesse Dau | 2026-08-13 | #teamgogo/GoGet'Em: Jesse Dau (Channel Junkies, 7× ICON) on long-form-organic YouTube — "we sell homes, not views"; relocation-buyer avatar (worth ~4 transactions); 3-stage funnel (cost-of-living/pros-cons → driver-city map tours → 18–28-min home tours = browse & suggested algorithm); hook/rehook/never-reveal-price/undercover-CTA structure; algorithm checklist (1 video/wk, 7-min AVD, 50% TV, 70% browse-suggested, no ads/no shorts, Sat/Wed); AI content gets throttled ("smell AI on the scroll"); refer-off 50/50 out-of-production model; Channel Grader tool. |
 | [[sources/The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]] | Adam Gillespie | 2026-08-12 | #teamgogo/GoGet'Em (host Alexis Carrera): Adam Gillespie's "5 Ingredients to Success Pie" — property alerts + informational email drip + auto text + AI holiday cards + 36-call/603-day schedule; auto-pause; "the lead is not the win, the booked appointment is"; AI back-of-house / human-in-the-loop; clone-yourself GPT; open-house QR→Lofty landing page = legal opt-in; Lofty vs BoldTrail; ICA data ownership. Jason Dupree Aug 12 mortgage minute. |
 | [[sources/How to Eat an Elephant — 2026 Goals]] | Gogo Bethke  | 2026-01-29 | Full goal-setting training: CPR, reverse engineering, commission math, ChatGPT prompts.      |
 | [[sources/Agent Attraction — The Top 10 Tips (Gogo Bethke)]] | Gogo Bethke | 2026-07-02 | #teamgogo Top 10 agent-attraction playbook: mindset + ×2 seven-generation math, competitor combat (Real/KW/Epic), DM-partner + calendar-scarcity funnel, three-way-call etiquette, bragging-vs-confidence, reverse-engineer-their-numbers, 500 Legacy. REMLO market update (Jason). |

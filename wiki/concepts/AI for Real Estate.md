@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [ai, productivity, marketing, lead-generation, real-estate]
-sources: ["[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[AI Leverage — Build Your Personal AI System (Thomas Heimann)]]", "[[The AI Stack Top Agents Don't Talk About — Azulio CRM Deep Dive (Matt Kemps and Rob Poulton)]]", "[[ChatGPT is a Conversation. Claude is a Command Center. (Carrie Soave)]]", "[[Master Your Copywriting & AI Brand Voice (Gogo Bethke)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]", "[[AI SEO and Google Ranking for Listings (Kirby Chan)]]", "[[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]"]
+sources: ["[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[AI Leverage — Build Your Personal AI System (Thomas Heimann)]]", "[[The AI Stack Top Agents Don't Talk About — Azulio CRM Deep Dive (Matt Kemps and Rob Poulton)]]", "[[ChatGPT is a Conversation. Claude is a Command Center. (Carrie Soave)]]", "[[Master Your Copywriting & AI Brand Voice (Gogo Bethke)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]", "[[AI SEO and Google Ranking for Listings (Kirby Chan)]]", "[[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[Win with YouTube (Jesse Dau)]]"]
 updated: 2026-08-13
 ---
 
@@ -196,10 +196,24 @@ The high-leverage move isn't using the CRM's canned AI — it's **cloning yourse
 
 **Vibe-coding custom tools.** Adam built a **branded mortgage calculator** (pulls average tax/insurance by zip via a free API, embedded Calendly CTA) by vibe-coding it on ChatGPT and dropping it into Lofty's custom-HTML — escaping the template look while keeping a lead-capture call to action. Decks built in **Gamma.app** from a single prompt (~5 min).
 
+## The AI-Content Throttle — "Everyone Can Smell AI on the Scroll" (Jesse Dau)
+
+*Source: [[Win with YouTube (Jesse Dau)]]. [[Jesse Dau]] (Channel Junkies; 7× eXp ICON YouTube coach), a #teamgogo / [[GoGet'Em Community]] guest. The important counterweight to the brain's pro-AI-content threads.*
+
+The brain is full of "use AI to scale content" plays ([[Kirby Chan]]'s HeyGen twin, [[#Custom-GPT brand voice & prompt formula (Gogo Bethke), from Master Your Copywriting|AI brand voice]], the [[#Clone Yourself — the Personal AI Execution Layer (Adam Gillespie)|clone-yourself]] layer). Jesse Dau draws the hard line on **where AI content backfires: the public feed.**
+
+- **YouTube actively detects and throttles AI content.** The platform runs a tool measuring **AI visual and AI language**; index too high and it **throttles your reach**, has **demonetized AI content**, and has **removed tens of thousands of AI-generated accounts.** "AI is committed to being a content creator's platform" — i.e., it protects human creators.
+- **"Everyone can smell AI on the scroll."** Audiences see it in the visuals and hear it in the language; AI scripts / AI voice / AI avatars erode the *trust* that converts a viewer into a client. A top agent (Tiffany Cabrero, ~$30M/yr) started using AI scripts + AI voice recordings and her channel **got "the plague"** and slid into a slowdown — Jesse's team had to rebuild audience trust.
+- **The rule:** *"Do the activities closest to the money"* — be the human on camera. AI is fine for **recon/research from your own perspective** (and referencing data points), but the on-camera performance and voice must be genuinely you.
+- **Virality ≠ revenue.** [[Alex Hormozi]]'s brand optimized for virality in 2024 (brand +3×, revenue **−30%**); refocusing on the core avatar in 2025 dropped views 30% but grew revenue **6×**. AI-chasing and virality-chasing fail for the same reason — they optimize the vanity metric, not the buyer.
+
+**Reconciling with the rest of this page:** the brain's AI-content wins are mostly **back-office, targeting, and voice-scaffolding** (drafts you then edit, niche funnels on *separate* accounts, translation, messaging you personalize). The throttle risk is **publishing raw AI output as your primary human brand.** Same conclusion as [[Kirby Chan]]'s "run AI-twin videos on separate niche accounts, keep your main brand 100% real" and Adam Gillespie's [[#Back of House vs. Front of House — the Human in the Loop (Adam Gillespie)|"AI is back of house"]] — **let AI assist, never let it *be* the human.**
+
 ## Related
 
 - [[Thomas Heimann]]
 - [[Adam Gillespie]]
+- [[Jesse Dau]]
 - [[Kalie Kinsella]]
 - [[Kirby Chan]]
 - [[Carrie Soave]]
