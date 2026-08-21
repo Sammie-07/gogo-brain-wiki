@@ -121,10 +121,11 @@
 
 ---
 
-## Sources (376 ingested)
+## Sources (377 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
+| [[sources/The Circle Coaching — Keyword Automation, Scarcity Positioning and Box-in-a-Box Structure (de-identified)]] | Gogo Bethke | — | NDA de-identified: ManyChat keyword discipline (every post + DM & comments; address-named property keywords), "eat the process for breakfast" end-to-end testing, tag-everything, evergreen niche content (highlights/pins/$20 ads), give-first local-news AI agent, paid-only AI privacy, unavailability=status / automation legitimizes you, cost-vs-ROI reframe, in-person recruiting + 24-mo production vetting, hybrid VA meeting tech, calendar-booking hygiene, box-in-a-box (address-named LLCs → holding → living trust, sweep-above-minimum). |
 | [[sources/Win with YouTube (Jesse Dau)]] | Jesse Dau | 2026-08-13 | #teamgogo/GoGet'Em: Jesse Dau (Channel Junkies, 7× ICON) on long-form-organic YouTube — "we sell homes, not views"; relocation-buyer avatar (worth ~4 transactions); 3-stage funnel (cost-of-living/pros-cons → driver-city map tours → 18–28-min home tours = browse & suggested algorithm); hook/rehook/never-reveal-price/undercover-CTA structure; algorithm checklist (1 video/wk, 7-min AVD, 50% TV, 70% browse-suggested, no ads/no shorts, Sat/Wed); AI content gets throttled ("smell AI on the scroll"); refer-off 50/50 out-of-production model; Channel Grader tool. |
 | [[sources/The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]] | Adam Gillespie | 2026-08-12 | #teamgogo/GoGet'Em (host Alexis Carrera): Adam Gillespie's "5 Ingredients to Success Pie" — property alerts + informational email drip + auto text + AI holiday cards + 36-call/603-day schedule; auto-pause; "the lead is not the win, the booked appointment is"; AI back-of-house / human-in-the-loop; clone-yourself GPT; open-house QR→Lofty landing page = legal opt-in; Lofty vs BoldTrail; ICA data ownership. Jason Dupree Aug 12 mortgage minute. |
 | [[sources/How to Eat an Elephant — 2026 Goals]] | Gogo Bethke  | 2026-01-29 | Full goal-setting training: CPR, reverse engineering, commission math, ChatGPT prompts.      |

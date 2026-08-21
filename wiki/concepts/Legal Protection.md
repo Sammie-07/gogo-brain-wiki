@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [legal-protection, asset-protection, real-estate, business-structure, risk-management]
-sources: [[[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]]]
-updated: 2026-08-06
+sources: [[[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]], [[The Circle Coaching — Keyword Automation, Scarcity Positioning and Box-in-a-Box Structure (de-identified)]]]
+updated: 2026-08-13
 ---
 
 # Legal Protection
@@ -71,6 +71,12 @@ From a private [[The Circle|Circle]] coaching call (de-identified) — [[Gogo Be
 - **Use an integrated advisor** — an asset-planning *and* tax attorney under one roof — not a small general attorney who only hands you the strictly-legal path. You want someone who plans the whole structure, not just answers the narrow legal question.
 - **Never recommend a company you haven't personally used.** Only point people to providers you've run through yourself.
 - **Don't proactively alert the lender** before moving a financed property into an LLC until you understand the implications — get asset-planning advice *first*, then decide how to proceed (see [[Assumable Mortgages]]).
+
+**Implementation specifics (Circle coaching, added):**
+- **Name each LLC by the property address** ("123 Main Street LLC"), then **group properties by state/region into a named holding company** ("[State] Properties LLC"). Each **income *stream*** — real estate, a digital product, a coaching business — also gets its own LLC nested up into a production holding. Everything rolls up: property/business LLC → regional/production holding → **family living trust** ("[Last name] Living Trust"), where *you own nothing* (trustee while alive, children become trustees at death).
+- **Sweep-above-minimum cash method:** keep only the bank's **no-fee minimum** in each entity account (e.g. ~$2,000 at Chase) and **auto-transfer everything above it up to the holding company.** If one property LLC is sued, the plaintiff can only reach that ~$2K in the account — the rest already swept to a holding "nobody knows" but you. Never run all income/expenses at the *holding* level (a suit there exposes everything); **keep the books at the LLC level** (Gogo's preference) — but **ask your CPA**, who may be comfortable either way.
+- **Per-entity debit + credit card and checking account**; an in-house **pre-bookkeeping** step (log every property's money in/out to a spreadsheet) feeds a **master spreadsheet → CPA**. Get a visual **"blueprint"** of the whole structure from your formation attorney (e.g. Anderson Advisors) — or your own formation provider — before building.
+- **Reality check:** it's a **hassle to set up but easy to maintain** ("setting it up is a monster; managing it afterwards is super easy"), the setup costs are a **tax write-off**, and the real payoff is you **"sleep good at night"** knowing what you built is protected and your kids have something to inherit. *(Disclaimer Gogo repeats: "I'm no financial advisor.")* Roll it out **one property per week/month** (LLC → bank account → next) so it doesn't overwhelm.
 
 ## Dissolving a Partnership — Paperwork (Circle coaching)
 

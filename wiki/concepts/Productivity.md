@@ -62,7 +62,8 @@ sources:
   - "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]"
   - "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]"
   - "[[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]]"
-updated: 2026-08-06
+  - "[[The Circle Coaching — Keyword Automation, Scarcity Positioning and Box-in-a-Box Structure (de-identified)]]"
+updated: 2026-08-13
 ---
 
 # Productivity
@@ -888,6 +889,17 @@ Don't leave a meeting with vague to-dos. As each project comes up, nail down on 
 A scheduling principle Gogo teaches inside her private [[The Circle|Circle]] coaching. NDA-protected; only her generalizable teachings are captured.
 
 The work is non-negotiable, but the **method flexes with the season** (summer, busy season, kids home) while the **rhythm stays intact** — you adapt how you do it rather than abandoning it. The key move is to **adjust your involvement by context:** when you're fully present, the team makes fewer independent calls and leans on you; when you step away, deliberately lean harder on the team and trust the systems you built. The target state is one where **"if you stop, the money doesn't stop."** Design the whole rhythm around your own creative/energy window instead of forcing a schedule that fights it (compare [[#Gogo's Current Work Schedule|the compressed Mon–Wed schedule]] and [[Mindset#Maintain a Tempo — Don't Sprint|maintain a tempo]]).
+
+## Calendar-Booking Hygiene & "Eat the Process for Breakfast" (Circle coaching)
+
+*Source: [[The Circle Coaching — Keyword Automation, Scarcity Positioning and Box-in-a-Box Structure (de-identified)]]. Private [[The Circle|Circle]] coaching, de-identified — [[Gogo Bethke]]'s generalizable teachings only.*
+
+**Booking-calendar hygiene** — small settings that quietly cost appointments:
+- **Set a 24–48-hour minimum booking buffer** so no one can grab your calendar the same day (or next day) when you're out showing a house or in a no-signal area and can't take a Zoom/Google Meet. Gogo runs a 48-hour minimum; 24 is fine if you're comfortable.
+- **Make consults long enough** — 15 minutes is too short to introduce yourself, understand the client, and pull up the MLS; use **30+ minutes** for a buyer/seller consult.
+- **Watch for a synced all-day "busy" event** silently blocking every open slot (often from a phone calendar) — a common reason a booking page shows "no availability" on days you're actually free.
+
+**"Eat the process for breakfast."** When you build any system (booking funnel, keyword automation, drip), **walk the entire process yourself as the client, step by step**, and confirm the *last* step fires: the confirmation, the reminders (morning-of + an hour before, or night-before + morning-of), and that the appointment actually lands on your calendar. The build isn't finished until the whole chain works end-to-end — because the only step that makes money is the client showing up. (The lead-capture side of this discipline is in [[Lead Generation#Keyword Automation Discipline, Tagging & the ROI Reframe (Circle coaching)|keyword automation discipline]].)
 
 ## Related
 
