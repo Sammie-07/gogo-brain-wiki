@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [legal-protection, asset-protection, real-estate, business-structure, risk-management]
-sources: [[[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]], [[The Circle Coaching — Keyword Automation, Scarcity Positioning and Box-in-a-Box Structure (de-identified)]]]
-updated: 2026-08-13
+sources: [[[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]], [[The Circle Coaching — Keyword Automation, Scarcity Positioning and Box-in-a-Box Structure (de-identified)]], [[The Circle Coaching — NDA Everyone, Golden-Handcuffs Hiring, Brand Architecture and the Freedom Arc (de-identified)]]]
+updated: 2026-08-27
 ---
 
 # Legal Protection
@@ -77,6 +77,17 @@ From a private [[The Circle|Circle]] coaching call (de-identified) — [[Gogo Be
 - **Sweep-above-minimum cash method:** keep only the bank's **no-fee minimum** in each entity account (e.g. ~$2,000 at Chase) and **auto-transfer everything above it up to the holding company.** If one property LLC is sued, the plaintiff can only reach that ~$2K in the account — the rest already swept to a holding "nobody knows" but you. Never run all income/expenses at the *holding* level (a suit there exposes everything); **keep the books at the LLC level** (Gogo's preference) — but **ask your CPA**, who may be comfortable either way.
 - **Per-entity debit + credit card and checking account**; an in-house **pre-bookkeeping** step (log every property's money in/out to a spreadsheet) feeds a **master spreadsheet → CPA**. Get a visual **"blueprint"** of the whole structure from your formation attorney (e.g. Anderson Advisors) — or your own formation provider — before building.
 - **Reality check:** it's a **hassle to set up but easy to maintain** ("setting it up is a monster; managing it afterwards is super easy"), the setup costs are a **tax write-off**, and the real payoff is you **"sleep good at night"** knowing what you built is protected and your kids have something to inherit. *(Disclaimer Gogo repeats: "I'm no financial advisor.")* Roll it out **one property per week/month** (LLC → bank account → next) so it doesn't overwhelm.
+
+## NDA Everyone in Your World (Circle coaching)
+
+*Source: [[The Circle Coaching — NDA Everyone, Golden-Handcuffs Hiring, Brand Architecture and the Freedom Arc (de-identified)]]. Private [[The Circle|Circle]] coaching, de-identified — [[Gogo Bethke]]'s generalizable teaching only. General education, not legal advice ("I'm no attorney").*
+
+**Anyone who enters your world signs the same NDA** — a Director of Operations, VAs, and **even cleaning staff.** The cleaners hear every phone call and see the notes in your office for hours; the DoO and VAs live inside your cloud, email, and DMs. The deeper reason: **you** are under many NDAs yourself (masterminds, partnerships, business arrangements), so everyone with access to your world must honor *those* too, or they can't work for you. Practical notes:
+- Use the **same NDA template across every hire**; let people massage it (via [[AI for Real Estate|Claude]]) to their comfort, but keep the core confidentiality intact.
+- **Agency-sourced VAs** have already signed the agency's own contract — you just honor the agency's PTO terms.
+- An **ICA** (independent contractor agreement) is optional and may not apply to overseas staff.
+
+This is the inbound-confidentiality complement to the [[#Dissolving a Partnership — Paperwork (Circle coaching)|hold-harmless + two-sided NDA on the way *out*]] of a partnership.
 
 ## Dissolving a Partnership — Paperwork (Circle coaching)
 
