@@ -14,9 +14,9 @@ updated: 2026-08-06
 ## Role on Team Gogo
 
 - **First hire** — Gogo hired her ~11–14 years ago, *before* she could truly afford the position. This is Gogo's signature "hire before you can afford it" story: the hire creates the capacity, the capacity creates the income.
-- **Director of Operations** — finances, bookkeeping, contracts, NDA reviews, tax support, the technology stack, and all hiring processes. Nicknamed the "TinGogo Mama."
+- **Director of Operations** — finances, bookkeeping, contracts, NDA reviews, tax support, the technology stack, and all hiring processes. Nicknamed the "#teamgogo Mama."
 - **Only US-based team member.** High **C** (DISC) personality — catches the details Gogo misses.
-- **Delegated hiring authority** — she (with Alejandra) hires for her own department; whoever trains the new hire selects the new hire.
+- **Delegated hiring authority** — she (with the Executive Assistant) hires for her own department; whoever trains the new hire selects the new hire.
 - **Money operations** — runs the monthly numbers meeting with Gogo (~1 hr), compiles the VA master timesheet, processes VA pay (Veem), categorizes QuickBooks transactions, and cross-checks affiliate payouts against the bank account.
 - Spent ~6 months building out Gogo's eight [[GoHighLevel]] buckets (one sub-account per business).
 - Holds the buffer/orientation call with each new VA before Day 1 to explain Gogo's direct personality.
