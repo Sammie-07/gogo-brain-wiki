@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [the-circle, coaching, mastermind, operations, payment, contract, community, four-freedoms, positioning]
-sources: [[[The Circle Coaching Contract (Gogo Bethke)]], [[The Circle Sales Page (gogobethke.com)]], [[Mindset Shift From Real Estate Agent To Entrepreneur]], [[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]], [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]]
+sources: [[[The Circle Coaching Contract (Gogo Bethke)]], [[The Circle Sales Page (gogobethke.com)]], [[Mindset Shift From Real Estate Agent To Entrepreneur]], [[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]], [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]]]
 updated: 2026-07-23
 ---
 
@@ -193,6 +193,16 @@ Members get access to an AI "second brain" trained on ~15 years of Gogo's knowle
 Beyond the member's own Friday check-in, the coaching pushes members to run *their teams* on the same instrument: a **shared team dashboard** plus an **automated weekly progress summary to the leader**, so status surfaces without chasing. The summary deliberately **celebrates small completed tasks** to sustain momentum — "the little things are the make-it-or-break-it" — the team-level echo of the member's own blueprint loop. (Setup mechanics: [[AI for Real Estate#Keyword Responder & Team Dashboard (Circle coaching)]].)
 
 The broader coaching emphasis behind it: **delegate out of your weaknesses and stay in your genius zone.** Members are coached to monetize what they'd do for free and hire out the rest — the dashboard exists to make that delegation *trackable*, so handing work off doesn't mean losing visibility on it.
+
+### The stakes, the mid-week beat & the leadership X-ray (de-identified)
+
+*Source: [[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]].*
+
+Three sharper details on how the loop is enforced:
+
+- **Real stakes.** Directness isn't a style, it's a guarantee: finish the 12 months in the same situation you started and "**I will fire you — that will not be tied to my reputation.**" Pay the fee and get it back **10-fold** or she fires you and keeps the money. "New habits, new results; old habits, old results."
+- **Homework Fridays are for the member, not the coach.** "I don't log into your dashboard — I'm not your babysitter." The Friday deadline (1) forces completion, (2) drills the tracking habit, and (3) compounds into a monthly → quarterly → yearly report that makes a year of small check-marks visible ("holy [—], look how much I got done"). Put it in the calendar until it's automatic.
+- **Completion is a leadership X-ray.** Half of a member's homework can be done by their team, so incomplete homework signals a **delegation failure** — if the member's dashboard *and their team's* haven't been logged into in weeks, "guess who's not moving the needle." The full operating rhythm (Monday money-maker meetings → **Wednesday catch-up call** where the team surfaces blockers → Friday delivery) is captured in [[Productivity#The Accountability Cadence — Homework Fridays, Mid-Week Catch-Up & Compounding Reports (Circle coaching)|the accountability cadence]].
 
 ## Related
 

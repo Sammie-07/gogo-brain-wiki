@@ -64,7 +64,8 @@ sources:
   - "[[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]]"
   - "[[The Circle Coaching — Keyword Automation, Scarcity Positioning and Box-in-a-Box Structure (de-identified)]]"
   - "[[The Circle Coaching — NDA Everyone, Golden-Handcuffs Hiring, Brand Architecture and the Freedom Arc (de-identified)]]"
-updated: 2026-08-27
+  - "[[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]]"
+updated: 2026-09-03
 ---
 
 # Productivity
@@ -915,6 +916,29 @@ The work is non-negotiable, but the **method flexes with the season** (summer, b
 **Anti-burnout / live by design.** Schedule non-negotiable self-care (Gogo doesn't work Thursdays/Fridays — hair, nails, facial, the occasional massage). Find the rhythm **"between bat-shit crazy and burnout."** When you're fried, follow your heart and move a task to tomorrow rather than doing it exhausted and making expensive mistakes ("book flights to the wrong state"). Excitement is good; burnout undoes it — the coach's repeated warning to an over-eager member is simply *don't burn out.*
 
 **The 12-week year** (member concept, endorsed): work in 12-week cycles, schedule backwards from the end result, and be intentional and faster — "get done in 12 weeks what takes normal people a year." A big-picture plan back-tracked into weekly, day-level actions. Complements the [[#Calendar-Booking Hygiene & "Eat the Process for Breakfast" (Circle coaching)|calendar-hygiene]] discipline.
+
+## The Accountability Cadence — Homework Fridays, Mid-Week Catch-Up & Compounding Reports (Circle coaching)
+
+*Source: de-identified [[The Circle|Circle]] coaching ([[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]]). NDA — no member specifics; [[Gogo Bethke]]'s generalizable operating rhythm only.*
+
+The delivery mechanics of [[The Circle#Coaching Delivery & Accountability (de-identified)|Circle coaching]] double as Gogo's own operating cadence — worth capturing as a productivity system in its own right.
+
+**Homework is due Fridays — and it's for *you*, not the coach.** "I don't log into your dashboard. I'm here to help you grow, but I'm not your babysitter." Three reasons the Friday deadline exists: (1) it **forces completion**; (2) it builds the **tracking habit** ("my trackers have trackers"); (3) small weekly check-marks **compound** into a monthly → quarterly → yearly report — "holy [—], look how much I got done." Even tiny tasks ("find a new CPA") matter: the point of the report is to see, at year-end, "how much you removed from your plate, how many new things you started." Until it's automatic, **put it in the calendar** (Friday 9am with coffee) — "if you can't hold yourself accountable without an appointment, put it in your calendar."
+
+**Monday money-maker meetings → Wednesday catch-up → Friday delivery.** The weekly rhythm has three beats, not one:
+1. **Monday** — meet each "money maker" (each team/function) and assign the week's work; the team commits to what's deliverable by Friday.
+2. **Wednesday "catch-up call"** — the team **surfaces problems and blockers midweek** ("that feature you want needs a $60/mo upgrade — okay?" → "yes, it'll make us $3,000"). Bringing *nothing* Wednesday means Gogo assumes Friday is on track. "Don't come to me Friday to tell me we need to upgrade — that tells me for 5 days you did nothing."
+3. **Friday** — delivered, checked off, reported.
+
+The Wednesday beat is the load-bearing one: it catches the "[—] you didn't think of in the middle" before it blows the Friday deadline. (Pairs with the [[#"First in Calendar Wins" Rule|calendar]] and [[#Track Everything|tracking]] systems above, and the [[The Circle#The team-dashboard momentum loop (de-identified)|team-dashboard momentum loop]].)
+
+**Homework completion is a leadership X-ray.** Half of any leader's homework can be done by their team, so **incomplete homework reveals a delegation failure, not a time problem.** If the member's dashboard — and their *team's* — hasn't been logged into in weeks, "guess who's not moving the needle in your business." On Gogo's own team a due item is never optional. The leadership formula:
+
+> "If someone's helping you with it, it's their responsibility — but as the leader, it's *your* responsibility to hold them accountable." … "Whatever happens, whose fault is it? Mine — because I allowed it."
+
+**Track the money metrics, not just activity.** Beyond the [[#The Tracker Suite|tracker suite]], the discipline extends to **marketing metrics**: a 10-minute Monday email review — sends, open rate, click-through. "If I sent a million emails and 100,000 opened, that's 100,000 opportunities." Then reverse-engineer the send volume needed to hit the income goal. Numbers you refuse to look at can't be optimized.
+
+**The stakes frame (why the cadence is non-negotiable).** "New habits, new results; old habits, old results." The coaching is candid by design — "you hired me to tell you what you need to hear, not what you want to hear" — and the accountability is real: finish the year unchanged and "I will fire you; that won't be tied to my reputation." Same logic applies to any system you install for yourself: if it doesn't change the person, it doesn't change the results.
 
 ## Related
 
