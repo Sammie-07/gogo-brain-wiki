@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, tool, ai, aeo, geo, seo, websites, real-estate]
-sources: ["[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]"]
-updated: 2026-09-03
+sources: ["[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]"]
+updated: 2026-09-09
 ---
 
 # Halo
@@ -27,12 +27,17 @@ Its core promise is being found by the **AI-powered consumer**: sites are "built
 - **Does NOT auto-post to social** (syndication penalty) — it makes the asset; you copy-paste.
 - **Persistent memory / privacy:** builds your profile over time; user IP is not used to train models.
 
+## The AEO Site Checker Workflow (Sep 2026)
+
+Nick's repeatable fix-my-site loop: **paste your site into the AEO site checker → "See My AEO Score" → download the PDF report** (it lists everything to fix) → hand that report to your Halo assistant → text **"fix my website."** Halo replies "on it" and fixes it — no need to understand SEO/AEO/GEO yourself. The same trick works from a Google Search Console error dump. Tip: **save Halo's number as a phone contact** (Nick names his "Halo 007").
+
 ## Proof Points
 
 - Agents closed **$100M+** in transactions in 3 months from Halo sites / AI discovery; **1,135+** leads delivered to CRM + phone.
 - "Smarty's" week-old site: 4,500 human visits, **cited by AI 9,000+ times.**
 - 700-page site: connected Google Search Console, Halo **fixed ~14,000 bugs**, **doubled traffic in a week.**
 - Origin for #teamgogo: Gogo built a full website by text in ~2.5 min at **Project 42** (Canada AI event; Eric spoke, Nick organized).
+- **Fresh results (Sep 2026, Halo <100 days live):** $1.35M and $700K listings; 2 listings 3 min after going live; a $1.5M lead; 5 leads in a week; appointment in 10 days; 48h to first lead; one site logged **11,000 human visits + was sourced ~10,000×** by AI tools in a single week.
 
 ## Related
 

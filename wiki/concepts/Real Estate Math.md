@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [real-estate, math, brokerage, production, exp-realty]
-sources: ["[[Lets Do Some Math Again]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]"]
-updated: 2026-07-16
+sources: ["[[Lets Do Some Math Again]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]"]
+updated: 2026-09-09
 ---
 
 # Real Estate Math
@@ -83,6 +83,17 @@ Equity gap  ≈  ~10% cash down  +  second mortgage (the rest)
 **Monthly savings.** Assuming a sub-3% loan instead of originating at ~6.25% saves roughly **$500–$1,000/month today** (down from $2,000–$3,000 a few years ago, when the rate spread was wider). Some buyers pursue an assumption to save as little as ~$100/month.
 
 **The display threshold.** AssumeList only surfaces homes whose assumable loan sits **below 5%** — the line where the assumption is worth the added second-mortgage complexity versus a fresh loan. See [[Assumable Mortgages]] for the full mechanics and fee structure.
+
+**Blended-rate cash gap (Nora Simpson).** The gap is financed with a normal loan at today's rate on top of the assumed low-rate first — the *blended* rate is what matters. Houston example: assume VA at 2.65% with a $129K gap, 10% down → **blended ~4.2%**, saving **>$500/mo** vs. a 6.3–6.7% new loan. The gap **grows every month** the seller keeps paying down principal (urgency).
+
+**VA entitlement math (why it unlocks big buying power).**
+```
+Entitlement tied to a property = original loan amount (or refi amount), NOT the remaining balance
+2nd-use VA funding fee:  3.3% (0 down)  →  1.5% (5% down)  →  1.25% (10% down)
+The 4× rule:  VA guarantees 25% of the loan, so cash self-guarantee = 25% of the gap
+              → additional buying power = 4 × (cash put down)
+```
+Example: putting **~$99K down** unlocks **~$396K additional buying power** (a ~$808K VA purchase) *and* drops the funding fee to 1.25%. County loan limits vary (all TX ≈ $832K in 2026; CA/VA/NJ/NY higher). See [[Assumable Mortgages]].
 
 ## Related
 
