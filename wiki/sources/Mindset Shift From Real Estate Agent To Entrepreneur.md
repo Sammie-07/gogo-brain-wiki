@@ -28,7 +28,7 @@ tags: [mindset, entrepreneurship, productivity, income-streams, coaching, person
 - **Social media scalability.** One post = 10 people or 10 million can watch it, any time. Face-to-face is 1:1 and location-bound. Email amplifies too — 15,000 emails × 40% open rate = millions of opens.
 - **Multiple revenue streams.** The more sources, the less a single collapse matters. She has: revenue share, coaching/community, digital products, investments, speaking.
 - **Automations first, VAs second.** "Your cheapest leverage is automation. It's cheaper than a VA and works 24/7." Only hire a human when a system can't do it.
-- **The Circle** — Gogo's 1:1-equivalent coaching program. Max 20 people. Twice monthly meetings. Direct access to Gogo. Must qualify (6-figure minimum, avg member income ~$600k).
+- **The Circle** — Gogo's 1:1-equivalent coaching program. A small, handpicked group (do not cite a fixed seat count — Gogo is expanding it; see [[The Circle]]). Twice monthly meetings. Direct access to Gogo. Must qualify (6-figure minimum, avg member income ~$600k).
 - **Gogopreneur** — her entrepreneurship brand/podcast at gogopreneur.com.
 - **She has been to Tony Robbins events 8–9 times.** Currently has a business coach and an SEO coach.
 

@@ -40,7 +40,7 @@ tags: [coaching, career-history, income-streams, social-media, personal-branding
 - Start: 1:1 coaching → hits ceiling (only 24 hrs, can't scale).
 - Better: group cohort. Five 1:1 clients → invite to group call → one hour of Gogo's time instead of five, same total revenue.
 - Current commitment length: **6 months** (tried 12 months, felt too long).
-- **The Circle:** max 20 people, once/week meetings. Must qualify: 6-figure minimum income, average member income ~$600k. Comment "circle" on her Instagram to apply.
+- **The Circle:** a small, handpicked group (do not cite a fixed seat count — Gogo is expanding it; see [[The Circle]]), once/week meetings. Must qualify: 6-figure minimum income, average member income ~$600k. Comment "circle" on her Instagram to apply.
 - Today she has max 4 coaching calls/day (beyond that she's "ready to pull my hair out").
 
 **Social media for coaches:**

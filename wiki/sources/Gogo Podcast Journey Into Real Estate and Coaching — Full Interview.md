@@ -23,7 +23,7 @@ tags: [gogo-story, coaching-business, social-media, agent-attraction, the-circle
 - Switched to eXp in year 8 → Team Gogo: **3,471+ agents, $2.7B in sales YTD**.
 - Gogo's Bootcamp Agent Attraction → another 2 Comma Club award.
 - GoGet'Em Community: one place for all learning — brand, lead gen, team, money, investing.
-- The Circle: max 20, six-month commitment, minimum six figures (average $600K/year in the program).
+- The Circle: a small, handpicked group, six-month commitment, minimum six figures (average $600K/year in the program). *(Do not cite a fixed seat count — Gogo is expanding the Circle; see [[The Circle]].)*
 
 ### Coaching Philosophy
 - Start with one-on-one, 3-month commitment — but move to group ASAP. One-on-one can't scale.

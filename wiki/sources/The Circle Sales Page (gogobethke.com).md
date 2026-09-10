@@ -16,7 +16,7 @@ tags: [the-circle, coaching, mastermind, sales-page, positioning, testimonials, 
 - **Tagline:** "You Built the Income. Now Build the Freedom."
 - **Who it's for:** Entrepreneurs making consistent 6-figure income who are burnt out, lack passive income, and whose business cannot run without them. Not real-estate-specific — any industry.
 - **Who it's NOT for:** People just starting out, people who want done-for-you, people who won't implement, people wanting leads handed to them.
-- **Size:** 20 total seats. Opens once per year. Applications close when full. New seats only open when a member completes their term.
+- **Size:** a small, handpicked group with limited capacity, by application. *(Retired verbiage: the page historically said "20 total seats, opens once per year" — do NOT repeat that; Gogo is expanding the Circle. See [[The Circle]] positioning rule.)*
 - **Duration:** 12 months.
 - **Application:** By application only. Reviewed personally by Gogo. Investment discussed on Clarity Call (not listed publicly).
 - **Calls:** 2 to 4 group coaching calls per month guaranteed. Most months it is 4.

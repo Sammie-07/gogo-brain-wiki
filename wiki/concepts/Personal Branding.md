@@ -1044,7 +1044,7 @@ Too many options = overwhelm = lost prospect. Narrow to the **top 3 ways you mak
 **Gogo's 3:**
 1. **Team Gogo at eXp** (revenue share) — keyword: *"Partner"*
 2. **GoGet'Em Community** (coaching membership) — keyword: *"Community"*
-3. **The Circle** (1:1 coaching, max 20 clients) — keyword: *"Circle"*
+3. **The Circle** (high-touch coaching, small handpicked group) — keyword: *"Circle"*
 
 ### Each Section Must Have a Keyword CTA
 Don't assume people know how to reach you — spell out exactly what to do. Each money maker gets its own comment keyword connected to a ManyChat automation that routes them to the correct page or funnel.

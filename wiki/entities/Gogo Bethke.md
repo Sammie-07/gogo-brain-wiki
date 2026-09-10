@@ -62,7 +62,7 @@ Three separate programs have each crossed $1M in sales (awarded Two Comma Club b
 3. **[[GoGet'Em Community]]** — ongoing community platform
 
 **The Circle** — Gogo's highest-tier coaching program:
-- Max 20 people
+- Small, handpicked, application-only group — limited capacity (do NOT cite a fixed seat count; Gogo is expanding it — see [[The Circle]] positioning rule)
 - Meets once/week
 - 6-month commitment (tried 12 months; felt too long)
 - Minimum qualification: 6-figure income; average member income ~$600k

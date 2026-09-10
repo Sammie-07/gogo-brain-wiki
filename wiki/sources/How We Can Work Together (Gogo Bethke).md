@@ -24,7 +24,7 @@ Agents with multiple income streams (buyers, sellers, agent attraction, digital 
 **Gogo's 3:**
 1. Team Gogo organization at eXp (revenue share) — keyword: "Partner"
 2. GoGet'Em Community (coaching community) — keyword: "Community"
-3. The Circle (1:1 coaching, max 20 clients) — keyword: "Circle"
+3. The Circle (high-touch coaching, small handpicked group) — keyword: "Circle"
 
 ### Each Section Needs Its Own Keyword CTA
 - Every money maker gets a comment keyword that triggers a ManyChat automation

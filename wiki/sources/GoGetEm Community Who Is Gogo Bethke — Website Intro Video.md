@@ -20,7 +20,7 @@ tags: [gogo-story, gogetem, the-circle, origin-story, credentials, community]
 - Named **top 50 most influential women in the US** (2025, Success Magazine).
 - Core belief: "Don't ever ask a broke friend how to make a million dollars. The quickest way to your success is to copy the people who have been where you want to go."
 - GoGet'Em was created because Gogo had to spend hundreds of thousands going to multiple events, masterminds, and coaching programs. She wanted ONE place: brand, lead gen, team, money, investing — a full picture.
-- **The Circle**: max 20 entrepreneurs, direct weekly access to Gogo, 12-month program. Qualifying criteria: six figures minimum.
+- **The Circle**: a small, handpicked group of entrepreneurs, direct weekly access to Gogo, 12-month program. Qualifying criteria: six figures minimum. *(Do not cite a fixed seat count — Gogo is expanding the Circle; see [[The Circle]].)*
 
 ## Quotes
 

@@ -7,7 +7,9 @@ updated: 2026-07-23
 
 # The Circle
 
-Gogo Bethke's premium private mastermind. Maximum 20 members. One-year commitment. Open to entrepreneurs in any industry making 6-figure income who are ready to build systems, team, and passive income that give them their life back.
+> **POSITIONING RULE (2026-09-10, do not violate):** Do **not** state a fixed number of seats ("20 seats") or that the Circle "opens once a year." Gogo is **expanding the Circle**, and that retired scarcity language no longer aligns with her plans. Describe it as a **small, handpicked, application-only** mastermind with **limited capacity** — never a specific seat count or a once-a-year cadence. This overrides any older source that still says "20."
+
+Gogo Bethke's premium private mastermind. A small, handpicked group by application only (limited capacity). One-year commitment. Open to entrepreneurs in any industry making 6-figure income who are ready to build systems, team, and passive income that give them their life back.
 
 ## Core Positioning
 
@@ -49,8 +51,8 @@ Gogo uses these six pain points to qualify applicants emotionally on the sales p
 
 | Element | Detail |
 |---|---|
-| Max members | 20 (handpicked, by application only) |
-| Availability | Opens once per year. Closes when full. New seats only when a member completes their term. |
+| Members | Small, handpicked group, by application only — limited capacity (do NOT cite a fixed seat count; the program is expanding) |
+| Availability | By application; enrollment windows vary as the program expands (do NOT say "opens once a year") |
 | Calls | 2 to 4 group coaching calls per month guaranteed. Most months it is 4. |
 | Duration | 12 months |
 | Renewal | Month 11: option to continue for another year |
