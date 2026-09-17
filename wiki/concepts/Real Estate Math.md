@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [real-estate, math, brokerage, production, exp-realty]
-sources: ["[[Lets Do Some Math Again]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]"]
-updated: 2026-09-09
+sources: ["[[Lets Do Some Math Again]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]"]
+updated: 2026-09-14
 ---
 
 # Real Estate Math
@@ -95,9 +95,35 @@ The 4× rule:  VA guarantees 25% of the loan, so cash self-guarantee = 25% of th
 ```
 Example: putting **~$99K down** unlocks **~$396K additional buying power** (a ~$808K VA purchase) *and* drops the funding fee to 1.25%. County loan limits vary (all TX ≈ $832K in 2026; CA/VA/NJ/NY higher). See [[Assumable Mortgages]].
 
+## Revenue-Share Levels — FLA, FLQA and the Bonus Structure
+
+*Source: [[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]].*
+
+The math behind eXp revenue share and why agents chase **FLQAs**:
+- **FLA** = Frontline Active — an agent you attracted who joined and pays the **$85/mo**.
+- **FLQA** = Frontline *Qualifying* Active — an FLA who has **closed and collected ≥ $5,000 in commission**; the qualification holds for **6 months** in your downline.
+
+```
+Every 5 FLQAs unlocks the next revenue-share level:
+  5 → Level 2   10 → Level 3   15 → Level 4   20 → Level 5   25 → Level 6   30 → Level 7
+30 FLQAs = all 7 levels open = full revenue share on your whole organization (the retirement goal)
+```
+
+**Bonus overrides on top of the every-5 rule:**
+- Current promo: **Levels 1–3 are open for everyone** regardless of FLQAs (if removed, you'd need 15 FLQAs for Level 3).
+- **Capping** agent → Levels **1–5** open automatically.
+- **ICON** agent → all **7** levels open automatically.
+
+So an ICON has no FLQA worry *today*, but still wants 30 FLQAs for the day they stop producing (Gogo's framing: "when you're 67 and have 1,700 agents, you'll need the FLQAs"). Gogo + her husband hold **~70 FLQAs**. Co-sponsor position pays the **$4,000 cap bonus** instead of the FLQA — see [[Co-Sponsorship and Agent Attraction System]].
+
+## The Zero-Transaction Reality (recruiting math)
+
+NAR's per-agent production data is Gogo's core attraction proof: **2025 — 71% of realtors closed zero transactions; NAR 2026 — 84% closed zero.** Against that, Team Gogo runs a PPP of ~6 and **10 agents cap every week**. "Agents are bleeding; they need support." (Compare the older [[Let's Do Some Math Again|71.1% figure]].)
+
 ## Related
 
 - [[eXp Realty]]
 - [[#teamgogo]]
 - [[Gogo Bethke]]
+- [[Co-Sponsorship and Agent Attraction System]]
 - [[Goal Setting]]

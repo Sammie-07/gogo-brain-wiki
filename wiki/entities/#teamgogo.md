@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, real-estate, team]
-sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]"]
-updated: 2026-07-05
+sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]"]
+updated: 2026-09-14
 ---
 
 # #teamgogo 
@@ -20,6 +20,19 @@ Full name: **Team Go International Family of Agents**. Real estate agent organiz
 - **Production history**: 2019 $70M · 2020 $200M · 2021 $1B · 2022 $1.8B · 2023 $2.1B · 2024 $3B · 2025 $3.5B (projecting $3.5–4B for 2026)
 - **Structure**: No fees between members; no revenue sharing between partners — they simply do real estate together as a family
 - **Website**: teamgogo.team
+
+### Sep 2026 snapshot (CoWithGogo event)
+
+Gogo's live figures on Sep 14, 2026 (she rounds call-to-call; use as directional, not canonical):
+- **~1,697 agents** (~1,700); **46 states, 7 countries**; ~**1.5% of eXp**.
+- **$15B+ cumulative / 38,000+ transactions** over ~7.5 years; **$3.5B in 2025**; **~$2.9B YTD** → projecting **$4.5–5B for 2026**; **8,300 transactions in 2025**; **10 agents cap every week**.
+- **~40 agents attracted per month**; **80 teams** — but the org is mostly **solo agents** (the ideal member: a solo agent who wants community, not a boss).
+- **60 ICON agents YTD** (44 in all of last year).
+- Recruiting stat cited: **NAR 2026 — 84% of realtors closed zero transactions last year** (up from 71% the prior year). See [[Real Estate Math]].
+
+## The Co-Sponsorship Model (agent attraction)
+
+Team Gogo grows by **co-sponsorship**: an agent partners with Gogo to attract agents and plugs into the ready-built machine (trainings, onboarding, referral map, website funnel). Full mechanics — sponsor vs co-sponsor, the FLA/FLQA math, and the AI-built attraction website — live in [[Co-Sponsorship and Agent Attraction System]]. Key framing: **"the platform is eXp, the multiplier is the Team Gogo family."** Both sponsor and co-sponsor earn full revenue share; Gogo will take either position (she prefers CO for the $4,000 cap bonus, having ~70 FLQAs already).
 
 ## Culture and Model
 
@@ -40,3 +53,4 @@ Members are selected for production culture rather than headcount. The PPP of 6.
 - [[Gogo Bethke]]
 - [[eXp Realty]]
 - [[Real Estate Math]]
+- [[Co-Sponsorship and Agent Attraction System]]
