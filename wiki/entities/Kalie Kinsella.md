@@ -1,13 +1,19 @@
 ---
 type: entity
 tags: [person, trainer, google-business-profile, local-seo, real-estate]
-sources: ["[[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]"]
-updated: 2026-07-16
+sources: ["[[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]", "[[The Chaos-Free Agent — Google Workspace as Your Operating System (Kalie Kinsella)]]"]
+updated: 2026-09-17
 ---
 
 # Kalie Kinsella
 
-Google Business Profile / local-SEO specialist known as **"That Google Girl"** (Orlando Living Real Estate); guest trainer in Gogo's community on ranking agents in the AI-search era.
+Google Business Profile / local-SEO specialist and **Google Workspace consultant** known as **"That Google Girl"** (Orlando Living Real Estate); recurring GGtC guest trainer on ranking agents in the AI-search era and running a business as a CEO on Google Workspace.
+
+## As a Workspace Consultant (Chaos-Free Agent training)
+
+Beyond GBP, Kalie teaches [[Google Workspace for Real Estate Agents|Google Workspace as an agent's operating system]] — centralizing onto Gmail filters, Tasks, Keep, Drive, Calendar, Forms, Sites, Contacts, and mass email so everything is "three clicks or less." Background: **12 years in real estate operations**, ran a high-level **transaction-coordination (TC) business for ~8 years**, TC coach and graphic designer, independent consultant with a **Google reseller/affiliate discount** for clients.
+- **Signature rules:** you're a CEO (spend time on revenue work); **never train your own assistant**; tool + habit together; AI replaces the mundane, not you.
+- **Offers:** 1:1 consult **$175/hr**; **done-for-you Workspace setup $500** (DNS/authentication, custom domain, migration).
 
 ## Overview
 
@@ -23,8 +29,10 @@ Kalie Kinsella teaches the **"Build it, Prove it, Feed it"** framework for Googl
 - Cites trainer **Ryan McClure** for "search everywhere optimization."
 
 ## Related
+- [[Google Workspace for Real Estate Agents]]
 - [[Lead Generation]]
 - [[Personal Branding]]
 - [[AI for Real Estate]]
+- [[Productivity]]
 - [[Noemi Chavez]]
 - [[Gogo Bethke]]

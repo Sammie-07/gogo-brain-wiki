@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, real-estate, team]
-sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]"]
-updated: 2026-09-14
+sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]"]
+updated: 2026-09-16
 ---
 
 # #teamgogo 
@@ -44,7 +44,8 @@ Members are selected for production culture rather than headcount. The PPP of 6.
 
 ## Training
 
-- Weekly Wednesday training at 1pm (internal)
+- Weekly Wednesday training at 1pm (internal); **the third Wednesday is the "Roundtable"** — agents share what's working in their business rather than a single new feature (standard order: housekeeping → [[Jason Dupree]] mortgage minute → guest trainer → Q&A)
+- Tech support every **Wednesday at 3pm**
 - Last Wednesday of every month: open to the public at teamgogo.team/open
 - Monthly "Wine Not eXp" presentation showing financial case for [[eXp Realty]]
 

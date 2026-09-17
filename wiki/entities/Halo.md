@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, tool, ai, aeo, geo, seo, websites, real-estate]
-sources: ["[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]"]
-updated: 2026-09-09
+sources: ["[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]"]
+updated: 2026-09-16
 ---
 
 # Halo
@@ -38,6 +38,13 @@ Nick's repeatable fix-my-site loop: **paste your site into the AEO site checker 
 - 700-page site: connected Google Search Console, Halo **fixed ~14,000 bugs**, **doubled traffic in a week.**
 - Origin for #teamgogo: Gogo built a full website by text in ~2.5 min at **Project 42** (Canada AI event; Eric spoke, Nick organized).
 - **Fresh results (Sep 2026, Halo <100 days live):** $1.35M and $700K listings; 2 listings 3 min after going live; a $1.5M lead; 5 leads in a week; appointment in 10 days; 48h to first lead; one site logged **11,000 human visits + was sourced ~10,000×** by AI tools in a single week.
+
+## Sep 2026 Roundtable update (Nick Krem)
+
+- **Free trial:** text **"Gogo" to 415-726-3224** (or QR); free site with **5 edits**; **$99/mo → 2 sites, 1,000 pages each**, hosted on a free `*.whosey.sites` subdomain (custom domain recommended).
+- **AEO site checker** confirms **Bold Trail (KVCore) / brokerage sites score an "F"** — they block AI crawlers, so those agents are invisible to AI search.
+- **Case study [[Melissa Albert]]** ("Living in Kentucky," Bowling Green): a **102-page** relocation site in **<2 weeks**, scoring **99/100**; a **"Living Local"** automation ("every Wednesday pull the top local events and update") made her the local go-to in Facebook groups; she had Halo run a **federal fair-housing/anti-steering audit** that rewrote copy + added statements site-wide. Direct **GoHighLevel** sync (keep GHL as the nurture backend).
+- **Roadmap:** Founders-member cutoff **by October**; a **worldwide referral network** (text "I need someone in [area]"; Gogo requested a Team-Gogo-branded pool); an **AI training library** over every training video.
 
 ## Related
 

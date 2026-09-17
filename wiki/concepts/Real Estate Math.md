@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [real-estate, math, brokerage, production, exp-realty]
-sources: ["[[Lets Do Some Math Again]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]"]
-updated: 2026-09-14
+sources: ["[[Lets Do Some Math Again]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]"]
+updated: 2026-09-16
 ---
 
 # Real Estate Math
@@ -118,7 +118,13 @@ So an ICON has no FLQA worry *today*, but still wants 30 FLQAs for the day they 
 
 ## The Zero-Transaction Reality (recruiting math)
 
-NAR's per-agent production data is Gogo's core attraction proof: **2025 — 71% of realtors closed zero transactions; NAR 2026 — 84% closed zero.** Against that, Team Gogo runs a PPP of ~6 and **10 agents cap every week**. "Agents are bleeding; they need support." (Compare the older [[Let's Do Some Math Again|71.1% figure]].)
+NAR's per-agent production data is Gogo's core attraction proof: **2024 — 71% closed zero; 2025 — 71.1%; NAR 2026 — 84% closed zero** → **selling ONE home = top 16% nationally.** Against that, Team Gogo runs a PPP of ~6 and **10 agents cap every week**. "Agents are bleeding; they need support." (Compare the older [[Let's Do Some Math Again|71.1% figure]].)
+
+**Same pie, fewer bakers (market-share consolidation).** Existing-home sales are ~flat — **~4.06M (2024) · ~4.06M (2025) · ~3.98M YTD (2026)** — so volume isn't shrinking; it's concentrating. "We're selling the same number of homes ±10% every year; the question is who's selling it" → share flows to teams, top producers, Zillow-lead agents, and **locally-branded "household name" agents.** "Instead of 100 agents selling one home, one agent sells 100."
+
+**Solo-agent percentile ladder** (NAR, repost fodder): 12/yr = top **2%**; 20–29/yr = **0.81%**; 30–50/yr = **0.45%**; 52–100/yr = **0.31%**; 100–300/yr solo = **0.11%**.
+
+**FastCap math (eXp 6-week program):** the average finisher gets **3.9 listing contracts** (~a listing a week). At a $10K average commission, that's ~$39K per 6-week cycle × ~8 cycles ≈ **~$312K/yr**.
 
 ## Related
 

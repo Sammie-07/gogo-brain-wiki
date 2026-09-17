@@ -9,6 +9,7 @@ tags:
   - automation
   - tracking
 sources:
+  - "[[The Chaos-Free Agent — Google Workspace as Your Operating System (Kalie Kinsella)]]"
   - "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]"
   - "[[Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]]"
   - "[[Red Light Green Light Exercise]]"
@@ -940,8 +941,21 @@ The Wednesday beat is the load-bearing one: it catches the "[—] you didn't thi
 
 **The stakes frame (why the cadence is non-negotiable).** "New habits, new results; old habits, old results." The coaching is candid by design — "you hired me to tell you what you need to hear, not what you want to hear" — and the accountability is real: finish the year unchanged and "I will fire you; that won't be tied to my reputation." Same logic applies to any system you install for yourself: if it doesn't change the person, it doesn't change the results.
 
+## The Chaos-Free Operating System — Google Workspace (Kalie Kinsella)
+
+*Source: [[The Chaos-Free Agent — Google Workspace as Your Operating System (Kalie Kinsella)]].*
+
+Centralize the business onto **Google Workspace** so everything is **"three clicks or less"** — the operations layer under the leverage hierarchy. Full stack in [[Google Workspace for Real Estate Agents]]; the productivity habits that make it work:
+- **Capture instantly:** "if it's not on my task list or calendar, it doesn't exist" — task a to-do the moment it appears (before any call/text/email); **Google Tasks = actions, Google Keep = deadline-less ideas.**
+- **Calendar is the source of truth:** everything (personal + professional) on one integrated calendar; **#1 hack = Sunday-night blocking** so the free Appointment Schedule (a Calendly replacement) never double-books.
+- **Automate routing, don't drag:** Gmail **filters + nested labels**; **Starred = to-do list.**
+- **Tool + habit together** (a tool without the habit is "a fancy car you can't drive"); implement **one tool at a time for two weeks** ("take down a forest one tree at a time").
+- **Delegation caution:** don't hire an assistant to fix a "you" problem, and **never train your own assistant** — fix the systems first, reinvest the ~$80–100K into revenue. (Complements the [[#The Leverage Hierarchy|leverage hierarchy]].)
+
 ## Related
 
+- [[Google Workspace for Real Estate Agents]]
+- [[Kalie Kinsella]]
 - [[Goal Setting]]
 - [[Mindset]]
 - [[Gogo Bethke]]

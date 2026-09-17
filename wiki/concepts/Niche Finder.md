@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [niche-finder, ai, personal-branding, marketing, tool]
-sources: ["[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[How to Become the Obvious Choice in Your Market (Gogo Bethke)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[AI SEO and Google Ranking for Listings (Kirby Chan)]]", "[[Building a Dominant Business in a Small Market (Jeannie Steele)]]"]
-updated: 2026-07-23
+sources: ["[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[How to Become the Obvious Choice in Your Market (Gogo Bethke)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[AI SEO and Google Ranking for Listings (Kirby Chan)]]", "[[Building a Dominant Business in a Small Market (Jeannie Steele)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]"]
+updated: 2026-09-16
 ---
 
 # Niche Finder
@@ -46,6 +46,12 @@ The live niche-training *How to Become the Obvious Choice in Your Market* is the
 - **DM-keyword automation is one step, never two** — the bio's "DM me [keyword]" delivers the lead magnet AND captures the email in the same message, then feeds the CRM ([[Lead Generation]]).
 - **Builder / partner pipeline**: coffee with one builder rep per week, put their brand on the closing gift, interview them on your podcast (one agent reported 3–4 closings/year from this). Veterans: VFW/American Legion posts, JAG attorneys, and military-base transition offices as pre-earned-trust referral partners.
 - **Two ways to run it**: free — copy Gogo's exact prompt into your own Claude (lacks her 15 years, pulls generic internet info); paid **$24.99** — runs on her "second brain" (costs data out of her Claude, hence the charge).
+
+## Sep 2026 Roundtable — the Second Brain shown live
+
+*Source: [[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]].*
+
+Gogo showed the **Second Brain** publicly: everything she's produced (videos, trainings, bootcamps, blogs, posts — transcribed) loaded into **Obsidian** as a knowledge graph that clusters into buckets (she pointed out the Personal Branding and Social Media clusters); the Niche Finder queries it, and coaching clients can "chat with her" any time via a dashboard. Live demo (**Melissa Johnson, Winter Park FL**) output a "Winter Park Downsize Specialist" niche (empty-nester/ex-teacher, first-time buyers + downsizers $600K–$1.5M) with 3 bios, 8 marketing ideas (dog-walk farm with 25 handwritten cards + QR, horse-barn flyers, teacher-network seminar, estate-attorney/financial-planner referral coffees), an SEO blog bank, and the Foundation → Momentum → Scaling 90-day plan — confirming the output pipeline above. Pair each blog title with a [[Halo]] lead-magnet page and drip into community Facebook groups.
 
 ## Notes & Caveats
 
