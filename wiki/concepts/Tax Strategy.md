@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [tax-strategy, wealth-building, real-estate, business-structure, legal]
-sources: [[[Tax Strategy and IRS Myths — Estate Planning Part 2 (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[Tax Planning For Real Estate Investors 101 (Toby Mathis)]], [[Big Beautiful Bill Tax Overhaul — Individual Breaks Part 1 (Toby Mathis)]], [[Trump's Big Beautiful Bill — Business Tax Breaks Part 2 (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[How To Invest In Your Kids' Roth IRA (And Make Them Millionaires Tax-Free)]], [[How to Bring Your Family Into Your Business for Maximum Tax Benefits (Barbara Schreihans)]], [[Tax-Free Family Business Strategies — Part 2 (Barbara Schreihans)]], [[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]], [[Tax Credit Tools for Real Estate — 45L and Cost Segregation (Dawn Lavanway, Eric Oliver)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]]
-updated: 2026-07-23
+sources: [[[Tax Strategy and IRS Myths — Estate Planning Part 2 (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[Tax Planning For Real Estate Investors 101 (Toby Mathis)]], [[Big Beautiful Bill Tax Overhaul — Individual Breaks Part 1 (Toby Mathis)]], [[Trump's Big Beautiful Bill — Business Tax Breaks Part 2 (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[How To Invest In Your Kids' Roth IRA (And Make Them Millionaires Tax-Free)]], [[How to Bring Your Family Into Your Business for Maximum Tax Benefits (Barbara Schreihans)]], [[Tax-Free Family Business Strategies — Part 2 (Barbara Schreihans)]], [[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]], [[Tax Credit Tools for Real Estate — 45L and Cost Segregation (Dawn Lavanway, Eric Oliver)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]]
+updated: 2026-09-17
 ---
 
 # Tax Strategy
@@ -73,6 +73,12 @@ From a private [[The Circle|Circle]] coaching call (de-identified) — [[Gogo Be
 - **Keep itemized paper receipts** — meals especially. A digital-only record may not survive an audit; store the physical receipts organized **by year**.
 - **Pay quarterly estimates on time and forward the confirmation** to both your bookkeeper and your accountant, so everyone's records reconcile.
 - **Bring completed prior-year returns to a new CPA** when you switch, so they can pick up with full context.
+
+### Branded gift = 100% marketing write-off (Circle coaching)
+
+*Source: [[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]].*
+
+Client/closing **gifts** are deduction-capped in many states (often ~**$25**). But a **branded** item — your business info on a waterproof sticker, or burned/engraved into it — reclassifies as **marketing material and becomes 100% deductible.** So always brand personalized closing gifts (engraved boards, doormats, framed renderings). State rules vary; confirm with your CPA. See the [[Lead Generation#Post-Close Follow-Up & Neighborhood Farming System (Circle coaching)|post-close gifting play]].
 
 ## Related
 - [[Legal Protection]]

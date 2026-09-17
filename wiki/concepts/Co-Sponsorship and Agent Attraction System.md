@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [agent-attraction, co-sponsorship, revenue-share, exp-realty, teams, real-estate-math, lead-generation]
-sources: ["[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]"]
-updated: 2026-09-14
+sources: ["[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]"]
+updated: 2026-09-17
 ---
 
 # Co-Sponsorship and the Agent-Attraction Website System
@@ -57,6 +57,16 @@ Fill a short questionnaire (name, email, phone, a few questions) → an **AI bui
 > "I'll help you attract them, I'll present, I'll handle their objections, I'll close them, I'll onboard them, I'll train them. You just invite and follow up."
 
 > "Agents on the GOGO — not Gogo's agents." (The org is the [[#teamgogo|Team Gogo International Family of Agents]].)
+
+## The Sponsor Onboarding System (Circle coaching)
+
+*Source: [[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]] (NDA, de-identified).*
+
+Attracting the agent is only half the job — **the sponsor owns onboarding to their own value-adds** (team trainings, resources, community, calendars, referral map); the brokerage only onboards its own tools. Run it so recruits don't drink from a fire hose:
+- **Stagger it over ~4 weeks:** wk 1 brokerage onboards → wk ~2 your team benefits → wk ~3 broader upline/community → **wk ~4 a personal catch-up call** ("do you understand what you have, how to use it, and why?"). **Run overlapping onboarding calls separately** (combining them = "deer in the headlights").
+- **VA runs the motion; a long-tenured person owns the relationship** — recruits always know who to go to ("a partnership, not just a VA").
+- **Application → hand-holding funnel:** an intake form names you as sponsor/co-sponsor → on submit, the sponsor + relationship-lead get an instant text and **start a group thread with the recruit from day one** (prospects take *months* and get cold feet — hold their hand to "active"). **Celebrate at "active"** with a personal welcome.
+- Sponsor-switch workaround: you can't switch an existing sponsor, but you can sponsor a **different household member** (e.g., a spouse).
 
 ## Related
 

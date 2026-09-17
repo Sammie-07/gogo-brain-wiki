@@ -10,6 +10,7 @@ tags:
   - tracking
 sources:
   - "[[The Chaos-Free Agent — Google Workspace as Your Operating System (Kalie Kinsella)]]"
+  - "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]"
   - "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]"
   - "[[Speed to Lead - Building a Follow-Up System That Converts (Jason Matthews)]]"
   - "[[Red Light Green Light Exercise]]"
@@ -940,6 +941,14 @@ The Wednesday beat is the load-bearing one: it catches the "[—] you didn't thi
 **Track the money metrics, not just activity.** Beyond the [[#The Tracker Suite|tracker suite]], the discipline extends to **marketing metrics**: a 10-minute Monday email review — sends, open rate, click-through. "If I sent a million emails and 100,000 opened, that's 100,000 opportunities." Then reverse-engineer the send volume needed to hit the income goal. Numbers you refuse to look at can't be optimized.
 
 **The stakes frame (why the cadence is non-negotiable).** "New habits, new results; old habits, old results." The coaching is candid by design — "you hired me to tell you what you need to hear, not what you want to hear" — and the accountability is real: finish the year unchanged and "I will fire you; that won't be tied to my reputation." Same logic applies to any system you install for yourself: if it doesn't change the person, it doesn't change the results.
+
+## Phone Hygiene, the "No-Man" & Respecting Your Money (Circle coaching)
+
+*Source: [[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]] (NDA, de-identified).*
+
+- **Phone/number boundaries:** don't retire a long-held business number for a "new" line (the known number always rings; retraining a whole network is harder than moving a few close contacts to a new *personal* number). Better than a second phone: a **CRM smart number that forwards** to whoever should answer, so your cell doesn't ring. Legit reasons for two devices: a "clean" content phone (auto-uploads to team cloud) and being able to hand the work phone to an assistant. **Get on the Do Not Call list**; to kill spam, **scrub your cell number off the internet** (site, sign photos, GBP, old posts) — realistically ~1.5 years to near-zero.
+- **Every org needs a "no-man":** entrepreneurs create chaos through their own great ideas ("every idea feels great"); if everyone's a yes-person you chase ideas in a million directions. Someone must ask "is that important *right now*?" Install an **operating system** and a real manager/operator structure. (Recommended: a well-known entrepreneurial-operating-system methodology + its visionary/integrator pairing.)
+- **Respect your money** — "$19.99 or $19,000, track it or it goes poof." Pull a YTD vendor report and **audit recurring charges** to cut/combine/renegotiate; **right-size subscriptions to actual usage**; and **use tools you already pay for** before buying new ones (an office suite often duplicates separately-paid scheduling/meeting tools). See [[Google Workspace for Real Estate Agents]] and [[Wealth Building]].
 
 ## The Chaos-Free Operating System — Google Workspace (Kalie Kinsella)
 
