@@ -21,7 +21,7 @@ tags: [funnels, lead-generation, tools, boldtrail, gohighlevel, ai, gogetem-comm
 - **Lovable + ChatGPT pro tip:** Use ChatGPT's "Lovable Assist" custom GPT first to generate an optimized prompt (include brand, colors, ideal client, contact info). Then paste into Lovable. Better results, only 1 credit used.
 - **Canva builds websites too** — mentioned as another option.
 - **GoGet'Em service tiers:**
-  - **Done-With-You:** Tue + Wed live calls; Gogo's full team (designers, funnel builders, automation techs, ads manager) available to help you build in real time; support staff can attend too
+  - **Done-With-You:** weekly Tuesday live call; Gogo's full team (designers, funnel builders, automation techs, ads manager) available to help you build in real time; support staff can attend too *(as of Sep 2026 GGTC runs one tech call, Tuesdays; the former Wednesday call moved to [[#teamgogo]])*
   - **Funnels Built For You:** $300/funnel or 4 for $1,000; built in GoHighLevel (requires GHL account); start-to-finish build
   - **Website Built For You:** Full animated custom websites; higher tier; pricing on consultation
 

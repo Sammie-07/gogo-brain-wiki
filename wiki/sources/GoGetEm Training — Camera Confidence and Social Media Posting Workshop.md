@@ -47,7 +47,7 @@ tags: [social-media, content-creation, camera-confidence, instagram-stories, crm
 ### Done With You Program
 
 - Gives members access to Gogo's tech team for hands-on setup help
-- Twice-weekly live chat/tech support calls
+- Live chat/tech support calls (as of Sep 2026 one per week, Tuesdays; the former Wednesday call moved to [[#teamgogo]])
 - Members (or their VAs) can join to get systems set up with direct guidance
 
 ### Community Support

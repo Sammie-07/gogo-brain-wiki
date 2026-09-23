@@ -45,7 +45,7 @@ Members are selected for production culture rather than headcount. The PPP of 6.
 ## Training
 
 - Weekly Wednesday training at 1pm (internal); **the third Wednesday is the "Roundtable"** — agents share what's working in their business rather than a single new feature (standard order: housekeeping → [[Jason Dupree]] mortgage minute → guest trainer → Q&A)
-- Tech support every **Wednesday at 3pm**
+- Tech support every **Wednesday at 3pm** (as of Sep 2026 this is the community tech call formerly run by [[GoGet'Em Community]] on Wednesdays; GGTC now runs its tech call on Tuesdays only)
 - Last Wednesday of every month: open to the public at teamgogo.team/open
 - Monthly "Wine Not eXp" presentation showing financial case for [[eXp Realty]]
 

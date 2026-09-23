@@ -45,7 +45,7 @@ Gogo uses these six pain points to qualify applicants emotionally on the sales p
 
 ## GoGet'Em Community Requirement
 
-**Membership in the GoGet'Em Community is a prerequisite for joining The Circle.** Applicants must be (or become) GoGet'Em members. This is not an add-on or perk included with The Circle — it is a condition of membership. It is also a benefit: GoGet'Em runs live tech support calls twice a week (Tuesday and Wednesday at 3 PM EST), all recorded, giving Circle members an additional resource beyond their monthly 1:1 session.
+**Membership in the GoGet'Em Community is a prerequisite for joining The Circle.** Applicants must be (or become) GoGet'Em members. This is not an add-on or perk included with The Circle — it is a condition of membership. It is also a benefit: GoGet'Em runs a live tech support call weekly (Tuesdays at 3 PM EST), all recorded, giving Circle members an additional resource beyond their monthly 1:1 session. (As of Sep 2026 GGTC runs ONE tech call, on Tuesday; the former second, Wednesday, tech call now runs under [[#teamgogo]].)
 
 ## Program Structure
 

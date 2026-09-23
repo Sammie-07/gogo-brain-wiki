@@ -26,7 +26,7 @@ The GoGet'Em Community is Gogo's public-facing membership community for real est
 | Tier | Description |
 |------|-------------|
 | **Do It Yourself (DIY)** | Full access to video library, GSMC, monthly live, group chat, Facebook group |
-| **Done With You (DWY)** | Everything in DIY + live access to Gogo's exact team (ManyChat, design, bio, website/funnels). Live Tech Support: Tues & Wed 3pm ET |
+| **Done With You (DWY)** | Everything in DIY + live access to Gogo's exact team (ManyChat, design, bio, website/funnels). Live Tech Support: **Tuesdays 3pm ET** (as of Sep 2026 GGTC runs one tech call, on Tuesday; the former Wednesday call now runs under [[#teamgogo]]) |
 
 ## Onboarding Steps (New Member)
 

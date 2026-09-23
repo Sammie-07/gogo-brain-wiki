@@ -14,7 +14,7 @@ tags: [gogopreneur, gogetem-community, personal, entrepreneurship]
 ## Key Takeaways
 
 - **One place for everything:** GoGet'Em Community is designed to be a single destination — one login, one app, one dashboard, one chat, one monthly LIVE, one weekly content release.
-- **Two tech calls per week:** Implementation is 2x as important as learning, so two weekly live tech support calls (Tuesdays) are built in.
+- **Weekly tech call:** Implementation is 2x as important as learning, so a live tech support call is built in. (At the time of this source there were two per week; as of Sep 2026 GGTC runs ONE, on Tuesdays, and the former Wednesday call moved to [[#teamgogo]].)
 - **Origin emotion:** Gogo described crying — a moment of genuine need — that crystallized why this community had to exist. She connects with strangers easily and naturally ("Facebook best friends by the time I'm getting off the plane").
 - **Mission:** Create the resource she never had as she was growing up in the industry. So future generations of entrepreneurs don't have to wing it like she did.
 - **"I talk fast":** Self-aware moment — assistant told her "it's a sign of intelligence."
@@ -28,4 +28,4 @@ tags: [gogopreneur, gogetem-community, personal, entrepreneurship]
 
 ## Wiki Pages Updated
 
-- [[GoGet'Em Community]] — origin story, one-platform philosophy, two tech calls/week, mission statement
+- [[GoGet'Em Community]] — origin story, one-platform philosophy, weekly Tuesday tech call (was two/week; Wednesday moved to #teamgogo), mission statement

@@ -47,7 +47,7 @@ tags: [gogetem-community, onboarding, personal-branding, social-media, community
 
 ### Done With You (DWY) Upgrade
 - Access to **Gogo's exact team** (same people who set up her ManyChat, Instagram, bio, website, funnels).
-- Live Tech Support: **Tuesdays & Wednesdays at 3pm ET** — group call, bring your stuck points.
+- Live Tech Support: **Tuesdays at 3pm ET** — group call, bring your stuck points. *(As of Sep 2026 GGTC runs one tech call, Tuesdays; the former Wednesday call moved to [[#teamgogo]].)*
 - Payment options: upfront, 2-payment, or 3-payment plan.
 
 ### Support
