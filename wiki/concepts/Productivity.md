@@ -67,7 +67,8 @@ sources:
   - "[[The Circle Coaching — Keyword Automation, Scarcity Positioning and Box-in-a-Box Structure (de-identified)]]"
   - "[[The Circle Coaching — NDA Everyone, Golden-Handcuffs Hiring, Brand Architecture and the Freedom Arc (de-identified)]]"
   - "[[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]]"
-updated: 2026-09-03
+  - "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]"
+updated: 2026-09-24
 ---
 
 # Productivity
@@ -960,6 +961,14 @@ Centralize the business onto **Google Workspace** so everything is **"three clic
 - **Automate routing, don't drag:** Gmail **filters + nested labels**; **Starred = to-do list.**
 - **Tool + habit together** (a tool without the habit is "a fancy car you can't drive"); implement **one tool at a time for two weeks** ("take down a forest one tree at a time").
 - **Delegation caution:** don't hire an assistant to fix a "you" problem, and **never train your own assistant** — fix the systems first, reinvest the ~$80–100K into revenue. (Complements the [[#The Leverage Hierarchy|leverage hierarchy]].)
+
+## Hire an Organizer, Protect Your Time & Secure Your Accounts (Circle coaching)
+
+*Source: [[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]] (NDA, de-identified).*
+
+- **Hire people who organize *you*.** Leaders usually aren't organized by nature and won't self-organize — hire that gift rather than trying to become someone you're not. (The hiring standard + "try three times before you escalate" protocol live in [[Real Estate Teams#Hiring Thinkers, Cross-Training & the Escalation Protocol (Circle coaching)|Real Estate Teams]].)
+- **Protect your time by filtering up front.** Enrollment/consult calls are **video, 45 min, and no-shows aren't rescheduled** ("if you have no consideration for my time, we don't need to be business partners"). Letting low-character people weed themselves out early is what keeps the team drama-free. (Funnel mechanics in [[Co-Sponsorship and Agent Attraction System]].)
+- **Account/password hygiene before you scale a team.** Before sharing any working-email password, **create a brand-new email only you control** and switch every financial/banking/credit-card **password-reset destination** to it — only then hand over the working inbox (or keep your personal email private and forward system mail to a shared inbox). **Caution:** wiring an AI assistant into an inbox that still receives banking reset codes effectively hands it those accounts — audit what your automations are connected to.
 
 ## Related
 

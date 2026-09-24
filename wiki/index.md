@@ -22,6 +22,7 @@
 | [[entities/Mark Lack]]          | Top-10 US influencer; Bitcoin holder (tens of millions); Day 5 money week speaker; met Gogo at Tony Robbins mastermind. |
 | [[entities/Natalie Davison]]    | International coach and personal branding expert; GoGet'Em Community trainer; created Character Diamond framework and 6-step Content Story Frame. |
 | [[entities/Carrie Soave]]       | International AI coach, consultant, and speaker; 15-year realtor; official AI adviser to eXp Realty; Team Gogo agent partner; built $1M business in 5 months with 1 employee using AI. |
+| [[entities/Eben Pagan]]         | OG direct-response / info marketer (~$100M+ lifetime sales) and ex-realtor; GoGet'Em guest teacher on email marketing + AI copywriting ("nobody follows up"; FF/WA avatar; AI newsletter workflow). |
 | [[entities/John Kitchens]]      | Real estate coach; host of Expert Mentors Live; creator of Agent to CEO framework; 6-year annual guest relationship with Gogo. |
 | [[entities/Gary Cox]]           | Professional speaker and trainer; $50K+/engagement speaking business model; "funny is money" principle; GoGet'Em Community presenter. |
 | [[Curt Shewell]]       | Real estate productivity trainer; red/yellow/green calendar system; 4-day work week; $100K→$400K income math. |
@@ -113,6 +114,7 @@
 | [[concepts/Paid Advertising]] | Google Ads for realtors: LSA vs. search ads, quality score, find + remind retargeting. |
 | [[concepts/Open Houses]] | Full SOP: MLS by Thursday, door knocking, signs, cookies, sign-in trick, security sweep, same-day video follow-up. |
 | [[concepts/Personal Branding]] | Brand Tracker doc, monthly Growth Tracker, never include location in brand name, own your name, Audit Club. |
+| [[concepts/Public Speaking and Stage Presentations]] | One topic deep; AI-drafted deck at one-slide-per-minute; bullets-only slides; authority-first intro; CTA to social. |
 | [[concepts/Negotiation]] | Voss-based playbook: 3 conflict styles, tactical empathy, mirroring, magic wand, guided questions, black swans; "No Is Your Friend" buyer closing framework; outside-in showing strategy. |
 | [[concepts/Wealth Building]] | Three income types, leverage hierarchy, board of directors, cost segregation, credit building, exit strategy, STR strategy, personal finance (Roth IRA, backdoor Roth, bi-weekly mortgage), digital products income math, Bitcoin section, RealBricks, HELOCs, MTR, Barbara Schreihans full personal finance framework; IRS audit reality + sole proprietor trap (Toby Mathis); commercial RE for residential agents (Bridget); PLAN framework + four profit levers (Lou Raven + Elise Palacios); SETC pandemic tax credit (Alex Moeller). |
 | [[concepts/Bitcoin and Crypto]] | Mark Lack framework: fiat devaluation thesis, Bitcoin as apex commodity (21M fixed supply), ETF (IBIT #1 ETF ever), FASB 2025 accounting change, capital reallocation math, halving cycle, price predictions, self-custody, loan-against-Bitcoin strategy. |
@@ -130,7 +132,7 @@
 
 ---
 
-## Sources (388 ingested)
+## Sources (391 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
@@ -512,6 +514,9 @@
 | [[sources/Manifesting Through Personal Power (Kathleen Cameron)]] | Kathleen Cameron | — | Personal power / God essence; the 95% invisible rule; vibrational match; identity-over-strategy ("According to who?"); masculine-grind vs feminine-receptive energy; law of compensation; $2K→$50K/mo case study. |
 | [[sources/Master Your Copywriting and AI Brand Voice (Gogo Bethke)]] | Gogo Bethke | — | Custom-GPT brand voice from your own writing; email structure Hook→Problem→Story→Solution→CTA; specificity in prompts; AI-vs-human writing tells; weekly email themes; pre-batching with GoHighLevel; 3-step AI workflow. |
 | [[sources/Generating Business From Your Sphere (Jon Pugle)]] | Jon Pugle | — | Sphere-first system: handwritten notes (5/day), gratitude videos, situational triggers, interest-based CRM tagging, the 200-person power list → 3-way-text intros → ~50 closings, board-of-directors dinner, 4 appreciation events/yr, connector economics. "Human connection is the antidote to AI." |
+| [[sources/How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]] | Gogo Bethke | 2026-09-23 | #teamgogo training. Carrie Soave masterclass: run your business as 7 income + 4 capacity departments staffed by AI agents; "don't build on rented land"; the build-your-AI-brain exercise; 4 phases; content engine. Plus Gogo housekeeping (Hub push, Private Room, Map-as-lead-engine) and Jason Dupree mortgage minute (6.95→7.2%, MBS Highway). |
+| [[sources/The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]] | Gogo Bethke | 2026-09-23 | NDA de-identified (raw not retained): the attraction video + landing page (segment & name your audience; one CTA); enrollment-call rules (video, 45 min, no-shows not rescheduled, "by when will you decide?"); free-training-as-bait funnel (inviter follows up, DM-for-link); post real numbers as social proof; public speaking (one topic, one-slide-per-minute, bullets only); podcast-guesting playbook; hire organizers & critical thinkers, cross-train, "try three times before you escalate," "if I can do your job you have no job security"; account/password security before scaling. |
+| [[sources/How to Convert More Clients With Email (Eben Pagan, GoGetEm)]] | Eben Pagan | 2026-09-23 | GoGet'Em email-month guest. "Nobody follows up" (1–3% ready now, ~50% within a year); email as owned database; FF/WA avatar sprint + loss aversion (toward & away motivations); step-by-step AI newsletter workflow (topics first, checkpoints, voice edit); Gogo's "find six Matts" questionnaire + tiered segmentation; Niche Finder ($24); GGTC tech call Tuesdays 3pm ET. |
 
 ---
 

@@ -44,6 +44,8 @@ Jason Dupree is a loan officer at Texana Bank and the recurring mortgage partner
 
 **Sep 9, 2026 mortgage minute (AssumeList / Nora Simpson call):** rates **~6.85%** — the highest since June 2025. Refinances fell 6% (down ~25% YoY); purchases flat MoM but down 4% YoY; **inventory ~1.15M homes, matching end-2019** — more buyer choice, softening prices, room to negotiate. Reiterated **temporary rate buy-downs over price cuts** (immediate cash in the buyer's pocket; few keep a home past 5–10–15 years), and urged sellers to lead with **seller concessions / pricing incentives out of the gate** rather than waiting 30–60 days into the holiday dead zone. Reframed **REMLO as "3 (really 4) skills"** anyone already has — send texts/emails/QR codes, learn the client and tell the lender, schedule the closing, plus **marketing (Gogo's specialty)** — and cited the NAR 2024 Harris poll: **93% of buyers said a one-stop shop would make buying more convenient** (the car-dealership-financing analogy again).
 
+**Sep 23, 2026 mortgage minute (AI Agents / Carrie Soave call):** rates worsened **~6.95% → ~7.2%** week over week; a first-time buyer's total housing cost (mortgage + taxes + insurance) now runs **35.9% of household income**, with **homeowners insurance** a major driver — recommends using an insurance broker who shops multiple carriers. Reiterated the free **MBS Highway** offer to all of Team Gogo (Texana pays ~$2,000/yr per REMLO). REMLO recap: ~0.5% ≈ **$1,600–$2,200 extra per transaction**, 6 buy-side deals to qualify. *(Present, "brought a present since I don't have good news.")*
+
 ## Related
 
 - [[Gogo Bethke]]

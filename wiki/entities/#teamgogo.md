@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, real-estate, team]
-sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]"]
-updated: 2026-09-16
+sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]"]
+updated: 2026-09-24
 ---
 
 # #teamgogo 
@@ -29,6 +29,14 @@ Gogo's live figures on Sep 14, 2026 (she rounds call-to-call; use as directional
 - **~40 agents attracted per month**; **80 teams** — but the org is mostly **solo agents** (the ideal member: a solo agent who wants community, not a boss).
 - **60 ICON agents YTD** (44 in all of last year).
 - Recruiting stat cited: **NAR 2026 — 84% of realtors closed zero transactions last year** (up from 71% the prior year). See [[Real Estate Math]].
+
+### The Hub, the Map & the Private Room (Sep 23, 2026 training)
+
+*Source: [[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]].*
+- **Get in the eXp Hub.** Fewer than **30%** of eXp's ~90,000 agents are in the Hub; at Gogo's first Private Room event, 5 of 7 top producers weren't in it. The broker answers in seconds there (vs. days by email), and speaking invitations (e.g., eXpCon), reminders and celebrations flow through it. There's now a Hub mobile app. Gogo opens most trainings with this until everyone joins.
+- **The Team Gogo Map is the lead-routing engine.** Every agent is auto-added on join (name, email, phone) — verify your entry, because that's how referral leads reach you: *"it's my job as your sponsor to feed your family, which means you need to be on the map."*
+- **The Private Room** — a new **invite-only quarterly event at Gogo's home** for top producers / top agent attractors (~7 at the first one).
+- **Onboarding/calendar hygiene:** re-onboard anytime via a $25 TeamGogo.team call (with Rafael); the subscribe-able "#Team Gogo Trainings" calendar auto-updates. The team's main chat is separate from the eXp-wide Hub, with breakout chats underneath (e.g., eXpCon) so members aren't spammed.
 
 ## The Co-Sponsorship Model (agent attraction)
 

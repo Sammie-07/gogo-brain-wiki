@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, community, real-estate]
-sources: ["[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]"]
-updated: 2026-04-24
+sources: ["[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]"]
+updated: 2026-09-24
 ---
 
 # GoGet'Em Community
@@ -65,6 +65,10 @@ A training series delivered inside the GoGet'Em Community. Each module is a stan
 | [[Updating Your LinkedIn Profile]] | [[Kristy Waker]] | [[Personal Branding]] |
 | [[Creating Engaging Social Media Covers with Canva]] | Gogo's team | [[Personal Branding]] |
 | [[Creating Your Own Smart Number in BoldTrail KVCore]] | [[Kristy Waker]] | [[Personal Branding]] |
+
+## Guest Experts & Monthly Themes
+
+GGTC runs themed months with outside experts. **September 2026 = email marketing**, headlined by a guest training from veteran direct-response marketer [[Eben Pagan]] on using AI to write client-converting email newsletters (see [[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]). Sessions typically upsell Gogo's ~$24 [[Niche Finder]] tool and are followed by the community **tech-support call — Tuesdays at 3pm ET** ("usually right after the live"). *(Per the standing schedule change, the GGTC tech call is Tuesdays only; the former Wednesday call moved to [[#teamgogo]].)*
 
 ## Relationship to Team Go
 

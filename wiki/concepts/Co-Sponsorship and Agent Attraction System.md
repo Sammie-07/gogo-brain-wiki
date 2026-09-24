@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [agent-attraction, co-sponsorship, revenue-share, exp-realty, teams, real-estate-math, lead-generation]
-sources: ["[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]"]
-updated: 2026-09-17
+sources: ["[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]"]
+updated: 2026-09-24
 ---
 
 # Co-Sponsorship and the Agent-Attraction Website System
@@ -68,6 +68,16 @@ Attracting the agent is only half the job — **the sponsor owns onboarding to t
 - **Application → hand-holding funnel:** an intake form names you as sponsor/co-sponsor → on submit, the sponsor + relationship-lead get an instant text and **start a group thread with the recruit from day one** (prospects take *months* and get cold feet — hold their hand to "active"). **Celebrate at "active"** with a personal welcome.
 - Sponsor-switch workaround: you can't switch an existing sponsor, but you can sponsor a **different household member** (e.g., a spouse).
 
+## The Attraction Video, Enrollment Call & Free-Training Funnel (Circle coaching)
+
+*Source: [[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]] (NDA, de-identified).*
+
+**The attraction video + landing page.** Record a simple horizontal YouTube-style intro (don't over-edit; clean quiet room, soft window light). **Segment and name your audience in the video** — new/struggling agents ("I'll make you producing"), established producers who can't earn their fees back (cap-back/icon), and top producers ready to build a team — positioning yourself as someone who walked each stage: *"just like you have an ideal client, you have an ideal agent."* End with **one CTA**; layer a short intro video on top of a longer "watch this next" model-explainer so the first stays short.
+
+**The enrollment call.** Book it as a **video call, not phone** ("harder to say no to a face"), **45 min** (15 can't cover model + numbers + objections + Q&A), titled for what it is. Write a blunt filtering description (licensed agents intending to join and name you sponsor; must watch the videos first; **no-shows aren't rescheduled** — "if you have no consideration for my time, we don't need to be business partners"). Close with **"By when are you planning to make this decision?"** Ready-now agents get the recorded full presentation immediately; month-end prospects get invited to the live.
+
+**Free-training-as-bait funnel.** Open a members-only training to the public **once a month** as an "appetizer" / "try the shoes on," paired with a recorded model-explainer for the ready. Tell attendees "whoever invited you would love for you to attend" — then **the inviter follows up; the leader never chases guests** (helps via a three-way call but doesn't track others' results). Don't post the public link — have prospects **DM you for it** to capture who raised their hand. Skip live recruiting events right before major holidays. Newer partners keep booking [[Real Estate Teams#The Three-Way Call System|three-way calls]] until they can pitch solo, and keep a running partner-target list (including strong agents met across their own deals).
+
 ## Related
 
 - [[#teamgogo]]
@@ -76,4 +86,5 @@ Attracting the agent is only half the job — **the sponsor owns onboarding to t
 - [[Real Estate Teams]]
 - [[Real Estate Math]]
 - [[Lead Generation]]
+- [[Public Speaking and Stage Presentations]]
 - [[How Does Co-Sponsorship Work at eXp]]
