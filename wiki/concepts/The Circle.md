@@ -7,7 +7,7 @@ updated: 2026-07-23
 
 # The Circle
 
-> **POSITIONING RULE (2026-09-10, do not violate):** Do **not** state a fixed number of seats ("20 seats") or that the Circle "opens once a year." Gogo is **expanding the Circle**, and that retired scarcity language no longer aligns with her plans. Describe it as a **small, handpicked, application-only** mastermind with **limited capacity** — never a specific seat count or a once-a-year cadence. This overrides any older source that still says "20."
+> **POSITIONING RULE (2026-09-10, do not violate):** Never state any number of seats, members, or spots for the Circle, and never say it "opens once a year." Gogo is **expanding the Circle**. Describe it as a **small, handpicked, application-only** mastermind with **limited capacity**. This overrides any older source.
 
 Gogo Bethke's premium private mastermind. A small, handpicked group by application only (limited capacity). One-year commitment. Open to entrepreneurs in any industry making 6-figure income who are ready to build systems, team, and passive income that give them their life back.
 
@@ -45,7 +45,7 @@ Gogo uses these six pain points to qualify applicants emotionally on the sales p
 
 ## GoGet'Em Community Requirement
 
-**Membership in the GoGet'Em Community is a prerequisite for joining The Circle.** Applicants must be (or become) GoGet'Em members. This is not an add-on or perk included with The Circle — it is a condition of membership. It is also a benefit: GoGet'Em runs a live tech support call weekly (Tuesdays at 3 PM EST), all recorded, giving Circle members an additional resource beyond their monthly 1:1 session. (As of Sep 2026 GGTC runs ONE tech call, on Tuesday; the former second, Wednesday, tech call now runs under [[#teamgogo]].)
+**Membership in the GoGet'Em Community is a prerequisite for joining The Circle.** Applicants must be (or become) GoGet'Em members. This is not an add-on or perk included with The Circle — it is a condition of membership. It is also a benefit: GoGet'Em runs a live tech support call weekly (Tuesdays at 3 PM EST), all recorded, giving Circle members an additional resource beyond their monthly 1:1 session.
 
 ## Program Structure
 

@@ -26,7 +26,7 @@ The GoGet'Em Community is Gogo's public-facing membership community for real est
 | Tier | Description |
 |------|-------------|
 | **Do It Yourself (DIY)** | Full access to video library, GSMC, monthly live, group chat, Facebook group |
-| **Done With You (DWY)** | Everything in DIY + live access to Gogo's exact team (ManyChat, design, bio, website/funnels). Live Tech Support: **Tuesdays 3pm ET** (as of Sep 2026 GGTC runs one tech call, on Tuesday; the former Wednesday call now runs under [[#teamgogo]]) |
+| **Done With You (DWY)** | Everything in DIY + live access to Gogo's exact team (ManyChat, design, bio, website/funnels). Live Tech Support: **Tuesdays 3pm ET** |
 
 ## Onboarding Steps (New Member)
 
@@ -68,7 +68,7 @@ A training series delivered inside the GoGet'Em Community. Each module is a stan
 
 ## Guest Experts & Monthly Themes
 
-GGTC runs themed months with outside experts. **September 2026 = email marketing**, headlined by a guest training from veteran direct-response marketer [[Eben Pagan]] on using AI to write client-converting email newsletters (see [[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]). Sessions typically upsell Gogo's ~$24 [[Niche Finder]] tool and are followed by the community **tech-support call — Tuesdays at 3pm ET** ("usually right after the live"). *(Per the standing schedule change, the GGTC tech call is Tuesdays only; the former Wednesday call moved to [[#teamgogo]].)*
+GGTC runs themed months with outside experts. **September 2026 = email marketing**, headlined by a guest training from veteran direct-response marketer [[Eben Pagan]] on using AI to write client-converting email newsletters (see [[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]). Sessions typically upsell Gogo's ~$24 [[Niche Finder]] tool and are followed by the community **tech-support call — Tuesdays at 3pm ET** ("usually right after the live").
 
 ## Relationship to Team Go
 

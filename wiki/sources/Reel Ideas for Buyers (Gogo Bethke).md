@@ -34,7 +34,7 @@ tags: [social-media, content-creation, lead-generation, buyers, manychat, chatgp
 - **Call to action structure:** Every buyer video ends with: "If you're interested in [topic], comment 'buyer' and my system will automatically [action]." The "buyer" keyword in ManyChat routes them to the buyer website (calendar + home search).
 - **No pre-scheduling:** Never use Meta's scheduling tool or any third-party scheduler for feed posts — "the views are just not there." Post live through the app on posting day. Stories can be scheduled occasionally; feed posts never.
 - **Storage workflow:** Save batch-filmed videos in a phone folder → post day-of directly from the app
-- **Done-With-You program:** Team available on the weekly Tuesday tech call for members who need help setting up systems *(as of Sep 2026 GGTC runs one tech call, Tuesdays; the former Wednesday call moved to [[#teamgogo]])*
+- **Done-With-You program:** Team available on the weekly Tuesday tech call for members who need help setting up systems
 
 ## Quotes
 

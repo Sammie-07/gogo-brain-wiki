@@ -540,7 +540,7 @@ Log into Chrome using your business Google account (e.g., christy@christysreales
 
 > "I've never been able to get that five-digit code immediately. And I think that has everything to do with the fact that I used my domain."
 
-**"Done With You" program:** Live support every Tuesday at 3pm ET for anyone who gets stuck on platform setup. *(As of Sep 2026 the GoGet'Em tech call runs Tuesdays only; the former Wednesday call moved to [[#teamgogo]].)*
+**"Done With You" program:** Live support every Tuesday at 3pm ET for anyone who gets stuck on platform setup.
 
 ## Email Signature Setup
 

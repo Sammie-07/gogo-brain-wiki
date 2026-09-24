@@ -23,7 +23,7 @@ tags: [personal-branding, google, google-business, reviews, setup, tutorial]
 - **Google reviews** are among the most important trust signals — grab your review link from the live profile and send it to past clients.
 - **Posting:** Cross-post social content (new listings, just solds, open houses, home value posts) directly to your Google Business profile. VAs can handle this as part of the weekly scheduling workflow.
 - Access your profile anytime via Google's **9-dot menu → Business Profile Manager** (formerly Google My Business).
-- **"Done With You" program:** Live support every Tuesday at 3pm ET for agents who get stuck on setup. *(As of Sep 2026 GGTC runs one tech call, Tuesdays; the former Wednesday call moved to [[#teamgogo]].)*
+- **"Done With You" program:** Live support every Tuesday at 3pm ET for agents who get stuck on setup.
 
 ## Quotes
 

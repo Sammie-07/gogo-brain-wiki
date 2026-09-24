@@ -911,7 +911,7 @@ If building feels overwhelming, three upgrade paths are available:
 
 | Service | What it includes | Cost |
 |---------|-----------------|------|
-| **Done-With-You** | Live Tuesday call (as of Sep 2026 GGTC runs one tech call, Tuesdays; the former Wednesday call moved to [[#teamgogo]]); Gogo's full team (designers, funnel builders, automation techs, ads manager, copywriters) joins to help you build in real time; support staff can attend | Included at upgrade tier |
+| **Done-With-You** | Live Tuesday tech call (3pm ET); Gogo's full team (designers, funnel builders, automation techs, ads manager, copywriters) joins to help you build in real time; support staff can attend | Included at upgrade tier |
 | **Funnels Built For You** | Team builds your funnels start-to-finish in GoHighLevel (GHL account required); you approve final product | $300/funnel or 4 for $1,000 |
 | **Website Built For You** | Full custom animated website — higher-end than a funnel | Pricing on consultation |
 

@@ -277,7 +277,7 @@
 | [[sources/Marriage Advice (Gogo and Dwayne shorts)]] | Gogo Bethke | 2024 | Both high-D; ear/mouth hand signals; Alex Hormozi communication insight; "be mad with me." |
 | [[sources/How Realtors Can Use AI to Generate Leads (Live Training)]] | Gogo Bethke | 2024 | Ideal client niche; 20-hashtag formula (10+10); geo-tag always; funnel = collect info first; KV Core IDX; ManyChat keywords; 78%/5-min rules. |
 | [[sources/Realtor's Secret to Extra Income — REMLO Program (Joe Vegas)]] | Joe Vegas | 2025-02-19 | REMLO: dual real estate + mortgage license; 2022 HUD change; federal charter = all 50 states; 4 hours training; 71% realtors sold 0 homes in 2024. |
-| [[sources/Why I Really Started GoGet'Em Community]] | Gogo Bethke | 2025-11-16 | One platform philosophy; weekly Tuesday tech call (was two/week; the Wednesday call moved to #teamgogo, Sep 2026); implementation > learning; mission for future entrepreneurs. |
+| [[sources/Why I Really Started GoGet'Em Community]] | Gogo Bethke | 2025-11-16 | One platform philosophy; weekly Tuesday tech call; implementation > learning; mission for future entrepreneurs. |
 | [[sources/The GoGet'Em Community Was Built So YOU Don't Have to Do It Alone]] | Gogo Bethke | 2025-05-04 | Team access value prop; "14 years in, doesn't need to take that long for you"; implementation over information. |
 | [[sources/The Power of Manifestation Identity (Kathleen Cameron)]] | Kathleen Cameron | 2024-12-09 | Manifestation identity; own the identity before it materializes; imagination as tool; mindset + spirituality combination; Bob Proctor connection. |
 | [[sources/Website vs Funnel — What Every Entrepreneur Needs to Know (Shreed)]] | Shreed | 2024-11-29 | Website vs funnel distinction; results-driven design; when to use each. |

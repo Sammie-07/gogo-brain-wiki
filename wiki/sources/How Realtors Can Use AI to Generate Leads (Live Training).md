@@ -23,7 +23,7 @@ tags: [gogetem-community, ai, lead-generation, social-media, manychat, kv-core, 
 - **ManyChat keywords:** Buyer / Seller — DM automation triggers when someone comments or DMs those words, sends them into a sequence.
 - **78% go with first agent:** Statistic reinforcing the importance of speed. The agent who responds first captures the client in 78% of cases.
 - **5-minute follow-up rule:** Respond to new leads within 5 minutes. Speed is the competitive advantage.
-- **GoGet'Em Community tech support:** Tuesdays and Thursdays at 3pm ET (note: another source says Wed/Thurs — verify).
+- **GoGet'Em Community tech support:** Tuesdays at 3pm ET.
 - **14-person team:** Gogo's team size at time of recording.
 - **$60/month:** GoGet'Em Community price point at time of recording.
 

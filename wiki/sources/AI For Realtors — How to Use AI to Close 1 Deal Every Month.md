@@ -28,7 +28,7 @@ tags: [gogetem-community, ai, lead-generation, social-media, kv-core, manychat, 
   - Be the same person online and in person
   - Only promote what you genuinely use and love — never accept paid promotion for things you don't believe in
   - Your brand is what people say about you when you're not in the room
-- **GoGet'Em Community tech support:** at the time of this recording, Tuesdays and Wednesdays at 3pm ET (other recordings say Thursdays). *As of Sep 2026 GGTC runs one tech call, Tuesdays only; the former Wednesday call moved to [[#teamgogo]].*
+- **GoGet'Em Community tech support:** Tuesdays at 3pm ET.
 - **14-person team; $60/month:** Community size and price at time of recording (pricing has since been updated).
 
 ## Quotes

@@ -13,12 +13,12 @@ tags: [the-circle, coaching, mastermind, contract, operations, payment, legal, c
 
 ## Key Takeaways
 
-- **Program definition:** The Circle Mastermind is a group of up to 20 handpicked, high-caliber entrepreneurs. Minimum one (1) year commitment. Focused on reaching a seven-digit income goal.
+- **Program definition:** The Circle Mastermind is a small group of handpicked, high-caliber entrepreneurs (limited capacity, by application). Minimum one (1) year commitment. Focused on reaching a seven-digit income goal.
 - **Format:** Weekly Office Hours every **Tuesday, 12:00–1:00 PM EST** via video conference. Group coaching / Q&A style — not 1:1 calls.
 - **Pricing:** $3,000/month (total $36,000) or $30,000 flat (10% discount = 2 months free). Monthly plan is auto-billed on the same date each month.
 - **Payment failure:** System retries up to 4 times within a 7-day grace period. After that, access is suspended. Suspension does NOT pause the one-year term. Late fee: 3% ($90). Interest: 1%/month from day 8.
 - **Chargeback = material breach:** Initiating a chargeback/dispute triggers immediate suspension and the member remains responsible for full outstanding balance.
-- **Tech support:** One 60-minute private 1:1 tech support session per month with Gogo's Support Team. Additional support: GoGet'Em Community Tuesday call at 3 PM EST. *(As of Sep 2026 GGTC runs one tech call, Tuesdays; the former Wednesday call moved to [[#teamgogo]].)*
+- **Tech support:** One 60-minute private 1:1 tech support session per month with Gogo's Support Team. Additional support: GoGet'Em Community Tuesday call at 3 PM EST.
 - **Recordings:** Posted in private WhatsApp community weekly. Can be paused, edited, or withheld to protect confidentiality.
 - **GoGet'Em Community:** Required for all Circle Members — must maintain an active membership.
 - **Support channel:** Private WhatsApp community and group chat.

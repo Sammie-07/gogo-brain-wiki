@@ -9,11 +9,11 @@ tags: [gogetem-community, team, support, entrepreneurship, systems]
 
 # The GoGet'Em Community Was Built So YOU Don't Have to Do It Alone
 
-> Short-form content from Gogo Bethke on what the GoGet'Em Community provides: access to her team — the people who built everything in her business — live each week. *(At the time of this content the tech call ran twice a week; as of Sep 2026 GGTC runs one tech call, Tuesdays — the former Wednesday call moved to [[#teamgogo]].)*
+> Short-form content from Gogo Bethke on what the GoGet'Em Community provides: access to her team — the people who built everything in her business — live each week.
 
 ## Key Takeaways
 
-- **The core offer:** Access to Gogo's full team — the people who built her websites, funnels, email automations, ManyChat setups, digital products, trackers, calendar systems — live on the weekly Tuesday tech call. *(At the time of this content it was 2x/week (Tue+Wed); the Wednesday call moved to [[#teamgogo]] in Sep 2026.)*
+- **The core offer:** Access to Gogo's full team — the people who built her websites, funnels, email automations, ManyChat setups, digital products, trackers, calendar systems — live on the weekly Tuesday tech call.
 - **What her team built:** 2 comma clubs, all websites, all funnels, all email automations, ManyChat, digital products, trackers, color-coordinated calendar.
 - **The promise:** "It took me 14 years. It doesn't need to take that long for you. I already paved the way."
 - **Why it matters:** Most entrepreneurs aren't stuck on learning — they're stuck on implementation. Having live access to a team that can answer "push that blue button" questions changes the game.
