@@ -14,7 +14,7 @@ tags: [agent-attraction, ideal-client, real-estate-teams, chatgpt, lead-generati
 ## Key Takeaways
 
 - **Same principle, different target:** Just as buyers/sellers need an ideal client profile, agent attraction needs an ideal agent profile. Low-hanging fruit = agents who are just like you, one or two steps behind where you are now.
-- **Team GoGo updated stats (as of recording):** 1,660 agents total organizational count, 46 states, 7 countries, $3.7B closed in 2025. Gogo + Dwayne personally attracted 270+ to front line.
+- **Team GoGo updated stats (as of recording):** 1,660 agents total organizational count, 46 states, 7 countries, $3.7B closed in 2025. Gogo + Duane personally attracted 270+ to front line.
 - **Gogo's ideal agent:** $4–9M annual production (capped but not yet ICON), 2+ years in the business, full-time, individual top producing solo agent. At $4M they know what they're doing; at $9M they're already high performers. She doesn't have to hand-hold. She IS them — just a few years ahead.
 - **ChatGPT prompt — 4 sections:**
   1. **Demographics** — Experience (min 2 years), age (~35–45), gender, career stage (full-time)

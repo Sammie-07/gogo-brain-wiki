@@ -207,7 +207,7 @@ Without a team, Gogo's maximum income was ~$420k/year. After building her VA and
 ### Gogo's Current Team (14 total)
 
 - **Kristy** — Director of Operations, 14+ years, "left-hand girl"
-- **Dwayne** (husband) — retired from real estate; handles family logistics
+- **Duane** (husband) — retired from real estate; handles family logistics
 - **Mandy** — house manager (in-person)
 - **Lindsay** — admin assistant (Brazil, ~2 years)
 - **Natalia** — GoGet'Em Community + Gogopreneur show
@@ -246,7 +246,7 @@ Color-coordinate everything. Live by the calendar. Gogo's rule: check tomorrow's
 
 ### "First in Calendar Wins" Rule
 
-With husband Dwayne: whoever adds an appointment first doesn't have to arrange childcare. The second person to schedule a conflicting time is responsible for logistics. Prevents conflict, enforces intentional scheduling.
+With husband Duane: whoever adds an appointment first doesn't have to arrange childcare. The second person to schedule a conflicting time is responsible for logistics. Prevents conflict, enforces intentional scheduling.
 
 ### Gogo's Current Work Schedule
 

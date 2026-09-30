@@ -14,7 +14,7 @@ tags: [wealth-building, investing, stocks, bitcoin, real-estate, credit, persona
 ## Key Takeaways
 
 **Origin Story**
-- Gogo and Dwayne made ~$420,000-$430,000 in one year and still had $89,000 in credit card debt
+- Gogo and Duane made ~$420,000-$430,000 in one year and still had $89,000 in credit card debt
 - Earning money and knowing what to do with money are completely different skills
 - Her entire research journey was triggered by that one year of high income and zero wealth accumulation
 

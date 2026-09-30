@@ -17,9 +17,9 @@ tags: [productivity, work-life-balance, family, calendar]
   - She's a night owl (up to ~1am, wakes ~8am with alarm).
   - Thursdays occasionally used for "work on the business" (new ideas, strategy, not client work).
 - **Color-coordinated Google Calendar.** Everything in one place, color-coded by category.
-- **"First in calendar wins" rule with husband Dwayne:** whoever adds an appointment first doesn't have to arrange childcare. Second person to add a conflicting appointment is responsible for it.
+- **"First in calendar wins" rule with husband Duane:** whoever adds an appointment first doesn't have to arrange childcare. Second person to add a conflicting appointment is responsible for it.
 - **Kids:** sons are 14 and 16 (as of 2024). Both in high school, home by ~1:30pm.
-- **Dwayne is retired** — present at home, handles family logistics alongside Gogo.
+- **Duane is retired** — present at home, handles family logistics alongside Gogo.
 - **"Balance" is personal.** For Gogo, because she loves her work, it doesn't feel like working. But she consciously set boundaries: no cable TV, no news, extended weekends.
 - **Evening routine:** cook together if possible, go out to dinner, board games, travel.
 
@@ -32,4 +32,4 @@ tags: [productivity, work-life-balance, family, calendar]
 ## Wiki Pages Updated
 
 - [[Productivity]] — work schedule detail, Mon-Wed only, "first in calendar wins" rule
-- [[Gogo Bethke]] — son ages, Dwayne retirement, schedule confirmation
+- [[Gogo Bethke]] — son ages, Duane retirement, schedule confirmation

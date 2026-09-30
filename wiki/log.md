@@ -383,7 +383,7 @@ Three funnel-building approaches: (1) BoldTrail built-in page builder — Web & 
 ---
 
 ## [2026-04-30] ingest | Ideal Agent + GoGet'Em Posting Schedule Calendar (2 sources)
-Ideal agent framework: agent-attraction parallel to buyer/seller ideal client. ChatGPT 4-section prompt (demographics, psychographics, business model preferences, tech/social behavior). Gogo's ideal: $4–9M producer, 2+ years, full-time, solo top performer. Never messaged an agent — all 1,500+ came inbound. Updated Team GoGo stats from this source: 1,510 agents organizational total, 270+ personally attracted to front line (Gogo + Dwayne), $3.7B in 2025. Updated Real Estate Teams (new Ideal Agent Profile section, corrected co-sponsorship stats), Gogo Bethke entity (corrected stats), Social Media and Email Marketing (added GoGet'Em Posting Schedule Calendar section: color system, IRL schedule, access requirements, Brand Tracker backup tab). Index stats updated. Index: 117 → 119.
+Ideal agent framework: agent-attraction parallel to buyer/seller ideal client. ChatGPT 4-section prompt (demographics, psychographics, business model preferences, tech/social behavior). Gogo's ideal: $4–9M producer, 2+ years, full-time, solo top performer. Never messaged an agent — all 1,500+ came inbound. Updated Team GoGo stats from this source: 1,510 agents organizational total, 270+ personally attracted to front line (Gogo + Duane), $3.7B in 2025. Updated Real Estate Teams (new Ideal Agent Profile section, corrected co-sponsorship stats), Gogo Bethke entity (corrected stats), Social Media and Email Marketing (added GoGet'Em Posting Schedule Calendar section: color system, IRL schedule, access requirements, Brand Tracker backup tab). Index stats updated. Index: 117 → 119.
 
 ---
 
@@ -393,7 +393,7 @@ Location-specific buyer/seller hashtag framework: 5-hashtag set (city+state, "ho
 ---
 
 ## [2026-04-30] ingest | 3 Core ZIP Codes + Micro-Niches + Tagline (3 sources)
-Geographic targeting, community trust niches, and personal tagline. Three new sections added to Personal Branding: (1) Geographic Targeting — pick 3 ZIP codes intentionally for all 2026 content; content subject = buyer quality; drive = income multiplier; ZIPs flow into hashtags, geo-tags, and neighborhood video topics; (2) Micro-Niches — communities outside RE where trust is already established; Gogo's four: diabetes (son Koby), Bulldog lovers, immigrant communities (Romanian/Hungarian), fishing (Dwayne); (3) Tagline — "Go with Gogo" on cards/signs/website everywhere; rhymes, memorable, sign off every reel/story/call; optional but recommended; don't rush it. Created 3 Clippings .md files, 3 source pages, updated Personal Branding concept page. Index: 111 → 114.
+Geographic targeting, community trust niches, and personal tagline. Three new sections added to Personal Branding: (1) Geographic Targeting — pick 3 ZIP codes intentionally for all 2026 content; content subject = buyer quality; drive = income multiplier; ZIPs flow into hashtags, geo-tags, and neighborhood video topics; (2) Micro-Niches — communities outside RE where trust is already established; Gogo's four: diabetes (son Coby), Bulldog lovers, immigrant communities (Romanian/Hungarian), fishing (Duane); (3) Tagline — "Go with Gogo" on cards/signs/website everywhere; rhymes, memorable, sign off every reel/story/call; optional but recommended; don't rush it. Created 3 Clippings .md files, 3 source pages, updated Personal Branding concept page. Index: 111 → 114.
 
 ---
 
@@ -526,7 +526,7 @@ GSMC 2026 walkthrough for agents creating a Facebook Business Page for the first
 GSMC 2026 walkthrough on updating Facebook Business Page name and username. Created source summary. Added Facebook Business Page section to Personal Branding concept (name vs. username, 60-day limit, team access). Updated index to 33 sources.
 
 ## [2026-04-17] ingest | Batch — 7 new sources (Gogopreneur episodes + GoGet'Em webinars + Working with Your Spouse)
-Ingested 7 remaining uningested Clippings: From an Au Pair to a Millionaire, Gogopreneur Business Mastery Part I and Part II Teaser, How to Be a Successful Entrepreneur, How to Build a Real Estate Team, How to Unlock the Power of Social Media, Working with Your Spouse. Created 7 source pages and 1 new concept page (Real Estate Teams). Updated Mindset (cages/doors, faith over fear, broke friends, break rules), Social Media (2 posts/day, Instagram-first workflow), Gogo Bethke (Dwayne background, Duke name confirmed, DiSC, nine companies, Alex team member, agent attraction section). Total sources: 32.
+Ingested 7 remaining uningested Clippings: From an Au Pair to a Millionaire, Gogopreneur Business Mastery Part I and Part II Teaser, How to Be a Successful Entrepreneur, How to Build a Real Estate Team, How to Unlock the Power of Social Media, Working with Your Spouse. Created 7 source pages and 1 new concept page (Real Estate Teams). Updated Mindset (cages/doors, faith over fear, broke friends, break rules), Social Media (2 posts/day, Instagram-first workflow), Gogo Bethke (Duane background, Duke name confirmed, DiSC, nine companies, Alex team member, agent attraction section). Total sources: 32.
 
 ## [2026-04-16] ingest | Batch — 13 new sources (GoGet'Em Community sessions + Gogopreneur episodes + AI training)
 Ingested 13 new clippings in a single batch session. Created 13 source summary pages: How to Master Your Mindset, How to Maximize Productivity, How to Track Business Growth, Turning Knowledge into Action, My Money Lessons, Mindset Shift From Real Estate Agent To Entrepreneur, Can We Have It All, Work-Life Balance Secrets, Real-World Negotiation Hacks, How Do You Know It Is Time to Hire a VA, Automations Are the Cheapest Way to Leverage Your Time, How I Scaled From One-on-One to Group Coaching, AI For Real Estate Agents. Created 2 new concept pages: Negotiation and Wealth Building. Updated Mindset concept (CEO mindset shift, You Can Have It All). Total sources: 25.
@@ -537,11 +537,11 @@ Added: hourly rate formula, leverage hierarchy (automations→VAs→in-person), 
 ## [2026-04-17] edit | Social Media and Email Marketing — major expansion
 Added: ideal client niche strategy, "if you talk to everyone you convert no one," organic vs paid close rates (9.5/10 vs 1/40), 78% rule + 5-minute response, ManyChat follower automation and keyword system, hashtag strategy (20: 10 lifestyle + 10 topic), geo-tag rule, KV Core IDX feed, funnels/landing pages, Go High Level, ChatGPT 90-day content calendar, email list building via free downloadables, tools stack table.
 
-## [2026-04-17] edit | Personal Branding — added location-in-brand-name lesson + Koby domain story
-Added: "Never Include Your Location in Your Brand Name" section with Gogo's Michigan→Florida lesson as the primary example. Added Koby's domain gift story to children's names tip. Added AI For Real Estate Agents to sources.
+## [2026-04-17] edit | Personal Branding — added location-in-brand-name lesson + Coby domain story
+Added: "Never Include Your Location in Your Brand Name" section with Gogo's Michigan→Florida lesson as the primary example. Added Coby's domain gift story to children's names tip. Added AI For Real Estate Agents to sources.
 
 ## [2026-04-17] edit | Gogo Bethke — full career timeline + team + coaching programs
-Added full career timeline (2003 Romania immigration → 2011 license → $16k year 1 → ≥$1M since 2019 → stopped selling 3.5 years ago). Added team roster table (Kristy, Dwayne, Mandy, Lindsay, Natalia, Raphael, Carol, Ellen + VAs). Added coaching programs section (3 Two Comma Club awards, The Circle details). Added Rec USA, Gogopreneur podcast, revenue share as largest income, $2.7B 2024 Team Go sales, Tony Robbins events, current coaches. Updated Related to include Negotiation and Wealth Building.
+Added full career timeline (2003 Romania immigration → 2011 license → $16k year 1 → ≥$1M since 2019 → stopped selling 3.5 years ago). Added team roster table (Kristy, Duane, Mandy, Lindsay, Natalia, Raphael, Carol, Ellen + VAs). Added coaching programs section (3 Two Comma Club awards, The Circle details). Added Rec USA, Gogopreneur podcast, revenue share as largest income, $2.7B 2024 Team Go sales, Tony Robbins events, current coaches. Updated Related to include Negotiation and Wealth Building.
 
 ## [2026-04-24] ingest | Welcome to the GoGet'Em Community (Gogo Bethke)
 Official welcome video. Full community structure: GSMC "social media house" metaphor, 7-step onboarding, 100 Audit Club, affiliate program (10%), DIY vs Done With You tiers, Natalia as manager. Major update to GoGet'Em Community entity. Updated index to 65 sources.
@@ -591,8 +591,8 @@ Full batch ingestion of all remaining Clippings files. Created source pages for:
 - Unlocking Negotiation Secrets with Chris Voss
 - What It Takes to Grow a Real Estate Business Through Chaos (Beth Silverman)
 - What a Transaction Coordinator Can Do (Melissa Vinke)
-- Grateful for the People God Brings into My Life (Kobe story)
-- Marriage Advice (Gogo and Dwayne shorts)
+- Grateful for the People God Brings into My Life (Coby story)
+- Marriage Advice (Gogo and Duane shorts)
 - How Realtors Can Use AI to Generate Leads (Live Training)
 - Realtor's Secret to Extra Income — REMLO Program (Joe Vegas)
 - Why I Really Started GoGet'Em Community
@@ -860,3 +860,10 @@ Private Circle group-coaching call. **Raw not retained** (`original:` = "NDA; tr
 
 ## [2026-09-24] ingest | How to Convert More Clients With Email (Eben Pagan, GoGet'Em)
 GoGet'Em September email-marketing-month guest training (Google Doc, no NDA). 1 source page + 1 NEW entity ([[Eben Pagan]]). Teachings: "nobody follows up" (1–3% ready now, ~50%/yr); email as an owned database; the **FF/WA avatar sprint** + loss aversion (toward & away motivations); the **step-by-step AI newsletter workflow** (topics-first, checkpoints/waypoints, voice edit); Gogo's **"find six Matts"** questionnaire + tiered segmentation; Niche Finder ($24). Deepened [[Social Media and Email Marketing]], [[Lead Generation]], [[GoGet'Em Community]] (Sept email month; Tuesday 3pm tech call — consistent with the schedule rule). Index 390 → 391.
+
+## [2026-09-30] edit | Name correction: Dwayne → Duane, Koby/Kobe → Coby
+Sam confirmed the spellings Gogo uses in her own Instagram captions: husband **Duane** (@the_bass_guru) and son **Coby** (@tremor.coby). Transcripts had them as "Dwayne" and "Koby"/"Kobe".
+- Replaced every mention across wiki/ (entities, concepts, sources, index), gogo-brain/ and the epiphanies file; Clippings untouched (immutable).
+- Renamed two source pages and their links: "Grateful for the People God Brings into My Life (Coby story)" and "Marriage Advice (Gogo and Duane shorts)".
+- Also fixed one leftover "Christie" (staff list in gogo-brain/brain.md) → Kristy.
+- Added both to the Canonical Names table in CLAUDE.md.

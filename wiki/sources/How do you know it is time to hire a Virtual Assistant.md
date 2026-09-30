@@ -25,7 +25,7 @@ tags: [productivity, delegation, virtual-assistants, hiring, systems]
   - Asian countries (India, Pakistan): ~$3–4/hr
   - South America (Brazil, Argentina): ~$5–6/hr
   - US in-person assistant: ~$18–30/hr
-- **Gogo's VA team:** 14 VAs total. Most in Brazil; 2 in India, 1 in Pakistan. US staff: Gogo herself, Dwayne (husband), Kristy (Director of Operations), Mandy (house manager). Lindsay = admin assistant (Brazil, 2 years). Natalia = GoGet'Em Community + Gogopreneur show. Raphael = tech/websites/funnels. Carol = email/copywriting. Ellen = design.
+- **Gogo's VA team:** 14 VAs total. Most in Brazil; 2 in India, 1 in Pakistan. US staff: Gogo herself, Duane (husband), Kristy (Director of Operations), Mandy (house manager). Lindsay = admin assistant (Brazil, 2 years). Natalia = GoGet'Em Community + Gogopreneur show. Raphael = tech/websites/funnels. Carol = email/copywriting. Ellen = design.
 - **Red light / green light for VA task assignment:**
   - Do the exercise for a full quarter to capture daily, weekly, monthly, and quarterly tasks.
   - Every red-light item = VA or in-person assistant job description.

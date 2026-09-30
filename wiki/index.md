@@ -186,7 +186,7 @@
 | [[sources/My Money Lessons]]                         | Gogo Bethke | 2024 | Three income types, cost segregation, RealBricks, board of directors, monthly numbers meeting. |
 | [[sources/Mindset Shift From Real Estate Agent To Entrepreneur]] | Gogo Bethke | 2024-09-13 | Agent vs CEO mindset, hourly rate, 15-hr workweek, team roster, The Circle, ≥$1M since 2019. |
 | [[sources/Can We Have It All]]                       | Gogo Bethke | 2024 | "Reject binary choices" — why you don't have to choose between career and family. |
-| [[sources/Work-Life Balance Secrets]]                | Gogo Bethke | 2024-05-16 | Mon–Wed 9am–4pm schedule, "first in calendar wins" rule, son ages, Dwayne retired. |
+| [[sources/Work-Life Balance Secrets]]                | Gogo Bethke | 2024-05-16 | Mon–Wed 9am–4pm schedule, "first in calendar wins" rule, son ages, Duane retired. |
 | [[sources/Real-World Negotiation Hacks]]             | Gogo Bethke | 2024 | Full Voss-based negotiation playbook: 3 conflict styles, tactical empathy, mirroring, magic wand, black swans. |
 | [[sources/How do you know it is time to hire a Virtual Assistant]] | Gogo Bethke | 2024-09-18 | VA rates by region, income ceiling $420k→$1M+, We Clone You, detailed team roster. |
 | [[sources/Automations Are the Cheapest Way to Leverage Your Time]] | Gogo Bethke | 2026-01-28 | ManyChat follower automation, keyword sequences, cheapest leverage tier. |
@@ -198,7 +198,7 @@
 | [[sources/How to Be a Successful Entrepreneur]] | Gogo Bethke | 2023-10-16 | Agent attraction philosophy: "looking for people looking for me"; everybody is getable; gated team-building training. |
 | [[sources/How to Build a Real Estate Team]] | Gogo Bethke | 2023-10-20 | Team contracts, eXp split minimums (25%), reduced cap ($8k), consulted Tina Call and Mark Z. |
 | [[sources/How to Unlock the Power of Social Media]] | Gogo Bethke | 2023-10-25 | Social media as only lead source; 2 posts/day; Instagram-first + VA distribution; platforms list. |
-| [[sources/Working with Your Spouse]] | Gogo Bethke | 2024-12-11 | Dwayne background (20 yrs Automotive, retired at 40); roles, finances, DiSC personalities, marriage philosophy. |
+| [[sources/Working with Your Spouse]] | Gogo Bethke | 2024-12-11 | Duane background (20 yrs Automotive, retired at 40); roles, finances, DiSC personalities, marriage philosophy. |
 | [[sources/Update Your Facebook Business Page Name and Username]] | Kristy Waker | 2026 | Facebook Business Page setup: name vs. username, 60-day name limit, team access management. |
 | [[sources/Create Your Facebook Business Page from Scratch]] | Kristy Waker | 2026 | Step-by-step creation walkthrough: 9-dot menu → Page → set username immediately → copy to Brand Tracker. |
 | [[sources/Gogopreneur — Public Speaking Episode 2]] | Gogo Bethke | 2022-11-22 | Vlog: 24 hours traveling to Texas speaking gig. Anderson Advisors referenced. Gogopreneur.com launch. |
@@ -273,8 +273,8 @@
 | [[sources/Unlocking Negotiation Secrets with Chris Voss]] | Chris Voss | 2024 | Tactical empathy; mirroring; labeling; 3 conflict types; amygdala hijack; 31% positive frame; "I found something fascinating" validated; Barbara Corcoran line. |
 | [[sources/What It Takes to Grow a Real Estate Business Through Chaos (Beth Silverman)]] | Beth Silverman | 2024 | 4x ICON; breast cancer at 26; $244K debt paid off; 61 days straight; doubled production YoY; 6 investments in 6 years; 5-years rule; compress time. |
 | [[sources/What a Transaction Coordinator Can Do (Melissa Vinke)]] | Melissa Vinke | 2024 | TC role; 10-transaction rule (5 each side); no intake form; dedicated TC per agent; all 50 states; intro language template. |
-| [[sources/Grateful for the People God Brings into My Life (Kobe story)]] | Gogo Bethke | 2024 | Personal: Valerie Restrepo (Team Go) helps Kobe (T1 diabetic son) at midnight; Dexcom G7; Team Go as family. |
-| [[sources/Marriage Advice (Gogo and Dwayne shorts)]] | Gogo Bethke | 2024 | Both high-D; ear/mouth hand signals; Alex Hormozi communication insight; "be mad with me." |
+| [[sources/Grateful for the People God Brings into My Life (Coby story)]] | Gogo Bethke | 2024 | Personal: Valerie Restrepo (Team Go) helps Coby (T1 diabetic son) at midnight; Dexcom G7; Team Go as family. |
+| [[sources/Marriage Advice (Gogo and Duane shorts)]] | Gogo Bethke | 2024 | Both high-D; ear/mouth hand signals; Alex Hormozi communication insight; "be mad with me." |
 | [[sources/How Realtors Can Use AI to Generate Leads (Live Training)]] | Gogo Bethke | 2024 | Ideal client niche; 20-hashtag formula (10+10); geo-tag always; funnel = collect info first; KV Core IDX; ManyChat keywords; 78%/5-min rules. |
 | [[sources/Realtor's Secret to Extra Income — REMLO Program (Joe Vegas)]] | Joe Vegas | 2025-02-19 | REMLO: dual real estate + mortgage license; 2022 HUD change; federal charter = all 50 states; 4 hours training; 71% realtors sold 0 homes in 2024. |
 | [[sources/Why I Really Started GoGet'Em Community]] | Gogo Bethke | 2025-11-16 | One platform philosophy; weekly Tuesday tech call; implementation > learning; mission for future entrepreneurs. |
@@ -522,7 +522,7 @@
 
 ## Stats & Facts Quick Reference
 
-- **#teamgogo size:** 1,660 agents total organizational count (270+ personally attracted to Gogo + Dwayne's combined front line)
+- **#teamgogo size:** 1,660 agents total organizational count (270+ personally attracted to Gogo + Duane's combined front line)
 - **#teamgogo 2025 sales:** $3.7B closed in 2025 alone
 - **#teamgogo PPP:** 6.15 transactions/agent/year
 - **#teamgogo + GoGet'Em Community volume:** 10,000+ transactions/year (2026)
@@ -550,7 +550,7 @@
 - **Greatness Tracker targets:** 15 face-to-face/wk, 5 breaking bread/wk, 60 great phone calls/wk
 - **TC pay model:** Per-transaction ($300–$500/closing); recommended first hire after 10 transactions
 - **Gogo's income:** Not less than $1M/year since 2019; ~90% passive or recurring
-- **Staff:** Team of 14 (named: Kristy, Dwayne, Mandy, Lindsay, Natalia, Raphael, Carol, Ellen + VAs)
+- **Staff:** Team of 14 (named: Kristy, Duane, Mandy, Lindsay, Natalia, Raphael, Carol, Ellen + VAs)
 - **Email list:** ~25,000 subscribers → ~8.4M emails/year (also reported as 4.1M YTD in GoGet'Em session)
 - **Two Comma Club awards:** 3 (Bootcamp Social Media, Agent Attraction, GoGet'Em Community)
 - **Rec USA:** Largest real estate Facebook group in the US (~500,000 members)

@@ -102,7 +102,7 @@ Any eXp agent can co-sponsor incoming agents with Gogo — giving both the spons
 **Cost:** Zero. "I do not charge on the Team GoGo side of my world. The trainings we do there are automatically included for everybody in the team organization."
 
 **Team GoGo profile (2025):**
-- 1,660 agents total organizational count (270+ personally attracted to Gogo + Dwayne's combined front line)
+- 1,660 agents total organizational count (270+ personally attracted to Gogo + Duane's combined front line)
 - $3.7 billion in closed sales in 2025 alone
 - 46 US states, 7 countries
 - Can co-sponsor from any US state or in 27 countries
@@ -221,7 +221,7 @@ eXp pays revenue share 7 generations deep, funded from the company dollar (eXp w
 - **Your own production is irrelevant to rev share.** Gogo hasn't sold a house in 3.5 years and isn't even an FLQA to her own sponsor ([[Kurt Shewell]]). Rev share depends on your downline's production and your FLQA count.
 - **Rule of thumb:** ~half your FLAs become FLQAs (Gogo: 98 FLAs / ~46–47 FLQAs) — "if you need 30, go get 60."
 - **Off-boarding:** departed agents stay in your dashboard for a **12-month grace period** (was 6 months) to re-name the same sponsor; pending/new-construction deals can keep them showing up to 2 years — this distorts raw dashboard counts.
-- Gogo's lifetime rev share: **~$4.3M over 8 years** (she + Dwayne ~$5M across two lines).
+- Gogo's lifetime rev share: **~$4.3M over 8 years** (she + Duane ~$5M across two lines).
 
 **How agents joined:** 100% organic from social media. No paid ads, no cold calling to recruit agents. Social media content + consistency = inbound agent attraction.
 

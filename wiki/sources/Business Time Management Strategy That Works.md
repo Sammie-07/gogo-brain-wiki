@@ -14,7 +14,7 @@ tags: [productivity, time-management, calendar, go-high-level, manychat, email-m
 ## Key Takeaways
 
 - **Calendar color-coding:** Each commitment type has its own color so Gogo can scan a week and instantly see time allocation balance.
-- **First in calendar wins:** Between Gogo and Dwayne, whoever schedules first is not responsible for childcare. The second person to schedule a conflicting time handles logistics.
+- **First in calendar wins:** Between Gogo and Duane, whoever schedules first is not responsible for childcare. The second person to schedule a conflicting time handles logistics.
 - **Meeting structure:** Two assistants at every significant meeting — one takes notes, one handles follow-up and action items. Gogo's attention stays on the meeting.
 - **Calendly:** $10/month paid plan. All meeting types pre-created. Nobody schedules with Gogo manually. She has not done her own calendar management in 7+ years.
 - **Listing vs. buyer math:** Listing side = ~10 hours at $1,000/hr effective rate. Buyer side = ~25 hours at $400/hr. This drives the team structure: buyer's agents handle $400/hr work.

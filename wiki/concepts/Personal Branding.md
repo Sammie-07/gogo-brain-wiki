@@ -185,7 +185,7 @@ Every time you start something new — course, coaching program, podcast, speaki
 
 Buy yourchild'sname.com now. ~$11/year. You don't know which one becomes the next Elon Musk. Own the asset; they can build on it later.
 
-**Gogo's story:** She bought her son Koby's domain ~14 years before he'd ever use it. On his 18th birthday, she gifted it to him — a web address already aged, already his. Cost: ~$150 total over 14 years.
+**Gogo's story:** She bought her son Coby's domain ~14 years before he'd ever use it. On his 18th birthday, she gifted it to him — a web address already aged, already his. Cost: ~$150 total over 14 years.
 
 ### Never Include Your Location in Your Brand Name
 
@@ -702,10 +702,10 @@ A **micro-niche** is a community you already belong to outside of real estate �
 
 | Community | How She Belongs | Why It Works |
 |-----------|----------------|--------------|
-| **Diabetes** | Son Koby is Type 1 diabetic — active in Livingston County diabetes Facebook groups and in-person events | Shared parenting experience. Every real estate question in that community came to Gogo first. |
+| **Diabetes** | Son Coby is Type 1 diabetic — active in Livingston County diabetes Facebook groups and in-person events | Shared parenting experience. Every real estate question in that community came to Gogo first. |
 | **Bulldog Lovers** | Large Facebook community around the breed | Shared love of the dog = instant connection with other Bulldog owners |
 | **Immigrant Communities** | Romanian + Hungarian background — born in Romania, Hungarian by nationality | Shared experience + explains real estate in English, Hungarian, or Romanian. Deep trust through language and culture. |
-| **Fishing** | Husband Dwayne fished every Wednesday and Saturday in Michigan tournaments for 20–30 years | Decades-long friendships built entirely outside real estate |
+| **Fishing** | Husband Duane fished every Wednesday and Saturday in Michigan tournaments for 20–30 years | Decades-long friendships built entirely outside real estate |
 
 ### Other Micro-Niche Examples
 

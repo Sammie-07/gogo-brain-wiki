@@ -29,16 +29,16 @@ Retired real estate agent, team leader, coach, and content creator. Founder of [
 - Self-described strengths: sociable, persistent, relentless learner
 - Self-described weaknesses: zero patience, stubborn ("my way or the highway"), severely disorganized
 - Attended **8–9 Tony Robbins events** (UPW confirmed 7+ times as of 2023 recording); has a business coach and an SEO coach as of 2025
-- Sons: **Koby** (18 in 2025) and **Duke** (16 in 2025). Oldest son (Koby) is **Type 1 diabetic** — this was a primary reason Dwayne stayed in Corporate America until eXp launched health insurance.
-- Husband **Dwayne**: 20 years in Automotive (Corporate America), retired at age 40 when Gogo's revenue share income could replace his salary. Handles household finances, bills, personal investment tracking, kids' logistics.
-- Both Gogo and Dwayne have high **DiSC "D" (Dominant)** personalities. Dwayne consciously reduces his D at home.
+- Sons: **Coby** (18 in 2025) and **Duke** (16 in 2025). Oldest son (Coby) is **Type 1 diabetic** — this was a primary reason Duane stayed in Corporate America until eXp launched health insurance.
+- Husband **Duane**: 20 years in Automotive (Corporate America), retired at age 40 when Gogo's revenue share income could replace his salary. Handles household finances, bills, personal investment tracking, kids' logistics.
+- Both Gogo and Duane have high **DiSC "D" (Dominant)** personalities. Duane consciously reduces his D at home.
 - Night owl: up ~1am, wakes ~8am
 - **Awards:** Top 125 Most Influential People (Success Magazine, 2022); Top 50 Woman of Influence (Success Magazine, 2025); TED Talk speaker
 - **EXPI stock holdings:** ~46,000 shares accumulated through the standard stock programs (first closing each year + capping + sponsored agents' first closings + 5% stock option) — never iconed a single year
 
 ## What She Does Now
 
-- Runs [[wiki/entities/#teamgogo]] International — **1,660 agents** total organizational count (270+ personally attracted to front line by Gogo + Dwayne combined); **$3.5B closed in 2025** ($12B+ cumulative); 46 US states, 7 countries. (Note: **1,660 is the current standing count**; older snapshots across sources are lower as the organization grows; $3.5B from Wine Not 2025 deck.)
+- Runs [[wiki/entities/#teamgogo]] International — **1,660 agents** total organizational count (270+ personally attracted to front line by Gogo + Duane combined); **$3.5B closed in 2025** ($12B+ cumulative); 46 US states, 7 countries. (Note: **1,660 is the current standing count**; older snapshots across sources are lower as the organization grows; $3.5B from Wine Not 2025 deck.)
 - Revenue share from eXp is her **single largest income source** (~90% of income is passive or recurring)
 - Leads the [[GoGet'Em Community]] — broader audience of agents and entrepreneurs (members: GoGetters)
 - Combined Team Go + GoGet'Em Community volume: **10,000+ transactions/year**
@@ -75,7 +75,7 @@ Three separate programs have each crossed $1M in sales (awarded Two Comma Club b
 | Person | Role |
 |--------|------|
 | **[[Kristy Waker]]** | Director of Operations; Gogo's first hire; 14+ years; "left-hand girl" (she's left-handed) |
-| **Dwayne** | Husband; retired from real estate; handles family logistics |
+| **Duane** | Husband; retired from real estate; handles family logistics |
 | **Mandy** | House manager (in-person) |
 | **Lindsay** | Admin assistant (Brazil, ~2 years) |
 | **Natalia** | GoGet'Em Community + Gogopreneur show |

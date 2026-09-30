@@ -21,7 +21,7 @@ tags: [mindset, entrepreneurship, productivity, income-streams, coaching, person
 - **Has not made less than $1M/year since 2019.**
 - **First year in real estate: $16,000** (2011). Doubled income every year after.
 - **Works Mon–Wed, ~5 hrs/day = 15 hours/week.** Day starts ~11am, ends ~4pm.
-- **Team:** 14 staff. In the US: herself, husband Dwayne, Kristy (Director of Operations, 14+ years), Mandy (house manager). Rest: VAs in Brazil, India, Argentina.
+- **Team:** 14 staff. In the US: herself, husband Duane, Kristy (Director of Operations, 14+ years), Mandy (house manager). Rest: VAs in Brazil, India, Argentina.
 - **Board of directors** — CPA, tax attorney, business advisor, financial advisor. Meet together so advice is coordinated. She presents: here's where we are, here's where we're going — they advise tax and investment moves.
 - **Google Calendar** — lives by it. 48-hour scheduling rule (nothing gets added with less than 2 days notice). Block travel time around appointments.
 - **Building brand, not just business.** Tony Robbins, Grant Cardone — people follow the person, not the corporate entity name.
