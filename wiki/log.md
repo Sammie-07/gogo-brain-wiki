@@ -867,3 +867,7 @@ Sam confirmed the spellings Gogo uses in her own Instagram captions: husband **D
 - Renamed two source pages and their links: "Grateful for the People God Brings into My Life (Coby story)" and "Marriage Advice (Gogo and Duane shorts)".
 - Also fixed one leftover "Christie" (staff list in gogo-brain/brain.md) → Kristy.
 - Added both to the Canonical Names table in CLAUDE.md.
+
+## [2026-09-30] edit | Confirmed facts: Circle length, eXp attraction numbers
+Sam confirmed: **The Circle is 12 months** (fixed the outdated "6-month commitment" in gogo-brain/brain.md and the podcast-interview source page; added a Standing Content Rule in CLAUDE.md). Added Gogo's current eXp numbers to [[Gogo Bethke]]: **413 frontline agents since 2018 (8 years), ~1,700-agent organization, $18B closed** (from her 2026-10-01 "413 agents" IG carousel; the caption's "8 months" was a typo). Older "300+ / $15B+" figures stay in their dated sources as history.
+

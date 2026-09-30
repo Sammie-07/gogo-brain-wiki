@@ -23,7 +23,7 @@ tags: [gogo-story, coaching-business, social-media, agent-attraction, the-circle
 - Switched to eXp in year 8 → Team Gogo: **3,471+ agents, $2.7B in sales YTD**.
 - Gogo's Bootcamp Agent Attraction → another 2 Comma Club award.
 - GoGet'Em Community: one place for all learning — brand, lead gen, team, money, investing.
-- The Circle: a small, handpicked group, six-month commitment, minimum six figures (average $600K/year in the program). *(Do not cite a fixed seat count — Gogo is expanding the Circle; see [[The Circle]].)*
+- The Circle: a small, handpicked group, a commitment (the "six-month" length said in this interview is outdated: The Circle is a **12-month** commitment, confirmed by Sam 2026-09-30), minimum six figures (average $600K/year in the program). *(Do not cite a fixed seat count — Gogo is expanding the Circle; see [[The Circle]].)*
 
 ### Coaching Philosophy
 - Start with one-on-one, 3-month commitment — but move to group ASAP. One-on-one can't scale.
@@ -55,6 +55,6 @@ tags: [gogo-story, coaching-business, social-media, agent-attraction, the-circle
 
 ## Wiki Pages Updated
 - [[Gogo Bethke]] — major update: coaching evolution timeline, 2 Comma Club details, Circle criteria
-- [[The Circle]] — updated $600K average income, 6-month commitment details
+- [[The Circle]] — updated $600K average income (the 6-month length is outdated; it's 12 months)
 - [[GoGet'Em Community]] — added origin reasoning
 - [[Social Media and Email Marketing]] — added email math, 90-day trust framework
