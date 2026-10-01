@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [tax-strategy, wealth-building, real-estate, business-structure, legal]
-sources: [[[Tax Strategy and IRS Myths — Estate Planning Part 2 (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[Tax Planning For Real Estate Investors 101 (Toby Mathis)]], [[Big Beautiful Bill Tax Overhaul — Individual Breaks Part 1 (Toby Mathis)]], [[Trump's Big Beautiful Bill — Business Tax Breaks Part 2 (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[How To Invest In Your Kids' Roth IRA (And Make Them Millionaires Tax-Free)]], [[How to Bring Your Family Into Your Business for Maximum Tax Benefits (Barbara Schreihans)]], [[Tax-Free Family Business Strategies — Part 2 (Barbara Schreihans)]], [[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]], [[Tax Credit Tools for Real Estate — 45L and Cost Segregation (Dawn Lavanway, Eric Oliver)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]]
-updated: 2026-09-17
+sources: [[[Tax Strategy and IRS Myths — Estate Planning Part 2 (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[Tax Planning For Real Estate Investors 101 (Toby Mathis)]], [[Big Beautiful Bill Tax Overhaul — Individual Breaks Part 1 (Toby Mathis)]], [[Trump's Big Beautiful Bill — Business Tax Breaks Part 2 (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[How To Invest In Your Kids' Roth IRA (And Make Them Millionaires Tax-Free)]], [[How to Bring Your Family Into Your Business for Maximum Tax Benefits (Barbara Schreihans)]], [[Tax-Free Family Business Strategies — Part 2 (Barbara Schreihans)]], [[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]], [[Tax Credit Tools for Real Estate — 45L and Cost Segregation (Dawn Lavanway, Eric Oliver)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]]
+updated: 2026-10-01
 ---
 
 # Tax Strategy
@@ -79,6 +79,16 @@ From a private [[The Circle|Circle]] coaching call (de-identified) — [[Gogo Be
 *Source: [[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]].*
 
 Client/closing **gifts** are deduction-capped in many states (often ~**$25**). But a **branded** item — your business info on a waterproof sticker, or burned/engraved into it — reclassifies as **marketing material and becomes 100% deductible.** So always brand personalized closing gifts (engraved boards, doormats, framed renderings). State rules vary; confirm with your CPA. See the [[Lead Generation#Post-Close Follow-Up & Neighborhood Farming System (Circle coaching)|post-close gifting play]].
+
+
+## The Quarterly Financial Board for High Earners (Circle coaching)
+
+*Source: [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]] (NDA, de-identified).*
+
+- Meet quarterly with a **financial board**: CPA, financial advisor, tax attorney and business advisor (see the [[Wealth Building#Board of Directors|Board of Directors]]). Open your numbers, project next quarter's income, and **act before year-end**, for example by buying an asset if income will outrun your deductions.
+- Standard agent tax advice is built for average incomes and doesn't fit high earners.
+- **Read the fine print on tax-credit advance or loan products:** repayment can come due if the credit is denied or delayed.
+- A big tax bill is a sign of a strong year.
 
 ## Related
 - [[Legal Protection]]

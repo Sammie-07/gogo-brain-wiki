@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, real-estate, team]
-sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]"]
-updated: 2026-09-24
+sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"]
+updated: 2026-10-01
 ---
 
 # #teamgogo 
@@ -56,6 +56,11 @@ Members are selected for production culture rather than headcount. The PPP of 6.
 - Tech support every **Wednesday at 3pm ET** (#teamgogo's own tech call)
 - Last Wednesday of every month: open to the public at teamgogo.team/open
 - Monthly "Wine Not eXp" presentation showing financial case for [[eXp Realty]]
+
+
+### Community structure
+
+The frontline/general chat split, topic sub-chats, a "generals" chat for agents with five-plus personal sponsors, state chats at ~50+ agents, and birthday celebrations are described in [[Downline Community Architecture]] (source: [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]] (NDA, de-identified).).
 
 ## Related
 

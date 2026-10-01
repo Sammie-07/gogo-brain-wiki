@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [the-circle, coaching, mastermind, operations, payment, contract, community, four-freedoms, positioning]
-sources: [[[The Circle Coaching Contract (Gogo Bethke)]], [[The Circle Sales Page (gogobethke.com)]], [[Mindset Shift From Real Estate Agent To Entrepreneur]], [[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]], [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]]]
-updated: 2026-07-23
+sources: [[[The Circle Coaching Contract (Gogo Bethke)]], [[The Circle Sales Page (gogobethke.com)]], [[Mindset Shift From Real Estate Agent To Entrepreneur]], [[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]], [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]]
+updated: 2026-10-01
 ---
 
 # The Circle
@@ -205,6 +205,16 @@ Three sharper details on how the loop is enforced:
 - **Real stakes.** Directness isn't a style, it's a guarantee: finish the 12 months in the same situation you started and "**I will fire you — that will not be tied to my reputation.**" Pay the fee and get it back **10-fold** or she fires you and keeps the money. "New habits, new results; old habits, old results."
 - **Homework Fridays are for the member, not the coach.** "I don't log into your dashboard — I'm not your babysitter." The Friday deadline (1) forces completion, (2) drills the tracking habit, and (3) compounds into a monthly → quarterly → yearly report that makes a year of small check-marks visible ("holy [—], look how much I got done"). Put it in the calendar until it's automatic.
 - **Completion is a leadership X-ray.** Half of a member's homework can be done by their team, so incomplete homework signals a **delegation failure** — if the member's dashboard *and their team's* haven't been logged into in weeks, "guess who's not moving the needle." The full operating rhythm (Monday money-maker meetings → **Wednesday catch-up call** where the team surfaces blockers → Friday delivery) is captured in [[Productivity#The Accountability Cadence — Homework Fridays, Mid-Week Catch-Up & Compounding Reports (Circle coaching)|the accountability cadence]].
+
+
+## How the Circle Call Runs (Circle coaching)
+
+*Source: [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]] (NDA, de-identified).*
+
+- The call keeps a **fixed day and time**. When Gogo travels, a **member leads that session** and her team still attends, rather than moving or cancelling it. Every member is a top producer, so each has something to teach.
+- **Accept the host's original invite**; a copy you make won't update when the host changes it. Times are quoted in ET and the invite converts them.
+- Members **add their assistants to the Circle chat**, so assistants get answers there instead of asking their boss.
+- Between calls, members can ask Gogo's AI second brain (the **Chat with Gogo** button on the member dashboard) and report odd answers.
 
 ## Related
 

@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [agent-attraction, co-sponsorship, revenue-share, exp-realty, teams, real-estate-math, lead-generation]
-sources: ["[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]"]
-updated: 2026-09-24
+sources: ["[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"]
+updated: 2026-10-01
 ---
 
 # Co-Sponsorship and the Agent-Attraction Website System
@@ -77,6 +77,20 @@ Attracting the agent is only half the job — **the sponsor owns onboarding to t
 **The enrollment call.** Book it as a **video call, not phone** ("harder to say no to a face"), **45 min** (15 can't cover model + numbers + objections + Q&A), titled for what it is. Write a blunt filtering description (licensed agents intending to join and name you sponsor; must watch the videos first; **no-shows aren't rescheduled** — "if you have no consideration for my time, we don't need to be business partners"). Close with **"By when are you planning to make this decision?"** Ready-now agents get the recorded full presentation immediately; month-end prospects get invited to the live.
 
 **Free-training-as-bait funnel.** Open a members-only training to the public **once a month** as an "appetizer" / "try the shoes on," paired with a recorded model-explainer for the ready. Tell attendees "whoever invited you would love for you to attend" — then **the inviter follows up; the leader never chases guests** (helps via a three-way call but doesn't track others' results). Don't post the public link — have prospects **DM you for it** to capture who raised their hand. Skip live recruiting events right before major holidays. Newer partners keep booking [[Real Estate Teams#The Three-Way Call System|three-way calls]] until they can pitch solo, and keep a running partner-target list (including strong agents met across their own deals).
+
+
+## What the Attraction Page Must Do (Circle coaching)
+
+*Source: [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]] (NDA, de-identified).*
+
+- **Required:** a video on who you are and why partner with you (about what *they* gain, not your life story); your achievements **in numbers**; and **one page with three steps: watch the videos → book a call → sign up.** After the call, send them back to the same page.
+- **Name the booking calendar "Let's Talk eXp"**, never "free coaching call" or "30 minutes with [name]", which attract brain-pickers and product pitches. Start at 30 minutes.
+- **Team application form** that texts you and your assistant on submit and asks for their birthday, so agents who sign up months later aren't lost in onboarding.
+- **Don't gate the videos** behind a lead form unless you'll really follow up (Gogo collected contacts for years and never did).
+- Show a **platform-vs-multiplier comparison** and link to public events and the referral map. Co-sponsors build their page **once** and route later edits through Gogo's support team, since a new site per edit creates duplicates.
+- **Cadence and focus:** post attraction content at least weekly; ease from production into attraction (agents want someone still active); recruit **nationwide** rather than locally (local agents feel you're taking their deals); build a weekly habit that puts you with agents, such as a regular golf foursome.
+- **Product ladder:** free downline organization → low-ticket recurring digital product → high-ticket coaching. If your upline already runs strong weekly trainings, send people there and add your own monthly session.
+- Community setup after sign-up: see [[Downline Community Architecture]].
 
 ## Related
 

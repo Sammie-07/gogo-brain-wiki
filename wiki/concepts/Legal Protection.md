@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [legal-protection, asset-protection, real-estate, business-structure, risk-management]
-sources: [[[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]], [[The Circle Coaching — Keyword Automation, Scarcity Positioning and Box-in-a-Box Structure (de-identified)]], [[The Circle Coaching — NDA Everyone, Golden-Handcuffs Hiring, Brand Architecture and the Freedom Arc (de-identified)]]]
-updated: 2026-08-27
+sources: [[[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]], [[The Circle Coaching — Keyword Automation, Scarcity Positioning and Box-in-a-Box Structure (de-identified)]], [[The Circle Coaching — NDA Everyone, Golden-Handcuffs Hiring, Brand Architecture and the Freedom Arc (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]]
+updated: 2026-10-01
 ---
 
 # Legal Protection
@@ -100,6 +100,16 @@ When ending a business partnership, secure your key assets, relationships, and r
 - **AI contract diffing:** run *your* draft *and* the attorney's returned draft through an AI assistant — "tell me the differences so I don't miss it" — so no edit slips past you unnoticed (see [[AI for Real Estate]]).
 
 The team-relationship side of a clean exit (graceful blame, preserving a downline/local relationship) lives in [[Real Estate Teams#Partnership Exits & Full-Service Delegation (Circle coaching)|Real Estate Teams]].
+
+
+## Holding-Company Splits, the Family Blueprint & Property Management (Circle coaching)
+
+*Source: [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]] (NDA, de-identified).*
+
+- **Split similar assets across more than one holding company** (by state or asset type) so one lawsuit can't reach everything. Ask your CPA when to separate.
+- **Write a family blueprint** listing every property, LLC, holding company and the trust, so heirs aren't overwhelmed. Ask an AI for a first pass, then confirm with your attorney.
+- **Property management:** self-managing local properties is fine if you enjoy it, but never give up 90% of the profit to avoid a ~10% fee: *"I'd rather pay 10% to get 90 than get 100% of nothing."* Out-of-state portfolios need professional management.
+- Gogo's own caveat: talk to a professional before acting.
 
 ## Related
 - [[Tax Strategy]]
