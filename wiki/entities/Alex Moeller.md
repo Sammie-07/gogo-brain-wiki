@@ -2,7 +2,7 @@
 type: entity
 tags: [person, entrepreneur, tax-specialist, social-media]
 sources: ["[[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]]"]
-updated: 2026-05-25
+updated: 2026-10-01
 ---
 
 # Alex Moeller
@@ -16,7 +16,7 @@ Alex Moeller is a Hungarian-born immigrant entrepreneur who came to the US with 
 ## Key Facts
 
 - **Real name:** Alexander Möller (Hungarian; his given name is not pronounceable by most English speakers)
-- **Origin:** Hungary (Transylvania region); immigrated to the US with $200 and no connections
+- **Origin:** Hungary; immigrated to the US with $200 and no connections
 - **Social media reach:** ~2 million followers at time of presentation
 - **Companies:** Prosperity Tax Group (tax credits); Wi-Fi Money (online income education)
 - **ERC work:** Prior to SETC, Prosperity Tax Group delivered close to $2 billion in Employee Retention Credits to business owners with W-2 employees

@@ -879,3 +879,6 @@ Private Circle group-coaching call (Google Doc). **Raw not retained** (`original
 
 ## [2026-10-01] edit | Removed Transylvania origin references for Gogo
 Per Sam: gogobethke.com never states where Gogo is from (only "arrived in this country with just $200, no connections, and no college degree"), so Transylvania/Romania origin wording was removed from [[Gogo Bethke]], the website-intro, Au Pair keynote and Hungarian TEDx source summaries, and their index rows. Hungarian language/given name and the $200 arrival are kept. Other "Romania" mentions elsewhere (money-mindset, immigrant niche, etc.) left pending Sam's call.
+
+## [2026-10-01] edit | Alex Moeller: removed unsupported "Transylvania region"
+Checked whether his "$200 / bus / train / plane" origin quote was Gogo's story misattributed. The raw clippings are truncated stubs (full transcript not retained), but the ingest-time summary separates his story from Gogo's closing, and the excerpt ends as he begins his background, so the quote stays with him. His quote only says "Hungarian", so the unsupported "(Transylvania region)" was removed.
