@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, tool, ai, aeo, geo, seo, websites, real-estate]
-sources: ["[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]"]
-updated: 2026-09-16
+sources: ["[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]"]
+updated: 2026-10-01
 ---
 
 # Halo
@@ -45,6 +45,12 @@ Nick's repeatable fix-my-site loop: **paste your site into the AEO site checker 
 - **AEO site checker** confirms **Bold Trail (KVCore) / brokerage sites score an "F"** — they block AI crawlers, so those agents are invisible to AI search.
 - **Case study [[Melissa Albert]]** ("Living in Kentucky," Bowling Green): a **102-page** relocation site in **<2 weeks**, scoring **99/100**; a **"Living Local"** automation ("every Wednesday pull the top local events and update") made her the local go-to in Facebook groups; she had Halo run a **federal fair-housing/anti-steering audit** that rewrote copy + added statements site-wide. Direct **GoHighLevel** sync (keep GHL as the nurture backend).
 - **Roadmap:** Founders-member cutoff **by October**; a **worldwide referral network** (text "I need someone in [area]"; Gogo requested a Team-Gogo-branded pool); an **AI training library** over every training video.
+
+
+## Sep 30, 2026 update
+
+*Source: [[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]].*
+- $99/month for two AI-built websites; text "Gogo" for 5 free edits. Team Gogo agents built a site in about 8.5 minutes on average during a live training.
 
 ## Related
 

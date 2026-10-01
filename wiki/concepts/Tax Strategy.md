@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [tax-strategy, wealth-building, real-estate, business-structure, legal]
-sources: [[[Tax Strategy and IRS Myths — Estate Planning Part 2 (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[Tax Planning For Real Estate Investors 101 (Toby Mathis)]], [[Big Beautiful Bill Tax Overhaul — Individual Breaks Part 1 (Toby Mathis)]], [[Trump's Big Beautiful Bill — Business Tax Breaks Part 2 (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[How To Invest In Your Kids' Roth IRA (And Make Them Millionaires Tax-Free)]], [[How to Bring Your Family Into Your Business for Maximum Tax Benefits (Barbara Schreihans)]], [[Tax-Free Family Business Strategies — Part 2 (Barbara Schreihans)]], [[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]], [[Tax Credit Tools for Real Estate — 45L and Cost Segregation (Dawn Lavanway, Eric Oliver)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]]
+sources: [[[Tax Strategy and IRS Myths — Estate Planning Part 2 (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[Tax Planning For Real Estate Investors 101 (Toby Mathis)]], [[Big Beautiful Bill Tax Overhaul — Individual Breaks Part 1 (Toby Mathis)]], [[Trump's Big Beautiful Bill — Business Tax Breaks Part 2 (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[How To Invest In Your Kids' Roth IRA (And Make Them Millionaires Tax-Free)]], [[How to Bring Your Family Into Your Business for Maximum Tax Benefits (Barbara Schreihans)]], [[Tax-Free Family Business Strategies — Part 2 (Barbara Schreihans)]], [[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]], [[Tax Credit Tools for Real Estate — 45L and Cost Segregation (Dawn Lavanway, Eric Oliver)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]], [[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]]
 updated: 2026-10-01
 ---
 
@@ -89,6 +89,30 @@ Client/closing **gifts** are deduction-capped in many states (often ~**$25**). B
 - Standard agent tax advice is built for average incomes and doesn't fit high earners.
 - **Read the fine print on tax-credit advance or loan products:** repayment can come due if the credit is denied or delayed.
 - A big tax bill is a sign of a strong year.
+
+
+## Tyler McBroom's Five Steps to Lower Taxable Income (Sep 2026)
+
+*Source: [[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]].* US federal rules only. Treat this as his teaching, not advice; the caveats below matter.
+
+- **Plan before, not after.** Plan during the year (ideally Aug–Oct) and before you earn the income, buy or sell a property, or start a company. After Dec 31 almost nothing changes. Tax is on **profit**, not commissions.
+- **1. S-corp election.** Pay yourself a reasonable salary and take the rest as distributions, avoiding self-employment tax (~15.3%) on the distributions. Break-even is about **$60K net profit** (Gogo: roughly six transactions). An LLC simply elects S-corp status; if it existed all year, the election can be made retroactive to Jan 1.
+- **2. Augusta Rule (IRC §280A(g)).** Your company rents your home for up to **14 days** a year (e.g. a monthly board meeting) at a fair market rate, and that income is tax-free to you. Requirements: a real office elsewhere, a documented agenda, a rental agreement and invoice, and money actually moved from the business to your personal account. **Use either Augusta or a home office, not both.**
+- **3. Hire your kids.** A parent-owned sole proprietorship (a "family management company" with its own EIN) can pay children **under 18** without payroll tax, up to the standard deduction (**$16,100** in 2026) free of income tax. The work must be real, paid on W-2 and on a schedule. Gogo splits $16,100 into 12 autopay payments.
+- **4. Cost segregation + bonus depreciation + REPS.** A cost-seg study moves ~20–30% of a rental's value into year-1 deductions (on a $1M property, $200–300K instead of ~$8K/year). With **Real Estate Professional Status** those losses can offset agent income. It can be applied to property you already own. It's a deferral: selling triggers recapture, so "never sell, borrow against it." **Never hold buy-and-hold rentals in an S-corp** (flips can go there as inventory).
+- **5. "Freedom Fund" (advanced, for profits of several hundred thousand).** A second S-corp with a **Nov 30 fiscal year** bills the main company for payroll and marketing; the main company pays (and prepays) in December, deducting it this year while the second company reports it next year. Tyler's own branded strategy.
+- **Vehicles over 6,000 lb GVWR**, used more than 50% for business and placed in service with business miles by Dec 31, qualify for bonus depreciation on the business share ($60K at 80% use → $48K year 1). Leases are deducted as paid. Keep a mileage log; selling, or business use dropping to 50% or below, triggers recapture. Savings = write-off × your bracket: *"a write-off is not a free gift from the government."*
+- **Meals:** write who you ate with and why on the receipt and photograph it (iPhone Photos → Utilities → Receipts finds them). Local business meals must be with someone else. **Home office:** a room used 100% for business, deducted by its share of the home's square footage. **Country-club dues and entertainment are not deductible**; food during a business round of golf is.
+- **Trusts are for liability, not tax.** Viral "pay no tax" trust schemes are either fraud or cost $100K+ to run and only make sense around $30M net worth.
+
+**Caveats (from review, not stated in the training):**
+- Business meals are generally only **50%** deductible, and solo travel meals require being away from your tax home **overnight**.
+- The S-corp math ignores that self-employment tax applies to 92.35% of earnings and that the 2.9% Medicare portion has no cap; some states tax or don't recognise S-corps.
+- His audit-rate figures (0.2% S-corp vs 2.5% sole proprietor) are his own claim and don't match other sources on this page.
+- Augusta rent must be defensibly fair; Tax Court has disallowed inflated rates.
+- REPS needs 750+ hours and over half your working time in real property trades, plus material participation in the rentals.
+- Bonus depreciation on property already in service uses the rate in force when it was acquired (not automatically 100%).
+- The Freedom Fund relies on a non-calendar fiscal year that normally requires a §444 election with required payments, and raises related-party and economic-substance questions. Get your own CPA's sign-off.
 
 ## Related
 - [[Legal Protection]]

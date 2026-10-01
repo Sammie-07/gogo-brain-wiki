@@ -23,6 +23,7 @@
 | [[entities/Natalie Davison]]    | International coach and personal branding expert; GoGet'Em Community trainer; created Character Diamond framework and 6-step Content Story Frame. |
 | [[entities/Carrie Soave]]       | International AI coach, consultant, and speaker; 15-year realtor; official AI adviser to eXp Realty; Team Gogo agent partner; built $1M business in 5 months with 1 employee using AI. |
 | [[entities/Eben Pagan]]         | OG direct-response / info marketer (~$100M+ lifetime sales) and ex-realtor; GoGet'Em guest teacher on email marketing + AI copywriting ("nobody follows up"; FF/WA avatar; AI newsletter workflow). |
+| [[entities/Tyler McBroom]]        | CPA, founder of TRM CPA; Tony Robbins partner; #teamgogo open-training guest on cutting taxable income (S-corp, Augusta, hire kids, cost seg, Freedom Fund). |
 | [[entities/John Kitchens]]      | Real estate coach; host of Expert Mentors Live; creator of Agent to CEO framework; 6-year annual guest relationship with Gogo. |
 | [[entities/Gary Cox]]           | Professional speaker and trainer; $50K+/engagement speaking business model; "funny is money" principle; GoGet'Em Community presenter. |
 | [[Curt Shewell]]       | Real estate productivity trainer; red/yellow/green calendar system; 4-day work week; $100K→$400K income math. |
@@ -133,7 +134,7 @@
 
 ---
 
-## Sources (392 ingested)
+## Sources (393 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
@@ -519,6 +520,7 @@
 | [[sources/The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]] | Gogo Bethke | 2026-09-23 | NDA de-identified (raw not retained): the attraction video + landing page (segment & name your audience; one CTA); enrollment-call rules (video, 45 min, no-shows not rescheduled, "by when will you decide?"); free-training-as-bait funnel (inviter follows up, DM-for-link); post real numbers as social proof; public speaking (one topic, one-slide-per-minute, bullets only); podcast-guesting playbook; hire organizers & critical thinkers, cross-train, "try three times before you escalate," "if I can do your job you have no job security"; account/password security before scaling. |
 | [[sources/How to Convert More Clients With Email (Eben Pagan, GoGetEm)]] | Eben Pagan | 2026-09-23 | GoGet'Em email-month guest. "Nobody follows up" (1–3% ready now, ~50% within a year); email as owned database; FF/WA avatar sprint + loss aversion (toward & away motivations); step-by-step AI newsletter workflow (topics first, checkpoints, voice edit); Gogo's "find six Matts" questionnaire + tiered segmentation; Niche Finder ($24); GGTC tech call Tuesdays 3pm ET. |
 | [[sources/The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]] | Gogo Bethke | 2026-09-30 | NDA de-identified (raw not retained): fixed-time Circle calls that members lead when Gogo travels; the attraction page's required functions (video, numbers, one page: watch → book → sign up; "Let's Talk eXp" calendar; application alert; don't gate videos); weekly attraction cadence, nationwide focus, product ladder; downline community structure; text-replacement shortcuts; "you are not their assistant", two-send rule, reading DISC bars, VA placement, "open tabs"; holding-company splits + family blueprint + 10/90 property management; quarterly financial board + tax-credit-advance caution; "when, not if". |
+| [[sources/How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]] | Tyler McBroom | 2026-09-30 | #teamgogo open training: S-corp break-even ~$60K profit; Augusta Rule (14 days); hire your kids up to the $16,100 standard deduction; cost seg + bonus depreciation + REPS; the "Freedom Fund" fiscal-year deferral; 6,000-lb vehicles; meals, home office, trusts. Plus $18B closed, #teamgogo Wednesday 3pm tech support relaunched, Jason Dupree minute (7.3%, VantageScore), Halo pricing. |
 
 ---
 

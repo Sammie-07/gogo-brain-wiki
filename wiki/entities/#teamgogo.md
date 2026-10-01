@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [organization, real-estate, team]
-sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"]
+sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]"]
 updated: 2026-10-01
 ---
 
@@ -61,6 +61,14 @@ Members are selected for production culture rather than headcount. The PPP of 6.
 ### Community structure
 
 The frontline/general chat split, topic sub-chats, a "generals" chat for agents with five-plus personal sponsors, state chats at ~50+ agents, and birthday celebrations are described in [[Downline Community Architecture]] (source: [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]] (NDA, de-identified).).
+
+
+### Sep 30, 2026 updates
+
+*Source: [[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]].*
+- Team Gogo has closed **$18B** since it formed.
+- **Tech support is back: Wednesdays at 3pm ET** ("1 o'clock we learn, 3 o'clock we help you set up"), linked in the Team Gogo calendar.
+- No Wednesday training during eXpCon week (*"events change lives"*). Team Gogo agents also plug into Fast Forward Movement and the Honey Badgers; links are in the Team Gogo Facebook group.
 
 ## Related
 

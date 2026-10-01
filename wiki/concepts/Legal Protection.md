@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [legal-protection, asset-protection, real-estate, business-structure, risk-management]
-sources: [[[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]], [[The Circle Coaching — Keyword Automation, Scarcity Positioning and Box-in-a-Box Structure (de-identified)]], [[The Circle Coaching — NDA Everyone, Golden-Handcuffs Hiring, Brand Architecture and the Freedom Arc (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]]
+sources: [[[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]], [[The Circle Coaching — Keyword Automation, Scarcity Positioning and Box-in-a-Box Structure (de-identified)]], [[The Circle Coaching — NDA Everyone, Golden-Handcuffs Hiring, Brand Architecture and the Freedom Arc (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]], [[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]]
 updated: 2026-10-01
 ---
 
@@ -110,6 +110,12 @@ The team-relationship side of a clean exit (graceful blame, preserving a downlin
 - **Write a family blueprint** listing every property, LLC, holding company and the trust, so heirs aren't overwhelmed. Ask an AI for a first pass, then confirm with your attorney.
 - **Property management:** self-managing local properties is fine if you enjoy it, but never give up 90% of the profit to avoid a ~10% fee: *"I'd rather pay 10% to get 90 than get 100% of nothing."* Out-of-state portfolios need professional management.
 - Gogo's own caveat: talk to a professional before acting.
+
+
+## Trusts Are for Liability, Not Tax (Tyler McBroom, Sep 2026)
+
+*Source: [[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]].*
+- A trust protects assets; it doesn't cut taxes. Viral trust schemes promising tax-free income are either fraud or cost $100K+ to set up and run, making sense only around $30M net worth. Don't hold buy-and-hold rentals in an S-corp.
 
 ## Related
 - [[Tax Strategy]]
