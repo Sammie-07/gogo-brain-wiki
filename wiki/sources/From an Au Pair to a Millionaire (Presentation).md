@@ -14,7 +14,7 @@ tags: [mindset, origin-story, philosophy, quotes]
 ## Key Takeaways
 
 **Origin Story:**
-- Grew up in Transylvania (Romania); spoke Hungarian
+- Grew up speaking Hungarian
 - Came to U.S. as an au pair
 - Started soul-searching at ~age 29: Oprah's Supersoul Sunday, Masterclass, Dr. Wayne Dyer, Tony Robbins, books, events
 - Principle: always have a notebook; makeup time and learning time can overlap
@@ -59,4 +59,4 @@ tags: [mindset, origin-story, philosophy, quotes]
 
 ## Wiki Pages Updated
 - [[concepts/Mindset]] — added ship story, elephant story, broke friend principle, age 29 soul-searching timeline, "once you see it can't unsee it" in context of opportunity recognition
-- [[entities/Gogo Bethke]] — added au pair origin, Transylvania/Romania background, soul-searching at 29 (Oprah, Wayne Dyer, Tony Robbins)
+- [[entities/Gogo Bethke]] — added au pair origin, soul-searching at 29 (Oprah, Wayne Dyer, Tony Robbins)

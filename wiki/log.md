@@ -876,3 +876,6 @@ Private Circle group-coaching call (Google Doc). **Raw not retained** (`original
 
 ## [2026-10-01] ingest | How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)
 #teamgogo open-to-public training (VTT in Clippings, no NDA). 1 source page + 1 NEW entity ([[Tyler McBroom]]). Deepened [[Tax Strategy]] (his five steps plus vehicles/meals/home office/trusts, with accuracy caveats flagged during review), [[Wealth Building]] (invest the savings; never sell), [[Legal Protection]] (trusts are for liability, not tax), [[#teamgogo]] ($18B closed; Wednesday 3pm tech support relaunched; no training eXpCon week), [[Jason Dupree]] (Sep 30 minute), [[Halo]] (pricing, build time). Case-study client names left out. Index 392 → 393.
+
+## [2026-10-01] edit | Removed Transylvania origin references for Gogo
+Per Sam: gogobethke.com never states where Gogo is from (only "arrived in this country with just $200, no connections, and no college degree"), so Transylvania/Romania origin wording was removed from [[Gogo Bethke]], the website-intro, Au Pair keynote and Hungarian TEDx source summaries, and their index rows. Hungarian language/given name and the $200 arrival are kept. Other "Romania" mentions elsewhere (money-mindset, immigrant niche, etc.) left pending Sam's call.

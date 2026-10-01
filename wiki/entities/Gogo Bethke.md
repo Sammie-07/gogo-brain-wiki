@@ -2,7 +2,7 @@
 type: entity
 tags: [person, real-estate, coach, content-creator, entrepreneur]
 sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Red Light Green Light Exercise]]", "[[Let's Do Some Math Again]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[How I Scaled From One-on-One to Group Coaching]]", "[[How do you know it is time to hire a Virtual Assistant]]", "[[Work-Life Balance Secrets]]", "[[How to Track Business Growth with Effective Tools and Strategies]]", "[[AI For Real Estate Agents — How to Use AI to Generate Leads]]", "[[Working with Your Spouse]]", "[[Gogopreneur — Tony Robbins Business Mastery Part I]]", "[[From an Au Pair to a Millionaire]]", "[[Agent to CEO — Full Presentation]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[GOGO TEDx — Au Pair to Millionaire (Hungarian Presentation)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[GoGetEm Community Who Is Gogo Bethke — Website Intro Video]]", "[[Gogo Podcast Journey Into Real Estate and Coaching — Full Interview]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[The Fundamentals - Social Media Machine and Branding]]", "[[Social Media Marketing Mindset and Lead Capturing]]", "[[What Top Agents Do Differently on Instagram - Month 5]]", "[[How to Become the Obvious Choice in Your Market]]", "[[Master Your Copywriting and AI Brand Voice]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]"]
-updated: 2026-09-30
+updated: 2026-10-01
 ---
 
 # Gogo Bethke
@@ -11,7 +11,7 @@ Retired real estate agent, team leader, coach, and content creator. Founder of [
 
 ## Career Timeline
 
-- **2003** — Moved to the US from Romania at age 21. English was her third language. No connections, no college education.
+- **2003** — Moved to the US at age 21. English was her third language. No connections, no college education.
 - **2011** — Got real estate license. First year income: **$16,000**.
 - **2011–2018** — Roughly doubled income each year. Built Facebook page (Gogo's Real Estate) to reach strangers; later moved to Instagram as primary platform for agent-to-agent conversation.
 - **Year 4** (2015 approx.) — Sons started school full-time → more working hours → income broke six figures.
@@ -23,8 +23,8 @@ Retired real estate agent, team leader, coach, and content creator. Founder of [
 
 ## Background
 
-- Immigrant from Transylvania, Romania; birth name **Gyöngyvér Bethke** ("Gogo" is her nickname). Speaks three languages (Hungarian, Romanian, English).
-- Delivered a TEDx-style talk in Hungarian for a Transylvanian audience — the "Au Pair to Millionaire" story told in her native language
+- Birth name **Gyöngyvér Bethke** ("Gogo" is her nickname). English is her third language.
+- Delivered a TEDx-style talk in Hungarian — the "Au Pair to Millionaire" story told in her native language
 - First woman at eXp to personally sponsor 100 agents
 - No college education; self-described "street smart"
 - Self-described strengths: sociable, persistent, relentless learner

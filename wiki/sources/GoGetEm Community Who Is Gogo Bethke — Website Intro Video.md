@@ -13,7 +13,7 @@ tags: [gogo-story, gogetem, the-circle, origin-story, credentials, community]
 
 ## Key Takeaways
 
-- Immigrant from Transylvania, Romania (Hungarian by nationality). Came to US at 21 as an au pair, barely spoke English. Came for the American dream.
+- Came to the US at 21 as an au pair, barely spoke English. Came for the American dream.
 - Today: multi-millionaire with multiple companies; one company did **$3.6 billion in sales** in a single year.
 - Three websites each generating **seven figures+**: Gogo's Bootcamp Social Media, Gogo's Bootcamp Agent Attraction, Team Go Partner page.
 - Named in **Success Magazine top 125 most influential people in the US** (with Tony Robbins and Grant Cardone).
