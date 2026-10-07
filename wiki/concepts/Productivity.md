@@ -69,7 +69,7 @@ sources:
   - "[[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]]"
   - "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]"
   - "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"
-updated: 2026-10-01
+updated: 2026-10-07
 ---
 
 # Productivity
@@ -794,7 +794,7 @@ Reframe the objection "I can't believe I'm paying two assistants" with: *where w
 
 **Content is the highest-ROI protected activity.** The reclaimed hours go straight into content creation — the one-to-many "machine" that compounds. Baronetti cites [[Alex Hormozi]]: he runs $200M/yr companies yet still spends **25 hrs/week** personally on content. If the reclaimed time isn't protected for content (25+ hrs/wk), the delegation loses its leverage.
 
-**Staffing economics (GGTC "Done With You" framing).** One dedicated VA runs ~$12,000/yr; the "Done With You" upgrade rents access to Gogo's 14 assistants twice weekly for 52 weeks at $400/mo ($4,800/yr) — the same delegation logic packaged as shared leverage. Ties directly to the [[#Hourly Rate Formula|hourly-rate filter]] and the [[#The Leverage Hierarchy|leverage hierarchy]] above.
+**Staffing economics (GGTC "Done With You" framing).** One dedicated VA runs ~$12,000/yr; the "Done With You" upgrade rents access to Gogo's 14 assistants on the weekly Tuesday tech call for 52 weeks at $400/mo ($4,800/yr) — the same delegation logic packaged as shared leverage. Ties directly to the [[#Hourly Rate Formula|hourly-rate filter]] and the [[#The Leverage Hierarchy|leverage hierarchy]] above.
 
 ## VA Hiring Mechanics (Jason Matthews — "Speed to Lead")
 

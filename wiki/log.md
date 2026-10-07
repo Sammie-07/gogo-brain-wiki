@@ -882,3 +882,6 @@ Per Sam: gogobethke.com never states where Gogo is from (only "arrived in this c
 
 ## [2026-10-01] edit | Alex Moeller: removed unsupported "Transylvania region"
 Checked whether his "$200 / bus / train / plane" origin quote was Gogo's story misattributed. The raw clippings are truncated stubs (full transcript not retained), but the ingest-time summary separates his story from Gogo's closing, and the excerpt ends as he begins his background, so the quote stays with him. His quote only says "Hungarian", so the unsupported "(Transylvania region)" was removed.
+
+## [2026-10-07] edit | GGTC yearly plan is $790
+Per Sam: the GoGet'Em Community annual plan is now $790/year (was $799; monthly stays $79). Updated the Fundamentals source summary, added the price to [[GoGet'Em Community]], and added a Standing Content Rule in CLAUDE.md. Also fixed a leftover "twice weekly" Done With You reference in [[Productivity]] to the weekly Tuesday tech call.

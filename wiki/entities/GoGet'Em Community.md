@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, community, real-estate]
 sources: ["[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]"]
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # GoGet'Em Community
@@ -25,7 +25,7 @@ The GoGet'Em Community is Gogo's public-facing membership community for real est
 
 | Tier | Description |
 |------|-------------|
-| **Do It Yourself (DIY)** | Full access to video library, GSMC, monthly live, group chat, Facebook group |
+| **Do It Yourself (DIY)** | Full access to video library, GSMC, monthly live, group chat, Facebook group. **$79/month or $790/year.** |
 | **Done With You (DWY)** | Everything in DIY + live access to Gogo's exact team (ManyChat, design, bio, website/funnels). Live Tech Support: **Tuesdays 3pm ET** |
 
 ## Onboarding Steps (New Member)
