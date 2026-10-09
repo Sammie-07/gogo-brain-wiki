@@ -888,3 +888,6 @@ Per Sam: the GoGet'Em Community annual plan is now $790/year (was $799; monthly 
 
 ## [2026-10-08] edit | Instagram layer: new posts only, daily
 Per Sam: the older Instagram history imported by the first sync is not ingested; ingestion starts at 2026-10-08 (gogo-brain/instagram-ingest.json). The brain update routine now runs daily at end of Gogo's day instead of weekly. CLAUDE.md procedure updated.
+
+## [2026-10-09] ingest | Instagram captions and stories through 2026-10-08
+Daily automatic ingest: 1 caption and 31 stories (2026-10-08). New month page [[Instagram — 2026-10 (Gogo Bethke)]]. Deepened [[Gogo Bethke]], [[Social Media and Email Marketing]], [[eXp Realty]]. Skipped reshared content, event logistics and machine-garbled fragments. Index 393 → 394.
