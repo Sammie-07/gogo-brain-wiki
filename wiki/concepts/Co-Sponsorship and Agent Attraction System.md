@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [agent-attraction, co-sponsorship, revenue-share, exp-realty, teams, real-estate-math, lead-generation]
-sources: ["[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"]
-updated: 2026-10-01
+sources: ["[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
+updated: 2026-10-10
 ---
 
 # Co-Sponsorship and the Agent-Attraction Website System
@@ -91,6 +91,9 @@ Attracting the agent is only half the job — **the sponsor owns onboarding to t
 - **Cadence and focus:** post attraction content at least weekly; ease from production into attraction (agents want someone still active); recruit **nationwide** rather than locally (local agents feel you're taking their deals); build a weekly habit that puts you with agents, such as a regular golf foursome.
 - **Product ladder:** free downline organization → low-ticket recurring digital product → high-ticket coaching. If your upline already runs strong weekly trainings, send people there and add your own monthly session.
 - Community setup after sign-up: see [[Downline Community Architecture]].
+
+## Gogo's Take: Sponsoring Means Showing Up
+At eXpCon 2026 three #teamgogo agents taught concurrent breakouts. Gogo spent about 20 minutes in each room to support them, saying "this is what a good sponsor does." Source: [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Related
 

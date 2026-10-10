@@ -2,7 +2,7 @@
 type: entity
 tags: [person, real-estate, coach, content-creator, entrepreneur]
 sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Red Light Green Light Exercise]]", "[[Let's Do Some Math Again]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[How I Scaled From One-on-One to Group Coaching]]", "[[How do you know it is time to hire a Virtual Assistant]]", "[[Work-Life Balance Secrets]]", "[[How to Track Business Growth with Effective Tools and Strategies]]", "[[AI For Real Estate Agents — How to Use AI to Generate Leads]]", "[[Working with Your Spouse]]", "[[Gogopreneur — Tony Robbins Business Mastery Part I]]", "[[From an Au Pair to a Millionaire]]", "[[Agent to CEO — Full Presentation]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[GOGO TEDx — Au Pair to Millionaire (Hungarian Presentation)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[GoGetEm Community Who Is Gogo Bethke — Website Intro Video]]", "[[Gogo Podcast Journey Into Real Estate and Coaching — Full Interview]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[The Fundamentals - Social Media Machine and Branding]]", "[[Social Media Marketing Mindset and Lead Capturing]]", "[[What Top Agents Do Differently on Instagram - Month 5]]", "[[How to Become the Obvious Choice in Your Market]]", "[[Master Your Copywriting and AI Brand Voice]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-09
+updated: 2026-10-10
 ---
 
 # Gogo Bethke
@@ -37,7 +37,7 @@ Retired real estate agent, team leader, coach, and content creator. Founder of [
 - **Awards:** Top 125 Most Influential People (Success Magazine, 2022); Top 50 Woman of Influence (Success Magazine, 2025); TED Talk speaker
 - **EXPI stock holdings:** ~46,000 shares accumulated through the standard stock programs (first closing each year + capping + sponsored agents' first closings + 5% stock option) — never iconed a single year
 
-- **eXpCon 2026 (Salt Lake City, Oct 8–9):** marked 8 years at eXp; played in the Agent Games (OGs vs. New Kids on the Block) raising money for Extend a Hand (goal $50,000) and did a "wheel of social media" stage session. Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+- **eXpCon 2026 (Salt Lake City, Oct 8–9):** marked 8 years at eXp; played in the Agent Games (OGs vs. New Kids on the Block) raising money for Extend a Hand (goal $50,000) and did a "wheel of social media" stage session. On Oct 9 she co-presented "How to turn one idea into 20 pieces of content" with Rene Rodriguez, and spent Oct 8 moving between #teamgogo agents' breakout rooms ("this is what a good sponsor does"). Source: [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## What She Does Now
 

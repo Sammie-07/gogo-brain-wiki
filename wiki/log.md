@@ -891,3 +891,6 @@ Per Sam: the older Instagram history imported by the first sync is not ingested;
 
 ## [2026-10-09] ingest | Instagram captions and stories through 2026-10-08
 Daily automatic ingest: 1 caption and 31 stories (2026-10-08). New month page [[Instagram — 2026-10 (Gogo Bethke)]]. Deepened [[Gogo Bethke]], [[Social Media and Email Marketing]], [[eXp Realty]]. Skipped reshared content, event logistics and machine-garbled fragments. Index 393 → 394.
+
+## [2026-10-10] ingest | Instagram captions and stories through 2026-10-09
+Daily automatic ingest: 2 captions and 18 stories (2026-10-08 22:05 UTC to 2026-10-09 20:57 UTC). Extended [[Instagram — 2026-10 (Gogo Bethke)]]; deepened [[Gogo Bethke]], [[eXp Realty]], [[Co-Sponsorship and Agent Attraction System]]. Skipped event logistics, reshares and garbled transcripts. Index count unchanged.
