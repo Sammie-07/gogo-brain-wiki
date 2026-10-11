@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, real-estate, team]
-sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]"]
-updated: 2026-10-01
+sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
+updated: 2026-10-11
 ---
 
 # #teamgogo 
@@ -69,6 +69,9 @@ The frontline/general chat split, topic sub-chats, a "generals" chat for agents 
 - Team Gogo has closed **$18B** since it formed.
 - **Tech support is back: Wednesdays at 3pm ET** ("1 o'clock we learn, 3 o'clock we help you set up"), linked in the Team Gogo calendar.
 - No Wednesday training during eXpCon week (*"events change lives"*). Team Gogo agents also plug into Fast Forward Movement and the Honey Badgers; links are in the Team Gogo Facebook group.
+
+### Work family and faith (Oct 2026)
+Beyond coaching and training, Gogo describes #teamgogo as a work family: "we also pray for one another. We show up for each other. We celebrate each other's wins and stick together through the hard stuff. Our shared Christian faith is such a meaningful part of those relationships." New ICON agents get a congratulations note and gift ("only 6% of the agents at eXp are ICON"). Source: [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Related
 
