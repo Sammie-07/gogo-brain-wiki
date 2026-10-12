@@ -2,7 +2,7 @@
 type: concept
 tags: [agent-attraction, co-sponsorship, revenue-share, exp-realty, teams, real-estate-math, lead-generation]
 sources: ["[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-10
+updated: 2026-10-12
 ---
 
 # Co-Sponsorship and the Agent-Attraction Website System
@@ -94,6 +94,13 @@ Attracting the agent is only half the job — **the sponsor owns onboarding to t
 
 ## Gogo's Take: Sponsoring Means Showing Up
 At eXpCon 2026 three #teamgogo agents taught concurrent breakouts. Gogo spent about 20 minutes in each room to support them, saying "this is what a good sponsor does." Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
+## Oct 11 2026 Instagram Push: "Comment cosponsor"
+Gogo's caption ([permalink](https://www.instagram.com/p/DeXJA5wG5fu/)): "Best part of the #exp co-sponsorship that YOU + ME can now carry the weight together. You know an agent, I'll train the agent."
+- What the co-sponsored agent gets through [[#teamgogo]]: daily trainings (#teamgogo, #honeybadgers, #fastforwardmovement), an onboarding department, a shared Google Drive of docs, live tech support, community chat, access to Gogo and her team, events, a spot on the #teamgogo map for referrals, 3-way calls with her, mailed gifts and branded swag.
+- "You don't have to come up with the community, the team it takes to keep it up." Commenting "cosponsor" starts a build of your own agent attraction site in under 3 minutes: add your short video and your calendar link (hers are already on it), and "you can start attracting and growing your downline TODAY."
+- Her stories listed what is built in: your video and hers explaining eXp and #teamgogo, accolades, team benefits, buttons to schedule with you (and with her for 3-way calls) and a sign-up button.
+- Her rule of thumb that day: 413 front-line agents in eight years, and she wants to 10X it. Source: [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Related
 

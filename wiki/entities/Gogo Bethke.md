@@ -2,7 +2,7 @@
 type: entity
 tags: [person, real-estate, coach, content-creator, entrepreneur]
 sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Red Light Green Light Exercise]]", "[[Let's Do Some Math Again]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[How I Scaled From One-on-One to Group Coaching]]", "[[How do you know it is time to hire a Virtual Assistant]]", "[[Work-Life Balance Secrets]]", "[[How to Track Business Growth with Effective Tools and Strategies]]", "[[AI For Real Estate Agents — How to Use AI to Generate Leads]]", "[[Working with Your Spouse]]", "[[Gogopreneur — Tony Robbins Business Mastery Part I]]", "[[From an Au Pair to a Millionaire]]", "[[Agent to CEO — Full Presentation]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[GOGO TEDx — Au Pair to Millionaire (Hungarian Presentation)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[GoGetEm Community Who Is Gogo Bethke — Website Intro Video]]", "[[Gogo Podcast Journey Into Real Estate and Coaching — Full Interview]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[The Fundamentals - Social Media Machine and Branding]]", "[[Social Media Marketing Mindset and Lead Capturing]]", "[[What Top Agents Do Differently on Instagram - Month 5]]", "[[How to Become the Obvious Choice in Your Market]]", "[[Master Your Copywriting and AI Brand Voice]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-11
+updated: 2026-10-12
 ---
 
 # Gogo Bethke
@@ -136,6 +136,14 @@ Money exchanges hands when you solve a problem — and a human is always on the 
 ## Continuous Learning Stance
 
 Attends events, masterminds, and seminars constantly. Has attended 8–9 Tony Robbins events. Reads every book she can. Currently employs a business coach and an SEO coach. Rule: as soon as you feel like the smartest person in the room, you're in the wrong room — find the next mastermind.
+
+## Instagram Voice: Oct 11 2026
+
+- **Never a boring life.** In a Reel she said she can't do a boring life: it has to be full of experiences, "something I can WIN," "something I've never done before.. That's what makes me feel like I'm LIVING and making God, my husband, my kids, my parents, my sister, my friends, myself PROUD." Her style: "I rather ask for forgiveness then permission. I'll open every door, I'll pull up a seat, I'll ask the question, I'll take that photo, I'll show up... Every time!" ([permalink](https://www.instagram.com/reel/DeWwtPQTfaj/))
+- **Always measuring against a bigger bar.** Proud of the 413 agents she attracted in eight years on her eXp front line, she joked about a Grant Cardone-style retort, "you have 95,000 followers, you only attracted 413," and said she needs to "10X this." Her point: excitement lasts only until you pick who you compare yourself to. Against the roughly 84% of eXp agents who have never brought in an agent she is "a baller"; against Grant Cardone she has more to do. (Stories, Oct 11)
+- **Faith and family rhythm.** Sunday church at The Chapel, with stories on 1 Thessalonians 5:16-18 ("Rejoice always, pray without ceasing, give thanks in all circumstances") and the idea that daily prayer keeps communication with God open. She got home from eXpCon in time for son Duke's homecoming, with Duane's "Grandpa was present" note.
+- **Work ethic with the Airbnb.** Prepping the family Airbnb for a crew to work on the balcony: "Don't ever be too good to work hard. Respect money, so it respects you back."
+- Kind DMs from followers: "Messages like this keep me going... I believe they are messengers." (Story, Oct 11)
 
 ## Related
 

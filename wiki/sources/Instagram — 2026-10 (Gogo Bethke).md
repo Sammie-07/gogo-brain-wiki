@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-10 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-11 so far.
 
 ## Key Takeaways
 
@@ -60,6 +60,24 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 - On #teamgogo culture: beyond coaching and training, "we also pray for one another. We show up for each other. We celebrate each other's wins and stick together through the hard stuff. Our shared Christian faith is such a meaningful part of those relationships."
 - Team detail: she sent new ICON agents a congratulations gift and note: "only 6% of the agents at eXp are ICON," and asked them to post and tag her and the team.
 
+### Oct 11 — "I can't do a boring life" (Reel)
+- "I can't do a boring life... Mine has to be exciting. Full with experiences... Something I can WIN... Something I've never done before.. That's what makes me feel like I'm LIVING and making God, my husband, my kids, my parents, my sister, my friends, myself PROUD." Her creed: "we can do everything!! We just need to take ACTION!" and "I rather ask for forgiveness then permission. I'll open every door, I'll pull up a seat, I'll ask the question, I'll take that photo, I'll show up... Every time!" ([permalink](https://www.instagram.com/reel/DeWwtPQTfaj/))
+
+### Oct 11 — Why she built the GoGet'Em Community (Reel)
+- A member stopped her at eXpCon; Gogo pulled out the mic. She built [[GoGet'Em Community]] so the next generation has it easier: learn on a phone app, live chat, access to her team, 300+ lessons (mindset, marketing, a year of social media, hiring and training support staff, finances, taxes). "This is not for lazy people! There is no Staples easy button!" ([permalink](https://www.instagram.com/reel/DeWyXZbTdoO/))
+
+### Oct 11 — Co-sponsor benefits (caption and stories)
+- "You know an agent, I'll train the agent." Full benefit list and the 3-minute agent attraction site build ("comment cosponsor") are on [[Co-Sponsorship and Agent Attraction System]] ([permalink](https://www.instagram.com/p/DeXJA5wG5fu/)).
+
+### Oct 11 — Comparison and 413 agents (stories)
+- Proud of attracting 413 front-line agents in eight years at eXp, she acted out a Grant Cardone-style retort ("95,000 followers... only 413") and said "I need to 10X this." Her lesson: "our excitement only works until we decide who we compare ourselves to." About 84% of eXp agents have never brought in an agent (16% have); against them she is a baller, against Cardone she has work to do.
+
+### Oct 11 — Faith, family and work ethic (stories)
+- Sunday at The Chapel: a story on 1 Thessalonians 5:16-18 ("Rejoice always, pray without ceasing, give thanks in all circumstances"), and from the sermon, praying daily keeps communication open to hear God's answers.
+- Home from eXpCon in time for son Duke's homecoming, with Duane noting "Grandpa was present." A happy-birthday story for a #teamgogo agent.
+- Prepping the Airbnb for a balcony crew: "Don't ever be too good to work hard. Respect money, so it respects you back."
+- On follower DMs: "Messages like this keep me going... I believe they are messengers."
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -76,6 +94,10 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 > "Last day of #expcon2026. Let's make the best of it." — [Oct 9 caption](https://www.instagram.com/p/DeRp8aCzfVG/)
 
+> "I'll open every door, I'll pull up a seat, I'll ask the question, I'll take that photo, I'll show up... Every time!" — [Oct 11 Reel](https://www.instagram.com/reel/DeWwtPQTfaj/)
+
+> "Don't ever be too good to work hard. Respect money, so it respects you back." — Oct 11 story
+
 ## Wiki Pages Updated
 - [[Gogo Bethke]] — eXpCon 2026, 8-year eXp mark, Agent Games/Extend a Hand
 - [[Social Media and Email Marketing]] — Amy Gregory/Gogo proof point: agent attraction with no purchased leads or cold calls
@@ -83,3 +105,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 - [[eXp Realty]] — eXpCon 2026 Salt Lake City and the Agent Games charity fundraiser; Agent Games result; localized-brokerage pitch
 - [[#teamgogo]] — work-family/faith culture; ICON congratulations gift
 - [[Wealth Building]] — wealth with a purpose: providing for family, legacy (1 Timothy 5:8)
+- [[GoGet'Em Community]] — Oct 11 pitch: why she built it, 300+ lessons
+- [[Co-Sponsorship and Agent Attraction System]] — Oct 11 co-sponsor benefits and 3-minute site
+- [[Gogo Bethke]] — Oct 11 voice: never a boring life, comparison, faith, Airbnb work ethic
+- [[eXp Realty]] — 84% of eXp agents have not brought an agent
