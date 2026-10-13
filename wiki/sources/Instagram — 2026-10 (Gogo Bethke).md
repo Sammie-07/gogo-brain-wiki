@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-11 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-12 so far.
 
 ## Key Takeaways
 
@@ -78,6 +78,18 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 - Prepping the Airbnb for a balcony crew: "Don't ever be too good to work hard. Respect money, so it respects you back."
 - On follower DMs: "Messages like this keep me going... I believe they are messengers."
 
+### Oct 11 — The HVAC shutoff (story)
+- A comic "Dumb and Dumber" report with Duane: she poured vinegar into the Airbnb's HVAC condensation line (do it monthly, or every other month, to keep it clear), but the line's shutoff switch sat at an angle, backfilled and cut power to the thermostat and everything else. Her silver lining: three episodes of a show and a load of laundry. Real-life proof she and Duane maintain their own rental.
+
+### Oct 12 — "You're using ChatGPT wrong" (caption)
+- Most agents use ChatGPT like a search bar ("like buying a Ferrari to drive to the mailbox"). The bigger use is delegating the small tasks that eat half the day: filling out online forms, updating the CRM, building follow-up plans, logging activities, organizing contacts, posting on social. [[GoGet'Em Community]] brought in an AI trainer for a live session to show it ([permalink](https://www.instagram.com/p/DeZgvE_z2_T/)).
+- Her sequence for getting work off her plate: "First I hired people, then we built systems, then we automated as much as possible. And now AI is opening up a whole new level of what's possible." Her fear: agents "doing everything manually while other agents are figuring out how to get the same work done in a fraction of the time."
+
+### Oct 12 — "You got into real estate to buy your way out of it" (caption)
+- Closings are capital; "what you build with the selling years is the whole point." The goal is to get out of "the part where every month starts at zero and the only thing keeping the lights on is you showing up again."
+- Example from a coached agent: a digital product that earns off the calendar, agents she leads whose production grows her income past her own hours, and a coaching program that pays for the path she walked. "Her ceiling stopped being tied to her calendar."
+- "The wheel doesn't stop on its own. You have to build something that runs without you on it." ([permalink](https://www.instagram.com/p/DeaHeNRkm8l/))
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -98,6 +110,10 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 > "Don't ever be too good to work hard. Respect money, so it respects you back." — Oct 11 story
 
+> "The closings are capital. What you build with the selling years is the whole point." — [Oct 12 caption](https://www.instagram.com/p/DeaHeNRkm8l/)
+
+> "The wheel doesn't stop on its own. You have to build something that runs without you on it." — Oct 12 caption
+
 ## Wiki Pages Updated
 - [[Gogo Bethke]] — eXpCon 2026, 8-year eXp mark, Agent Games/Extend a Hand
 - [[Social Media and Email Marketing]] — Amy Gregory/Gogo proof point: agent attraction with no purchased leads or cold calls
@@ -109,3 +125,6 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 - [[Co-Sponsorship and Agent Attraction System]] — Oct 11 co-sponsor benefits and 3-minute site
 - [[Gogo Bethke]] — Oct 11 voice: never a boring life, comparison, faith, Airbnb work ethic
 - [[eXp Realty]] — 84% of eXp agents have not brought an agent
+- [[AI for Real Estate]] — Oct 12: delegate tasks, not just captions; hire, systems, automate, AI
+- [[Wealth Building]] — Oct 12: closings are capital; build income streams that run without you
+- [[Gogo Bethke]] — Oct 11–12: HVAC anecdote, AI-delegation stance

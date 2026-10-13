@@ -900,3 +900,6 @@ Daily automatic ingest: 5 captions and 12 stories (2026-10-09 22:21 UTC to 2026-
 
 ## [2026-10-12] ingest | Instagram captions and stories through 2026-10-11
 Daily automatic ingest: 3 captions and 19 stories (2026-10-11 00:29 UTC to 18:49 UTC). Extended [[Instagram — 2026-10 (Gogo Bethke)]]; deepened [[Gogo Bethke]], [[GoGet'Em Community]], [[Co-Sponsorship and Agent Attraction System]], [[eXp Realty]]. Skipped reshares, garbled/non-English transcripts, screenshots and a private name. Index count unchanged.
+
+## [2026-10-13] ingest | Instagram captions and stories through 2026-10-12
+Daily automatic ingest: 2 captions and 2 stories (2026-10-11 22:27 UTC to 2026-10-12 20:42 UTC). Extended [[Instagram — 2026-10 (Gogo Bethke)]]; deepened [[Wealth Building]], [[AI for Real Estate]], [[Gogo Bethke]]. Skipped event pricing/logistics and a graphic-only story. Index count unchanged.
