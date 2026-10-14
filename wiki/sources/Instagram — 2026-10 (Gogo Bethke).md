@@ -89,6 +89,11 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 - Closings are capital; "what you build with the selling years is the whole point." The goal is to get out of "the part where every month starts at zero and the only thing keeping the lights on is you showing up again."
 - Example from a coached agent: a digital product that earns off the calendar, agents she leads whose production grows her income past her own hours, and a coaching program that pays for the path she walked. "Her ceiling stopped being tied to her calendar."
 - "The wheel doesn't stop on its own. You have to build something that runs without you on it." ([permalink](https://www.instagram.com/p/DeaHeNRkm8l/))
+- **Oct 13 – "I love hard."** On a Reel: "It's hard I know. But I love hard. I love winning. I love proving someone wrong... I love if it never was done before. I'll be the 1st to do it then." ([permalink](https://www.instagram.com/reel/DebzlPITxjb/))
+- **Oct 13 – Get in the room.** Two #teamgogo agents topped September's agent-attraction leaderboard; both are Circle members, both came to her Private Room mastermind, both flew to eXpCon. Her read: invest in yourself, show up, be around people who think bigger, then go home and *do* something with it. "It's pretty hard to build a bigger business while constantly talking yourself out of the opportunities that could help you grow one." ([permalink](https://www.instagram.com/p/DecE8jvG2M1/))
+- **Oct 13 – No-shows get blacklisted.** She permanently blacklists no-shows with no text or call: people wait weeks for her calendar, and a hold-up of four seconds to cancel is too much to ask. She used to reschedule and make exceptions, "teaching them that my time was negotiable." Her team now handles no-shows so she never has the uncomfortable conversation; one exception ever, for a woman who chased her across a room of thousands to own the miss. Systems and people that hold boundaries for you are part of what she builds with members in [[The Circle]]. ([permalink](https://www.instagram.com/p/DecwHRekmX4/))
+- **Oct 13 – Bringing in the best.** #teamgogo brings top industry trainers to its agents (a guest training from eXp's #1 producing solo agent on Oct 14). Her line: "Show up. Take notes. Steal everything." ([permalink](https://www.instagram.com/reel/DecORVoTzR7/))
+- **Oct 13 – Pink Pen.** She launched "Pink Pen," a long-form LinkedIn newsletter: "my thoughts on different subjects in a looooooooooong format, cause I have a LOT to say." Early editions include the no-show blacklist piece (story).
 
 ## Quotes
 
@@ -114,6 +119,14 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 > "The wheel doesn't stop on its own. You have to build something that runs without you on it." — Oct 12 caption
 
+> "I love hard. I love winning. I love proving someone wrong." — [Oct 13 Reel](https://www.instagram.com/reel/DebzlPITxjb/)
+
+> "GET IN THE ROOM." — [Oct 13 caption](https://www.instagram.com/p/DecE8jvG2M1/)
+
+> "Because I was teaching them that my time was negotiable. Not anymore." — [Oct 13 caption](https://www.instagram.com/p/DecwHRekmX4/)
+
+> "Show up. Take notes. Steal everything." — [Oct 13 Reel](https://www.instagram.com/reel/DecORVoTzR7/)
+
 ## Wiki Pages Updated
 - [[Gogo Bethke]] — eXpCon 2026, 8-year eXp mark, Agent Games/Extend a Hand
 - [[Social Media and Email Marketing]] — Amy Gregory/Gogo proof point: agent attraction with no purchased leads or cold calls
@@ -128,3 +141,6 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 - [[AI for Real Estate]] — Oct 12: delegate tasks, not just captions; hire, systems, automate, AI
 - [[Wealth Building]] — Oct 12: closings are capital; build income streams that run without you
 - [[Gogo Bethke]] — Oct 11–12: HVAC anecdote, AI-delegation stance
+- [[Mindset]] — Oct 13: "I love hard"; get in the room; no-show blacklist
+- [[Co-Sponsorship and Agent Attraction System]] — Oct 13: leaderboard pattern, Circle/mastermind/eXpCon attendees
+- [[Gogo Bethke]] — Oct 13: competitive streak, Pink Pen newsletter, no-show boundary

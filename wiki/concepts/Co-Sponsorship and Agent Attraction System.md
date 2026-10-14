@@ -2,7 +2,7 @@
 type: concept
 tags: [agent-attraction, co-sponsorship, revenue-share, exp-realty, teams, real-estate-math, lead-generation]
 sources: ["[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-12
+updated: 2026-10-14
 ---
 
 # Co-Sponsorship and the Agent-Attraction Website System
@@ -101,6 +101,11 @@ Gogo's caption ([permalink](https://www.instagram.com/p/DeXJA5wG5fu/)): "Best pa
 - "You don't have to come up with the community, the team it takes to keep it up." Commenting "cosponsor" starts a build of your own agent attraction site in under 3 minutes: add your short video and your calendar link (hers are already on it), and "you can start attracting and growing your downline TODAY."
 - Her stories listed what is built in: your video and hers explaining eXp and #teamgogo, accolades, team benefits, buttons to schedule with you (and with her for 3-way calls) and a sign-up button.
 - Her rule of thumb that day: 413 front-line agents in eight years, and she wants to 10X it. Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
+## Oct 13 2026 Instagram: The Leaderboard Pattern
+
+Gogo noticed the top two September "Top Agent Attractors" on #teamgogo were both [[The Circle]] members who attended her Private Room mastermind and flew to eXpCon. Her takeaway: growing an organization starts with getting in the room with people building bigger. Her call to action for agents at other brokerages: comment PARTNER to see what building with her and #teamgogo at eXp looks like. #teamgogo also brings in top industry trainers (an Oct 14 training from eXp's #1 producing solo agent). Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
 
 ## Related
 
