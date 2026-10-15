@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-12 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-14 so far.
 
 ## Key Takeaways
 
@@ -95,6 +95,25 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 - **Oct 13 – Bringing in the best.** #teamgogo brings top industry trainers to its agents (a guest training from eXp's #1 producing solo agent on Oct 14). Her line: "Show up. Take notes. Steal everything." ([permalink](https://www.instagram.com/reel/DecORVoTzR7/))
 - **Oct 13 – Pink Pen.** She launched "Pink Pen," a long-form LinkedIn newsletter: "my thoughts on different subjects in a looooooooooong format, cause I have a LOT to say." Early editions include the no-show blacklist piece (story).
 
+### Oct 14 — Pray over your business (Reel)
+- "Pray over your business the same way you pray over everything and anyone else. Let this be your reminder today!" ([permalink](https://www.instagram.com/reel/DeeZ7W1zuak/))
+
+### Oct 14 — "How lucky are we that we get to stress over millions of dollars?" (Reel)
+- After a Circle call on the pressure of owning a business: stress doesn't vanish with success, because "the decisions get bigger. More money. More people counting on you." People stop growing "because they've reached a level of pressure they don't know how to handle yet."
+- Gratitude and overwhelm coexist: "I remember wanting what I'm responsible for today. I prayed for the opportunities that now come with decisions that keep me up at night... I can be overwhelmed AND grateful."
+- You need a room where you can say "this is hard" without being judged for making good money: "Your best friend can love you and still have absolutely no idea what you're carrying." She describes [[The Circle]] as feeling like family, with an average member income of $700,000 (her figure), "women who understand your ambition, love you through the hard parts, and can celebrate your success without you shrinking it first." ([permalink](https://www.instagram.com/reel/DeebWOXzOD0/))
+
+### Oct 14 — Commissions fund your life or your freedom (caption)
+- "Every commission either funds your life or funds your freedom. It doesn't do both at the same time, you choose which one it becomes the second it hits your account." Treat the next deal as fuel, not the destination: "You don't park at the gas station."
+- Her own income sources: rev share, stocks, real estate investments, digital products, affiliate income, coaching and speaking, "that I no longer have to sell." On "you don't even sell anymore": "That's supposed to sting. It doesn't. It means it worked." ([permalink](https://www.instagram.com/p/Dee9A0NGhHV/))
+
+### Oct 14 — The 21-year-old immigrant girl (Reel)
+- "In 2003, I left Csíkszereda, Transylvania, and came to America with $200 in my pocket. Hungarian was my first language, Romanian my second, and English? Well, we were going to have to figure that one out." No contacts, no money, "certainly... [no] big master plan," but "work ethic, a dream, and enough stubbornness."
+- Today: 9 companies, multiple Two Comma Club awards, and #teamgogo at over 1,700 agents. "You don't need to come from money to make money... But you DO need to show up. Over and over and OVER again, even when nobody is watching, nobody is clapping." Then surround yourself with people who believe in where you're going, "not just where you've been." ([permalink](https://www.instagram.com/reel/DefhxVlPUFq/))
+
+### Oct 14 — Live Zoom swap (stories)
+- She cancelled a Michigan in-person presentation because she wasn't feeling well enough to travel, offered a live Zoom instead, and delivered it Oct 14 for a Ditch the Heels virtual session ("Bet On You," with Kim Agemy): "I showed #realtors today how to make stupid money and live life by design." Her take: "I think I blew some minds."
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -127,6 +146,12 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 > "Show up. Take notes. Steal everything." — [Oct 13 Reel](https://www.instagram.com/reel/DecORVoTzR7/)
 
+> "Every commission either funds your life or funds your freedom." — [Oct 14 caption](https://www.instagram.com/p/Dee9A0NGhHV/)
+
+> "I can be overwhelmed AND grateful." — [Oct 14 Reel](https://www.instagram.com/reel/DeebWOXzOD0/)
+
+> "You don't need to come from money to make money." — [Oct 14 Reel](https://www.instagram.com/reel/DefhxVlPUFq/)
+
 ## Wiki Pages Updated
 - [[Gogo Bethke]] — eXpCon 2026, 8-year eXp mark, Agent Games/Extend a Hand
 - [[Social Media and Email Marketing]] — Amy Gregory/Gogo proof point: agent attraction with no purchased leads or cold calls
@@ -144,3 +169,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 - [[Mindset]] — Oct 13: "I love hard"; get in the room; no-show blacklist
 - [[Co-Sponsorship and Agent Attraction System]] — Oct 13: leaderboard pattern, Circle/mastermind/eXpCon attendees
 - [[Gogo Bethke]] — Oct 13: competitive streak, Pink Pen newsletter, no-show boundary
+- [[Gogo Bethke]] — Oct 14: immigrant origin line, faith, live-Zoom swap
+- [[Mindset]] — Oct 14: grateful and overwhelmed, a room to say "this is hard"
+- [[Wealth Building]] — Oct 14: commissions fund life or freedom
+- [[The Circle]] — Oct 14: why a peer room matters at higher levels

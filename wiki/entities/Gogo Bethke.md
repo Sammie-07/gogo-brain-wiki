@@ -2,7 +2,7 @@
 type: entity
 tags: [person, real-estate, coach, content-creator, entrepreneur]
 sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Red Light Green Light Exercise]]", "[[Let's Do Some Math Again]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[How I Scaled From One-on-One to Group Coaching]]", "[[How do you know it is time to hire a Virtual Assistant]]", "[[Work-Life Balance Secrets]]", "[[How to Track Business Growth with Effective Tools and Strategies]]", "[[AI For Real Estate Agents — How to Use AI to Generate Leads]]", "[[Working with Your Spouse]]", "[[Gogopreneur — Tony Robbins Business Mastery Part I]]", "[[From an Au Pair to a Millionaire]]", "[[Agent to CEO — Full Presentation]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[GOGO TEDx — Au Pair to Millionaire (Hungarian Presentation)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[GoGetEm Community Who Is Gogo Bethke — Website Intro Video]]", "[[Gogo Podcast Journey Into Real Estate and Coaching — Full Interview]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[The Fundamentals - Social Media Machine and Branding]]", "[[Social Media Marketing Mindset and Lead Capturing]]", "[[What Top Agents Do Differently on Instagram - Month 5]]", "[[How to Become the Obvious Choice in Your Market]]", "[[Master Your Copywriting and AI Brand Voice]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Gogo Bethke
@@ -151,6 +151,11 @@ Attends events, masterminds, and seminars constantly. Has attended 8–9 Tony Ro
 
 "I love hard. I love winning. I love proving someone wrong." She protects her calendar firmly: no-shows are blacklisted permanently, and her team enforces it. She launched "Pink Pen," a long-form LinkedIn newsletter ("cause I have a LOT to say"). She also shared a Grok-bot/AI assistant build training for GoGetters. See [[Instagram — 2026-10 (Gogo Bethke)]].
 
+## Oct 14 2026 Instagram Voice
+
+- **Origin line.** "In 2003, I left Csíkszereda, Transylvania, and came to America with $200 in my pocket." Hungarian first, Romanian second, English a work in progress. She says she has built 9 companies, won multiple Two Comma Club awards and grown #teamgogo past 1,700 agents. "You don't need to come from money to make money... you DO need to show up." ([permalink](https://www.instagram.com/reel/DefhxVlPUFq/))
+- **Faith in business.** "Pray over your business the same way you pray over everything and anyone else." Her gratitude for the weight she carries now: "I prayed for the opportunities that now come with decisions that keep me up at night."
+- **Shows up even when she can't travel.** She swapped a cancelled Michigan in-person talk for a live Zoom for Ditch the Heels. See [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Related
 

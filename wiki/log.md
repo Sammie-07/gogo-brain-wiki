@@ -906,3 +906,6 @@ Daily automatic ingest: 2 captions and 2 stories (2026-10-11 22:27 UTC to 2026-1
 
 ## [2026-10-14] ingest | Instagram captions and stories through 2026-10-13
 Daily automatic ingest: 4 captions and 3 stories (2026-10-13 12:28 UTC to 21:15 UTC). Extended [[Instagram — 2026-10 (Gogo Bethke)]]; deepened [[Mindset]], [[Co-Sponsorship and Agent Attraction System]], [[Gogo Bethke]]. Skipped event logistics, a reshare, a software-tab screenshot, private names and a paid-training price. Index count unchanged.
+
+## [2026-10-15] ingest | Instagram captions and stories through 2026-10-14
+Daily automatic ingest: 4 captions and 7 stories (2026-10-14 00:30 UTC to 23:09 UTC). Extended [[Instagram — 2026-10 (Gogo Bethke)]]; deepened [[Gogo Bethke]], [[Mindset]], [[Wealth Building]], [[The Circle]]. Skipped a reshared book promo, a bulldog poll, screenshots, community-chat and file-list stories, and private names. Index count unchanged.
