@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, trainer, community, real-estate]
-sources: ["[[Securing Your Domain]]", "[[Creating and Customizing Your YouTube Channel (Kristy Waker)]]", "[[Setting Up Your Google Business Profile for Success (Kristy Waker)]]", "[[Brand Consistency Across Social Media Platforms (Kristy Waker)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Create Professional Instagram Account (Kristy Waker)]]", "[[Domain Forwarding to Your Real Estate Website (Kristy Waker)]]", "[[Creating 3-Way Calls with Calendar — GoHighLevel Setup (Kristy Waker)]]", "[[Adding Your Email Signature to Gmail (Kristy Waker, GSMC)]]", "[[Creating an Email Signature Using Canva (Ellen, GSMC)]]", "[[VA Pay Tutorial (Kristy Waker)]]", "[[Managing a High Performing Team — Gogo Community Call]]", "[[Gogo Bethke on Expert Mentors Live — State of Business (John Kitchens)]]", "[[Mastering Your Numbers — Leads, Time & Revenue]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]"]
-updated: 2026-08-06
+sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Securing Your Domain]]", "[[Creating and Customizing Your YouTube Channel (Kristy Waker)]]", "[[Setting Up Your Google Business Profile for Success (Kristy Waker)]]", "[[Brand Consistency Across Social Media Platforms (Kristy Waker)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Create Professional Instagram Account (Kristy Waker)]]", "[[Domain Forwarding to Your Real Estate Website (Kristy Waker)]]", "[[Creating 3-Way Calls with Calendar — GoHighLevel Setup (Kristy Waker)]]", "[[Adding Your Email Signature to Gmail (Kristy Waker, GSMC)]]", "[[Creating an Email Signature Using Canva (Ellen, GSMC)]]", "[[VA Pay Tutorial (Kristy Waker)]]", "[[Managing a High Performing Team — Gogo Community Call]]", "[[Gogo Bethke on Expert Mentors Live — State of Business (John Kitchens)]]", "[[Mastering Your Numbers — Leads, Time & Revenue]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]"]
+updated: 2026-10-16
 ---
 
 # Kristy Waker
@@ -36,6 +36,11 @@ updated: 2026-08-06
 - Gmail email signature setup + WiseStamp introduction (GSMC 2026)
 - Personal brand: Kristy Waker (kristywaker.com)
 - Business brand: Kristy's Real Estate Team
+
+## Oct 2026
+- Presents the eXpCon recap of new eXp tools at #teamgogo. In the GoGet'Em browser-agent training, explained that the extension controls the screen rather than importing data.
+
+Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]].
 
 ## Related
 

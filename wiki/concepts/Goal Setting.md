@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [goal-setting, mindset, real-estate, productivity]
-sources: ["[[How to Eat an Elephant — 2026 Goals]]"]
-updated: 2026-04-15
+sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]"]
+updated: 2026-10-16
 ---
 
 # Goal Setting
@@ -96,6 +96,15 @@ Use ChatGPT prompts (Gogo sells a prompt package) to automate the reverse engine
 - Be a person of your word — how you do anything is how you do everything
 
 > "Goals are only as good as your follow through."
+
+## Track Lead Sources, Pick 3–5 Lanes, Reward Outrageously (#teamgogo Oct 2026)
+- **Track every deal's source.** [[Kim Fraser]]'s ~75 deals this year: farming 20, past clients 15, agent referrals 9, sphere 8, open houses 5, one from Claude.
+- **About 10 ways to make money in real estate; pick 3, at most 5,** that you'll do consistently. Skip the ones you hate. One channel isn't enough in this market.
+- **Gogo:** people move toward pleasure or away from pain; use pleasure. Size an outrageous reward to the goal and actually claim it, so your brain wants that feeling again. Make number decisions, not feeling decisions.
+
+> "If you treat yourself to something outrageous, then you go do it again." — Gogo Bethke
+
+Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]].
 
 ## Related
 

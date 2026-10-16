@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [agent-attraction, downline, community, teams, retention]
-sources: ["[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"]
-updated: 2026-10-01
+sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"]
+updated: 2026-10-16
 ---
 
 # Downline Community Architecture
@@ -41,6 +41,14 @@ Agents who don't know what they have find it easy to leave. Set up the community
 > "People don't do what you say, people do what you do."
 
 Pairs with the attraction funnel in [[Co-Sponsorship and Agent Attraction System]] and the onboarding cadence on that page; #teamgogo's own chat setup is on [[#teamgogo]].
+
+## Hub, Map and Re-Onboarding (#teamgogo Oct 2026)
+- **The Hub is mandatory** (Slack is gone): brokers, corporate, peers, and invites to stages and private events.
+- **Team Gogo map:** search for yourself; if missing or wrong, use [[Rafael Mino]]'s form (fixed same day).
+- **Re-onboard** if you joined 4–5 years ago: about half of today's offerings came later. Without onboarding, agents only get what eXp itself offers.
+- A Partner With Me agent-attraction page is built for agents in about 2 minutes.
+
+Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]].
 
 ## Related
 

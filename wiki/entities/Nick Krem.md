@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, ai, speaker, real-estate, agent-attraction]
-sources: ["[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]"]
-updated: 2026-09-03
+sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]"]
+updated: 2026-10-16
 ---
 
 # Nick Krem
@@ -27,6 +27,11 @@ Nick Krem is an AI strategist ("AI chief," keynote speaker) featured in Forbes, 
 - **Brokerage/CRM sites block AI** — agents blogging there may never be crawled or cited.
 - **Agent-Attraction "ninja tactic":** text your AI daily to research the #1 question a producing agent asks when considering a brokerage change; text back your answer; it writes a niche blog answering it → you become the cited source (one user booked **two appointments day one**).
 - **Save it as a contact** ("Halo007") — treat the AI as your companion/delegator you text like a person.
+
+## Oct 14, 2026 #teamgogo
+- "3–5 clicks" rule for AI tools. Stats: 37% of searches start in AI, 62% of Google searches end with zero clicks, AI-referred leads 440% more likely to convert. Showed [[Halo]]'s new AEO score.
+
+Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]].
 
 ## Related
 

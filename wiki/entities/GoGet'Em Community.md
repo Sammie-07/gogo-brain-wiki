@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, community, real-estate]
-sources: ["[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-12
+sources: ["[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
+updated: 2026-10-16
 ---
 
 # GoGet'Em Community
@@ -81,6 +81,11 @@ GGTC runs themed months with outside experts. **September 2026 = email marketing
 
 ## Gogo's Oct 11 2026 Pitch (Instagram)
 Posted after a member stopped Gogo at eXpCon to say she loves the community ([permalink](https://www.instagram.com/reel/DeWyXZbTdoO/)). Gogo said she created it "because I want the next generation of entrepreneurs... to have a much easier time than I did. To know things right away! Not 6 months after everyone is already using it." Learn on a phone app, access her team (the one that sets up her own tools) and live chat. Over 300 lessons on mindset, marketing, a whole year of social media, hiring and training support staff, finances and taxes: "I teach the HOW! And I bring in experts so you don't get sick of me." Her filter: "This is not for lazy people! There is no Staples easy button!" It is for people willing to work, keep learning and "pivot as fast as the market changes." CTA: comment "community". Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
+## ChatGPT browser-agent training (Oct 2026)
+- Guest [[Nathan (Synthetic Echo podcast)|Nathan]] on browser-controlling AI for CMAs, paperwork, CRM and social. Trainings are recorded and posted by the next business day; Tuesday 3 PM ET tech support helps with setup.
+
+Source: [[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]].
 
 ## Related
 

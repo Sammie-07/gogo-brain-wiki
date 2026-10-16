@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [negotiation, communication, leadership, mindset]
-sources: ["[[Real-World Negotiation Hacks]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[No Is Your Friend — Closing and Negotiation (GoGet'Em Training)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]"]
-updated: 2026-05-22
+sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Real-World Negotiation Hacks]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[No Is Your Friend — Closing and Negotiation (GoGet'Em Training)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]"]
+updated: 2026-10-16
 ---
 
 # Negotiation
@@ -132,6 +132,14 @@ From an anonymous GoGet'Em presenter who applied Chris Voss principles directly 
 - The buyer who says no twice and then yes is a stronger lead than the one who says yes immediately
 
 **Buyer agreement tie-in:** Without a signed buyer agreement, every conversation where a buyer says "no" and walks away costs you your time with no recourse. The agreement converts a casual showing into a professional engagement.
+
+## Listing Marketing, Overpriced Sellers and the "Rates Are High" Close (#teamgogo Oct 2026)
+- **Kim Fraser: "Do not do anything halfway."** Heavy glossy cardstock, brochures over flyers, a booklet for luxury, Matterport, cinematic video ($500–$2,000) and a QR code on everything. An acrylic QR "perma-flyer" on the sign post costs under $25. Print quality and QR links matter more than design.
+- **Overpriced sellers:** decide whether that sign in your farm is worth it; if the price starts 5–10% high, get a written price-reduction plan.
+- **Hard conversations:** walk the home "with the eyes of a buyer" and name smells, pets and condition.
+- **Gogo's "rates are high" close:** ask buyers what their parents paid when they were kids (14–16%), then what their childhood home is worth today.
+
+Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]].
 
 ## Related
 

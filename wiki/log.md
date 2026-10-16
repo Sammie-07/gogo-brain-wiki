@@ -915,3 +915,9 @@ Daily automatic ingest: 2 captions and 4 stories (2026-10-15 00:21 UTC to 21:16 
 
 ## [2026-10-16] ingest | The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)
 Private Circle call (NDA; raw transcript not retained, member PII removed). New source page; added sections to Mindset, Co-Sponsorship and Agent Attraction System, Social Media and Email Marketing, Productivity, Wealth Building, The Circle, Gogo Bethke. Dropped an unverifiable self-ranking claim and an outside agent's figures. Sources 394 → 395.
+
+## [2026-10-16] ingest | teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)
+Weekly #teamgogo call (VTT saved to Clippings). New entity [[Kim Fraser]]. Updated Lead Generation, Open Houses, Negotiation, AI for Real Estate, Personal Branding, Goal Setting, Mindset, Downline Community Architecture, Wealth Building, Jason Dupree, Nick Krem, Halo, Rafael Mino, Kristy Waker, #teamgogo, Gogo Bethke. Dropped an unverified "custom GPTs end in December" claim and attendee details.
+
+## [2026-10-16] ingest | ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)
+GoGet'Em training (Google Doc). New entity [[Nathan (Synthetic Echo podcast)]] (surname not in source). Updated AI for Real Estate, Productivity, Lead Generation, Social Media and Email Marketing, Legal Protection, GoGet'Em Community. Dropped unverified names, Nathan's figure for Gogo's YouTube subscribers, and attendee details. Sources 395 → 397.

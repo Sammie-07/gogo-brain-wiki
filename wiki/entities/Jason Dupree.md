@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, lender, mortgage, exp-realty, REMLO]
-sources: ["[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[Anatomy of a Transaction Part 4 — Title (Jennifer Worthington and Jessica DeShane)]]", "[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Attraction as a Byproduct of Production (Russ Laggan)]]", "[[The Rabbit Hole — Trust Ladder for Warm Leads (Natalie Davison)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[The AI System for One Listing Appointment a Day (Kirby Chan)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]"]
-updated: 2026-10-01
+sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[Anatomy of a Transaction Part 4 — Title (Jennifer Worthington and Jessica DeShane)]]", "[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Attraction as a Byproduct of Production (Russ Laggan)]]", "[[The Rabbit Hole — Trust Ladder for Warm Leads (Natalie Davison)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[The AI System for One Listing Appointment a Day (Kirby Chan)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]"]
+updated: 2026-10-16
 ---
 
 # Jason Dupree
@@ -48,6 +48,11 @@ Jason Dupree is a loan officer at Texana Bank and the recurring mortgage partner
 
 
 **Sep 30, 2026 mortgage minute (Tyler McBroom tax training):** inventory up 5.8% YoY to ~1.17M homes, the highest since 2019; rates ~7.3%, over a point above last year; purchase applications down 14% YoY and refinances down 56% YoY. **VantageScore** is now accepted for conventional and VA loans (FHA from Jan 1) and typically runs 40–50 points higher; a credit pull costs ~$370 per client. Announced a REMLO training on turned-down borrowers (no-income loans, HELOCs, temporary buydowns, rapid rescores). REMLO agents reported average checks of ~$2,500–$2,700. (Source: [[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]].)
+
+## Oct 14, 2026 #teamgogo
+- Shared a programmable macro keypad for firing saved AI prompts, and social-ready market charts (Housing Price Index map, appreciation since 2009, top-20-city 36-month appreciation, rate history to 1976). Recapped REMLO: 6+ buy-side deals a year, 0.5% on generated mortgages, $0 cost.
+
+Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]].
 
 ## Related
 

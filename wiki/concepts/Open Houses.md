@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [open-houses, lead-generation, real-estate, sop, follow-up, social-media]
-sources: ["[[How to Host Open Houses]]", "[[How to Host Open Houses (Summary)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]"]
-updated: 2026-08-13
+sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[How to Host Open Houses]]", "[[How to Host Open Houses (Summary)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]"]
+updated: 2026-10-16
 ---
 
 # Open Houses
@@ -189,6 +189,16 @@ Adam replaces the paper sign-in sheet with a **QR code on a tablet** — and the
 - **Unlimited landing pages.** Lofty gives unlimited landing pages, so you build a **forced-registration open-house page** and can share that same link across Facebook — the modern version of Gogo's original KVCore trick (paste a listing link → forced registration → CRM). This is the piece a prior Lofty trainer on a #teamgogo call couldn't demonstrate; it *is* doable via a Lofty landing page.
 
 This solves the failure [[Alexis Carrera]] confessed on the same call — the open-house sign-in sheet "to never be looked at again." A captured, opted-in, auto-nurtured lead stays top-of-mind for the "foreseeable future" even if they don't buy now.
+
+## Open Houses at Volume (Kim Fraser, #teamgogo Oct 2026)
+- Kim holds **80–90 open houses a year** after 20+ years; in Q4 run them Friday–Sunday if you need to meet people.
+- **Up to 20 directional signs with balloons.** People tell her she seems to be the only agent working.
+- **No listings? Borrow other agents'.** Early on she held them every Saturday and Sunday, sometimes two a day. Her first eXp month produced two $4M sales to open-house buyers, at open houses she almost skipped in 113-degree heat.
+- Hand-deliver door hangers linking to the home's video (her family delivered 4,500).
+- **Gogo's open-house-to-listing play:** before, door-knock neighbors and invite them to "choose your neighbor"; after it sells, call the neighbors (numbers from title) to say it sold and ask about their plans.
+- Most agents won't door-knock 5-5-10 or 10-10-20, so those who do stand out.
+
+Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]].
 
 ## Related
 

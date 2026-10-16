@@ -9,6 +9,7 @@ tags:
   - automation
   - tracking
 sources:
+  - "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]"
   - "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]"
   - "[[The Chaos-Free Agent — Google Workspace as Your Operating System (Kalie Kinsella)]]"
   - "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]"
@@ -992,6 +993,13 @@ Centralize the business onto **Google Workspace** so everything is **"three clic
 > "Just like we honor workouts, we have to honor rest hours or you're going to burn out."
 
 Source: [[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]].
+
+## Automate One Thing a Day (GoGet'Em, Nathan and Gogo)
+- **Gogo:** block 2 hours a day (8–10 AM or 8–10 PM) and automate one repeated task each time; ~365 a year. Automate everything that isn't showings, open houses or negotiations. You don't have to act on every new tool; know it exists, then decide.
+- **Browser-agent automations (Nathan):** CMA from the open MLS → PDF → branded; "find my paperwork for [address] in email, upload it to Skyslope and create the transaction"; MLS input saved as a draft for approval; market stats → a 9x16 Instagram graphic; a showing bot that books showings, routes them (20 min per home plus drive) and sends the client a PDF.
+- Single-job bots with a chief-of-staff bot that delegates; talk to them by voice so they learn you.
+
+Source: [[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]].
 
 ## Related
 

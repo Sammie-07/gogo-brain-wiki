@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [legal-protection, asset-protection, real-estate, business-structure, risk-management]
-sources: [[[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]], [[The Circle Coaching — Keyword Automation, Scarcity Positioning and Box-in-a-Box Structure (de-identified)]], [[The Circle Coaching — NDA Everyone, Golden-Handcuffs Hiring, Brand Architecture and the Freedom Arc (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]], [[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]]
-updated: 2026-10-01
+sources: [[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]], [[How To Make Your Personal Assets Invisible (Toby Mathis)]], [[Top 8 Lawsuits Real Estate Agents Have To Deal With (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]], [[The Circle Coaching — Keyword Automation, Scarcity Positioning and Box-in-a-Box Structure (de-identified)]], [[The Circle Coaching — NDA Everyone, Golden-Handcuffs Hiring, Brand Architecture and the Freedom Arc (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]], [[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]]
+updated: 2026-10-16
 ---
 
 # Legal Protection
@@ -116,6 +116,14 @@ The team-relationship side of a clean exit (graceful blame, preserving a downlin
 
 *Source: [[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]].*
 - A trust protects assets; it doesn't cut taxes. Viral trust schemes promising tax-free income are either fraud or cost $100K+ to set up and run, making sense only around $30M net worth. Don't hold buy-and-hold rentals in an S-corp.
+
+## Guardrails for AI Browser Agents (GoGet'Em, Nathan)
+- **Review any bulk send first:** an agent once emailed a showing confirmation to a ~2,200-contact database.
+- **Keep bots away from banking and payment details;** be wary of sharing a Chrome profile with financial accounts.
+- **Approval gates:** MLS listings as drafts; compliance check before advertising another brokerage's listing; approve comments and DMs while the bot learns.
+- **Platform risk:** back up skills and memory documents and keep more than one AI.
+
+Source: [[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]].
 
 ## Related
 - [[Tax Strategy]]

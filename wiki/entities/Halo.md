@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, tool, ai, aeo, geo, seo, websites, real-estate]
-sources: ["[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]"]
-updated: 2026-10-01
+sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]"]
+updated: 2026-10-16
 ---
 
 # Halo
@@ -51,6 +51,11 @@ Nick's repeatable fix-my-site loop: **paste your site into the AEO site checker 
 
 *Source: [[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]].*
 - $99/month for two AI-built websites; text "Gogo" for 5 free edits. Team Gogo agents built a site in about 8.5 minutes on average during a live training.
+
+## Oct 14, 2026 update
+- New built-in **AEO score** with a "fix it" button (FAQ, breadcrumbs, site names). Checks Cloudflare's SEO/AEO/GEO guidance every Friday and blogs 3×/week. Gogo's people: free start with 5 edits, then $99/mo; agents built sites by text in 8.5 minutes on average.
+
+Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]].
 
 ## Related
 

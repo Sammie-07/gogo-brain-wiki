@@ -99,6 +99,8 @@
 | [[entities/Eric Post]]          | Founder/architect of Halo; ex-brokerage/mortgage owner ($4B+ in transactions), USMC combat engineer; "skate to where the puck is going" (the AI-powered consumer). |
 | [[entities/Nick Krem]]          | AI strategist / keynote speaker (Forbes/Fox/USA Today); Halo go-to-market partner; organized Project 42; the agent-attraction daily-blog "ninja tactic." |
 | [[entities/Melissa Albert]]     | #teamgogo agent, Bowling Green KY relocation ("Living in Kentucky Team" YouTube); live-demo subject who built a Halo niche site by text in ~10 min. |
+| [[entities/Kim Fraser]]         | Top eXp solo agent (introduced as #1), WA/AZ/TX; farming (~15K mailers/mo), 80–90 open houses/yr, "do not do anything halfway" listing marketing. |
+| [[entities/Nathan (Synthetic Echo podcast)]] | Former Toronto-area broker turned AI educator; GoGet'Em guest on browser-controlling AI agents; Grok bot-team course. |
 
 ---
 
@@ -134,7 +136,7 @@
 
 ---
 
-## Sources (395 ingested)
+## Sources (397 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
@@ -523,6 +525,8 @@
 | [[sources/How to Convert More Clients With Email (Eben Pagan, GoGetEm)]] | Eben Pagan | 2026-09-23 | GoGet'Em email-month guest. "Nobody follows up" (1–3% ready now, ~50% within a year); email as owned database; FF/WA avatar sprint + loss aversion (toward & away motivations); step-by-step AI newsletter workflow (topics first, checkpoints, voice edit); Gogo's "find six Matts" questionnaire + tiered segmentation; Niche Finder ($24); GGTC tech call Tuesdays 3pm ET. |
 | [[sources/The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]] | Gogo Bethke | 2026-09-30 | NDA de-identified (raw not retained): fixed-time Circle calls that members lead when Gogo travels; the attraction page's required functions (video, numbers, one page: watch → book → sign up; "Let's Talk eXp" calendar; application alert; don't gate videos); weekly attraction cadence, nationwide focus, product ladder; downline community structure; text-replacement shortcuts; "you are not their assistant", two-send rule, reading DISC bars, VA placement, "open tabs"; holding-company splits + family blueprint + 10/90 property management; quarterly financial board + tax-credit-advance caution; "when, not if". |
 | [[sources/How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]] | Tyler McBroom | 2026-09-30 | #teamgogo open training: S-corp break-even ~$60K profit; Augusta Rule (14 days); hire your kids up to the $16,100 standard deduction; cost seg + bonus depreciation + REPS; the "Freedom Fund" fiscal-year deferral; 6,000-lb vehicles; meals, home office, trusts. Plus $18B closed, #teamgogo Wednesday 3pm tech support relaunched, Jason Dupree minute (7.3%, VantageScore), Halo pricing. |
+| [[sources/teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]] | Gogo Bethke | 2026-10-14 | #teamgogo: [[Kim Fraser]] on farming (~$1/piece, lender splits, EDDM, 1–2 yr patience, two touches), 80–90 open houses/yr + borrowed listings, "do not do anything halfway" listing marketing, lead-source tracking + pick 3–5 lanes, market-cycle resilience; Gogo's eXp MCP demo (name the MCP in the prompt), "rates are high" close, open-house neighbor play, outrageous goal rewards; Hub mandatory, map fixes, re-onboarding; REMLO; Halo AEO score. |
+| [[sources/ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]] | Nathan | — | GoGet'Em: ChatGPT/Claude Chrome extension drives logged-in sites (CMA→branded PDF, Skyslope from email, MLS drafts, CRM top-10-likely, engagement automation); train AI like a hire, skills as portable backup; guardrails (review bulk sends, no banking, approvals, slow 5→60 ramp); Gogo: 2 hrs/day, automate one thing a day. |
 
 ---
 
