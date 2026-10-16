@@ -2,7 +2,7 @@
 type: concept
 tags: [agent-attraction, co-sponsorship, revenue-share, exp-realty, teams, real-estate-math, lead-generation]
 sources: ["[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Co-Sponsorship and the Agent-Attraction Website System
@@ -106,6 +106,9 @@ Gogo's caption ([permalink](https://www.instagram.com/p/DeXJA5wG5fu/)): "Best pa
 
 Gogo noticed the top two September "Top Agent Attractors" on #teamgogo were both [[The Circle]] members who attended her Private Room mastermind and flew to eXpCon. Her takeaway: growing an organization starts with getting in the room with people building bigger. Her call to action for agents at other brokerages: comment PARTNER to see what building with her and #teamgogo at eXp looks like. #teamgogo also brings in top industry trainers (an Oct 14 training from eXp's #1 producing solo agent). Source: [[Instagram — 2026-10 (Gogo Bethke)]].
 
+
+## Define Success Their Way (Oct 15 2026 Instagram)
+Gogo's attraction pitch to agents: "I'm not asking you to build my dream. I want to help you build YOURS." Some want top production, some huge organizations, some just school pickups without phone-checking; she loves all of them. Her offer is people, knowledge, tools and opportunities. ([[Instagram — 2026-10 (Gogo Bethke)]])
 
 ## Related
 

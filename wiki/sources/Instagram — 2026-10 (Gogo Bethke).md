@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-14 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-15 so far.
 
 ## Key Takeaways
 
@@ -114,6 +114,15 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 ### Oct 14 — Live Zoom swap (stories)
 - She cancelled a Michigan in-person presentation because she wasn't feeling well enough to travel, offered a live Zoom instead, and delivered it Oct 14 for a Ditch the Heels virtual session ("Bet On You," with Kim Agemy): "I showed #realtors today how to make stupid money and live life by design." Her take: "I think I blew some minds."
 
+### Oct 15 — Highest tax bracket, new problems (Reel)
+Joking that a "dude" fixes problems by slowing down and making less money, she drops the punchline: look up the 2026 tax brackets, "we fall into the highest one." When you'd owe 37% to Uncle Sam you buy houses too, and five years in "you created yourself ANOTHER problem. So much for #financialfreedom." Her line: "Different levels, different devils." ([permalink](https://www.instagram.com/reel/DefpsuBTU3s/))
+
+### Oct 15 — Why she stopped selling houses (caption)
+She loved selling and was "really good at it," but asked whether she'd still be "showing houses on weekends" and "answering calls during family dinners" at 60, and "starting every January wondering where my next commission check is coming from." Today she helps agents grow businesses, build brands, attract agents and add income streams, "and eventually have the CHOICE to step away from production." Among the 1,700+ agents in #teamgogo, "the goal was never to build 1,700 little versions of me": some want to be top producers, some huge organizations, some just to "pick their kids up from school without checking their phones every five minutes." ([permalink](https://www.instagram.com/p/Deh5xQvEsuQ/))
+
+### Oct 15 — Credit score is part of adulting (story)
+She keeps her credit score above 800 and checks her numbers monthly: "What you don't track, you don't manage." Her rule: "No bank or lending institution would say no to you with a healthy credit. And when you build wealth you NEVER use your own money."
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -152,6 +161,10 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 > "You don't need to come from money to make money." — [Oct 14 Reel](https://www.instagram.com/reel/DefhxVlPUFq/)
 
+> "Different levels, different devils." — [Oct 15 Reel](https://www.instagram.com/reel/DefpsuBTU3s/)
+
+> "The goal was never to build 1,700 little versions of me." — [Oct 15 caption](https://www.instagram.com/p/Deh5xQvEsuQ/)
+
 ## Wiki Pages Updated
 - [[Gogo Bethke]] — eXpCon 2026, 8-year eXp mark, Agent Games/Extend a Hand
 - [[Social Media and Email Marketing]] — Amy Gregory/Gogo proof point: agent attraction with no purchased leads or cold calls
@@ -173,3 +186,6 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 - [[Mindset]] — Oct 14: grateful and overwhelmed, a room to say "this is hard"
 - [[Wealth Building]] — Oct 14: commissions fund life or freedom
 - [[The Circle]] — Oct 14: why a peer room matters at higher levels
+- [[Wealth Building]] — Oct 15: top tax bracket creates new problems; credit score 800+ and monthly tracking
+- [[Gogo Bethke]] — Oct 15: why she stopped selling, her "not 1,700 versions of me" philosophy
+- [[Co-Sponsorship and Agent Attraction System]] — Oct 15: support each agent's own definition of success
