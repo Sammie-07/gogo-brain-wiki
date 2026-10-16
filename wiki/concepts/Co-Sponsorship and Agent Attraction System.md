@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [agent-attraction, co-sponsorship, revenue-share, exp-realty, teams, real-estate-math, lead-generation]
-sources: ["[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
+sources: ["[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
 updated: 2026-10-16
 ---
 
@@ -109,6 +109,17 @@ Gogo noticed the top two September "Top Agent Attractors" on #teamgogo were both
 
 ## Define Success Their Way (Oct 15 2026 Instagram)
 Gogo's attraction pitch to agents: "I'm not asking you to build my dream. I want to help you build YOURS." Some want top production, some huge organizations, some just school pickups without phone-checking; she loves all of them. Her offer is people, knowledge, tools and opportunities. ([[Instagram — 2026-10 (Gogo Bethke)]])
+
+## The Fishing Framework and the $2M–$7M Avatar (Circle coaching)
+- **To catch a whale, fish in the ocean, not a backyard pond.** Define the fish (ideal agent avatar), the bait (content), where and when you fish, and how often.
+- **Avatar questions:** gender, age, new or near retirement, team builder or not, monolingual or bilingual, location, buy-side / listing-side / investor, transactions only or open to a second income stream, or aiming to be a top solo agent.
+- **Gogo's avatar is the $2M–$7M producer.** At $2M she can add ~2 transactions via referrals, trainings, events and emails; at $7M two more makes them ICON. She no longer takes brand-new agents: she matches them with a local team to reach $2M first. Partners must know the basics (addenda, broker contact, state meetings, running their own open house, PITI).
+- **Content by level:** ~$2M wants six figures ("six figures in under eight months," "cap in under three months when you partner with me"); ~$7M wants leverage (first VA, TC from day one, local support team, time with family, not paying ~40% in taxes).
+- **Cadence:** 4 days of educational content, 3 days of "fishing" (asking agents to partner). "I teach, I ask."
+- **Balance production with recruiting:** don't go all-in on attraction while you still depend on transactions.
+- Co-sponsorship is a major entry point for agents outside her communities.
+
+Source: [[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]].
 
 ## Related
 

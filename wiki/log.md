@@ -912,3 +912,6 @@ Daily automatic ingest: 4 captions and 7 stories (2026-10-14 00:30 UTC to 23:09 
 
 ## [2026-10-16] ingest | Instagram captions and stories through 2026-10-15
 Daily automatic ingest: 2 captions and 4 stories (2026-10-15 00:21 UTC to 21:16 UTC). Extended [[Instagram — 2026-10 (Gogo Bethke)]]; deepened [[Wealth Building]], [[Gogo Bethke]], [[Co-Sponsorship and Agent Attraction System]]. Skipped a friend's book reshare, a squat-challenge poll and a no-text photo story. Index count unchanged.
+
+## [2026-10-16] ingest | The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)
+Private Circle call (NDA; raw transcript not retained, member PII removed). New source page; added sections to Mindset, Co-Sponsorship and Agent Attraction System, Social Media and Email Marketing, Productivity, Wealth Building, The Circle, Gogo Bethke. Dropped an unverifiable self-ranking claim and an outside agent's figures. Sources 394 → 395.

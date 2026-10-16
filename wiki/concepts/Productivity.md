@@ -9,6 +9,7 @@ tags:
   - automation
   - tracking
 sources:
+  - "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]"
   - "[[The Chaos-Free Agent — Google Workspace as Your Operating System (Kalie Kinsella)]]"
   - "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]"
   - "[[The 5 Big Rocks to More Listings and Less Work (Knolly Williams)]]"
@@ -69,7 +70,7 @@ sources:
   - "[[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]]"
   - "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]"
   - "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Productivity
@@ -978,6 +979,19 @@ Centralize the business onto **Google Workspace** so everything is **"three clic
 
 - Save every link you send repeatedly (attraction page, booking link, website, Zoom) as a phone **text replacement**: Settings → Text Replacement → + → paste the link as the phrase and a two-letter code as the shortcut. Gogo types "pp" for her partner page and "mm" for her team map. *"Time is money."*
 - No codes to remember? Keep one shared **"Links" note** that your assistant keeps current; it syncs to your computer.
+
+## "There Are No Busy Seasons" (Circle coaching)
+- **If you have busy and slow seasons, you don't have enough team.** Gogo runs the same "boring" Monday meetings every week, February or August.
+- **Diagnostic:** do you secretly enjoy being busy because it makes you feel important? Not answering messages for weeks means missed opportunities (nobody in the room had waited over an hour for a reply from Gogo).
+- **Ideal-day exercise:** walk your ideal day once every goal is met (wake, bed, routine, house help, workdays, days off), then schedule it and live by the calendar. Your assistant runs the calendar and is "your boss."
+- **Block rest like workouts:** e.g. Wednesday and Friday noon–8 PM (not just to 5, so no evening listing appointments sneak in). No showings, sellers or email in that block.
+- **Hire a house manager** (laundry, groceries, doctor/vet appointments, dry cleaning). Post a very detailed listing in local neighborhood/school Facebook groups, have candidates DM, let your assistant run ~5 back-to-back hourly interviews in one morning, and pick someone within a 15–20 minute drive. Help doesn't make you less of a mom.
+- **Lend your VA to the tech call:** topic raised at the Tuesday-noon coaching call → VA attends the 3 PM tech call → set up by Friday. "I tell them what to do and they do it. I cut the check."
+- Consistency prevents burnout: same things, same times, whether you feel like it or not.
+
+> "Just like we honor workouts, we have to honor rest hours or you're going to burn out."
+
+Source: [[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]].
 
 ## Related
 
