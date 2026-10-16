@@ -921,3 +921,6 @@ Weekly #teamgogo call (VTT saved to Clippings). New entity [[Kim Fraser]]. Updat
 
 ## [2026-10-16] ingest | ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)
 GoGet'Em training (Google Doc). New entity [[Nathan (Synthetic Echo podcast)]] (surname not in source). Updated AI for Real Estate, Productivity, Lead Generation, Social Media and Email Marketing, Legal Protection, GoGet'Em Community. Dropped unverified names, Nathan's figure for Gogo's YouTube subscribers, and attendee details. Sources 395 → 397.
+
+## [2026-10-16] edit | Merge Kim Frazier → Kim Fraser
+The Sep-16 roundtable entity misspelled her name (her Zoom name is Kim Fraser). Merged its facts into [[Kim Fraser]], deleted the duplicate page, fixed the index and roundtable source.

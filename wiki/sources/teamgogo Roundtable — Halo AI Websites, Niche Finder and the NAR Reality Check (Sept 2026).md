@@ -47,7 +47,7 @@ tags: [ai-seo, halo, niche-finder, real-estate-math, lead-generation, personal-b
 - **Leave a team when 50% of your transactions are self-generated** ("10 at 50% split = 5 at 100%"). Build your own backend in parallel so you can pull the cord without a rebuild.
 - **CRM:** renew your eXp CRM-of-choice by ~Nov 1 or lose access. **Lofty** = "too smart," not recommended; **Bold Trail (= KVCore)** easy but not AI-searchable; keep **GoHighLevel** as backend.
 - **Events:** eXpCon Salt Lake City; **Fast Forward Movement** conference + party (separate tickets); **Ignite / Maximum Alignment** — a Christian Realtor event, **Sept 29, Tampa** (comment "Ignite" on Gogo's IG).
-- **[[Kim Frazier]]** — eXp's #1 solo agent (~$120M/yr; $81M closed YTD + $18M pending), works with husband (showings) + daughter (TC); training **Oct 14**.
+- **[[Kim Fraser]]** — eXp's #1 solo agent (~$120M/yr; $81M closed YTD + $18M pending), works with husband (showings) + daughter (TC); training **Oct 14**.
 
 ## Quotes
 
@@ -67,5 +67,5 @@ tags: [ai-seo, halo, niche-finder, real-estate-math, lead-generation, personal-b
 - [[Real Estate Math]] — NAR 84%-zero + existing-home-sales-flat + solo percentile ladder; FastCap math
 - [[Jason Dupree]] — Sep 16 minute (6.97%, purchases −19%, refis −65%, HELOCs up, MBS Highway)
 - [[AI for Real Estate]] — AEO/GEO framing, Bold Trail/KVCore not AI-searchable
-- [[Kim Frazier]] — new entity
+- [[Kim Fraser]] — new entity
 - [[#teamgogo]] — Roundtable format, 1,700 agents
