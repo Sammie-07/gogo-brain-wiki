@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, real-estate, team]
 sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # #teamgogo 
@@ -72,6 +72,9 @@ The frontline/general chat split, topic sub-chats, a "generals" chat for agents 
 
 ### Work family and faith (Oct 2026)
 Beyond coaching and training, Gogo describes #teamgogo as a work family: "we also pray for one another. We show up for each other. We celebrate each other's wins and stick together through the hard stuff. Our shared Christian faith is such a meaningful part of those relationships." New ICON agents get a congratulations note and gift ("only 6% of the agents at eXp are ICON"). Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
+## Why the Community Exists (Oct 16 2026 Instagram)
+Gogo started @teamgogofamily because when she was licensed there was no agent community; top producers had no interest in helping, and agents were competitors. At eXp she found nationwide, international agents referring to each other. When a teamgogo agent posted his 4th teamgogo referral close of the year, she called it what makes her happiest and offered the teamgogo referral map to any agent who asks. ([[Instagram — 2026-10 (Gogo Bethke)]])
 
 ## Oct 14, 2026 training
 - Featured [[Kim Fraser]] on farming, open houses and listing marketing; eXp MCP demo; Hub mandatory; map fixes; re-onboarding. Schedule restated: training Wednesdays 1 PM, tech call Wednesdays 3 PM.

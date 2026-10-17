@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-15 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-16 so far.
 
 ## Key Takeaways
 
@@ -123,9 +123,26 @@ She loved selling and was "really good at it," but asked whether she'd still be 
 ### Oct 15 — Credit score is part of adulting (story)
 She keeps her credit score above 800 and checks her numbers monthly: "What you don't track, you don't manage." Her rule: "No bank or lending institution would say no to you with a healthy credit. And when you build wealth you NEVER use your own money."
 
+### Oct 16 — Why she started @teamgogofamily (Reel, story)
+Prompted by a #teamgogo agent's public post that he had just closed his **4th #teamgogo referral deal this year**, Gogo told the origin story: "When I got licensed in #realestate there was no community... Us agents, were in each other's back yards. We were competition to each other. The top producer had no interest in helping me." Joining #exp changed that: agents from every state and country "come together and learn from each other and support each other by sending their nationwide referrals to each other." "Nothing makes me happier than when I see our community truly caring for each other." She offers the teamgogo referral map to any agent who asks, and invites unhappy agents to DM her. She reshared the agent's thank-you in her story, calling @teamgogofamily "the BEST real estate work family in the industry." ([permalink](https://www.instagram.com/reel/Deie-l3TXu_/))
+
+### Oct 16 — From terrified of flying to faith (Reel)
+She used to cross the plane door and pray with her eyes closed until 10,000 feet. A retired teacher beside her asked, "Do you believe in God?... Then why do you only believe in Him on the ground?" Gogo: "You only have FEAR, when you have no FAITH." She still crosses the plane door, "except now it's a blessing, not a panic attack." Now "when God gives me an idea, I don't question it. I GO. Fully packed semi truck, straight into the brick wall." Closing challenge: "Do you have the balls to act on it?" ([permalink](https://www.instagram.com/reel/DekBK4izPQl/))
+
+### Oct 16 — Let the scoreboard fire the fifth agent (caption)
+A team-leader system: five agents compete for one seat on the team, transactions pick the winner, and the other four move to solo positions. Everyone knows the rules on day one ("Same leads, same support, same real shot. Whoever closes the most keeps the seat."). "You're not the judge anymore. You're just the one who set up the game." She offers to help coaching clients build a local team and a downline or support team, working "TOGETHER for a year." ([permalink](https://www.instagram.com/p/DekYV0IEkcY/))
+
+### Oct 16 — Gma's cabin and a Gilded Age daydream (captions, stories)
+- Gogo and Duane bought a dated Michigan lake cabin, "Gma's cabin," as a long-term rental, fell in love on the visit and decided to keep it as a **short-term rental** they can also use, to escape Florida's hot summers. She asked followers to help pick cozy finishes ("Warm! Fireplace! Crockpot dinner. Candles. Heavy curtains. Blankets"), polling upper cabinet colors (Retreat Green vs Cloud Gray) and dark vs light countertops in stories, plus before/after bathroom shots. ([permalink](https://www.instagram.com/p/DeiNWUBGyIN/))
+- She's watching *The Gilded Age* and had Muse make images of herself in the era: "I must have lived a very good life in that era, cause I miss it. My soul loves everything about it." ([permalink](https://www.instagram.com/p/Dejjy0im1Nf/))
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
+
+> "You only have FEAR, when you have no FAITH." — Oct 16 Reel
+
+> "You're not the judge anymore. You're just the one who set up the game." — Oct 16 caption
 
 > "I'm telling you build your brand! Run it for FREE on socials!" — Oct 8 caption
 
@@ -189,3 +206,7 @@ She keeps her credit score above 800 and checks her numbers monthly: "What you d
 - [[Wealth Building]] — Oct 15: top tax bracket creates new problems; credit score 800+ and monthly tracking
 - [[Gogo Bethke]] — Oct 15: why she stopped selling, her "not 1,700 versions of me" philosophy
 - [[Co-Sponsorship and Agent Attraction System]] — Oct 15: support each agent's own definition of success
+- [[Gogo Bethke]] — Oct 16: Michigan cabin STR, Gilded Age fan, flying-to-faith story
+- [[#teamgogo]] — Oct 16: origin of the community, nationwide referrals
+- [[Mindset]] — Oct 16: fear vs faith, act on God's ideas
+- [[Real Estate Teams]] — Oct 16: one-seat competition system

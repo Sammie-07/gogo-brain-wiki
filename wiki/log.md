@@ -924,3 +924,6 @@ GoGet'Em training (Google Doc). New entity [[Nathan (Synthetic Echo podcast)]] (
 
 ## [2026-10-16] edit | Merge Kim Frazier → Kim Fraser
 The Sep-16 roundtable entity misspelled her name (her Zoom name is Kim Fraser). Merged its facts into [[Kim Fraser]], deleted the duplicate page, fixed the index and roundtable source.
+
+## [2026-10-17] ingest | Instagram captions through 2026-10-16
+5 captions and 6 stories (2026-10-15 23:42 to 2026-10-16 20:21 UTC). Extended [[Instagram — 2026-10 (Gogo Bethke)]]; updated [[Gogo Bethke]], [[Mindset]], [[#teamgogo]], [[Real Estate Teams]]. Skipped reshared chat screenshots and a friend's story.
