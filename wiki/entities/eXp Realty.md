@@ -201,3 +201,5 @@ Oct 11 2026 stories: Gogo noted that about 84% of eXp agents have not brought a 
 - [[Gogo Bethke]]
 - [[Real Estate Teams]]
 - [[Real Estate Math]]
+
+> Oct 2026: asked if eXp recruiting "filled her pockets," Gogo said eXp pays her millions only for what she earned: [[Instagram — 2026-10 (Gogo Bethke)]].

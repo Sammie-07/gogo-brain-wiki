@@ -136,6 +136,12 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - Gogo and Duane bought a dated Michigan lake cabin, "Gma's cabin," as a long-term rental, fell in love on the visit and decided to keep it as a **short-term rental** they can also use, to escape Florida's hot summers. She asked followers to help pick cozy finishes ("Warm! Fireplace! Crockpot dinner. Candles. Heavy curtains. Blankets"), polling upper cabinet colors (Retreat Green vs Cloud Gray) and dark vs light countertops in stories, plus before/after bathroom shots. ([permalink](https://www.instagram.com/p/DeiNWUBGyIN/))
 - She's watching *The Gilded Age* and had Muse make images of herself in the era: "I must have lived a very good life in that era, cause I miss it. My soul loves everything about it." ([permalink](https://www.instagram.com/p/Dejjy0im1Nf/))
 
+### Oct 18
+- **"Lucky?" — no.** Answering a question about whether she feels lucky or whether "exp recruitment fill your pockets," she says her success comes from "doing circles around the average agent. Learning ALWAYS! Implementing FASTER!" eXp doesn't pay her for anything she didn't earn, but yes, it pays her millions for what she worked for ([Reel](https://www.instagram.com/reel/DepLfERT0Aw/), story).
+- **Not luck, a list.** She looked up the definition of "lucky" (good fortune by chance rather than action, effort or skill) and listed what wasn't luck: coming to the USA alone with $200, getting her license, becoming a top producer and team leader, building an international organization, becoming an investor, three 2 Comma Club awards. "Nothing about my SUCCESS is luck." (story)
+- **Not for sale.** "They did not buy me, cause I'm not for sale. Never will be. But I'll happily pull up a chair at a table I EARNED a seat at." ([Reel](https://www.instagram.com/reel/DepLfERT0Aw/))
+- **Sunday rhythm.** Church at 10:30 with the boys, crockpot green pea soup with sausage, and 11:11 / 12:12 sightings as signs she's "doing the right things, thinking the right thoughts, with the right people" ([caption](https://www.instagram.com/p/DepdU71m6x4/)). Family Scrabble night story: she won with a theme of GRIT ("They are all losing to someone whose English is 3rd language"). Story affirmation: "I'm guided and protected, highly favored and selected."
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -182,6 +188,10 @@ A team-leader system: five agents compete for one seat on the team, transactions
 
 > "The goal was never to build 1,700 little versions of me." — [Oct 15 caption](https://www.instagram.com/p/Deh5xQvEsuQ/)
 
+> "Nothing about my SUCCESS is luck." — Oct 18 story
+
+> "I'm not for sale. Never will be." — [Oct 18 Reel](https://www.instagram.com/reel/DepLfERT0Aw/)
+
 ## Wiki Pages Updated
 - [[Gogo Bethke]] — eXpCon 2026, 8-year eXp mark, Agent Games/Extend a Hand
 - [[Social Media and Email Marketing]] — Amy Gregory/Gogo proof point: agent attraction with no purchased leads or cold calls
@@ -210,3 +220,6 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - [[#teamgogo]] — Oct 16: origin of the community, nationwide referrals
 - [[Mindset]] — Oct 16: fear vs faith, act on God's ideas
 - [[Real Estate Teams]] — Oct 16: one-seat competition system
+- [[Mindset]] — Oct 18: success is not luck; earned seat
+- [[Gogo Bethke]] — Oct 18: not-luck list, Sunday/11:11 rhythm, Scrabble win
+- [[eXp Realty]] — Oct 18: what eXp pays her for

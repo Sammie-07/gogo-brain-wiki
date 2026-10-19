@@ -930,3 +930,6 @@ The Sep-16 roundtable entity misspelled her name (her Zoom name is Kim Fraser). 
 
 ## [2026-10-18] ingest | Instagram captions and stories through 2026-10-17
 Processed 1 caption and 7 stories (2026-10-16 23:04 to 2026-10-17 15:31 UTC). All were event promos (objection-handling game on the Tuesday GGTC community call), a teamgogo-discount GoGet'Em reminder, birthday shout-outs, a listing before/after and a reshared song; nothing new and meaningful, so no wiki pages changed. Pointer advanced only.
+
+## [2026-10-19] ingest | Instagram captions through 2026-10-18
+2 captions and 8 stories (2026-10-18 00:59 to 22:18 UTC). Extended [[Instagram — 2026-10 (Gogo Bethke)]]; updated [[Mindset]], [[Gogo Bethke]], [[eXp Realty]]. Skipped a Salty Crew shot, outlet photo, tagged-people stories.
