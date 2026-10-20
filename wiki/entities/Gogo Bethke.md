@@ -2,7 +2,7 @@
 type: entity
 tags: [person, real-estate, coach, content-creator, entrepreneur]
 sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Red Light Green Light Exercise]]", "[[Let's Do Some Math Again]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[How I Scaled From One-on-One to Group Coaching]]", "[[How do you know it is time to hire a Virtual Assistant]]", "[[Work-Life Balance Secrets]]", "[[How to Track Business Growth with Effective Tools and Strategies]]", "[[AI For Real Estate Agents — How to Use AI to Generate Leads]]", "[[Working with Your Spouse]]", "[[Gogopreneur — Tony Robbins Business Mastery Part I]]", "[[From an Au Pair to a Millionaire]]", "[[Agent to CEO — Full Presentation]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[GOGO TEDx — Au Pair to Millionaire (Hungarian Presentation)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[GoGetEm Community Who Is Gogo Bethke — Website Intro Video]]", "[[Gogo Podcast Journey Into Real Estate and Coaching — Full Interview]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[The Fundamentals - Social Media Machine and Branding]]", "[[Social Media Marketing Mindset and Lead Capturing]]", "[[What Top Agents Do Differently on Instagram - Month 5]]", "[[How to Become the Obvious Choice in Your Market]]", "[[Master Your Copywriting and AI Brand Voice]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-19
+updated: 2026-10-20
 ---
 
 # Gogo Bethke
@@ -173,6 +173,12 @@ Attends events, masterminds, and seminars constantly. Has attended 8–9 Tony Ro
 
 - **Rejects "lucky."** Lists what she earned, not got by chance: arriving alone with $200, her license, top producer, international organization, investing, three 2 Comma Club awards. "They did not buy me, cause I'm not for sale." ([permalink](https://www.instagram.com/reel/DepLfERT0Aw/))
 - **Sunday rhythm.** Church at 10:30 with her sons, crockpot dinner, and 11:11 / 12:12 as signs she is on track. Won a family Scrabble night with GRIT; affirmation: "I'm guided and protected, highly favored and selected." See [[Instagram — 2026-10 (Gogo Bethke)]].
+
+## Oct 19 2026 Instagram Voice
+
+- **Her sponsor story.** Before joining eXp she threw every objection at her sponsor, [[Curt Shewell]]; he listened and let her decide (joined October 25, 2018). Her business was working and she wasn't looking to change brokerages.
+- **Hosting.** Runs the Private Room in her own home: everyone teaches on Day One, one-on-ones on Day Two. She wants agents to own investments and have income that doesn't depend on the next closing.
+- **Playful side.** "99% nice, 1% fire. Which side you get to experience depends on you!!!" See [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Life by Design (Circle coaching, Oct 2026)
 - Works Monday–Wednesday only (~9 or 10 to 5, often skipping lunch); no work Thursday–Sunday for about four years. "Freedom for four days, work hard for three."

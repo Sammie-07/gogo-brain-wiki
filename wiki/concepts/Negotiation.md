@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [negotiation, communication, leadership, mindset]
-sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Real-World Negotiation Hacks]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[No Is Your Friend — Closing and Negotiation (GoGet'Em Training)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]"]
-updated: 2026-10-16
+sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Real-World Negotiation Hacks]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[No Is Your Friend — Closing and Negotiation (GoGet'Em Training)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
+updated: 2026-10-20
 ---
 
 # Negotiation
@@ -140,6 +140,10 @@ From an anonymous GoGet'Em presenter who applied Chris Voss principles directly 
 - **Gogo's "rates are high" close:** ask buyers what their parents paid when they were kids (14–16%), then what their childhood home is worth today.
 
 Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]].
+
+## Find What's Behind the Objection (Oct 19 2026 Instagram)
+
+When a seller says "I'm interviewing other agents" or "Can you cut your commission?", Gogo warns against jumping to self-defense: figure out what's behind the question. [[Austin Rankin]] (500+ FSBOs helped sell across three markets): his job "isn't to convince anyone. It's to help people discover their own reasons." Serve what they want, not what you want. She also recalls throwing every objection at her eXp sponsor, [[Curt Shewell]], who took them seriously and left the decision to her. Source: [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Related
 

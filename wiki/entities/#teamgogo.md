@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, real-estate, team]
 sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-17
+updated: 2026-10-20
 ---
 
 # #teamgogo 
@@ -80,6 +80,9 @@ Gogo started @teamgogofamily because when she was licensed there was no agent co
 - Featured [[Kim Fraser]] on farming, open houses and listing marketing; eXp MCP demo; Hub mandatory; map fixes; re-onboarding. Schedule restated: training Wednesdays 1 PM, tech call Wednesdays 3 PM.
 
 Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]].
+
+### Private Room Format (Oct 19 2026 Instagram)
+At the invite-only Private Room in Gogo's home, **Day One** every invitee stands up and teaches what's working (so everyone leaves with something usable), and **Day Two** Gogo sits one on one with each agent to hear the story behind the numbers. Theme: a work family where top producers share strategy and are honest about hard seasons. See [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Related
 

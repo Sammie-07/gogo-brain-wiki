@@ -933,3 +933,6 @@ Processed 1 caption and 7 stories (2026-10-16 23:04 to 2026-10-17 15:31 UTC). Al
 
 ## [2026-10-19] ingest | Instagram captions through 2026-10-18
 2 captions and 8 stories (2026-10-18 00:59 to 22:18 UTC). Extended [[Instagram — 2026-10 (Gogo Bethke)]]; updated [[Mindset]], [[Gogo Bethke]], [[eXp Realty]]. Skipped a Salty Crew shot, outlet photo, tagged-people stories.
+
+## [2026-10-20] ingest | Instagram captions through 2026-10-19
+4 captions and 0 stories (2026-10-19 16:22 to 20:44 UTC). Extended [[Instagram — 2026-10 (Gogo Bethke)]]; updated [[Wealth Building]], [[Mindset]], [[#teamgogo]], [[Beth Silverman]], [[Negotiation]], [[Gogo Bethke]]. Skipped the event promo logistics.

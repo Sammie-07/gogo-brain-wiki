@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-16 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-19 so far.
 
 ## Key Takeaways
 
@@ -142,6 +142,13 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - **Not for sale.** "They did not buy me, cause I'm not for sale. Never will be. But I'll happily pull up a chair at a table I EARNED a seat at." ([Reel](https://www.instagram.com/reel/DepLfERT0Aw/))
 - **Sunday rhythm.** Church at 10:30 with the boys, crockpot green pea soup with sausage, and 11:11 / 12:12 sightings as signs she's "doing the right things, thinking the right thoughts, with the right people" ([caption](https://www.instagram.com/p/DepdU71m6x4/)). Family Scrabble night story: she won with a theme of GRIT ("They are all losing to someone whose English is 3rd language"). Story affirmation: "I'm guided and protected, highly favored and selected."
 
+### Oct 19 — The Private Room (Reels)
+- **Day One: everybody teaches.** At her invite-only event for top producers and top agent attractors, "everybody had to stand up and teach... if we're spending days together, everybody should leave with something they can actually USE." Beth Silverman shared using home equity (a HELOC) alongside a DSCR loan, where the rental's income potential is central to qualifying, to buy an income-producing property; Gogo adds the financing and numbers have to make sense, since "having equity doesn't automatically make something a good investment." Her prompts: have you checked in with past buyers about what their equity could do next, and have you explored it for yourself? ([Reel](https://www.instagram.com/reel/DerrN1ET5o9/))
+- **Agents as investors.** "I don't want you to spend your entire career selling real estate and have nothing producing income when you're ready to stop." Helping agents become better business owners and investors, with a retirement plan beyond the next closing, is the #teamgogo international family goal.
+- **Day Two: the person behind the numbers.** Gogo sat one on one with each invitee. Randi Quigley ($300M+ career volume, a $41M solo year) started over 13 years ago as a stay-at-home mom renting a townhome after leaving accounting; her answer to what carried her was mindset: "Before there was proof she could do it, she had to bet on herself." Gogo: "Just because someone carries it well doesn't mean it isn't heavy." Even the agent closing $40M can need someone to call who understands the pressure ([Reel](https://www.instagram.com/reel/Der2o2AzG6H/)).
+- **Objections and her own switch.** She threw every objection at her eXp sponsor Curt Shewell, who listened and let her decide; she joined October 25, 2018. Lesson for seller objections ("I'm interviewing other agents," "Can you cut your commission?"): find what's behind the question before defending. Austin Rankin: his job "isn't to convince anyone. It's to help people discover their own reasons." Gogo's paraphrase: serve what they want, stop worrying about what you want ([caption](https://www.instagram.com/p/DesDBy1EuED/)).
+- **99% nice, 1% fire.** Playful Reel: "Which side you get to experience depends on you!!!" ([Reel](https://www.instagram.com/reel/DesJEg4Tht9/)).
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -192,6 +199,12 @@ A team-leader system: five agents compete for one seat on the team, transactions
 
 > "I'm not for sale. Never will be." — [Oct 18 Reel](https://www.instagram.com/reel/DepLfERT0Aw/)
 
+> "Because if we're spending days together, everybody should leave with something they can actually USE." — [Oct 19 Reel](https://www.instagram.com/reel/DerrN1ET5o9/)
+
+> "Just because someone carries it well doesn't mean it isn't heavy." — [Oct 19 Reel](https://www.instagram.com/reel/Der2o2AzG6H/)
+
+> "I don't want you to spend your entire career selling real estate and have nothing producing income when you're ready to stop." — [Oct 19 Reel](https://www.instagram.com/reel/DerrN1ET5o9/)
+
 ## Wiki Pages Updated
 - [[Gogo Bethke]] — eXpCon 2026, 8-year eXp mark, Agent Games/Extend a Hand
 - [[Social Media and Email Marketing]] — Amy Gregory/Gogo proof point: agent attraction with no purchased leads or cold calls
@@ -223,3 +236,9 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - [[Mindset]] — Oct 18: success is not luck; earned seat
 - [[Gogo Bethke]] — Oct 18: not-luck list, Sunday/11:11 rhythm, Scrabble win
 - [[eXp Realty]] — Oct 18: what eXp pays her for
+- [[Wealth Building]] — Oct 19: HELOC + DSCR path for agents to own investment property
+- [[Mindset]] — Oct 19: bet on yourself before proof; success carries weight
+- [[#teamgogo]] — Oct 19: Private Room format (teach on Day One, one-on-ones on Day Two)
+- [[Beth Silverman]] — Oct 19: HELOC/DSCR strategy teach, career stats
+- [[Negotiation]] — Oct 19: find what's behind the objection (Austin Rankin)
+- [[Gogo Bethke]] — Oct 19: sponsor-objection story, 99% nice / 1% fire
