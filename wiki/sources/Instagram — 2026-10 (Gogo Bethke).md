@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-19 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-20 so far.
 
 ## Key Takeaways
 
@@ -149,6 +149,15 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - **Objections and her own switch.** She threw every objection at her eXp sponsor Curt Shewell, who listened and let her decide; she joined October 25, 2018. Lesson for seller objections ("I'm interviewing other agents," "Can you cut your commission?"): find what's behind the question before defending. Austin Rankin: his job "isn't to convince anyone. It's to help people discover their own reasons." Gogo's paraphrase: serve what they want, stop worrying about what you want ([caption](https://www.instagram.com/p/DesDBy1EuED/)).
 - **99% nice, 1% fire.** Playful Reel: "Which side you get to experience depends on you!!!" ([Reel](https://www.instagram.com/reel/DesJEg4Tht9/)).
 
+### Oct 19–20 — Views, new-agent content, standards, being yourself (Reels, captions)
+- **Views are clients.** "Last 30 days I had 900K views here on Instagram" (a "below average month"). Her logic: only one person buys a house, so you don't need many, but "the more you reach, the more chances you have"; she did the math at a 2% action rate. "Cause views are clients!! Clients = 💰" Her Social Media Challenge inside GoGet'Em Community packages this, and the community includes access to her tech team every Tuesday to set up automations ([caption](https://www.instagram.com/p/Det-_NbHLsk/)).
+- **Give the views a next step.** Attention without a conversation is wasted: have viewers comment a keyword and let ManyChat DM them what they asked for, "You could be showing a house, having dinner with your family, or sleeping." Start with "One useful resource. One clear keyword. One DM that delivers what you promised," then take over when the conversation needs you. Automation doesn't fix content nobody responds to ([Reel](https://www.instagram.com/reel/DesPTThybse/)).
+- **New agent, nothing to post?** "Being new doesn't stop you from being useful." Interview a local lender (what buyers should know before looking), an inspector (what scares buyers), a painter (what's worth fixing before listing). "You don't have to pretend you've been doing this for 30 years. Bring in somebody who knows something you're still learning." It also builds the relationships you'll need for the first client. "Coffee's cheap. Start there." ([Reel](https://www.instagram.com/reel/DesoZd4zhD0/))
+- **"How cheap is my mood?"** Learned from Tony Robbins: after an employee ruined his whole day, he asked himself that question. Gogo: "We all have this power! To control our outcomes!... To simply walk away. No explanation!... That will teach them your standards! We get what we TOLERATE!" ([Reel](https://www.instagram.com/reel/Det5VW-T0tL/))
+- **Private Room Day One: Gabby.** #teamgogo agent Gabby: "I'm not going to be the realtor Gabby. I'm going to be Gabby the realtor." Connects with the property and owner personally before asking for the listing (about 90% return on those calls); five years in, 140 transactions, best year $15M and 34 deals. Gogo: "Learn the skills, absolutely. But please don't lose your whole personality trying to sound like every other agent. People need a reason to choose YOU." "You can learn from someone without becoming a copy of them" ([Reel](https://www.instagram.com/reel/DeugfQTPQwT/)).
+- **Private Room Day Two: Christina.** Did hair for 20 years (about $3,000 a month; product costs tripled, prices didn't); three years into real estate with ICON her first year at eXp, last year $12M across about 55 transactions, now averaging about $15,000 a month in commission. Gogo: "You don't owe the next 20 years to something just because you gave it the last 20." Her point: numbers look like "she must have something I don't," but Christina first had to decide, learn a new business and do the work ([Reel](https://www.instagram.com/reel/Deu2TqEDkja/)).
+- **The woman who used to sit in the audience.** Pointing at her face on a banner: "I see the woman who used to sit in the audience." She wondered how speakers got picked and when she'd feel ready; "English is my third language. I could've used that excuse forever." She kept learning, trying, and sharing until she became one of the people she watched. "I'm proud of her. I know how many times she could have talked herself out of getting here." Pushes agents to stop postponing what they don't feel ready for ([Reel](https://www.instagram.com/reel/Deu72P2k8vs/)).
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -158,6 +167,16 @@ A team-leader system: five agents compete for one seat on the team, transactions
 > "You're not the judge anymore. You're just the one who set up the game." — Oct 16 caption
 
 > "I'm telling you build your brand! Run it for FREE on socials!" — Oct 8 caption
+
+> "We get what we TOLERATE!" — Oct 20 Reel
+
+> "Being new doesn't stop you from being useful." — Oct 20 Reel
+
+> "I'm not going to be the realtor Gabby. I'm going to be Gabby the realtor." — Oct 20 Reel (quoting a #teamgogo agent)
+
+> "You don't owe the next 20 years to something just because you gave it the last 20." — Oct 20 Reel
+
+> "Cause views are clients!! Clients = 💰" — Oct 20 caption
 
 > "Let's make work FUN" — Oct 8 story
 
@@ -242,3 +261,7 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - [[Beth Silverman]] — Oct 19: HELOC/DSCR strategy teach, career stats
 - [[Negotiation]] — Oct 19: find what's behind the objection (Austin Rankin)
 - [[Gogo Bethke]] — Oct 19: sponsor-objection story, 99% nice / 1% fire
+- [[Mindset]] — Oct 20: "how cheap is my mood," we get what we tolerate; the girl in the audience; career-change permission
+- [[Social Media and Email Marketing]] — Oct 20: views are clients (900K views), keyword next step, content for brand-new agents
+- [[Gogo Bethke]] — Oct 20: English as third language, Tony Robbins lesson
+- [[#teamgogo]] — Oct 20: Private Room stories of Gabby and Christina; be yourself, don't copy

@@ -2070,6 +2070,15 @@ Pick the CRM for the business you're building — buyers/sellers only, or also a
 
 Her call to the next generation: "build your brand! Run it for FREE on socials!" Source: [[Instagram — 2026-10 (Gogo Bethke)]].
 
+## Views Are Clients; Give Attention a Next Step; Content for Brand-New Agents (Oct 20 2026 Instagram)
+
+- **Views are clients.** Gogo had **900K Instagram views in the last 30 days** (a "below average month," excluding other platforms). Only one person buys a house, so you don't need many; more reach means more chances. Her math assumes ~2% of an audience takes action. "Cause views are clients!!"
+- **Next step after the view.** Have viewers comment one keyword and let ManyChat DM the resource so it works while you show a house, have dinner or sleep: "One useful resource. One clear keyword. One DM that delivers what you promised." Then take over when the conversation needs you. Automation can't fix content nobody responds to or an offer nobody wants.
+- **New with no listings?** Interview local pros: a lender (what buyers need to know before looking), an inspector (what scares buyers), a painter (what's worth fixing before listing). Record the conversation: you learn, give people a reason to follow, and build relationships you'll need for the first client. "Being new doesn't stop you from being useful." Start by inviting one local professional for coffee.
+- The GoGet'Em Community includes the Social Media Challenge, a year of social training, and access to her tech team on the Tuesday tech call to set automations up.
+
+Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
 ## Posting Cadence — Gary Vee Confirmation (Oct 2026)
 
 After Gary Vaynerchuk's eXpCon 2026 keynote, Gogo restated her cadence: **1-3x a day into the feed** (cross-posted on all platforms), **10-30x a day into stories** (people get to know you; share links to your website, calendar or an invite), then keyword automations and email follow-ups. "Content reaches people - people buy houses, licensed people join brokerages... the more u post the higher your chances they will chose YOU! Simple." Source: [[Instagram — 2026-10 (Gogo Bethke)]].

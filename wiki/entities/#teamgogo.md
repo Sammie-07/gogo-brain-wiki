@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, real-estate, team]
 sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-20
+updated: 2026-10-21
 ---
 
 # #teamgogo 
@@ -83,6 +83,9 @@ Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing D
 
 ### Private Room Format (Oct 19 2026 Instagram)
 At the invite-only Private Room in Gogo's home, **Day One** every invitee stands up and teaches what's working (so everyone leaves with something usable), and **Day Two** Gogo sits one on one with each agent to hear the story behind the numbers. Theme: a work family where top producers share strategy and are honest about hard seasons. See [[Instagram — 2026-10 (Gogo Bethke)]].
+
+### Private Room Stories (Oct 20 2026 Instagram)
+Gogo featured two attendees. **Gabby** (five years, 140 transactions, best year $15M and 34 deals) leads with who she is and connects personally with property and owner before asking for the listing (about 90% return on those calls): "I'm not going to be the realtor Gabby. I'm going to be Gabby the realtor." **Christina** left 20 years of hair (about $3,000 a month) for real estate: three years in, ICON her first year at eXp, about $12M across ~55 transactions last year, averaging ~$15,000 a month in commission. Gogo's point: "You can learn from someone without becoming a copy of them." Source: [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Related
 
