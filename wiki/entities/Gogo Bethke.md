@@ -2,7 +2,7 @@
 type: entity
 tags: [person, real-estate, coach, content-creator, entrepreneur]
 sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Red Light Green Light Exercise]]", "[[Let's Do Some Math Again]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[How I Scaled From One-on-One to Group Coaching]]", "[[How do you know it is time to hire a Virtual Assistant]]", "[[Work-Life Balance Secrets]]", "[[How to Track Business Growth with Effective Tools and Strategies]]", "[[AI For Real Estate Agents — How to Use AI to Generate Leads]]", "[[Working with Your Spouse]]", "[[Gogopreneur — Tony Robbins Business Mastery Part I]]", "[[From an Au Pair to a Millionaire]]", "[[Agent to CEO — Full Presentation]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[GOGO TEDx — Au Pair to Millionaire (Hungarian Presentation)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[GoGetEm Community Who Is Gogo Bethke — Website Intro Video]]", "[[Gogo Podcast Journey Into Real Estate and Coaching — Full Interview]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[The Fundamentals - Social Media Machine and Branding]]", "[[Social Media Marketing Mindset and Lead Capturing]]", "[[What Top Agents Do Differently on Instagram - Month 5]]", "[[How to Become the Obvious Choice in Your Market]]", "[[Master Your Copywriting and AI Brand Voice]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # Gogo Bethke
@@ -199,6 +199,11 @@ Source: [[The Circle Coaching — Handling Criticism at the Top, Agent Attractio
 Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]].
 
 - **English is her third language (Oct 20).** Pointing at her face on a banner, she described the woman who used to sit in the audience wondering how speakers got picked, and says she is proud of her for not talking herself out of getting there. Learned the "how cheap is my mood" standard from Tony Robbins. Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
+### Oct 21 2026 Instagram
+- Does SquatTober (5 squats rising by 5 daily), doing 105 squats at the airport. Flew to Michigan with Duane to order cabinets, countertops and furniture for the lake cottage they bought as a long-term rental and, after falling in love with it, turned into a short-term rental.
+- Leadership stance: "I shouldn't have to become a detective to find out why something didn't get done"; she wants the truth early and takes responsibility for communicating expectations clearly (see [[Communication]]).
+- Source: [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Related
 

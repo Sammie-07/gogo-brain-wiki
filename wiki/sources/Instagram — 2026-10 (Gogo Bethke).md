@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-20 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-21 so far.
 
 ## Key Takeaways
 
@@ -158,6 +158,14 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - **Private Room Day Two: Christina.** Did hair for 20 years (about $3,000 a month; product costs tripled, prices didn't); three years into real estate with ICON her first year at eXp, last year $12M across about 55 transactions, now averaging about $15,000 a month in commission. Gogo: "You don't owe the next 20 years to something just because you gave it the last 20." Her point: numbers look like "she must have something I don't," but Christina first had to decide, learn a new business and do the work ([Reel](https://www.instagram.com/reel/Deu2TqEDkja/)).
 - **The woman who used to sit in the audience.** Pointing at her face on a banner: "I see the woman who used to sit in the audience." She wondered how speakers got picked and when she'd feel ready; "English is my third language. I could've used that excuse forever." She kept learning, trying, and sharing until she became one of the people she watched. "I'm proud of her. I know how many times she could have talked herself out of getting here." Pushes agents to stop postponing what they don't feel ready for ([Reel](https://www.instagram.com/reel/Deu72P2k8vs/)).
 
+### Oct 21 — SquatTober, expectations, client events, a 52% prognosis, the Blocker quiz (Reels, captions, stories)
+- **Where people watch.** Did 105 squats at the airport for SquatTober: "It takes doing things in places people are watching and you don't give a 💩. To be a Top 1% you have to do things 99% wouldn't dare." "I am as good as my word" ([Reel](https://www.instagram.com/reel/DewlOiezPmu/)).
+- **Don't make me a detective.** Owners must communicate expectations; teams must speak up before a deadline slips. "I can't hold you to an expectation I never communicated." "Gogo, I messed up, and here's how I'm fixing it" beats silence ([caption](https://www.instagram.com/p/DewpjbYzLco/)).
+- **Four client events a year, almost zero budget.** Private Room Day One: Kerry's free spring home show at her gym with vendor booths and $50 raffle prizes; Kerry pays for breakfast burritos and water. Kerry has 26 years in Denver, 3X ICON, $350M-$400M career volume. "Everybody in that room taught. Everybody learned. Me included." ([Reel](https://www.instagram.com/reel/Dewt8imzlTe/))
+- **"Your 52% is my 100%."** Private Room Day Two: Beth Silverman, told she had a 52% chance of surviving five years ("You don't know me"), survived with about $200,000 in debt, licensed at 34, paid her last medical bill on her 40th birthday; now 15 years in, 5X ICON, $135M+. "Just because someone carries it well doesn't mean it isn't heavy" ([Reel](https://www.instagram.com/reel/DexK5xiS-C0/)).
+- **Posting is not generating business.** Built her business on social with no bought leads or ads; follower count is the last thing she'd check. Free 7-question Social Media Growth Blocker Quiz (comment BLOCKER) ([caption](https://www.instagram.com/p/DexRCUxkkGR/)).
+- **Stories.** Heading to Michigan with Duane to order cabinets, countertops and furniture for the lake cottage they bought as a long-term rental and turned into a short-term rental after falling in love with it. A second story was a tag-only fragment (skipped).
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -265,3 +273,10 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - [[Social Media and Email Marketing]] — Oct 20: views are clients (900K views), keyword next step, content for brand-new agents
 - [[Gogo Bethke]] — Oct 20: English as third language, Tony Robbins lesson
 - [[#teamgogo]] — Oct 20: Private Room stories of Gabby and Christina; be yourself, don't copy
+- [[Communication]] — Oct 21: tell me early; owners must communicate expectations
+- [[Lead Generation]] — Oct 21: Kerry's free vendor home show, four client events a year
+- [[Social Media and Email Marketing]] — Oct 21: posting vs generating business, Blocker quiz
+- [[Mindset]] — Oct 21: doing it where people watch; Beth's 52% prognosis
+- [[Beth Silverman]] — Oct 21: survival story, medical debt paid at 40
+- [[#teamgogo]] — Oct 21: Private Room stories of Kerry and Beth
+- [[Gogo Bethke]] — Oct 21: SquatTober, Michigan lake cottage STR, accountability stance

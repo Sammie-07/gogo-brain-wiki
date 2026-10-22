@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, real-estate, team]
 sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-21
+updated: 2026-10-22
 ---
 
 # #teamgogo 
@@ -86,6 +86,9 @@ At the invite-only Private Room in Gogo's home, **Day One** every invitee stands
 
 ### Private Room Stories (Oct 20 2026 Instagram)
 Gogo featured two attendees. **Gabby** (five years, 140 transactions, best year $15M and 34 deals) leads with who she is and connects personally with property and owner before asking for the listing (about 90% return on those calls): "I'm not going to be the realtor Gabby. I'm going to be Gabby the realtor." **Christina** left 20 years of hair (about $3,000 a month) for real estate: three years in, ICON her first year at eXp, about $12M across ~55 transactions last year, averaging ~$15,000 a month in commission. Gogo's point: "You can learn from someone without becoming a copy of them." Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
+### Private Room Stories (Oct 21 2026 Instagram)
+Day One teach-in: **Kerry** (Denver, 26 years, 3X ICON) shared her free spring home show with vendor booths (see [[Lead Generation]]). Day Two one-on-one: **Beth Silverman** told Gogo how she faced a 52% five-year survival prognosis ("Your 52% is my 100%"), came out about $200K in medical debt, got licensed at 34 and paid the last bill at 40 (see [[Beth Silverman]]). Gogo: "Everybody in that room taught. Everybody learned. Me included... People willing to help each other get better." The point of sharing: you don't need to invent every idea yourself or reach Kerry's production level before you have something valuable to contribute. Source: [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Related
 

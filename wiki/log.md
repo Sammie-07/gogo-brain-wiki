@@ -939,3 +939,6 @@ Processed 1 caption and 7 stories (2026-10-16 23:04 to 2026-10-17 15:31 UTC). Al
 
 ## [2026-10-21] ingest | Instagram captions through 2026-10-20
 6 captions and 0 stories (2026-10-19 21:38 to 2026-10-20 22:45 UTC). Extended [[Instagram — 2026-10 (Gogo Bethke)]]; updated [[Mindset]], [[Social Media and Email Marketing]], [[Gogo Bethke]], [[#teamgogo]]. Skipped one Zoom-screenshot story.
+
+## [2026-10-22] ingest | Instagram captions through 2026-10-21
+5 captions and 2 stories (2026-10-21 13:07 to 20:28 UTC). Extended [[Instagram — 2026-10 (Gogo Bethke)]]; updated [[Communication]], [[Lead Generation]], [[Social Media and Email Marketing]], [[Mindset]], [[Beth Silverman]], [[#teamgogo]], [[Gogo Bethke]]. Skipped one tag-only story.
