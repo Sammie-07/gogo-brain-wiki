@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, real-estate-coach, listing-agent, cold-calling, prospecting]
-sources: ["[[Self-Selling Seller System LIVE (Austin Rankin)]]"]
-updated: 2026-05-22
+sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[Self-Selling Seller System LIVE (Austin Rankin)]]"]
+updated: 2026-10-22
 ---
 
 # Austin Rankin
@@ -23,6 +23,11 @@ Austin Rankin is a real estate agent and coach from a small town in Kentucky who
 - **Teaching approach:** Requires participants to write and participate; tangible skills and scripts vs. mindset fluff
 - **Core ability:** "He asks questions so nonchalantly that clients convince themselves to work with him" — Gogo's description
 - **Style:** "Face-based" — everything rooted in real human conversation, not automation or platforms
+
+## Negotiation Game Show (GoGet'Em, Oct 2026)
+- Listing-focused ("99.9% of my business is listings"); runs his own coaching program. Purely question-led: "Objections aren't to be overcome, they're to be understood." Uses a buyer's-agent feedback form to show sellers price feedback and avoids being the "test agent."
+
+Source: [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]].
 
 ## Related
 

@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [agent-attraction, downline, community, teams, retention]
-sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"]
-updated: 2026-10-16
+sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"]
+updated: 2026-10-22
 ---
 
 # Downline Community Architecture
@@ -49,6 +49,12 @@ Pairs with the attraction funnel in [[Co-Sponsorship and Agent Attraction System
 - A Partner With Me agent-attraction page is built for agents in about 2 minutes.
 
 Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]].
+
+## Automated Onboarding and the Downline Tree (#teamgogo Oct 21 2026)
+- [[Kristy Waker]] runs #teamgogo tracking in one Claude project with the eXp MCP: when an agent goes active it updates the sheet, adds them to GoHighLevel, sends the welcome email, and adds them to the Facebook group, calendar and Drive, replacing a daily manual export.
+- "Build me a family tree of my downline" produced a clickable downline tree. The human touch stays: a Claude-designed iPhone Shortcut starts a welcome group text with Kristy, Gogo and the new agent.
+
+Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]].
 
 ## Related
 

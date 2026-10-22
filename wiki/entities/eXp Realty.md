@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, brokerage, real-estate]
-sources: ["[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-12
+sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
+updated: 2026-10-22
 ---
 
 # eXp Realty
@@ -195,6 +195,11 @@ She frames eXp as "the best brokerage on earth" and runs monthly "Wine Not eXp" 
 eXpCon 2026 ran in Salt Lake City (Oct 2026). The **Agent Games** pitted the "OGs" (long-time eXp leaders, including [[Gogo Bethke]]) against the "New Kids on the Block" on the general-session stage to raise money for **Extend a Hand**, with a goal of $50,000. #teamgogo agents taught three concurrent breakout sessions there, with Gogo supporting each. The OGs lost the Agent Games to the New Kids on points, but Gogo's read was that they "WON" by raising far more for Extend a Hand. Her pitch against localized brokerages: national training instead of one local agent's tips, referrals from agents in other areas, and the chance to "earn your cap back" with a retirement plan. Source: [[Instagram — 2026-10 (Gogo Bethke)]].
 
 Oct 11 2026 stories: Gogo noted that about 84% of eXp agents have not brought a single agent to eXp (16% have), so attracting agents puts you in a small group; her own mark is 413 front-line agents in 8 years. Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
+## eXpCon 2026 tools (as reported at #teamgogo, Oct 21 2026)
+- MCP connectors (Hub, MyeXp, eXp University, Canva, CRMs, divisions) for Claude, ChatGPT, Gemini and Grok; eXp Ready (pay-at-close seller home prep via Notable); ShowGo (open-house and showing marketplace app); a new mortgage JV lending partner.
+
+Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]].
 
 ## Related
 

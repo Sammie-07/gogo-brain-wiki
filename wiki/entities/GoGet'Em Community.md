@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, community, real-estate]
-sources: ["[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-16
+sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
+updated: 2026-10-22
 ---
 
 # GoGet'Em Community
@@ -86,6 +86,11 @@ Posted after a member stopped Gogo at eXpCon to say she loves the community ([pe
 - Guest [[Nathan (Synthetic Echo podcast)|Nathan]] on browser-controlling AI for CMAs, paperwork, CRM and social. Trainings are recorded and posted by the next business day; Tuesday 3 PM ET tech support helps with setup.
 
 Source: [[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]].
+
+## Negotiation objections game show (Oct 2026)
+- [[Curt Shewell]], [[Austin Rankin]] and [[Leila Modetz]] answered spun objections in ~60 seconds each; [[Kristy Waker]] ran the wheel. Recorded on the GoGet'Em app.
+
+Source: [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]].
 
 ## Related
 

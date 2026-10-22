@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [agent-attraction, co-sponsorship, revenue-share, exp-realty, teams, real-estate-math, lead-generation]
-sources: ["[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-16
+sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]]", "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
+updated: 2026-10-22
 ---
 
 # Co-Sponsorship and the Agent-Attraction Website System
@@ -120,6 +120,26 @@ Gogo's attraction pitch to agents: "I'm not asking you to build my dream. I want
 - Co-sponsorship is a major entry point for agents outside her communities.
 
 Source: [[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]].
+
+## Keyword for Life and the Two-Click Partner Funnel (Circle coaching)
+- **Pick keywords you'll keep for life.** Gogo's "partner" has run ~4 years. Add as many keywords to as many pages as you want ("and," not "or").
+- **Write the DM as if texting by hand,** about them, not you: "So excited you're thinking about joining eXp. Can't wait to see you in my calendar."
+- **Two clicks:** button, then calendar. Gogo's flow: "So excited you're interested in changing brokerages" → "I'm in" → watch the partner-page video → calendar.
+- **A partner page needs:** who you are, why partner with you, ICON status, location, what you provide (weekly trainings, direct line, group chat, Facebook group), a video of you and a direct calendar link.
+- Test every funnel from a real account. Per Gogo, eXp now pays $8,000 (instead of $4,000) if an agent you attract caps in their first year (unverified).
+
+Source: [[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]].
+
+## AI Agent-Attraction Pipeline (#teamgogo Oct 21 2026)
+- A team agent's build: a forwarded weekly mastermind email → an AI agent rebuilds a Canva template, swaps the CTA and schedules it in Buffer → link in bio to a Halo landing page → each lead gets the Zoom link and joins a CRM recruiting drip.
+- **Oct 28 is the last Open to the Public / Why Not eXp of 2026;** get prospects there or they wait until 2027.
+
+Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]].
+
+## Gogo's Sponsor Story: "Your Brokerage or Your Family?" (GoGet'Em negotiation training)
+- About 43 agents had pitched eXp to Gogo and she brushed them off: moving brokerages twice in one year would make her look like a job-hopper. In August 2018 [[Curt Shewell]] asked one question, "Who is your loyalty to: your brokerage or your family?", and she switched that day.
+
+Source: [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]].
 
 ## Related
 

@@ -100,6 +100,7 @@
 | [[entities/Melissa Albert]]     | #teamgogo agent, Bowling Green KY relocation ("Living in Kentucky Team" YouTube); live-demo subject who built a Halo niche site by text in ~10 min. |
 | [[entities/Kim Fraser]]         | Top eXp solo agent (introduced as #1), WA/AZ/TX; farming (~15K mailers/mo), 80–90 open houses/yr, "do not do anything halfway" listing marketing. |
 | [[entities/Nathan (Synthetic Echo podcast)]] | Former Toronto-area broker turned AI educator; GoGet'Em guest on browser-controlling AI agents; Grok bot-team course. |
+| [[entities/Leila Modetz]]       | Michigan agent; GoGet'Em negotiation panelist; value-stacking 3% fee, weekly seller updates, buyer-gap conversation up front. |
 
 ---
 
@@ -135,7 +136,7 @@
 
 ---
 
-## Sources (397 ingested)
+## Sources (400 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
@@ -526,6 +527,9 @@
 | [[sources/How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]] | Tyler McBroom | 2026-09-30 | #teamgogo open training: S-corp break-even ~$60K profit; Augusta Rule (14 days); hire your kids up to the $16,100 standard deduction; cost seg + bonus depreciation + REPS; the "Freedom Fund" fiscal-year deferral; 6,000-lb vehicles; meals, home office, trusts. Plus $18B closed, #teamgogo Wednesday 3pm tech support relaunched, Jason Dupree minute (7.3%, VantageScore), Halo pricing. |
 | [[sources/teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]] | Gogo Bethke | 2026-10-14 | #teamgogo: [[Kim Fraser]] on farming (~$1/piece, lender splits, EDDM, 1–2 yr patience, two touches), 80–90 open houses/yr + borrowed listings, "do not do anything halfway" listing marketing, lead-source tracking + pick 3–5 lanes, market-cycle resilience; Gogo's eXp MCP demo (name the MCP in the prompt), "rates are high" close, open-house neighbor play, outrageous goal rewards; Hub mandatory, map fixes, re-onboarding; REMLO; Halo AEO score. |
 | [[sources/ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]] | Nathan | — | GoGet'Em: ChatGPT/Claude Chrome extension drives logged-in sites (CMA→branded PDF, Skyslope from email, MLS drafts, CRM top-10-likely, engagement automation); train AI like a hire, skills as portable backup; guardrails (review bulk sends, no banking, approvals, slow 5→60 ramp); Gogo: 2 hrs/day, automate one thing a day. |
+| [[sources/The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]] | Gogo Bethke | — | NDA de-identified (raw not retained): AI search (A for SEO, F for AEO/GEO; Claude audit prompt; ~1 month to re-index; skip brokerage sites); one landing page per money maker; "if you can sell it one day, build it separate"; re-test keywords after site changes; ManyChat keyword-for-life, top-5 money-maker keywords, seller CMA funnel, two-click partner funnel + partner-page checklist; no flyers / be in 95% of posts; lock .com + handle; Claude in Chrome; mine post history; MCP offboarding cleanup rules; impatience as a success trait. |
+| [[sources/teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]] | Kristy Waker | 2026-10-21 | #teamgogo eXpCon tech recap: eXp MCP connector setup (Rafael) + prompt library; Kristy's automated onboarding + downline tree; agents' AI builds (agent-attraction pipeline, Tuesday CRM re-engagement, send from the CRM); eXp Ready, ShowGo, mortgage JV change; Halo; Jason Dupree's mortgage minute; Oct 28 last Open to the Public of 2026. |
+| [[sources/Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]] | Gogo Bethke | 2026-10-20 | GoGet'Em objection game show: scripts from Curt Shewell, Austin Rankin and Leila Modetz for discount brokerages, who-pays, commission gaps, buyer agreements, listing-agent-direct, pricing high, guaranteed sale, rates, pre-approval, the 100-day reduction; Gogo's "if I can't negotiate my own commission…", price/condition/location, pleasure vs pain; her full sponsor story. |
 
 ---
 

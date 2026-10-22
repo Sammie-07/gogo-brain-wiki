@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, ai, speaker, real-estate, agent-attraction]
-sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]"]
-updated: 2026-10-16
+sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]"]
+updated: 2026-10-22
 ---
 
 # Nick Krem
@@ -32,6 +32,11 @@ Nick Krem is an AI strategist ("AI chief," keynote speaker) featured in Forbes, 
 - "3–5 clicks" rule for AI tools. Stats: 37% of searches start in AI, 62% of Google searches end with zero clicks, AI-referred leads 440% more likely to convert. Showed [[Halo]]'s new AEO score.
 
 Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]].
+
+## Oct 21, 2026 #teamgogo
+- AI recommendation takes time (~2 months of "digital density"); "If your website is still not being found through different AI tools, you will never be recommended by them."
+
+Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]].
 
 ## Related
 

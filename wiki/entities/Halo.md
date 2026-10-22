@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, tool, ai, aeo, geo, seo, websites, real-estate]
-sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]"]
-updated: 2026-10-16
+sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]"]
+updated: 2026-10-22
 ---
 
 # Halo
@@ -56,6 +56,11 @@ Nick's repeatable fix-my-site loop: **paste your site into the AEO site checker 
 - New built-in **AEO score** with a "fix it" button (FAQ, breadcrumbs, site names). Checks Cloudflare's SEO/AEO/GEO guidance every Friday and blogs 3×/week. Gogo's people: free start with 5 edits, then $99/mo; agents built sites by text in 8.5 minutes on average.
 
 Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]].
+
+## Oct 21, 2026 update
+- Blogs 3×/week from what locals ask ChatGPT, Gemini and Perplexity; its coding agent builds tools (CRM-linked surveys, mortgage and cost-of-waiting calculators). Free start through Gogo, then $99/month (per Nick, 2 sites, unlimited edits and blogs).
+
+Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]].
 
 ## Related
 

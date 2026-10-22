@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [person, real-estate, coach, content-creator, entrepreneur]
-sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Red Light Green Light Exercise]]", "[[Let's Do Some Math Again]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[How I Scaled From One-on-One to Group Coaching]]", "[[How do you know it is time to hire a Virtual Assistant]]", "[[Work-Life Balance Secrets]]", "[[How to Track Business Growth with Effective Tools and Strategies]]", "[[AI For Real Estate Agents — How to Use AI to Generate Leads]]", "[[Working with Your Spouse]]", "[[Gogopreneur — Tony Robbins Business Mastery Part I]]", "[[From an Au Pair to a Millionaire]]", "[[Agent to CEO — Full Presentation]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[GOGO TEDx — Au Pair to Millionaire (Hungarian Presentation)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[GoGetEm Community Who Is Gogo Bethke — Website Intro Video]]", "[[Gogo Podcast Journey Into Real Estate and Coaching — Full Interview]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[The Fundamentals - Social Media Machine and Branding]]", "[[Social Media Marketing Mindset and Lead Capturing]]", "[[What Top Agents Do Differently on Instagram - Month 5]]", "[[How to Become the Obvious Choice in Your Market]]", "[[Master Your Copywriting and AI Brand Voice]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
+sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Red Light Green Light Exercise]]", "[[Let's Do Some Math Again]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[How I Scaled From One-on-One to Group Coaching]]", "[[How do you know it is time to hire a Virtual Assistant]]", "[[Work-Life Balance Secrets]]", "[[How to Track Business Growth with Effective Tools and Strategies]]", "[[AI For Real Estate Agents — How to Use AI to Generate Leads]]", "[[Working with Your Spouse]]", "[[Gogopreneur — Tony Robbins Business Mastery Part I]]", "[[From an Au Pair to a Millionaire]]", "[[Agent to CEO — Full Presentation]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[GOGO TEDx — Au Pair to Millionaire (Hungarian Presentation)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[GoGetEm Community Who Is Gogo Bethke — Website Intro Video]]", "[[Gogo Podcast Journey Into Real Estate and Coaching — Full Interview]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[The Fundamentals - Social Media Machine and Branding]]", "[[Social Media Marketing Mindset and Lead Capturing]]", "[[What Top Agents Do Differently on Instagram - Month 5]]", "[[How to Become the Obvious Choice in Your Market]]", "[[Master Your Copywriting and AI Brand Voice]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
 updated: 2026-10-22
 ---
 
@@ -176,7 +176,7 @@ Attends events, masterminds, and seminars constantly. Has attended 8–9 Tony Ro
 
 ## Oct 19 2026 Instagram Voice
 
-- **Her sponsor story.** Before joining eXp she threw every objection at her sponsor, [[Curt Shewell]]; he listened and let her decide (joined October 25, 2018). Her business was working and she wasn't looking to change brokerages.
+- **Her sponsor story.** Before joining eXp she threw every objection at her sponsor, [[Curt Shewell]]; he asked one question, "Who is your loyalty to: your brokerage or your family?", and she switched (joined October 25, 2018). Her business was working and she wasn't looking to change brokerages.
 - **Hosting.** Runs the Private Room in her own home: everyone teaches on Day One, one-on-ones on Day Two. She wants agents to own investments and have income that doesn't depend on the next closing.
 - **Playful side.** "99% nice, 1% fire. Which side you get to experience depends on you!!!" See [[Instagram — 2026-10 (Gogo Bethke)]].
 
@@ -204,6 +204,18 @@ Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing D
 - Does SquatTober (5 squats rising by 5 daily), doing 105 squats at the airport. Flew to Michigan with Duane to order cabinets, countertops and furniture for the lake cottage they bought as a long-term rental and, after falling in love with it, turned into a short-term rental.
 - Leadership stance: "I shouldn't have to become a detective to find out why something didn't get done"; she wants the truth early and takes responsibility for communicating expectations clearly (see [[Communication]]).
 - Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
+## Brand Architecture (Circle coaching, Oct 2026)
+- gogobethke.com is the main brand, with /partner (agent attraction and revenue share) and /thecircle (coaching); a separate team site handles referrals; gogetemcommunity.com stands alone so GoGet'Em can be sold one day.
+- Her site scored A for SEO and F for AI optimization; her team is rebuilding it for AEO/GEO.
+- Duane left corporate around October 2019 (announced on Instagram that September); she plans a seven-year recap on retiring him with revenue share.
+
+Source: [[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]].
+
+## The Full Sponsor Story (GoGet'Em negotiation training)
+- About 43 agents had pitched her eXp before [[Curt Shewell]]. Her objection was loyalty: two brokerage moves in one year would look like job-hopping. Curt asked, "Who is your loyalty to: your brokerage or your family?" in August 2018, and she switched that day. English is her third language, which made objection handling hardest for her early on.
+
+Source: [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]].
 
 ## Related
 

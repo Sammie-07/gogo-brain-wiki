@@ -9,6 +9,7 @@ tags:
   - automation
   - tracking
 sources:
+  - "[[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]]"
   - "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]"
   - "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]"
   - "[[The Chaos-Free Agent — Google Workspace as Your Operating System (Kalie Kinsella)]]"
@@ -71,7 +72,7 @@ sources:
   - "[[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]]"
   - "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]"
   - "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"
-updated: 2026-10-16
+updated: 2026-10-22
 ---
 
 # Productivity
@@ -1000,6 +1001,11 @@ Source: [[The Circle Coaching — Handling Criticism at the Top, Agent Attractio
 - Single-job bots with a chief-of-staff bot that delegates; talk to them by voice so they learn you.
 
 Source: [[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]].
+
+## Impatience as a Success Trait (Circle coaching)
+- Gogo's team turns a new ManyChat keyword around in ~5 minutes. "If not now, you're two weeks behind in your success." Bring links and products to coaching to pick apart live; put assistants on a work phone in the coaching group chat.
+
+Source: [[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]].
 
 ## Related
 

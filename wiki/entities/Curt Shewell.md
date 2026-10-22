@@ -7,8 +7,9 @@ tags:
   - real-estate
   - time-blocking
 sources:
+  - "[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]"
   - "[[Clippings/Time Blocks Scheduling and Productivity (Curt Shewell)]]"
-updated: 2026-05-21
+updated: 2026-10-22
 ---
 
 # Curt Shewell
@@ -26,6 +27,13 @@ Curt Shewell teaches the red/yellow/green calendar system and a 4-day work week 
 - **$100K → $400K math:** Time-blocking unlocks capacity for 2–3× more clients without more hours
 - **Open house strategy:** Sundays for open houses; Monday mornings blocked for immediate follow-up
 - **Follow-up system:** New leads get same-day touchpoint within 1 hour; active pipeline gets weekly check-in
+
+## Negotiation Game Show (GoGet'Em, Oct 2026)
+- Panelist on the GoGet'Em objection game show. Style: assumptive "framing and looping"; lines include "Price it high, watch it die," "Marry the house, date the rate," "There are houses that sell and houses that help other houses sell," and "Close with their words, not your words."
+- Gogo's eXp sponsor: his question "Who is your loyalty to: your brokerage or your family?" moved her to eXp in 2018.
+- Runs a free weekday-morning group coaching call for agents (per Curt).
+
+Source: [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]].
 
 ## Related
 

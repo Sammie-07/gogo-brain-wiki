@@ -1,7 +1,7 @@
 ---
 type: concept
 tags: [communication, leadership, influence, mindset, team-culture]
-sources: ["[[The Art of Conscious Communication (Jamie Miller)]]", "[[Amplify Your Influence — Introduction (René Rodriguez)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]", "[[The Relationship Beneath Results — Deeply Connected Method (Ludmila Woodruff)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]", "[[Building a Dominant Business in a Small Market (Jeannie Steele)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
+sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[The Art of Conscious Communication (Jamie Miller)]]", "[[Amplify Your Influence — Introduction (René Rodriguez)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]", "[[The Relationship Beneath Results — Deeply Connected Method (Ludmila Woodruff)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]", "[[Building a Dominant Business in a Small Market (Jeannie Steele)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
 updated: 2026-10-22
 ---
 
@@ -125,6 +125,13 @@ The line illustrates the same non-negotiable posture applied to relationships: s
 ## Tell Me Early: Accountability Without Detective Work (Oct 21 2026 Instagram)
 Gogo's leadership-meeting realization: when one person is responsible, a second checks on them, and she checks on the second, "How many people does it take to make sure one person does their job?" She doesn't want to double- or triple-check what was already agreed. The ask of the team: "If you need help, tell me. If the deadline isn't realistic, tell me before it passes. Give us a chance to solve it." What frustrates her is silence, everyone carrying on as if it's handled while others decide based on unfinished work.
 The owner's side: did you explain what you wanted, when it's due and what a finished job looks like? "I can't hold you to an expectation I never communicated." Once it's clear, she needs to trust the person will do it or speak up. Mistakes are fine ("I make mistakes. My team makes mistakes."), but she needs the truth early: "Gogo, I messed up, and here's how I'm fixing it" builds more confidence than silence. Her coaching program for owners ([[The Circle]]) teaches setting clear expectations and holding teams accountable. Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
+## Understand the Objection, Don't Overcome It (GoGet'Em negotiation training)
+- **Austin Rankin:** "Objections aren't to be overcome, they're to be understood." "One of the biggest mistakes in communication is thinking it actually happened." On call anxiety: "Nothing to hide, nothing to gain, nothing to lose, nothing to prove."
+- **Curt Shewell:** objection, condition, or just something they felt they had to say? "Close with their words, not your words." When unsure: "Help me understand what you mean."
+- **Gogo:** the shortest answer followed by a question wins.
+
+Source: [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]].
 
 ## Related
 

@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [negotiation, communication, leadership, mindset]
-sources: ["[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Real-World Negotiation Hacks]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[No Is Your Friend — Closing and Negotiation (GoGet'Em Training)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-20
+sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Real-World Negotiation Hacks]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[No Is Your Friend — Closing and Negotiation (GoGet'Em Training)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
+updated: 2026-10-22
 ---
 
 # Negotiation
@@ -144,6 +144,23 @@ Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing D
 ## Find What's Behind the Objection (Oct 19 2026 Instagram)
 
 When a seller says "I'm interviewing other agents" or "Can you cut your commission?", Gogo warns against jumping to self-defense: figure out what's behind the question. [[Austin Rankin]] (500+ FSBOs helped sell across three markets): his job "isn't to convince anyone. It's to help people discover their own reasons." Serve what they want, not what you want. She also recalls throwing every objection at her eXp sponsor, [[Curt Shewell]], who took them seriously and left the decision to her. Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
+## eXp Ready and ShowGo (#teamgogo Oct 21 2026; confirm details with eXp)
+- **eXp Ready:** pay-at-close home prep financed by Notable: a seller credit line (up to ~$50,000) for repairs, staging, paint and landscaping, repaid from closing proceeds; short agent certification first. An alternative to Curbio where it doesn't serve.
+- **ShowGo:** free Hub app to post open houses (host keeps leads) or paid showings for other agents to claim.
+
+Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]].
+
+## The Objection Playbook (GoGet'Em game show: Curt Shewell, Austin Rankin, Leila Modetz)
+- **Gogo:** shortest direct answer, then a question; whoever asks the questions runs the conversation. "If I can't negotiate my own commission, you shouldn't hire me." "We all get what we tolerate."
+- **1% discount brokerage:** value-stack what your fee buys (Leila); "Why do you think they're so cheap?… If they can't negotiate their own income, what could that mean for your equity?" (Austin).
+- **"Who pays you?":** it goes into the offer and the seller pays at closing; check seller compensation before showing, or write it into the price (Curt, Austin). Close any gap with a concession or price adjustment, spelled out for the other agent.
+- **"How long am I locked in?" / "Can I cancel?":** Gogo: "Cancel any time, any reason, even because you no longer like my accent." Austin: "What would have needed to happen in three months for you to know choosing me was a good decision?"
+- **Pricing high:** "There are houses that sell and houses that help other houses sell" (Curt). Austin's day-1-vs-day-90 role reversal. Gogo after ~100 days: price, condition or location, and it's always price; "in two weeks, without 10 showings, we reduce."
+- **Waiting for rates:** "Marry the house, date the rate" (Curt); refinance later before sideline buyers return (Leila).
+- See [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]] for every script.
+
+Source: [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]].
 
 ## Related
 

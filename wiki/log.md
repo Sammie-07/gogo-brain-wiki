@@ -942,3 +942,12 @@ Processed 1 caption and 7 stories (2026-10-16 23:04 to 2026-10-17 15:31 UTC). Al
 
 ## [2026-10-22] ingest | Instagram captions through 2026-10-21
 5 captions and 2 stories (2026-10-21 13:07 to 20:28 UTC). Extended [[Instagram — 2026-10 (Gogo Bethke)]]; updated [[Communication]], [[Lead Generation]], [[Social Media and Email Marketing]], [[Mindset]], [[Beth Silverman]], [[#teamgogo]], [[Gogo Bethke]]. Skipped one tag-only story.
+
+## [2026-10-22] ingest | The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)
+Private Circle call (NDA; raw not retained). Updated Personal Branding, Co-Sponsorship and Agent Attraction System, Lead Generation, Social Media and Email Marketing, AI for Real Estate, Productivity, Gogo Bethke. Dropped an unverifiable self-ranking claim, an outside agent's name and NDA report contents; capper bonus marked unverified.
+
+## [2026-10-22] ingest | teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)
+#teamgogo call (VTT saved to Clippings). Updated AI for Real Estate, Downline Community Architecture, Lead Generation, Co-Sponsorship and Agent Attraction System, Negotiation, Kristy Waker, Rafael Mino, Jason Dupree, Nick Krem, Halo, #teamgogo, eXp Realty. Left out attendee account data from the live demo; eXp program details marked as reported.
+
+## [2026-10-22] ingest | Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)
+GoGet'Em training (Google Doc). New entity [[Leila Modetz]]. Updated Negotiation, Communication, Mindset, Co-Sponsorship and Agent Attraction System, Gogo Bethke (full sponsor story), Curt Shewell, Austin Rankin, GoGet'Em Community. Left out a mortgage-math slip and attendee details. Sources 397 → 400.
