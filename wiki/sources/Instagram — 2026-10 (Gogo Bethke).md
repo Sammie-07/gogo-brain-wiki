@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-21 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-22 so far.
 
 ## Key Takeaways
 
@@ -166,6 +166,15 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - **Posting is not generating business.** Built her business on social with no bought leads or ads; follower count is the last thing she'd check. Free 7-question Social Media Growth Blocker Quiz (comment BLOCKER) ([caption](https://www.instagram.com/p/DexRCUxkkGR/)).
 - **Stories.** Heading to Michigan with Duane to order cabinets, countertops and furniture for the lake cottage they bought as a long-term rental and turned into a short-term rental after falling in love with it. A second story was a tag-only fragment (skipped).
 
+### Oct 22 — The $500K math, noticing sheets, AI search, the investing gap (captions, Reels, stories)
+- **Do the math on the income goal.** Most agents pick a number "and then go right back to doing whatever they did last year." Her example: at a $400,000 sale price and a negotiated 3% commission, 42 closings is $504,000 gross. Selling houses is one way to earn; others are coaching something you are qualified to teach, building a digital product that solves a problem, or building an organization where the brokerage rewards you for attracting productive agents, or combining them. "The money doesn't show up because you made a cute PDF." Get one working, then build the next. Gross revenue examples, not take-home or guaranteed ([caption](https://www.instagram.com/p/Dey-KQsm9-A/)).
+- **The noticing sheet.** Private Room Day One: Krystal (Florida Keys, 22 years, 100% referral business, $150M+ career volume) shared a "noticing sheet": write down what someone said in their exact words, what lit them up, what they complained about, add a tag, and act on it (a text when you pass their favorite spot). It beats "Know anyone looking to buy or sell?" Gogo: "Being good at your job matters. So does how people feel long after the transaction is over. Give them something to remember you by. Start by remembering them." ([Reel](https://www.instagram.com/reel/DezXOvrzYvH/))
+- **"Who's the best real estate agent in your town?"** Ask an AI tool; one answer isn't an official ranking, but it's a reason to check what can be found about you. Does your website say where you work and who you help, answer the questions buyers and sellers ask weekly, and have current profiles ("passionate about real estate" is everyone's bio)? She gives a prompt: review my website, check whether location, services, experience and client answers are clear, cite pages reviewed, say what couldn't be checked, prioritize five improvements, "Don't guess." Put answers you already give in texts and appointments where future clients can find them ([Reel](https://www.instagram.com/reel/Dezq-6dvqVO/)).
+- **Start without years of experience.** Chrissi built the #1 standard team in Pennsylvania with brand-new agents (5X ICON, $233M combined, 376 deals in 2025); her why is "How many lives can I change?" Gogo: "If you're new, please stop counting yourself out before you've given yourself a chance," and if you're already successful, imagine what your experience could do for someone just starting ([Reel](https://www.instagram.com/reel/De0DcVhBA8T/)).
+- **Agents must learn to invest (stories).** "They don't teach us how to become investors, but we are supposed to be the ones who are advising our clients... it's like advising someone about the quality of the beef, but they are vegan." She avoided investor clients early (find-the-deal demands, lowballing, commission haggling, "calculate their future profits"), so she never learned to run the numbers. "I'm 15 years in the industry... and it took me 12 years to start investing"; they began about three years ago, and the Michigan lakefront cottage is becoming an Airbnb. "You, as a licensed realtor, you have to have investments yourself... that's pretty much the only way to build wealth, especially with the tax deductions. So learn to play the game."
+- **Life.** She and Duane were in Michigan trying to wake their 17-year-old in Florida for school: two neighbors, 27 calls and the house alarm, and both boys slept through it ("I'm not a morning person"). They're remodeling the cottage kitchen (colors, cabinet patterns, countertops, Duane demoing); she sold the old cabinets on Marketplace after listing them at $1,500 and settling at $1,000, "I made myself useful other ways."
+- A reshared story from another agent about Gogo's lost front tooth was not her own words and is not recorded here. Other Oct 21–22 stories were event promos, polls or fragments (skipped).
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -280,3 +289,8 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - [[Beth Silverman]] — Oct 21: survival story, medical debt paid at 40
 - [[#teamgogo]] — Oct 21: Private Room stories of Kerry and Beth
 - [[Gogo Bethke]] — Oct 21: SquatTober, Michigan lake cottage STR, accountability stance
+- [[Wealth Building]] — Oct 22: agents must own investments to advise on them; the $500K income math
+- [[AI for Real Estate]] — Oct 22: "best agent in your town" test and website-review prompt
+- [[Lead Generation]] — Oct 22: the noticing sheet
+- [[#teamgogo]] — Oct 22: Private Room stories of Krystal and Chrissi
+- [[Gogo Bethke]] — Oct 22: late investor, cottage Airbnb, family

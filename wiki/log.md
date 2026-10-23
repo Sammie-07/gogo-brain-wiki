@@ -951,3 +951,6 @@ Private Circle call (NDA; raw not retained). Updated Personal Branding, Co-Spons
 
 ## [2026-10-22] ingest | Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)
 GoGet'Em training (Google Doc). New entity [[Leila Modetz]]. Updated Negotiation, Communication, Mindset, Co-Sponsorship and Agent Attraction System, Gogo Bethke (full sponsor story), Curt Shewell, Austin Rankin, GoGet'Em Community. Left out a mortgage-math slip and attendee details. Sources 397 → 400.
+
+## [2026-10-23] ingest | Instagram captions and stories through 2026-10-22
+4 captions and 27 stories (2026-10-21 to 2026-10-22). Extended Instagram — 2026-10; updated Wealth Building, AI for Real Estate, Lead Generation, #teamgogo, Gogo Bethke. Skipped a reshared story about Gogo (not her words), promos, polls and fragments.

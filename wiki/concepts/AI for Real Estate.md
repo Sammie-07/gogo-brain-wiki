@@ -2,7 +2,7 @@
 type: concept
 tags: [ai, productivity, marketing, lead-generation, real-estate]
 sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]]", "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[AI for Real Estate Professionals — Intelligence Briefs and Client Avatars (Thomas Heimann)]]", "[[Azulio — AI CRM and Digital Farming (Matt Kemps and Rob Poulton)]]", "[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[eXp Tools Update — The Hub, my eXp, Mira AI and TeamGogo Map (Kristy Waker)]]", "[[AI Leverage — Build Your Personal AI System (Thomas Heimann)]]", "[[The AI Stack Top Agents Don't Talk About — Azulio CRM Deep Dive (Matt Kemps and Rob Poulton)]]", "[[ChatGPT is a Conversation. Claude is a Command Center. (Carrie Soave)]]", "[[Master Your Copywriting & AI Brand Voice (Gogo Bethke)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[Optimizing Your Google Business Profile for Real Estate Agents (Kalie Kinsella)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]", "[[AI SEO and Google Ranking for Listings (Kirby Chan)]]", "[[The Circle Coaching — Consistency, Partnership Dissolution, Team Profitability and Golden Handcuffs (de-identified)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[Win with YouTube (Jesse Dau)]]", "[[The Circle Coaching — Keyword Automation, Scarcity Positioning and Box-in-a-Box Structure (de-identified)]]", "[[The AI System for One Listing Appointment a Day (Kirby Chan)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[The Chaos-Free Agent — Google Workspace as Your Operating System (Kalie Kinsella)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 # AI for Real Estate
@@ -304,6 +304,9 @@ Source: [[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funne
 - Naming the connector in the prompt skips the permission prompt. **Verify before sharing:** demos pulled a wrong headshot and trailing-365-day production. If the AI can't connect a tool, it will build the Zapier zap for you.
 
 Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]].
+
+### The "best agent in your town" check (Oct 2026 Instagram)
+Gogo suggests asking an AI tool "Who's the best real estate agent in [your town]?" as a prompt to audit what people can find about you, not as a ranking. Then use a web-enabled AI to review your website for clear location, services, experience and client answers, asking it to cite pages reviewed, say what it couldn't check, prioritize five improvements and "Don't guess." See [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Related
 
