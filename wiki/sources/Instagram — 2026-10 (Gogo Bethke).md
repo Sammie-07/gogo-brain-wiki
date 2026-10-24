@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-22 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-23 so far.
 
 ## Key Takeaways
 
@@ -175,6 +175,15 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - **Life.** She and Duane were in Michigan trying to wake their 17-year-old in Florida for school: two neighbors, 27 calls and the house alarm, and both boys slept through it ("I'm not a morning person"). They're remodeling the cottage kitchen (colors, cabinet patterns, countertops, Duane demoing); she sold the old cabinets on Marketplace after listing them at $1,500 and settling at $1,000, "I made myself useful other ways."
 - A reshared story from another agent about Gogo's lost front tooth was not her own words and is not recorded here. Other Oct 21–22 stories were event promos, polls or fragments (skipped).
 
+### Oct 22–23 — $5.2M portfolio, rejection as protection, AI that sounds right, the avatar, the cabin plan (Reels, captions, stories)
+- **$5.2M in three years.** "Us #realtors have to take it upon ourselves to learn how to #invest." She was "too scared myself for 12 years… finally took action and in 3 years we built a $5.2M #realestate portfolio" (reported figure), starting with the equity in their first home together with Duane. The lake cottage will be their **2nd Airbnb; "the rest are LTRs or Syndication."** Why GoGet'Em Community has sections that teach investing: "someone needs to teach it." "Until YOU do, you'll always be chasing the NEXT commission." ([Reel](https://www.instagram.com/reel/De0MbgxT_SK/))
+- **"It's not rejection. It's protection."** When a friend hires another agent, you question yourself, your business and the friendship. At the Private Room, Christina (20 years in hair; three years in real estate; ICON her first year in [[#teamgogo]]) shared how faith carried her: she was already accepted by God, so someone choosing another agent didn't change her worth, and maybe that client wasn't supposed to be hers. Gogo: "You can care about losing the business. You can be disappointed. But you cannot let somebody else's decision decide your entire future." The Private Room's point: share "what works AND what we had to work through" ([Reel](https://www.instagram.com/reel/De178xcTzDT/)). In her story Gogo tied it to hair: real estate is "just like hair, you can have clients."
+- **"AI can write a listing description. But does it know what you're actually allowed to do with that property?"** Day Two one-on-one with Krystal (22 years in Key West, $150M+ career volume): vacation-rental licensing and block-by-block differences can completely change what a buyer is looking at as an investment ("Same street. Different questions."), and ChatGPT used neighborhood language that didn't match the local MLS. "It can SOUND right." Gogo: "Use AI. I do. But check what it gives you. Know your market well enough to catch the mistake before your client makes a decision based on it." "If your entire value is opening a door and sending listings, you have some work to do" ([Reel](https://www.instagram.com/reel/De2lI3fzFpc/)). Her story added that Keys licensing is "very convoluted."
+- **On camera vs. avatar.** "I like being on camera. I just don't want to do it every time my business needs a video." She is learning to use an AI avatar that looks like her and uses her voice, and is candid about limits: looking like you is easy, sounding like you is hard, and her accent trips it up. "I know it's hard to be on camera. You know what's harder? Being broke." Her guest-trainer webinar promo itself is logistics and is not recorded ([Reel](https://www.instagram.com/reel/De2ODAVzHlh/)).
+- **Gma's cabin plan (Reel, stories).** The Michigan lake house was bought as a long-term rental ("The numbers worked"), then "I fell in love with it" on the visit; the plan became a short-term rental that other families enjoy and they can use too, with more upkeep because it's a lake property. Furnishing goal: a "moody dark up-north cabin feel" unlike their Florida house; "Michigan was home for 20 years" and they miss the cold. It's called Gma's cabin because it's dated enough "you expect somebody's grandma to come around the corner and offer you something to eat" ([Reel](https://www.instagram.com/reel/De2FsrFzgUK/)).
+- **Girl math on the remodel (stories).** A countertop quote came in at $7,600; a friend with remnants in his warehouse did it for $5,000 including install and sinks, so "I technically MADE $2,600 PLUS the $1,000" (the cabinet sale) "#girlmath." The kitchen demo ran on a house of "bye bye cabinets" and a hand-held metal blade.
+- Skipped: story fragments (a hometown varsity-football note, bare on-screen text), promo and comment-keyword logistics, and a mid-demo banter clip.
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -241,6 +250,12 @@ A team-leader system: five agents compete for one seat on the team, transactions
 
 > "I don't want you to spend your entire career selling real estate and have nothing producing income when you're ready to stop." — [Oct 19 Reel](https://www.instagram.com/reel/DerrN1ET5o9/)
 
+> "You can care about losing the business. You can be disappointed. But you cannot let somebody else's decision decide your entire future." — [Oct 23 Reel](https://www.instagram.com/reel/De178xcTzDT/)
+
+> "Until YOU do, you'll always be chasing the NEXT commission." — [Oct 22 Reel](https://www.instagram.com/reel/De0MbgxT_SK/)
+
+> "Use AI. I do. But check what it gives you." — [Oct 23 Reel](https://www.instagram.com/reel/De2lI3fzFpc/)
+
 ## Wiki Pages Updated
 - [[Gogo Bethke]] — eXpCon 2026, 8-year eXp mark, Agent Games/Extend a Hand
 - [[Social Media and Email Marketing]] — Amy Gregory/Gogo proof point: agent attraction with no purchased leads or cold calls
@@ -294,3 +309,8 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - [[Lead Generation]] — Oct 22: the noticing sheet
 - [[#teamgogo]] — Oct 22: Private Room stories of Krystal and Chrissi
 - [[Gogo Bethke]] — Oct 22: late investor, cottage Airbnb, family
+- [[Wealth Building]] — Oct 22–23: $5.2M portfolio in three years, second Airbnb, rest LTR/syndication
+- [[Mindset]] — Oct 23: "not rejection, protection"
+- [[AI for Real Estate]] — Oct 23: AI sounds right but check it; avatar for on-camera fatigue
+- [[Gogo Bethke]] — Oct 23: Gma's cabin LTR-to-STR story, girl math on the remodel
+- [[#teamgogo]] — Oct 23: Private Room stories of Christina and Krystal

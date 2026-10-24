@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, real-estate, team]
 sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-23
+updated: 2026-10-24
 ---
 
 # #teamgogo 
@@ -96,6 +96,8 @@ Day One teach-in: **Kerry** (Denver, 26 years, 3X ICON) shared her free spring h
 Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]].
 
 - **Private Room, Oct 22 recap.** Krystal taught the noticing sheet; Chrissi built a Pennsylvania team of brand-new agents (5X ICON, 376 deals in 2025) driven by "How many lives can I change?" See [[Instagram — 2026-10 (Gogo Bethke)]].
+
+- **Private Room, Oct 23 recap.** Christina's story became "It's not rejection. It's protection" (faith carried her past a friend hiring another agent; see [[Mindset]]), and Krystal's Day Two talk on AI sounding right but missing local licensing rules (see [[AI for Real Estate]]). Source: [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Related
 

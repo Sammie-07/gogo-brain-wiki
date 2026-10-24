@@ -954,3 +954,6 @@ GoGet'Em training (Google Doc). New entity [[Leila Modetz]]. Updated Negotiation
 
 ## [2026-10-23] ingest | Instagram captions and stories through 2026-10-22
 4 captions and 27 stories (2026-10-21 to 2026-10-22). Extended Instagram — 2026-10; updated Wealth Building, AI for Real Estate, Lead Generation, #teamgogo, Gogo Bethke. Skipped a reshared story about Gogo (not her words), promos, polls and fragments.
+
+## [2026-10-24] ingest | Instagram captions and stories through 2026-10-23
+6 captions and 13 stories (2026-10-22 to 2026-10-23). Extended Instagram — 2026-10; updated Wealth Building, Mindset, AI for Real Estate, Gogo Bethke, #teamgogo. Skipped promos, comment-keyword logistics, fragments and clips without meaning.
