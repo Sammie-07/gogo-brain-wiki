@@ -184,6 +184,11 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - **Girl math on the remodel (stories).** A countertop quote came in at $7,600; a friend with remnants in his warehouse did it for $5,000 including install and sinks, so "I technically MADE $2,600 PLUS the $1,000" (the cabinet sale) "#girlmath." The kitchen demo ran on a house of "bye bye cabinets" and a hand-held metal blade.
 - Skipped: story fragments (a hometown varsity-football note, bare on-screen text), promo and comment-keyword logistics, and a mid-demo banter clip.
 
+### Oct 24 — Senior football night, back in Michigan, the toothless curveball (captions, Reel, stories)
+- Back in Michigan, she spent the day "laboring" on the cabin renovation (#renovatucasa), then changed for her kids' friends' last high school football game as seniors in Pinckney, MI: "So sad and so beautiful at the same time." Duane came along; stories showed the stadium, the senior walkout and proud-mom moments for friends' kids ([permalink](https://www.instagram.com/p/De2zgYgm8dd/)).
+- A Reel on procrastination: "Sometimes life hands us a curveball and we think... oh I'll fix it tomorrow ...and tomorrow turns into an 8 months issue. Well you make the BEST of it!!" She showed up toothless and owned it with humor ([permalink](https://www.instagram.com/reel/De4P-smT-pD/)).
+- Oct 24 story: wished a happy name day (Hungarian tradition) to her mom and all the Gyöngyvérs; later matched Detroit Lions gear with Duane.
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -314,3 +319,4 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - [[AI for Real Estate]] — Oct 23: AI sounds right but check it; avatar for on-camera fatigue
 - [[Gogo Bethke]] — Oct 23: Gma's cabin LTR-to-STR story, girl math on the remodel
 - [[#teamgogo]] — Oct 23: Private Room stories of Christina and Krystal
+- [[Gogo Bethke]] — Oct 24: senior football night in Michigan, cabin renovation labor, toothless-Reel curveball, name day
