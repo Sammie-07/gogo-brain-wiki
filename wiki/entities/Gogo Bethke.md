@@ -2,7 +2,7 @@
 type: entity
 tags: [person, real-estate, coach, content-creator, entrepreneur]
 sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Red Light Green Light Exercise]]", "[[Let's Do Some Math Again]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[How I Scaled From One-on-One to Group Coaching]]", "[[How do you know it is time to hire a Virtual Assistant]]", "[[Work-Life Balance Secrets]]", "[[How to Track Business Growth with Effective Tools and Strategies]]", "[[AI For Real Estate Agents — How to Use AI to Generate Leads]]", "[[Working with Your Spouse]]", "[[Gogopreneur — Tony Robbins Business Mastery Part I]]", "[[From an Au Pair to a Millionaire]]", "[[Agent to CEO — Full Presentation]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[GOGO TEDx — Au Pair to Millionaire (Hungarian Presentation)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[GoGetEm Community Who Is Gogo Bethke — Website Intro Video]]", "[[Gogo Podcast Journey Into Real Estate and Coaching — Full Interview]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[The Fundamentals - Social Media Machine and Branding]]", "[[Social Media Marketing Mindset and Lead Capturing]]", "[[What Top Agents Do Differently on Instagram - Month 5]]", "[[How to Become the Obvious Choice in Your Market]]", "[[Master Your Copywriting and AI Brand Voice]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 # Gogo Bethke
@@ -204,6 +204,14 @@ Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing D
 - Does SquatTober (5 squats rising by 5 daily), doing 105 squats at the airport. Flew to Michigan with Duane to order cabinets, countertops and furniture for the lake cottage they bought as a long-term rental and, after falling in love with it, turned into a short-term rental.
 - Leadership stance: "I shouldn't have to become a detective to find out why something didn't get done"; she wants the truth early and takes responsibility for communicating expectations clearly (see [[Communication]]).
 - Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
+### Oct 25 2026 Instagram
+
+- **Eight years at eXp (Oct 25).** Read the ~30-page eXp contract at her church's coffee shop, scared it was too different from the industry, then realized she had nothing to lose (no stock, rev share or way to earn her cap back). Eight years on she cites stock, 8 rentals in 4 states and almost $5M in revenue share, and says she "retired my husband in year 2." Her next goal is helping thousands more agents: "My next goal is YOU + ME."
+- **Work family.** "I run my business like my #workfamily"; many on her team have stayed 5 to 14+ years, and she is "super over protective" of them.
+- **"I need to LIVE!"** Most people live boring lives; she wants friends who sing, dance, travel and play games, and doesn't want to be around people who make life harder.
+- **Oldest friend.** Her first US job (secretary/shipping and receiving at a barcoding company) put her under a manager who is now her oldest friend by years; he visited the Michigan lake cabin with champagne.
+- **Home life.** Hair routine: a curling wand holds her curls a week. Her English Old English puppy Gracie had eye surgery for cherry eye. Fan of the Detroit Lions. See [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Brand Architecture (Circle coaching, Oct 2026)
 - gogobethke.com is the main brand, with /partner (agent attraction and revenue share) and /thecircle (coaching); a separate team site handles referrals; gogetemcommunity.com stands alone so GoGet'Em can be sold one day.

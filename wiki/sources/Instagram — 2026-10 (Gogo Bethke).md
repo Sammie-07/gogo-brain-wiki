@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-23 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-25 so far.
 
 ## Key Takeaways
 
@@ -189,6 +189,18 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - A Reel on procrastination: "Sometimes life hands us a curveball and we think... oh I'll fix it tomorrow ...and tomorrow turns into an 8 months issue. Well you make the BEST of it!!" She showed up toothless and owned it with humor ([permalink](https://www.instagram.com/reel/De4P-smT-pD/)).
 - Oct 24 story: wished a happy name day (Hungarian tradition) to her mom and all the Gyöngyvérs; later matched Detroit Lions gear with Duane.
 
+### Oct 25 — Eight years at eXp, the "Partner" story, work family, living, and posting like it's your job (captions, Reels, stories)
+- **Eight-year eXp anniversary.** A story sequence retold the day she signed: she read the roughly 30-page contract at the coffee shop in her church "to be closer to God" making the decision, and it felt so different from the industry at the time that it was scary ("Am I making a BIG mistake? Am I making a fool of myself?"). Then the realization: "I already don't have: stocks, rev share, the ability to earn my cap back... What was I loosing??? Literally only had to GAIN!"
+- **The same-question pitch.** "If you already don't get stocks (ownership) in the brokerage you are at... If you can't earn your cap back... If you can't make additional monthly income through revenue share... Then you are in the same situation I was 8 years ago." Her 8-year scoreboard: stock she can one day use "to buy a beach condo to retire in," business partners "who make money when I make money," 8 rental properties in 4 states (she learned to invest from her upline), and almost $5M in revenue share paid by eXp. A message from a fellow leader that day ("Thanks for changing my life... so close to hitting $5M in rev share") was screenshotted into her story.
+- **What she did that most don't.** Opted into the stock program from day 1, became a top producer, built a local standard team, became a top agent attractor, went to every eXp event and introduced herself to nearly everyone, and "retired my husband in year 2." Her read on why results differ: "the company meets you where you meet it... you do have to put some EXTRA effort into it."
+- **"Isn't it too late?"** Her answer: "It's even better NOW!" She framed the current agent-attraction bonus as something that did not exist when she joined, and did "girl math" on bringing one capping agent friend a month for a year. Closing line: "You GROW, we grow!" ([permalink](https://www.instagram.com/p/De7FY68G8vE/))
+- **Caption, same day:** "At this point in my career I have literally reached all my goals... My next goal is YOU + ME. I want to change thousands of lives!" She named the pull for realtors who only earn commissions: retire a spouse, recurring monthly income to get off "the real estate rollercoaster," stock to retire on, and trainings "ahead of the industry." The challenge: "Did they make you a millionaire?? Why not? I'll tell you WHY!! Cause they CAN'T."
+- **Work family** ([permalink](https://www.instagram.com/reel/De6seA5TM2U/)): "I'm super over protective. I love my people and I want them around for years. I run my business like my #workfamily." Many of her team have been with her 5 to 14+ years, and they "talk about family and life while we get work stuff done."
+- **"I need to LIVE!"** ([permalink](https://www.instagram.com/reel/De63N_xTA5w/)): "most people have a pretty boring life... I need to LIVE! Sing, dance, travel, play games... goof off and I need friends who are the same way." A story added: "Life is already hard, and I don't wanna be around people who make it even harder."
+- **The "secret" is posting** ([permalink](https://www.instagram.com/reel/De7IGmpTShR/)): a joking Reel about telling realtors her secret is running "the real estate cartel" because they argue when she says "just post multiple times per day." Her real cadence: multiple posts a day across YouTube, Instagram, Facebook and LinkedIn, plus one email a day to her database "so they don't have a chance to forget me." She skips boring just-listed/just-sold posts ("no one cares") for funny posts, industry news, life, and education. Advice: post what you learned today and what's new in your market (a new school, mortgage type, builder) and "be the source of real estate education, information and entertainment... when they are ready to buy from you, sell with you, or learn from you they will know exactly where to find YOU." "Instagram is my job!!"
+- **Personal:** Her oldest friend in America began as her manager at her first US job (secretary and shipping/receiving at a barcoding company); he drove up to the new Michigan lake cabin with chocolates and champagne to christen it ([permalink](https://www.instagram.com/p/De6wVLwm9sv/)). Travel tip in stories: carry TSA, touchless and Clear so "if one line is long u use the other one," and "Invest back into your life to make it easier to do what you need to do" (she added she's no CPA). A Reel on her curl lasting a week ("flew up to MI from FL, renovated a house up there, flew back down") credited her curling wand ([permalink](https://www.instagram.com/reel/De7Y6YKz3HG/)). Back home in Florida for the Lions game; her English Old English puppy Gracie had eye surgery the next day for cherry eye in both eyes.
+- Skipped: a reshared Montana top-10 graphic, "Partner"-keyword and Wednesday-presentation logistics, kid and tag clips, a garbled-audio story, a black frame.
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -261,6 +273,14 @@ A team-leader system: five agents compete for one seat on the team, transactions
 
 > "Use AI. I do. But check what it gives you." — [Oct 23 Reel](https://www.instagram.com/reel/De2lI3fzFpc/)
 
+> "At this point in my career I have literally reached all my goals... My next goal is YOU + ME." — [Oct 25 caption](https://www.instagram.com/p/De7FY68G8vE/)
+
+> "Be the source of real estate education, information and entertainment source and when they are ready to buy from you, sell with you, or learn from you they will know exactly where to find YOU." — [Oct 25 Reel](https://www.instagram.com/reel/De7IGmpTShR/)
+
+> "I need to LIVE! Sing, dance, travel, play games... goof off and I need friends who are the same way." — [Oct 25 Reel](https://www.instagram.com/reel/De63N_xTA5w/)
+
+> "Life is already hard, and I don't wanna be around people who make it even harder." — Oct 25 story
+
 ## Wiki Pages Updated
 - [[Gogo Bethke]] — eXpCon 2026, 8-year eXp mark, Agent Games/Extend a Hand
 - [[Social Media and Email Marketing]] — Amy Gregory/Gogo proof point: agent attraction with no purchased leads or cold calls
@@ -320,3 +340,6 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - [[Gogo Bethke]] — Oct 23: Gma's cabin LTR-to-STR story, girl math on the remodel
 - [[#teamgogo]] — Oct 23: Private Room stories of Christina and Krystal
 - [[Gogo Bethke]] — Oct 24: senior football night in Michigan, cabin renovation labor, toothless-Reel curveball, name day
+- [[Gogo Bethke]] — Oct 25: 8-year anniversary story, work family, "I need to LIVE," oldest friend, Gracie
+- [[eXp Realty]] — Oct 25: "same situation I was 8 years ago" pitch, what she did to get the results
+- [[Social Media and Email Marketing]] — Oct 25: posting is the job, "be the source" cadence

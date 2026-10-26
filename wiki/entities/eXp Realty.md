@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, brokerage, real-estate]
 sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 # eXp Realty
@@ -200,6 +200,10 @@ Oct 11 2026 stories: Gogo noted that about 84% of eXp agents have not brought a 
 - MCP connectors (Hub, MyeXp, eXp University, Canva, CRMs, divisions) for Claude, ChatGPT, Gemini and Grok; eXp Ready (pay-at-close seller home prep via Notable); ShowGo (open-house and showing marketplace app); a new mortgage JV lending partner.
 
 Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]].
+
+## "Same Situation I Was 8 Years Ago" (Oct 25 2026 Instagram)
+
+On her eXp anniversary Gogo laid out her case in stories: if your brokerage gives no stock (ownership), no way to earn your cap back and no revenue share, "you are in the same situation I was 8 years ago." What she says it became: stock to retire on, partners who earn when she earns, 8 rentals in 4 states, and almost $5M in eXp revenue share. She credits the results to using everything eXp offers from day 1 (stock program, events, introducing herself widely): "the company meets you where you meet it." She also pointed to today's agent-attraction bonus as an improvement over when she joined. See [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Related
 

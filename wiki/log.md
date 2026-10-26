@@ -960,3 +960,6 @@ GoGet'Em training (Google Doc). New entity [[Leila Modetz]]. Updated Negotiation
 
 ## [2026-10-25] ingest | Instagram captions and stories through 2026-10-24
 2 captions and 12 stories (2026-10-23 to 2026-10-24). Extended Instagram — 2026-10; updated Gogo Bethke. Almost all personal/family; skipped stadium-sign fragments, tags, promos.
+
+## [2026-10-26] ingest | Instagram captions and stories through 2026-10-25
+7 captions and 23 stories (2026-10-25). Extended Instagram — 2026-10; updated Gogo Bethke, eXp Realty, Social Media and Email Marketing. Skipped reshared Montana graphic, comment-keyword and presentation logistics, garbled-audio story, black frame.
