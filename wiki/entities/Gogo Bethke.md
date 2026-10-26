@@ -231,6 +231,11 @@ Source: [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell
 
 - **Back in Michigan (Oct 24).** After a day of cabin renovation labor, she and Duane watched their kids' friends play their last high school football game as seniors in Pinckney, MI: "So sad and so beautiful at the same time." Hungarian roots show on name days (Gyöngyvér), and she joked about a missing front tooth that turned a "fix it tomorrow" into an 8-month issue: "you make the BEST of it!!" See [[Instagram — 2026-10 (Gogo Bethke)]].
 
+## The $25K Mastermind Room (verified, May 2019)
+- On May 1, 2019, months after joining eXp, Gogo sat in an industry mastermind with real estate "rockstars" and wrote: "This #mastermind is $25K otherwise and I get it for FREE because I joined @exprealty_" ([permalink](https://www.instagram.com/p/Bw8DmZenVoA/)).
+- She did not pay $25,000 for it, and no source places it in 2015. No source says she paid $25K for any mastermind, felt sick writing such a check, or that a $25K mastermind changed how she built her team. Do not tell that version.
+- The true version still works as proof of the value of the right room: access she would otherwise have had to pay $25K for came with joining eXp. Source: raw caption `Clippings/instagram/2019-05.md` (her pre-2026 Instagram history is not otherwise ingested).
+
 ## Related
 
 - [[wiki/entities/#teamgogo]]
