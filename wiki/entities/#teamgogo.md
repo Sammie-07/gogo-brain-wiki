@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, real-estate, team]
 sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-24
+updated: 2026-10-26
 ---
 
 # #teamgogo 
@@ -98,6 +98,9 @@ Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo A
 - **Private Room, Oct 22 recap.** Krystal taught the noticing sheet; Chrissi built a Pennsylvania team of brand-new agents (5X ICON, 376 deals in 2025) driven by "How many lives can I change?" See [[Instagram — 2026-10 (Gogo Bethke)]].
 
 - **Private Room, Oct 23 recap.** Christina's story became "It's not rejection. It's protection" (faith carried her past a friend hiring another agent; see [[Mindset]]), and Krystal's Day Two talk on AI sounding right but missing local licensing rules (see [[AI for Real Estate]]). Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
+## How Gogo Is Paid — No Fee to Join (Oct 26 2026)
+Gogo's standing answer to "what's your cut?": nothing. At eXp an agent keeps an 80/20 split with a $16,000 annual cap; the 20% goes to eXp, which pays Gogo out of the company's portion. No team split, no commission percentage, no monthly teamgogo membership fee; the agent's split doesn't change by partnering with her. Partners get weekly live trainings, 1,000+ hours of recorded education, agent-attraction training, social/marketing strategy, tech support, onboarding help, and a 1,700+ agent community. "You bring your license. I'll bring the army." Culture: "we train together, we travel together, we mastermind together... we send referrals to each other." Her own team (8 employees) meets monthly in "Pitch your ideas to Gogo," each bringing 3 ideas (money maker, automation, AI agent, qualifying chatbot, agent-attraction posts, sales, dashboards). Chrissi's story (Oct 26): a $38,000-a-year teacher who earned about $30,000 on one second-month deal, now a 5X ICON agent whose team closed 376 deals in 2025 — "What she built over the next five years is what I want you to pay attention to." Source: [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Related
 

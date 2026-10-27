@@ -2,7 +2,7 @@
 type: concept
 tags: [negotiation, communication, leadership, mindset]
 sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Real-World Negotiation Hacks]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[No Is Your Friend — Closing and Negotiation (GoGet'Em Training)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 # Negotiation
@@ -161,6 +161,9 @@ Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo A
 - See [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]] for every script.
 
 Source: [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]].
+
+## Gogo's First Commission-Cut Ask (Oct 26 2026)
+Nobody teaches negotiation: "the first time someone asked me, would I reduce my commission, I froze." Her view is that once marketing brings in clients you must also become a strong negotiator and objection handler to convert leads. Source: [[Instagram — 2026-10 (Gogo Bethke)]].
 
 ## Related
 

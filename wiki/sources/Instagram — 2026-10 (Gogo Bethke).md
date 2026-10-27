@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-25 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-26 so far.
 
 ## Key Takeaways
 
@@ -201,6 +201,15 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - **Personal:** Her oldest friend in America began as her manager at her first US job (secretary and shipping/receiving at a barcoding company); he drove up to the new Michigan lake cabin with chocolates and champagne to christen it ([permalink](https://www.instagram.com/p/De6wVLwm9sv/)). Travel tip in stories: carry TSA, touchless and Clear so "if one line is long u use the other one," and "Invest back into your life to make it easier to do what you need to do" (she added she's no CPA). A Reel on her curl lasting a week ("flew up to MI from FL, renovated a house up there, flew back down") credited her curling wand ([permalink](https://www.instagram.com/reel/De7Y6YKz3HG/)). Back home in Florida for the Lions game; her English Old English puppy Gracie had eye surgery the next day for cherry eye in both eyes.
 - Skipped: a reshared Montana top-10 graphic, "Partner"-keyword and Wednesday-presentation logistics, kid and tag clips, a garbled-audio story, a black frame.
 
+### Oct 26 — "There is no trying," the no-fee teamgogo model, Chrissi's $38K-to-$30K story, and a Monday training run-down (captions, Reels, stories)
+- **"There is no such a thing as trying"** ([permalink](https://www.instagram.com/reel/De9U9FhTjIW/)): "Trying is ideas that cross your mind and you THINK about them... There is no trying!! There is DOING!! And doing will get you results! Trying won't." Her morning story expanded on it: the word that bothers her most is an agent saying "I have tried everything." Her test: how many open houses did you hold last month, did you ask every top producer in your area for their listings and the chance to hold them open, did you visit new-construction model homes (open every day) and make video content from them? "If you keep trying, you keep not having. If you start doing, you start seeing results."
+- **Chrissi's before-and-after** ([permalink](https://www.instagram.com/reel/De9oRUGzwfQ/)): a former teacher who earned $38,000 a year and could not find time to make a phone call, see a doctor, or go to the bathroom. In her second month in real estate she represented both sides of a deal and earned around $30,000. Gogo's framing: that was not a normal second month and a commission check carries expenses and taxes, but "That first check got her attention. What she built over the next five years is what I want you to pay attention to": five years later a 5X ICON agent whose team closed 376 deals in 2025. "Changing careers is one decision. Learning the business, showing up, and building a team that can close 376 transactions takes a whole lot more." Why she held the Private Room: "You see the production numbers online. I want you to hear what came before them, too." In her own story clip Chrissi added that after teaching, real estate felt "a hundred times" easier.
+- **"You will NEVER pay me a penny to be part of #teamgogo"** ([permalink](https://www.instagram.com/reel/De-E9V8TQqQ/)): at eXp an agent keeps an 80/20 split with a $16,000 annual cap, and that 20% goes to eXp, not her; eXp pays her out of the company's portion. No team split, no percentage of commissions, no monthly membership fee, and the split does not change because an agent partners with her. What partners get: weekly live trainings, 1,000+ hours of recorded education, agent attraction training and support, social media and marketing strategy, tech support and systems, onboarding help, a community of 1,700+ agents, access to top producers and experts, and "a team that actually answers when you need help." "I built teamgogo because I believe we can grow bigger businesses TOGETHER than we ever could alone... You bring your license. I'll bring the army." A same-day story gave the culture version: "Team Gogo is not a team in the sense of a team... we are family, we train together, we travel together, we mastermind together, we share our knowledge, we send referrals to each other... Not a single Team Gogo agent has ever cut me a check and they never will."
+- **How her own team generates ideas.** A story described a monthly meeting called "Pitch your ideas to Gogo": all 8 employees each bring 3 new ideas across money makers, something to automate, an AI agent to build, a chatbot that talks to and qualifies people, agent-attraction post ideas, Black Friday sales, and a co-sponsorship dashboard.
+- **Monday run-down in stories.** The negotiation live (three objection handlers answering the same objections, "turned it into a game") has a replay; her own first-time memory: someone asked if she'd reduce her commission and "I froze." Becoming a good marketer means also becoming a good negotiator and objection handler to turn leads into clients. Team Gogo trains every Wednesday at 1 PM ET and opens the last Wednesday of each month to the public; Oct 28 was the last open one of 2026 (HeyGen AI avatar training), followed by Wine Not eXp at 8 PM ET the same day, where she explains the cap, post-cap transactions, stock option program and revenue share. She also pitched becoming a full-service agent (earning half a percent on the mortgages her buy-side transactions generate) because "multiple sources of income is much better than one."
+- **Podcast.** A Women Who Rise episode promo describes her as arriving in America with $200 and a dream and now leading an organization of 1,700+ agents, with the theme of taking back time without sacrificing the life she wanted.
+- Skipped: comment-keyword logistics, duplicate story takes, a reshared promo graphic, individual agent shout-outs.
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -281,6 +290,12 @@ A team-leader system: five agents compete for one seat on the team, transactions
 
 > "Life is already hard, and I don't wanna be around people who make it even harder." — Oct 25 story
 
+> "There is no trying!! There is DOING!! And doing will get you results! Trying won't." — [Oct 26 Reel](https://www.instagram.com/reel/De9U9FhTjIW/)
+
+> "You bring your license. I'll bring the army." — [Oct 26 Reel](https://www.instagram.com/reel/De-E9V8TQqQ/)
+
+> "Changing careers is one decision. Learning the business, showing up, and building a team that can close 376 transactions takes a whole lot more." — [Oct 26 Reel](https://www.instagram.com/reel/De9oRUGzwfQ/)
+
 ## Wiki Pages Updated
 - [[Gogo Bethke]] — eXpCon 2026, 8-year eXp mark, Agent Games/Extend a Hand
 - [[Social Media and Email Marketing]] — Amy Gregory/Gogo proof point: agent attraction with no purchased leads or cold calls
@@ -343,3 +358,7 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - [[Gogo Bethke]] — Oct 25: 8-year anniversary story, work family, "I need to LIVE," oldest friend, Gracie
 - [[eXp Realty]] — Oct 25: "same situation I was 8 years ago" pitch, what she did to get the results
 - [[Social Media and Email Marketing]] — Oct 25: posting is the job, "be the source" cadence
+- [[Mindset]] — Oct 26: "there is no trying, there is doing"; the open-house/listing/model-home test
+- [[#teamgogo]] — Oct 26: no-fee model (80/20, $16K cap, eXp pays her), what partners get, Chrissi's teacher-to-ICON story, "Pitch your ideas to Gogo" meeting
+- [[eXp Realty]] — Oct 26: how eXp pays the sponsor out of company dollars; Oct 28 open training and Wine Not eXp
+- [[Negotiation]] — Oct 26: the "I froze" first-reduce-commission memory

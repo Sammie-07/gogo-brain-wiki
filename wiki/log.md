@@ -966,3 +966,6 @@ GoGet'Em training (Google Doc). New entity [[Leila Modetz]]. Updated Negotiation
 
 ## [2026-10-26] edit | Correct the "$25K mastermind" story
 An AI-generated story said Gogo paid $25K for a mastermind in 2015. No source supports it; the only source (her May 1, 2019 Instagram caption) says the $25K mastermind was free through eXp. Added the verified version to [[Gogo Bethke]] and a Standing Content Rule in CLAUDE.md.
+
+## [2026-10-27] ingest | Instagram captions and stories through 2026-10-26
+3 captions and 12 stories (2026-10-26). Extended Instagram — 2026-10; updated Mindset, #teamgogo, eXp Realty, Negotiation. Skipped comment-keyword logistics, duplicate story takes, reshared promo, individual agent shout-outs.

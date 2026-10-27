@@ -205,6 +205,9 @@ Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo A
 
 On her eXp anniversary Gogo laid out her case in stories: if your brokerage gives no stock (ownership), no way to earn your cap back and no revenue share, "you are in the same situation I was 8 years ago." What she says it became: stock to retire on, partners who earn when she earns, 8 rentals in 4 states, and almost $5M in eXp revenue share. She credits the results to using everything eXp offers from day 1 (stock program, events, introducing herself widely): "the company meets you where you meet it." She also pointed to today's agent-attraction bonus as an improvement over when she joined. See [[Instagram — 2026-10 (Gogo Bethke)]].
 
+## Oct 26 2026 Instagram: how the sponsor is paid
+Agents pay no one extra to partner with Gogo: the 20% of an 80/20 split (capped at $16,000 a year) goes to eXp, and eXp pays her revenue share from company dollars. She also promoted the Oct 28 open Team Gogo training (last open one of 2026) followed by Wine Not eXp at 8 PM ET, and the full-service-agent program (half a percent on mortgages from buy-side deals). Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
 ## Related
 
 - [[Gogo Bethke]]
