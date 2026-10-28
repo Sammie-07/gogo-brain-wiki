@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-26 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-27 so far.
 
 ## Key Takeaways
 
@@ -210,6 +210,14 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - **Podcast.** A Women Who Rise episode promo describes her as arriving in America with $200 and a dream and now leading an organization of 1,700+ agents, with the theme of taking back time without sacrificing the life she wanted.
 - Skipped: comment-keyword logistics, duplicate story takes, a reshared promo graphic, individual agent shout-outs.
 
+### Oct 27 — Be who God created you to be, surround yourself with people who want you to win, the one-year closet rule, and Circle calls (Reels, captions, stories)
+- **Gabby's no.** On her first day licensed, someone handed Gabby a list of everything she "had" to do to succeed. Her answer was no. Five years in she has $60M in career volume across 140 transactions. Gogo: "She refused to believe she had to become somebody else to do it." Gabby in her own words: "I was never gonna change who God created me to be. And I knew if I stay true to who he created me to be, then I was going to just like take off like a rocket." Gogo's own version: she has an accent, she is opinionated, and "imagine me trying to hide all of that every time I talked to a client. Exhausting." The rule: learn from successful people, ask questions, practice the skills, "but give yourself permission to use what you learn in a way that actually sounds like YOU." ([Reel](https://www.instagram.com/reel/DfAMUJuTGz0/))
+- **The people around you.** Asked what a new or struggling agent needs to change their life, Kerry (26 years in Denver, 3X ICON, roughly 450 transactions) said look at who you surround yourself with. Gogo's questions: do they want you to win, will they share what's working, will they challenge your excuses and help when you're stuck, or do they just agree the market is terrible? "You watch someone do something you thought wasn't possible, and suddenly you're asking HOW instead of IF." ([Reel](https://www.instagram.com/reel/DfAmc_JzsHz/))
+- **No ceiling.** "I would love it if everybody I work with does half a billion more than me." She wants people to take what she knows, add what they know, and go further faster: "Why would I want to put a ceiling on you?"
+- **The one-year closet rule.** For two weeks she may only wear something she hasn't worn in a year; if she doesn't feel like wearing it, it goes to the sale or donation pile. Her last wear of one set was in Italy. "Keep that closet clean and organized and not overflowing." ([Reel](https://www.instagram.com/reel/DfAakmVzA71/))
+- **Circle calls.** Stories from the day's Circle call: the Circle is her coaching, and she loves that she is not the only one who monologues, because members help each other. Her stated goal is to take multiple-six-digit earners to seven digits "without stress and still have a life." Many members are burnt out on running a local team and rebuilding it, and what she teaches is passive and recurring income, wealth, "the right team around you for support" and an advisor team, to create time, location and financial freedom. On accountability, said on the call: "It's just like raising kids. If there is no consequences, they can just keep doing it." (Skipped members' own comments and the call's attendee lists.)
+- **Home.** Gracie (the family dog) came out of double eye surgery for cherry eye, and Duane filmed the recovery; Gogo asked him to bring her work phone and the wine while she couldn't move.
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -296,6 +304,12 @@ A team-leader system: five agents compete for one seat on the team, transactions
 
 > "Changing careers is one decision. Learning the business, showing up, and building a team that can close 376 transactions takes a whole lot more." — [Oct 26 Reel](https://www.instagram.com/reel/De9oRUGzwfQ/)
 
+> "Imagine me trying to hide all of that every time I talked to a client. Exhausting." — [Oct 27 Reel](https://www.instagram.com/reel/DfAMUJuTGz0/)
+
+> "Give yourself permission to use what you learn in a way that actually sounds like YOU." — [Oct 27 Reel](https://www.instagram.com/reel/DfAMUJuTGz0/)
+
+> "You watch someone do something you thought wasn't possible, and suddenly you're asking HOW instead of IF." — [Oct 27 Reel](https://www.instagram.com/reel/DfAmc_JzsHz/)
+
 ## Wiki Pages Updated
 - [[Gogo Bethke]] — eXpCon 2026, 8-year eXp mark, Agent Games/Extend a Hand
 - [[Social Media and Email Marketing]] — Amy Gregory/Gogo proof point: agent attraction with no purchased leads or cold calls
@@ -362,3 +376,7 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - [[#teamgogo]] — Oct 26: no-fee model (80/20, $16K cap, eXp pays her), what partners get, Chrissi's teacher-to-ICON story, "Pitch your ideas to Gogo" meeting
 - [[eXp Realty]] — Oct 26: how eXp pays the sponsor out of company dollars; Oct 28 open training and Wine Not eXp
 - [[Negotiation]] — Oct 26: the "I froze" first-reduce-commission memory
+- [[Mindset]] — Oct 27: be who God created you to be; who you surround yourself with; the one-year closet rule
+- [[#teamgogo]] — Oct 27: Private Room stories of Gabby and Kerry; "no ceiling"
+- [[The Circle]] — Oct 27: seven-figure-without-stress goal, burnout on local teams, members help each other
+- [[Gogo Bethke]] — Oct 27: accent and opinions on camera, closet rule, Gracie's eye surgery

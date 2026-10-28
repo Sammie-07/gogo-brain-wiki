@@ -969,3 +969,6 @@ An AI-generated story said Gogo paid $25K for a mastermind in 2015. No source su
 
 ## [2026-10-27] ingest | Instagram captions and stories through 2026-10-26
 3 captions and 12 stories (2026-10-26). Extended Instagram — 2026-10; updated Mindset, #teamgogo, eXp Realty, Negotiation. Skipped comment-keyword logistics, duplicate story takes, reshared promo, individual agent shout-outs.
+
+## [2026-10-28] ingest | Instagram captions and stories through 2026-10-27
+3 captions and 13 stories (2026-10-26 21:37 to 2026-10-27 19:26 UTC). Extended Instagram — 2026-10; updated Mindset, #teamgogo, The Circle, Gogo Bethke. Skipped a team-call reshare, members' remarks and attendee lists on Circle-call stories, duplicate closet clip, garbled fragments. Dropped a Circle average-income figure that conflicts with the page's existing number.
