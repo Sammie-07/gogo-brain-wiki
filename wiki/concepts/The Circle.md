@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [the-circle, coaching, mastermind, operations, payment, contract, community, four-freedoms, positioning]
-sources: [[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]], [[The Circle Coaching Contract (Gogo Bethke)]], [[The Circle Sales Page (gogobethke.com)]], [[Mindset Shift From Real Estate Agent To Entrepreneur]], [[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]], [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]], [[Instagram — 2026-10 (Gogo Bethke)]]]
-updated: 2026-10-28
+sources: [[[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]], [[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]], [[The Circle Coaching Contract (Gogo Bethke)]], [[The Circle Sales Page (gogobethke.com)]], [[Mindset Shift From Real Estate Agent To Entrepreneur]], [[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]], [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]], [[Instagram — 2026-10 (Gogo Bethke)]]]
+updated: 2026-10-29
 ---
 
 # The Circle
@@ -230,6 +230,11 @@ Source: [[The Circle Coaching — Handling Criticism at the Top, Agent Attractio
 ## Seven Figures Without the Stress (Oct 27 2026 Instagram)
 
 After a Circle call, Gogo said the Circle is her coaching and that she loves when members help each other instead of her monologuing. The goal is to take multiple-six-digit earners to seven digits "without stress and still have a life." Many members are burnt out on running a local team and rebuilding it, so the teaching centers on passive and recurring income, wealth, "the right team around you for support" and an advisor team, to create time, location and financial freedom. On accountability she said: "It's just like raising kids. If there is no consequences, they can just keep doing it." ([[Instagram — 2026-10 (Gogo Bethke)]])
+
+## The Automated Clarity-Call Funnel (Circle coaching, Oct 2026)
+- A chatbot plus second brain: a follower takes a 10-question bottleneck survey; the brain generates a blueprint-style report (modeled on the Circle clarity-call blueprint) and delivers half. The full report requires a clarity call. Paid ads for the Circle will feed it.
+
+Source: [[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]].
 
 ## Related
 

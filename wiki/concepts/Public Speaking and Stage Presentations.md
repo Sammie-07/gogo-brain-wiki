@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [public-speaking, personal-branding, marketing, agent-attraction]
-sources: ["[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]"]
-updated: 2026-09-24
+sources: ["[[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]"]
+updated: 2026-10-29
 ---
 
 # Public Speaking and Stage Presentations
@@ -26,6 +26,14 @@ A talk is a marketing asset, not an information dump. Go **deep on one topic**, 
 > "A minute a slide — a minute on stage is like holding a plank."
 
 Pairs with [[Personal Branding]] (podcast guesting, posting real numbers as proof) and [[Co-Sponsorship and Agent Attraction System]] (using stage/podcast visibility to attract agents).
+
+## Selling from Stage (Circle coaching, Oct 27)
+- Confirm the organizer allows selling first. ~1 minute per slide.
+- **Offer in the middle, not the end,** nonchalant ("if you want more, scan this"), on screen ~30 seconds while you keep talking.
+- Collect email or phone through a form and send the link (e.g. GoHighLevel) instead of relying on a QR link that vanishes. Add a deadline when the price isn't available elsewhere.
+- End with a free gift tied to a 7-day email follow-up back to the offer; a 10% coupon on day 7 is the last touch.
+
+Source: [[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]].
 
 ## Related
 

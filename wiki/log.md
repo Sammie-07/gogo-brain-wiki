@@ -975,3 +975,9 @@ An AI-generated story said Gogo paid $25K for a mastermind in 2015. No source su
 
 ## [2026-10-29] ingest | Instagram captions and stories through 2026-10-28
 1 caption and 13 stories (2026-10-27 21:26 to 2026-10-28 18:30 UTC). Extended Instagram — 2026-10; updated #teamgogo, Beth Silverman, Wealth Building, eXp Realty. Skipped family/Halloween clips, garbled-audio workout story, recipe text, comment-keyword and training-registration logistics; left team agents unnamed.
+
+## [2026-10-29] ingest | The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)
+Private Circle call (NDA; raw not retained; fetched via Google Drive since the link wasn't public). Updated Real Estate Teams, AI for Real Estate, The Circle, Co-Sponsorship and Agent Attraction System, Wealth Building, Public Speaking and Stage Presentations, Social Media and Email Marketing, Gogo Bethke. Dropped an unverifiable self-ranking claim and sign-up numbers she asked not to be quoted.
+
+## [2026-10-29] ingest | Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)
+Open to the Public (VTT saved to Clippings). New entity [[Audrey Van Zee]]. Updated AI for Real Estate, Social Media and Email Marketing, Lead Generation, Wealth Building, Gogo Bethke, Kristy Waker, Nick Krem (captioned "Michael"; confirmed Nick by Sam), Halo, Jason Dupree, #teamgogo. Left out emails read aloud, attendee names and the language Gogo dubbed into. Sources 400 → 402.

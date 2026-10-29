@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, ai, speaker, real-estate, agent-attraction]
-sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]"]
-updated: 2026-10-22
+sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]"]
+updated: 2026-10-29
 ---
 
 # Nick Krem
@@ -37,6 +37,11 @@ Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing D
 - AI recommendation takes time (~2 months of "digital density"); "If your website is still not being found through different AI tools, you will never be recommended by them."
 
 Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]].
+
+## Oct 28, 2026 Open to the Public
+- Halo case study: local FAQs plus an "Ask [agent]" page earned AI-search visibility and two $1.5M listings. Warned that MLSs are blocking unapproved AI tools and will approve specific connectors.
+
+Source: [[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]].
 
 ## Related
 

@@ -101,6 +101,7 @@
 | [[entities/Kim Fraser]]         | Top eXp solo agent (introduced as #1), WA/AZ/TX; farming (~15K mailers/mo), 80–90 open houses/yr, "do not do anything halfway" listing marketing. |
 | [[entities/Nathan (Synthetic Echo podcast)]] | Former Toronto-area broker turned AI educator; GoGet'Em guest on browser-controlling AI agents; Grok bot-team course. |
 | [[entities/Leila Modetz]]       | Michigan agent; GoGet'Em negotiation panelist; value-stacking 3% fee, weekly seller updates, buyer-gap conversation up front. |
+| [[entities/Audrey Van Zee]]     | HeyGen community leader; Oct 2026 Open to the Public on AI avatar videos (three-part avatar, neutral filming, Video Agent + AI Studio, always disclose AI). |
 
 ---
 
@@ -136,7 +137,7 @@
 
 ---
 
-## Sources (400 ingested)
+## Sources (402 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
@@ -530,6 +531,8 @@
 | [[sources/The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]] | Gogo Bethke | — | NDA de-identified (raw not retained): AI search (A for SEO, F for AEO/GEO; Claude audit prompt; ~1 month to re-index; skip brokerage sites); one landing page per money maker; "if you can sell it one day, build it separate"; re-test keywords after site changes; ManyChat keyword-for-life, top-5 money-maker keywords, seller CMA funnel, two-click partner funnel + partner-page checklist; no flyers / be in 95% of posts; lock .com + handle; Claude in Chrome; mine post history; MCP offboarding cleanup rules; impatience as a success trait. |
 | [[sources/teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]] | Kristy Waker | 2026-10-21 | #teamgogo eXpCon tech recap: eXp MCP connector setup (Rafael) + prompt library; Kristy's automated onboarding + downline tree; agents' AI builds (agent-attraction pipeline, Tuesday CRM re-engagement, send from the CRM); eXp Ready, ShowGo, mortgage JV change; Halo; Jason Dupree's mortgage minute; Oct 28 last Open to the Public of 2026. |
 | [[sources/Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]] | Gogo Bethke | 2026-10-20 | GoGet'Em objection game show: scripts from Curt Shewell, Austin Rankin and Leila Modetz for discount brokerages, who-pays, commission gaps, buyer agreements, listing-agent-direct, pricing high, guaranteed sale, rates, pre-approval, the 100-day reduction; Gogo's "if I can't negotiate my own commission…", price/condition/location, pleasure vs pain; her full sponsor story. |
+| [[sources/The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]] | Gogo Bethke | 2026-10-27 | NDA de-identified (raw not retained): monthly "Pitch Your Ideas to Gogo" meeting + staff audits; an AI agent per role (nightly research, do the job, continuity); survey-to-clarity-call Circle funnel; co-sponsor dashboard + booking-page rules + "Let's talk eXp"; hire slow/fire fast, three-strike contract, graduate-don't-fire, plan before the problem; mega-team profitability (~13%) vs solo; dollar split, pay yourself first, board of directors; $49 product as hand-raiser; selling from stage (offer mid-talk, collect contact info, 7-day follow-up). |
+| [[sources/Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]] | Audrey Van Zee | 2026-10-28 | Open to the Public: HeyGen AI avatars (motion/looks/voice, no-props filming, models + credits, voice tuning, Video Agent vs AI Studio, real estate templates, Brand Glossary, pricing, always disclose); Nick Krem on Halo AI-search FAQs + MLS AI limits; Gogo's 10-blog local-questions method and "copy the one you love"; REMLO; Jason Dupree's Fed Day minute. |
 
 ---
 
