@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, real-estate, team]
 sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 # #teamgogo 
@@ -105,6 +105,10 @@ Gogo's standing answer to "what's your cut?": nothing. At eXp an agent keeps an 
 ## Room to Be Yourself, No Ceiling (Oct 27 2026)
 
 From the Private Room one-on-ones: Gabby (five years, $60M career volume, 140 transactions) and Kerry (26 years in Denver, 3X ICON, about 450 transactions) are Gogo's examples of agents who stayed themselves and surrounded themselves with people who want them to win. Gogo's stated aim for the family: "You have people to learn from and room to be yourself while you grow," and "I would love it if everybody I work with does half a billion more than me." ([[Instagram — 2026-10 (Gogo Bethke)]])
+
+## Team Wins as Joy; Private Room Teaching (Oct 28 2026)
+
+Gogo's measure of a great day (Oct 27): #teamgogo agents winning, including a first closing and an agent who hit ICON in her first year (20 transactions after cap, earning back the $16,000 cap and her stock). Private Room Day One format in action: [[Beth Silverman]] taught her investor-content process; Gogo: "Inside our teamgogo family, we get to learn from each other's experience. Then it's our responsibility to put it to work." ([[Instagram — 2026-10 (Gogo Bethke)]])
 
 ## Related
 

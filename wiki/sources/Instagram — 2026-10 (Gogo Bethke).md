@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-27 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-28 so far.
 
 ## Key Takeaways
 
@@ -218,6 +218,13 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - **Circle calls.** Stories from the day's Circle call: the Circle is her coaching, and she loves that she is not the only one who monologues, because members help each other. Her stated goal is to take multiple-six-digit earners to seven digits "without stress and still have a life." Many members are burnt out on running a local team and rebuilding it, and what she teaches is passive and recurring income, wealth, "the right team around you for support" and an advisor team, to create time, location and financial freedom. On accountability, said on the call: "It's just like raising kids. If there is no consequences, they can just keep doing it." (Skipped members' own comments and the call's attendee lists.)
 - **Home.** Gracie (the family dog) came out of double eye surgery for cherry eye, and Duane filmed the recovery; Gogo asked him to bring her work phone and the wine while she couldn't move.
 
+### Oct 27–28 — Team wins make a great day, Beth's investor-content process, Extend a Hand (Reel caption, stories)
+- **A great day = team wins.** Cooking dinner, Gogo asked herself why the day felt so good and traced it to #teamgogo: one frontline agent closed a first transaction, and an agent she sponsored last year hit her one-year anniversary having reached ICON in year one (20 transactions after cap, which earned back the $16,000 cap she paid eXp and her stock award). "My team Gogo mama heart is happy." (Story; agents unnamed here.)
+- **Beth's investor content, Private Room Day One** ("Are you in, or are you in?" Reel, [permalink](https://www.instagram.com/reel/DfCt7dDTGQQ/)). Rather than wait for an investor to ask, [[Beth Silverman]] tours houses and runs the numbers, then makes content by price point (under $500K, under $800K, under $1M): cash needed to get in, projected rent, expenses, does it make sense. Then she calls her investors with a specific property. Her story walkthrough: source, scout, pencil, pitch, position; with 20-25% down plus closing costs and set-up fees spelled out, and a HELOC on the main home from a credit union as the way to fund it. Gogo: "Think about how different that conversation is when you've already done the homework." Beth: 15 years, 5X ICON, $25M across 48 deals in her best year. Gogo's why for Private Room: "I want you leaving with something you can go home and DO," and "Inside our teamgogo family, we get to learn from each other's experience. Then it's our responsibility to put it to work."
+- **Extend a Hand.** eXp's 501(c)(3) charitable foundation generated about $70K in donations at eXpCon Salt Lake City, which goes back to eXp agents in hardship. "Did I tell you I love this company?!"
+- **Scripture.** Posted a Proverbs 14 page with the verse "Walk with the wise and you become wise, but the companion of fools fares badly" highlighted, echoing her "who you surround yourself with" theme.
+- Skipped: Halloween/family clips with Duane, a workout-count story with garbled audio, recipe text, and comment-keyword and presentation/training registration logistics.
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -310,6 +317,10 @@ A team-leader system: five agents compete for one seat on the team, transactions
 
 > "You watch someone do something you thought wasn't possible, and suddenly you're asking HOW instead of IF." — [Oct 27 Reel](https://www.instagram.com/reel/DfAmc_JzsHz/)
 
+> "Think about how different that conversation is when you've already done the homework." — [Oct 28 Reel](https://www.instagram.com/reel/DfCt7dDTGQQ/)
+
+> "I want you leaving with something you can go home and DO." — [Oct 28 Reel](https://www.instagram.com/reel/DfCt7dDTGQQ/)
+
 ## Wiki Pages Updated
 - [[Gogo Bethke]] — eXpCon 2026, 8-year eXp mark, Agent Games/Extend a Hand
 - [[Social Media and Email Marketing]] — Amy Gregory/Gogo proof point: agent attraction with no purchased leads or cold calls
@@ -380,3 +391,7 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - [[#teamgogo]] — Oct 27: Private Room stories of Gabby and Kerry; "no ceiling"
 - [[The Circle]] — Oct 27: seven-figure-without-stress goal, burnout on local teams, members help each other
 - [[Gogo Bethke]] — Oct 27: accent and opinions on camera, closet rule, Gracie's eye surgery
+- [[#teamgogo]] — Oct 28: team wins as joy, Private Room Day One teaching
+- [[Beth Silverman]] — Oct 28: price-point investor content process
+- [[Wealth Building]] — Oct 28: pre-done-homework investor conversations, HELOC funding pitch
+- [[eXp Realty]] — Oct 28: Extend a Hand $70K at eXpCon

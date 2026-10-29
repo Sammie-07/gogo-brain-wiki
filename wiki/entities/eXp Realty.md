@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, brokerage, real-estate]
 sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 # eXp Realty
@@ -207,6 +207,10 @@ On her eXp anniversary Gogo laid out her case in stories: if your brokerage give
 
 ## Oct 26 2026 Instagram: how the sponsor is paid
 Agents pay no one extra to partner with Gogo: the 20% of an 80/20 split (capped at $16,000 a year) goes to eXp, and eXp pays her revenue share from company dollars. She also promoted the Oct 28 open Team Gogo training (last open one of 2026) followed by Wine Not eXp at 8 PM ET, and the full-service-agent program (half a percent on mortgages from buy-side deals). Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
+## Extend a Hand (Oct 28 2026 Instagram)
+
+eXp's 501(c)(3) charitable foundation, eXtend a Hand, generated about $70K in donations at eXpCon Salt Lake City, which goes back to eXp agents in hardship. Gogo: "Did I tell you I love this company?!" ([[Instagram — 2026-10 (Gogo Bethke)]])
 
 ## Related
 
