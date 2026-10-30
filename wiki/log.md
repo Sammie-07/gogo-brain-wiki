@@ -981,3 +981,6 @@ Private Circle call (NDA; raw not retained; fetched via Google Drive since the l
 
 ## [2026-10-29] ingest | Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)
 Open to the Public (VTT saved to Clippings). New entity [[Audrey Van Zee]]. Updated AI for Real Estate, Social Media and Email Marketing, Lead Generation, Wealth Building, Gogo Bethke, Kristy Waker, Nick Krem (captioned "Michael"; confirmed Nick by Sam), Halo, Jason Dupree, #teamgogo. Left out emails read aloud, attendee names and the language Gogo dubbed into. Sources 400 → 402.
+
+## [2026-10-30] ingest | Instagram captions and stories through 2026-10-29
+6 captions and 9 stories (2026-10-28 22:55 to 2026-10-29 20:22 UTC). Extended Instagram — 2026-10; updated Mindset, Personal Branding, Lead Generation, The Circle, #teamgogo, Gogo Bethke. Restored gogo-brain/instagram-ingest.json, which the previous run had committed empty (true cursor 2026-10-28T18:30:07). Skipped a reshared agent's dollar figures, birthday shout-out, family/blinds clips, comment-keyword logistics.

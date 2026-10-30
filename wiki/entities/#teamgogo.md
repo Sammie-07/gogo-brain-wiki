@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, real-estate, team]
 sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 # #teamgogo 
@@ -114,6 +114,12 @@ Gogo's measure of a great day (Oct 27): #teamgogo agents winning, including a fi
 - Last Open to the Public of 2026: [[Audrey Van Zee]] (HeyGen) on AI avatar videos, plus [[Nick Krem]] and [[Jason Dupree]]. Wine Not eXp followed at 8 PM.
 
 Source: [[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]].
+
+### Private Room: Leaving Agents and Warm Calls (Oct 28-29 2026 Instagram)
+- **When a team member leaves.** From Private Room Day Two with Randi Lynn Quigley (13 years, $300M+ career volume, 1,000+ transactions): you give leads and training, they close a big deal, then they leave. Randi's lesson was to rethink how she led. Gogo: "You can care about somebody and still have expectations." Being a good leader "doesn't mean saying yes until you're exhausted and resentful," and someone leaving "doesn't automatically mean you failed them." Questions to ask honestly: were expectations clear, did you address problems early, were you deciding for the business or to avoid disappointing someone? ([Reel](https://www.instagram.com/reel/DfFVyT8zrLW/)) Her stated hope is that the family can "share the hard parts" too.
+- **Day One teaching.** Every invited agent had to stand up and teach something that works; Gabby's warm-call approach is under [[Lead Generation]].
+- **Team wins.** A story showed an agent's eXp dashboard: 40 closed transactions in a trailing 12 months, which she called what "makes me happier than anything." (Agent unnamed here.)
+- **Why Not eXp, last of 2026.** Gogo presents it the last Wednesday of each month late at night so prospects can be comfortable "on their couch" with a glass of wine; Nov and Dec fall on Thanksgiving and holidays, so the Oct 28 session was the last of the year.
 
 ## Related
 

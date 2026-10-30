@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-28 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-29 so far.
 
 ## Key Takeaways
 
@@ -225,6 +225,15 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - **Scripture.** Posted a Proverbs 14 page with the verse "Walk with the wise and you become wise, but the companion of fools fares badly" highlighted, echoing her "who you surround yourself with" theme.
 - Skipped: Halloween/family clips with Duane, a workout-count story with garbled audio, recipe text, and comment-keyword and presentation/training registration logistics.
 
+### Oct 28-29 — Not even Jesus, no plan B, a made-up name, nine companies, leaving agents and warm calls (Reels, captions, stories)
+- **Looking for the people looking for me.** Three Reels and two stories on being disliked: "Not even Jesus was able to turn everyone a Christian. Who am I to want everyone to like me, follow me, work with me?" and "I'm looking for the people who are looking for me. The ones who don't like you won't follow you anyway." In a story she said "Gogo" is a made-up persona because few can say her real name; she moved from Romania (Hungarian by nationality) at 21 with no network and built everything through organic social, never buying a lead. ([Reel](https://www.instagram.com/reel/DfFAVGhTzDn/), [Reel](https://www.instagram.com/reel/DfFDBUKzqI9/))
+- **No plan B.** "You are confusing your internal GPS": goal of $100K with a $75K fallback leaves the GPS unsure of the destination; "I set a goal and that is the only direction, and then I set the speed." ([Reel](https://www.instagram.com/reel/DfFEhllz0UM/))
+- **Nine companies, three days.** "I didn't build nine companies so I could work nine jobs." She now works Monday to Wednesday after learning systems and delegation; Circle is twelve months for agents making $250K+. ([Post](https://www.instagram.com/p/DfFlJAfTSBw/))
+- **Private Room.** Day Two with Randi Lynn Quigley on agents who leave after a big deal ([Reel](https://www.instagram.com/reel/DfFVyT8zrLW/)); Day One with Gabby on warm calls and never paying for a lead ([Reel](https://www.instagram.com/reel/DfF2jEdy-9J/)).
+- **Why Not eXp.** Presented late on the last Wednesday of the month so people can relax with a glass of wine; Oct 28 was the last of 2026 ("my Friday, because I don't work past Wednesdays, because I live my life by design").
+- **Michigan house.** The planned long-term rental became a full gut and a furnished short-term rental; Duane is running the project.
+- Skipped: a reshared team-win screenshot's dollar figures, birthday shout-out, Halloween/family clips, blinds joke, a graphic-only story, comment-keyword logistics.
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -321,6 +330,10 @@ A team-leader system: five agents compete for one seat on the team, transactions
 
 > "I want you leaving with something you can go home and DO." — [Oct 28 Reel](https://www.instagram.com/reel/DfCt7dDTGQQ/)
 
+> "Not even Jesus was able to turn everyone a #christian." — Oct 29 Reel
+
+> "I'm looking for the people who are looking for me." — Oct 29 Reel
+
 ## Wiki Pages Updated
 - [[Gogo Bethke]] — eXpCon 2026, 8-year eXp mark, Agent Games/Extend a Hand
 - [[Social Media and Email Marketing]] — Amy Gregory/Gogo proof point: agent attraction with no purchased leads or cold calls
@@ -395,3 +408,9 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - [[Beth Silverman]] — Oct 28: price-point investor content process
 - [[Wealth Building]] — Oct 28: pre-done-homework investor conversations, HELOC funding pitch
 - [[eXp Realty]] — Oct 28: Extend a Hand $70K at eXpCon
+- [[Mindset]] — Oct 29: "not even Jesus," looking for the people looking for you, no plan B and the internal GPS
+- [[Personal Branding]] — Oct 29: "Gogo" as a persona, organic social with no purchased leads
+- [[Lead Generation]] — Oct 29: Gabby's warm calls and caring without a transaction
+- [[The Circle]] — Oct 29: nine companies, three days a week
+- [[#teamgogo]] — Oct 28-29: leaving agents lesson, Why Not eXp timing
+- [[Gogo Bethke]] — Oct 29: life by design, Michigan house gut and short-term rental

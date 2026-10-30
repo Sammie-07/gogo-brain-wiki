@@ -2,7 +2,7 @@
 type: concept
 tags: [the-circle, coaching, mastermind, operations, payment, contract, community, four-freedoms, positioning]
 sources: [[[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]], [[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]], [[The Circle Coaching Contract (Gogo Bethke)]], [[The Circle Sales Page (gogobethke.com)]], [[Mindset Shift From Real Estate Agent To Entrepreneur]], [[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]], [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]], [[Instagram — 2026-10 (Gogo Bethke)]]]
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 # The Circle
@@ -235,6 +235,9 @@ After a Circle call, Gogo said the Circle is her coaching and that she loves whe
 - A chatbot plus second brain: a follower takes a 10-question bottleneck survey; the brain generates a blueprint-style report (modeled on the Circle clarity-call blueprint) and delivers half. The full report requires a clarity call. Paid ads for the Circle will feed it.
 
 Source: [[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]].
+
+## Nine Companies, Three Days a Week (Oct 29 2026 Instagram)
+"I didn't build nine companies so I could work nine jobs." Gogo's caption: for years she thought being busy meant success, with every decision coming to her, and "I was allowing it." Today she runs nine companies and works Monday, Tuesday and Wednesday, having learned to build systems, hire people better than her at certain things "and get out of their way." "At some point, you have to stop being the hardest-working employee in your own company." Circle is described as twelve months of coaching for agents already making $250K+ who want businesses that don't depend on them for every little thing. ([Post](https://www.instagram.com/p/DfFlJAfTSBw/)) Source: [[Instagram — 2026-10 (Gogo Bethke)]]
 
 ## Related
 
