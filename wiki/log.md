@@ -984,3 +984,6 @@ Open to the Public (VTT saved to Clippings). New entity [[Audrey Van Zee]]. Upda
 
 ## [2026-10-30] ingest | Instagram captions and stories through 2026-10-29
 6 captions and 9 stories (2026-10-28 22:55 to 2026-10-29 20:22 UTC). Extended Instagram — 2026-10; updated Mindset, Personal Branding, Lead Generation, The Circle, #teamgogo, Gogo Bethke. Restored gogo-brain/instagram-ingest.json, which the previous run had committed empty (true cursor 2026-10-28T18:30:07). Skipped a reshared agent's dollar figures, birthday shout-out, family/blinds clips, comment-keyword logistics.
+
+## [2026-10-31] ingest | Instagram captions and stories through 2026-10-30
+2 captions and 15 stories (2026-10-29 23:12 to 2026-10-30 19:42 UTC). Extended Instagram — 2026-10; updated Lead Generation, #teamgogo, Gogo Bethke. Skipped worship-song lyrics, a tag-only Reel, reshares, dog-walk and drink-menu stories, comment-keyword logistics. Normalized "Dwayne" to Duane (not quoted).

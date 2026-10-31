@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-29 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-30 so far.
 
 ## Key Takeaways
 
@@ -234,6 +234,12 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - **Michigan house.** The planned long-term rental became a full gut and a furnished short-term rental; Duane is running the project.
 - Skipped: a reshared team-win screenshot's dollar figures, birthday shout-out, Halloween/family clips, blinds joke, a graphic-only story, comment-keyword logistics.
 
+### Oct 30
+- **Eight years, still can't shut up about eXp.** Joined in 2018 and couldn't stop telling agents, "not because someone told me to," but because she couldn't stand agents working their butts off without knowing the opportunity existed. She knew the feeling of selling houses, making good money and "still have to start all over again next month," until she found "a way to build something beyond my own production." Now 1,700+ agents in #teamgogo. Her next step is a conversation, not a pitch caption: a calendar link with a couple of videos to watch first, then a one-on-one call ("No guessing. No pressure. Just a conversation.") ([post](https://www.instagram.com/p/DfH6xZKzwJw/)).
+- **Past-client text from the Private Room.** Day One of The Private Room, every invited top producer had to teach something that works. Kerry keeps a printed sheet of past clients and checks off who she has actually seen; one name had gone 15 years. Reaching out felt awkward, she texted anyway, coffee two weeks later, and the client said they were probably selling in the spring. Gogo's takeaway: you can feel awkward AND send the text ([Reel](https://www.instagram.com/reel/DfIOcazvS70/)).
+- **Michigan house, furnishing from Florida.** The house they bought will be a short-term rental; she measured every room, must order furniture online (which she hates), and ship it to a relative's home because nobody is there. Halloween prep for the "Annual Bethke Halloween Party 2026" (family tradition, cocktail menu).
+- Skipped: song lyrics and worship clips from an arena event, a tag-only Reel, reshared content, the dog-walk story, drink-menu detail.
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -334,6 +340,10 @@ A team-leader system: five agents compete for one seat on the team, transactions
 
 > "I'm looking for the people who are looking for me." — Oct 29 Reel
 
+> "You can feel awkward AND send the text." — Oct 30 Reel
+
+> "When something changes your life, you share it." — Oct 30 post
+
 ## Wiki Pages Updated
 - [[Gogo Bethke]] — eXpCon 2026, 8-year eXp mark, Agent Games/Extend a Hand
 - [[Social Media and Email Marketing]] — Amy Gregory/Gogo proof point: agent attraction with no purchased leads or cold calls
@@ -414,3 +424,6 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - [[The Circle]] — Oct 29: nine companies, three days a week
 - [[#teamgogo]] — Oct 28-29: leaving agents lesson, Why Not eXp timing
 - [[Gogo Bethke]] — Oct 29: life by design, Michigan house gut and short-term rental
+- [[Lead Generation]] — Oct 30: Kerry's printed past-client sheet and the 15-year text
+- [[#teamgogo]] — Oct 30: eight years, 1,700+ agents, conversation-first CTA
+- [[Gogo Bethke]] — Oct 30: furnishing the Michigan rental from Florida, Bethke Halloween Party

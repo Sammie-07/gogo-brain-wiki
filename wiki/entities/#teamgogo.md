@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, real-estate, team]
 sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-30
+updated: 2026-10-31
 ---
 
 # #teamgogo 
@@ -127,3 +127,5 @@ Source: [[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey 
 - [[eXp Realty]]
 - [[Real Estate Math]]
 - [[Co-Sponsorship and Agent Attraction System]]
+
+**Eight years, one conversation (Oct 30).** Gogo says she still can't stop talking about eXp because she wanted agents to know about a way to build beyond their own production; #teamgogo now has 1,700+ agents. Her invitation is a one-on-one call after a calendar page with videos to watch first: "No guessing. No pressure. Just a conversation." See [[Instagram — 2026-10 (Gogo Bethke)]].
