@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, exp, expcon, social-media, agent-attraction
 
 # Instagram — 2026-10 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-30 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-10.md]] and [[Clippings/instagram/stories/2026-10.md]]. Covers 2026-10-08 through 2026-10-31 so far.
 
 ## Key Takeaways
 
@@ -240,6 +240,12 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - **Michigan house, furnishing from Florida.** The house they bought will be a short-term rental; she measured every room, must order furniture online (which she hates), and ship it to a relative's home because nobody is there. Halloween prep for the "Annual Bethke Halloween Party 2026" (family tradition, cocktail menu).
 - Skipped: song lyrics and worship clips from an arena event, a tag-only Reel, reshared content, the dog-walk story, drink-menu detail.
 
+### Oct 30–31
+- **My AI twin and the Hungarian accent.** At Wednesday's live HeyGen training her team found their AI twin of her pronounced everything in perfect English, so they went into the settings and taught it to say things the way she actually says them: "My TH comes out like a T, my W sounds like a V, and after 23 years in America, that's probably not changing." She loves it: "We have technology that can make me sound like an American, and my team is working overtime to make sure I still sound Hungarian." ([Reel](https://www.instagram.com/reel/DfIf1hRSa9f/))
+- **Origin and the open door.** "When I came to America in 2003, I was 21 years old, had $200, and barely spoke English. Today, I lead an organization of over 1,700 real estate agents at eXp Realty. Same accent. Same big mouth. Just a much bigger business." Agents don't have to "look like me, talk like me, or build your business like me": the team has agents from different countries, backgrounds and career stages, with weekly trainings, tech support and a community that wants to see each other succeed. "Building a business is hard enough. You shouldn't have to figure out everything by yourself." CTA: comment PARTNER for a call.
+- **Bethke Halloween Party.** The adults' party was Friday night Oct 30 (costumes, karaoke, a home bartender station run by Coby); the kids' party followed Oct 31. She joked that the speakers didn't carry through to the stories, only the mics, and apologized for the "painful" singing. Caption: "#halloween2026 in the books."
+- Skipped: karaoke and song-lyric clips, costume photos, tag-only and reshared stories, a garbled transcript, a joke-costume graphic.
+
 ## Quotes
 
 > "Neither one of us ever bought a lead or cold called an agent. All through social media marketing." — Oct 8 caption
@@ -259,6 +265,8 @@ A team-leader system: five agents compete for one seat on the team, transactions
 > "You don't owe the next 20 years to something just because you gave it the last 20." — Oct 20 Reel
 
 > "Cause views are clients!! Clients = 💰" — Oct 20 caption
+
+> "Same accent. Same big mouth. Just a much bigger business." — Oct 30 Reel
 
 > "Let's make work FUN" — Oct 8 story
 
@@ -427,3 +435,6 @@ A team-leader system: five agents compete for one seat on the team, transactions
 - [[Lead Generation]] — Oct 30: Kerry's printed past-client sheet and the 15-year text
 - [[#teamgogo]] — Oct 30: eight years, 1,700+ agents, conversation-first CTA
 - [[Gogo Bethke]] — Oct 30: furnishing the Michigan rental from Florida, Bethke Halloween Party
+- [[AI for Real Estate]] — Oct 30: teaching the AI twin her Hungarian accent
+- [[Personal Branding]] — Oct 30: accent as brand, "bring your accent, your personality"
+- [[Gogo Bethke]] — Oct 30–31: 2003 arrival, Halloween party, Coby
