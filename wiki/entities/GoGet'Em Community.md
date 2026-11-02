@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, community, real-estate]
-sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-22
+sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
+updated: 2026-11-02
 ---
 
 # GoGet'Em Community
@@ -91,6 +91,10 @@ Source: [[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (
 - [[Curt Shewell]], [[Austin Rankin]] and [[Leila Modetz]] answered spun objections in ~60 seconds each; [[Kristy Waker]] ran the wheel. Recorded on the GoGet'Em app.
 
 Source: [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]].
+
+## Member Q&A with Gogo (Nov 1 2026 Instagram)
+
+Gogo showed the General Q&A chat in stories: a newly licensed member asked what she would do first if starting over, and Gogo answered directly in the chat (see [[Lead Generation]]). Pitch: 350+ trainings plus Gogo and her team for tech support. "I only teach what I've done!" ([[Instagram — 2026-11 (Gogo Bethke)]])
 
 ## Related
 

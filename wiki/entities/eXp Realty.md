@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, brokerage, real-estate]
-sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-29
+sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
+updated: 2026-11-02
 ---
 
 # eXp Realty
@@ -211,6 +211,10 @@ Agents pay no one extra to partner with Gogo: the 20% of an 80/20 split (capped 
 ## Extend a Hand (Oct 28 2026 Instagram)
 
 eXp's 501(c)(3) charitable foundation, eXtend a Hand, generated about $70K in donations at eXpCon Salt Lake City, which goes back to eXp agents in hardship. Gogo: "Did I tell you I love this company?!" ([[Instagram — 2026-10 (Gogo Bethke)]])
+
+## "Run the Numbers" (Nov 1 2026 Instagram)
+
+Gogo does 2-10 calls a week running agents' numbers, because "it allows us to make a bottom line decision and not a feelings decision" (feelings decisions: "my broker is so nice," "I'm very loyal"). For agents doing 30+ deals a year she compares what they pay at a typical brokerage (cap "usually in the $20K+" plus royalty, brokerage and marketing fees, up to $50K-$65K+) with eXp, where she says the most you pay is $5K and the $16K cap comes back as stock in a retirement account. She asks for: current cap, your cut, transaction volume and amount, deal sources, average % per deal. ([[Instagram — 2026-11 (Gogo Bethke)]])
 
 ## Related
 
