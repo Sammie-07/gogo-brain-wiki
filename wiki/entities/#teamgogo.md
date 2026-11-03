@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, real-estate, team]
-sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-31
+sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
+updated: 2026-11-03
 ---
 
 # #teamgogo 
@@ -129,3 +129,5 @@ Source: [[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey 
 - [[Co-Sponsorship and Agent Attraction System]]
 
 **Eight years, one conversation (Oct 30).** Gogo says she still can't stop talking about eXp because she wanted agents to know about a way to build beyond their own production; #teamgogo now has 1,700+ agents. Her invitation is a one-on-one call after a calendar page with videos to watch first: "No guessing. No pressure. Just a conversation." See [[Instagram — 2026-10 (Gogo Bethke)]].
+
+**Private Room recap, Nov 2.** Day one: Krystal Sheehan (22 years, $150M+ career volume, referral-only in the Florida Keys) on writing down what matters to people and following up. Day two: Chrissi Ives Polizzi (5X ICON, 99 personal units in 2024) on her year-long Cash Flow Breakfast Club and on applying what you learn instead of going home and doing everything the same. Gogo's wish for the family: people you can call and ask, then "actually USE what you learn." Same day she posted her eight-year eXp numbers with no ad spend (see [[eXp Realty]]). Source: [[Instagram — 2026-11 (Gogo Bethke)]].

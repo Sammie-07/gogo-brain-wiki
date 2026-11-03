@@ -993,3 +993,6 @@ Open to the Public (VTT saved to Clippings). New entity [[Audrey Van Zee]]. Upda
 
 ## [2026-11-02] ingest | Instagram captions and stories through 2026-11-01
 2 captions and 9 stories (2026-11-01 13:37 to 2026-11-01 16:45 UTC) plus the Oct 31 23:39 Reel and story (skipped: costume tag, song-lyric clip). New page Instagram — 2026-11; updated eXp Realty, Lead Generation, GoGet'Em Community, Gogo Bethke. Left out the member's name in the Q&A screenshot, comment-keyword logistics and a phone-screenshot story. Sources 402 → 403.
+
+## [2026-11-03] ingest | Instagram captions and stories through 2026-11-02
+3 captions and 1 story (2026-11-02 15:21 to 20:52 UTC). Extended Instagram — 2026-11; updated Lead Generation, eXp Realty, #teamgogo, Gogo Bethke. Skipped comment-keyword logistics and an Instagram insights/chat screenshot story. Used 413 frontline agents per standing rule (caption said 400+).

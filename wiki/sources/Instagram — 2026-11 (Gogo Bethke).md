@@ -3,13 +3,13 @@ type: source
 original: ["[[Clippings/instagram/2026-11.md]]", "[[Clippings/instagram/stories/2026-11.md]]"]
 author: "[[Gogo Bethke]]"
 published: 2026-11-01
-ingested: 2026-11-02
-tags: [instagram, captions, stories, exp, numbers, brokerage-comparison, new-agents, lead-generation, community]
+ingested: 2026-11-03
+tags: [instagram, captions, stories, exp, numbers, brokerage-comparison, new-agents, lead-generation, community, referrals, private-room, agent-attraction]
 ---
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-02 so far.
 
 ## Key Takeaways
 
@@ -29,6 +29,12 @@ tags: [instagram, captions, stories, exp, numbers, brokerage-comparison, new-age
 - **Sunday:** church with Duane, "just Duane and I today."
 - Skipped: comment-keyword logistics, a phone-screenshot story, a duplicate Q&A teaser.
 
+### Nov 2 — Private Room lessons and the eight-year mark
+- **Remember them, not just the closing date** (Reel, [permalink](https://www.instagram.com/reel/DfPnOgUT8Qu/)). Day one of The Private Room: every top producer she invited into her home had to stand up and teach something that works. Krystal Sheehan (22 years, $150M+ career volume, all referrals, Florida Keys) taught noticing: someone mentions a daughter leaving for college, a husband's surgery, a long-awaited trip, and "by tomorrow you've forgotten." Her point: there is a small window after you learn something about someone to write it down. Put a note in your CRM, set a reminder, so next month you can ask "How's your daughter settling in?" instead of "Know anybody looking to buy or sell?" Gogo: "You can have a whole database of people and still know very little about their lives."
+- **Eight years at eXp, zero ad spend** (feed post, [permalink](https://www.instagram.com/p/DfPq7aFTwlt/)). Eight years ago she posted a "HUGE changes" teaser when leaving her brokerage for eXp. Since then: 413 frontline agents, a 1,700+ agent organization, $18 billion closed volume, "almost one new frontline agent every single week for 8 years," and "ZERO" dollars spent on ads to attract them. She just kept sharing her life, her business, what she was learning and what agents achieved. The insight: "I was already building relationships through social media to sell houses. Why couldn't I use those same relationships to build something bigger than my own production?" And: "You can be an incredible real estate agent, sell a ton of houses, and still have to start from zero every January. I wanted to build something that kept growing even when I wasn't the one closing the deals." Offer: comment PARTNER, she sends the videos explaining how it works and, if it fits, a call.
+- **Keep showing up, then actually use what you learn** (Reel, [permalink](https://www.instagram.com/reel/DfQEvcaSYbP/)). Day two of The Private Room: Chrissi Ives Polizzi (5X ICON agent, 99 personal units in 2024) ran a Cash Flow Breakfast Club for a full year, bringing local investors together for education and value, so relationships had time to grow. Gogo: "Now think about how often we try something twice and decide it 'doesn't work.'" Chrissi also gets around other people, takes what she learns home and changes her business piece by piece: "hearing a good idea doesn't do much if you go home and keep doing everything exactly the same." For a stalled business: look at who you spend time with, who is doing something you want to understand, and who will make you rethink how you've always done it.
+- Skipped: comment-keyword logistics and a phone-screenshot story (Instagram insights/chat screenshot).
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -36,8 +42,15 @@ tags: [instagram, captions, stories, exp, numbers, brokerage-comparison, new-age
 
 > "I only teach what I've done!"
 
+> "You can have a whole database of people and still know very little about their lives."
+
+> "You can be an incredible real estate agent, sell a ton of houses, and still have to start from zero every January."
+
 ## Wiki Pages Updated
 - [[eXp Realty]] — Nov 1: run-the-numbers cap comparison and call-prep list
 - [[Lead Generation]] — Nov 1: start-over plan for a new agent, people-business rule
 - [[GoGet'Em Community]] — Nov 1: member Q&A with Gogo, 350+ trainings
-- [[Gogo Bethke]] — Nov 1: numbers-over-feelings, church with Duane
+- [[Gogo Bethke]] — Nov 1: numbers-over-feelings, church with Duane; Nov 2: eight-year anniversary post, zero ad spend
+- [[Lead Generation]] — Nov 2: Krystal's note-it-in-the-CRM follow-up
+- [[eXp Realty]] — Nov 2: 8-year numbers, no ad spend
+- [[#teamgogo]] — Nov 2: Private Room Day 1-2 recap (Krystal, Chrissi)

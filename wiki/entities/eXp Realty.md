@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, brokerage, real-estate]
 sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 # eXp Realty
@@ -223,3 +223,5 @@ Gogo does 2-10 calls a week running agents' numbers, because "it allows us to ma
 - [[Real Estate Math]]
 
 > Oct 2026: asked if eXp recruiting "filled her pockets," Gogo said eXp pays her millions only for what she earned: [[Instagram — 2026-10 (Gogo Bethke)]].
+
+**Eight years, no ad spend (Nov 2 post).** Gogo marks eight years since her "HUGE changes" teaser about leaving her brokerage for eXp: 413 frontline agents, a 1,700+ agent organization and $18 billion closed volume, roughly one new frontline agent a week, with zero spent on ads; it came from sharing her life, business and what agents accomplished. Her reasoning: relationships built on social media to sell houses could build "something bigger than my own production," so income doesn't restart at zero every January. See [[Instagram — 2026-11 (Gogo Bethke)]].
