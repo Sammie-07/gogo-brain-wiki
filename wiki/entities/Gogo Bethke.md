@@ -2,7 +2,7 @@
 type: entity
 tags: [person, real-estate, coach, content-creator, entrepreneur]
 sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]]", "[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Red Light Green Light Exercise]]", "[[Let's Do Some Math Again]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[How I Scaled From One-on-One to Group Coaching]]", "[[How do you know it is time to hire a Virtual Assistant]]", "[[Work-Life Balance Secrets]]", "[[How to Track Business Growth with Effective Tools and Strategies]]", "[[AI For Real Estate Agents — How to Use AI to Generate Leads]]", "[[Working with Your Spouse]]", "[[Gogopreneur — Tony Robbins Business Mastery Part I]]", "[[From an Au Pair to a Millionaire]]", "[[Agent to CEO — Full Presentation]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[GOGO TEDx — Au Pair to Millionaire (Hungarian Presentation)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[GoGetEm Community Who Is Gogo Bethke — Website Intro Video]]", "[[Gogo Podcast Journey Into Real Estate and Coaching — Full Interview]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[The Fundamentals - Social Media Machine and Branding]]", "[[Social Media Marketing Mindset and Lead Capturing]]", "[[What Top Agents Do Differently on Instagram - Month 5]]", "[[How to Become the Obvious Choice in Your Market]]", "[[Master Your Copywriting and AI Brand Voice]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-03
+updated: 2026-11-04
 ---
 
 # Gogo Bethke
@@ -256,6 +256,13 @@ Source: [[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey 
 - **Life by design.** On a Wednesday night she called it "officially my Friday, because I don't work past Wednesdays, because I live my life by design."
 - **Michigan house.** The house she and Duane bought in Michigan was meant to be a quick turnaround into a long-term rental; instead they gutted it (new roof, crawl space, attic, flooring, paint, cabinets, every light fixture, trim) and will furnish it as a short-term rental. Duane is enjoying the project management: "It's giving my brain a little workout. Fishing can't entertain your brain for that long."
 - **Persona.** "Gogo" is a made-up name; see [[Personal Branding]]. Source: [[Instagram — 2026-10 (Gogo Bethke)]]
+
+## Nov 3 2026 Instagram Notes
+
+- **Tony Robbins UPW (Nov 2026):** headed to Unleash the Power Within with a group of about 60 for whom she arranged discounted tickets: "Tony changed my life and now I get to pay it forward and bring 60 people to change their lives."
+- **Working week:** already limited to Monday-Wednesday, 10 to 4; in one week she logged about five and a half hours, while earning "multiple seven digits every year." She credits an AI-run team (see [[AI for Real Estate#Gogo's AI-Run Team (Instagram, Nov 2026)|AI-run team]]).
+- **How she learned to leverage:** a 50-50 partnership early on took away her sole voting power, so the company hired VAs "long before anybody else." She thanks that partner for forcing her hand.
+- **Money habits:** pays $30K-$50K a year for coaching and buys 1-2 houses a year with Duane ([[Tax Strategy#Year-End "Spend It on Yourself" (Instagram, Nov 2026)|year-end approach]]). Source: [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 

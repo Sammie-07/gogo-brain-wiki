@@ -996,3 +996,6 @@ Open to the Public (VTT saved to Clippings). New entity [[Audrey Van Zee]]. Upda
 
 ## [2026-11-03] ingest | Instagram captions and stories through 2026-11-02
 3 captions and 1 story (2026-11-02 15:21 to 20:52 UTC). Extended Instagram — 2026-11; updated Lead Generation, eXp Realty, #teamgogo, Gogo Bethke. Skipped comment-keyword logistics and an Instagram insights/chat screenshot story. Used 413 frontline agents per standing rule (caption said 400+).
+
+## [2026-11-04] ingest | Instagram captions and stories through 2026-11-03
+5 captions and 15 stories (2026-11-03 12:23 to 23:49 UTC). Extended Instagram — 2026-11; updated Tax Strategy, Wealth Building, AI for Real Estate, Productivity, Mindset, The Circle, Gogo Bethke. Skipped a comment-keyword income-stream post, voting post/stories, a reshared cancer-book video, a reshared UPW clip and a partly garbled golf-cart transcript. No Circle seat count used.

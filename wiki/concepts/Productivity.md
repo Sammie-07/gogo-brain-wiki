@@ -72,7 +72,8 @@ sources:
   - "[[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]]"
   - "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]"
   - "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"
-updated: 2026-10-22
+  - "[[Instagram — 2026-11 (Gogo Bethke)]]"
+updated: 2026-11-04
 ---
 
 # Productivity
@@ -1006,6 +1007,10 @@ Source: [[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (
 - Gogo's team turns a new ManyChat keyword around in ~5 minutes. "If not now, you're two weeks behind in your success." Bring links and products to coaching to pick apart live; put assistants on a work phone in the coaching group chat.
 
 Source: [[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]].
+
+## The Bottleneck Lesson (Instagram, Nov 2026)
+
+"One of the hardest lessons I had to learn is that I am the bottleneck in my business." She once needed to approve and understand everything; most people never grow because "they can't get out of their own way." Rules: know your hourly rate; hire out everything below it; if you feel the urge to do the work yourself, "you're going backwards"; if you do a $5-an-hour task you are "saving the five bucks" instead of making thousands an hour. Origin: a 50-50 partnership removed her sole voting power, so the company hired VAs years before others did, which forced her to leverage. See [[AI for Real Estate#Gogo's AI-Run Team (Instagram, Nov 2026)|her AI-run team]] and [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 
