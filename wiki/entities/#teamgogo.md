@@ -1,7 +1,7 @@
 ---
 type: entity
 tags: [organization, real-estate, team]
-sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
+sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Triple Your GCI with AI Agents — The AI-Run Company (Carrie Soave, teamgogo Sep 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]", "[[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]]"]
 updated: 2026-11-05
 ---
 
@@ -123,6 +123,10 @@ Source: [[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey 
 
 ## Private Room Day One: Finance Beyond Selling (Nov 4 2026 Instagram)
 Day One teaching also covered money beyond commissions: one invited top producer (13 years, best solo year $41M across 117 deals) taught how to evaluate a whole life policy before surrendering it. Gogo's reason for hosting in her home: "You hear someone explain how they approach a decision, and suddenly you have questions you didn't know to ask." Her hope for the family: "learning how to build businesses that support our lives and thinking about what we're building for the future." See [[Wealth Building]] and [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## Nov 4, 2026 Training
+- Guest [[Vija Williams]] (Realtor.com) on cash-offer seller leads, the golden minute and multiple exit programs. Training calendar now auto-syncs with Fast Forward Movement and Honey Badgers. No Why Not eXp / Open to the Public for the rest of 2026 (holidays).
+Source: [[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]].
 
 ## Related
 

@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, trainer, community, real-estate]
-sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Securing Your Domain]]", "[[Creating and Customizing Your YouTube Channel (Kristy Waker)]]", "[[Setting Up Your Google Business Profile for Success (Kristy Waker)]]", "[[Brand Consistency Across Social Media Platforms (Kristy Waker)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Create Professional Instagram Account (Kristy Waker)]]", "[[Domain Forwarding to Your Real Estate Website (Kristy Waker)]]", "[[Creating 3-Way Calls with Calendar — GoHighLevel Setup (Kristy Waker)]]", "[[Adding Your Email Signature to Gmail (Kristy Waker, GSMC)]]", "[[Creating an Email Signature Using Canva (Ellen, GSMC)]]", "[[VA Pay Tutorial (Kristy Waker)]]", "[[Managing a High Performing Team — Gogo Community Call]]", "[[Gogo Bethke on Expert Mentors Live — State of Business (John Kitchens)]]", "[[Mastering Your Numbers — Leads, Time & Revenue]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]"]
-updated: 2026-10-29
+sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Securing Your Domain]]", "[[Creating and Customizing Your YouTube Channel (Kristy Waker)]]", "[[Setting Up Your Google Business Profile for Success (Kristy Waker)]]", "[[Brand Consistency Across Social Media Platforms (Kristy Waker)]]", "[[Effective Posting Schedule for Real Estate Leads (Kristy Waker)]]", "[[Create Professional Instagram Account (Kristy Waker)]]", "[[Domain Forwarding to Your Real Estate Website (Kristy Waker)]]", "[[Creating 3-Way Calls with Calendar — GoHighLevel Setup (Kristy Waker)]]", "[[Adding Your Email Signature to Gmail (Kristy Waker, GSMC)]]", "[[Creating an Email Signature Using Canva (Ellen, GSMC)]]", "[[VA Pay Tutorial (Kristy Waker)]]", "[[Managing a High Performing Team — Gogo Community Call]]", "[[Gogo Bethke on Expert Mentors Live — State of Business (John Kitchens)]]", "[[Mastering Your Numbers — Leads, Time & Revenue]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]]"]
+updated: 2026-11-05
 ---
 
 # Kristy Waker
@@ -51,6 +51,11 @@ Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo A
 - Builds Gogo's HeyGen avatar videos; found the Cartesia voice engine closest to Gogo and uses Gogo's real voice notes for lip-sync. Connected HeyGen to ChatGPT to make videos without opening HeyGen.
 
 Source: [[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]].
+
+
+## Nov 4, 2026 #teamgogo Training
+- Hosted [[Vija Williams]]'s cash-offer-leads training. Announced that the Team Gogo training calendar now syncs automatically with Fast Forward Movement and Honey Badgers (an AI-built sync; events added or removed there update ours), so agents need only one calendar. No more Why Not eXp or Open to the Public for the rest of 2026; the Why Not eXp link has a recording, or she can set up a three-way call with Gogo.
+Source: [[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]].
 
 ## Related
 

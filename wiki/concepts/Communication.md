@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [communication, leadership, influence, mindset, team-culture]
-sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[The Art of Conscious Communication (Jamie Miller)]]", "[[Amplify Your Influence — Introduction (René Rodriguez)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]", "[[The Relationship Beneath Results — Deeply Connected Method (Ludmila Woodruff)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]", "[[Building a Dominant Business in a Small Market (Jeannie Steele)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-22
+sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[The Art of Conscious Communication (Jamie Miller)]]", "[[Amplify Your Influence — Introduction (René Rodriguez)]]", "[[Deeply Connected Leadership — Presence and Emotional Mastery (Ludmila Woodruff)]]", "[[The Relationship Beneath Results — Deeply Connected Method (Ludmila Woodruff)]]", "[[Generating Business From Your Sphere (Jon Pugle)]]", "[[Building a Dominant Business in a Small Market (Jeannie Steele)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]]"]
+updated: 2026-11-05
 ---
 
 # Communication
@@ -132,6 +132,13 @@ The owner's side: did you explain what you wanted, when it's due and what a fini
 - **Gogo:** the shortest answer followed by a question wins.
 
 Source: [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]].
+
+
+## Calling a Form Lead: Respond to Their Request (Vija Williams, Nov 2026)
+- Don't open with your name and brokerage when the person didn't ask for an agent; they'll say they never filled out a form. Respond to what they asked for: "I'm calling about the cash offer you requested. Is 123 Main Street the home you're looking to sell?"
+- A first call takes 3.5–6 minutes; past 9 minutes you're having the appointment on the phone.
+- Pre-qual: when are you selling, why, and what matters more (most money or speed and certainty); add "what do you owe and want" only for likely cash-offer sellers. Ask again in person, where you get the real answer.
+Source: [[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]].
 
 ## Related
 

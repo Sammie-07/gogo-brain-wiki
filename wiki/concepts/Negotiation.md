@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [negotiation, communication, leadership, mindset]
-sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Real-World Negotiation Hacks]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[No Is Your Friend — Closing and Negotiation (GoGet'Em Training)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-26
+sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Real-World Negotiation Hacks]]", "[[Unlocking Negotiation Secrets with Chris Voss]]", "[[The Power of Referrals (Brandon Barnum)]]", "[[No Is Your Friend — Closing and Negotiation (GoGet'Em Training)]]", "[[GoGet'Em Training — Kat and Jeremy — Buyer Consultations and Buyer Agreements]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]]"]
+updated: 2026-11-05
 ---
 
 # Negotiation
@@ -164,6 +164,12 @@ Source: [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell
 
 ## Gogo's First Commission-Cut Ask (Oct 26 2026)
 Nobody teaches negotiation: "the first time someone asked me, would I reduce my commission, I froze." Her view is that once marketing brings in clients you must also become a strong negotiator and objection handler to convert leads. Source: [[Instagram — 2026-10 (Gogo Bethke)]].
+
+
+## Multiple Exits: a Packaged Menu of Seller Programs (Vija Williams, Nov 2026)
+- "List it or don't" is no longer enough. Package and label 4–6 programs: traditional listing; as-is investor special (MLS plus investor marketing at once, sometimes limited showings); renovation paid at closing (eXp concierge, up to $50K); an iBuyer that keeps the agent in the deal (Homeward, or Zudelio as eXp's Express Offers, with an initial and an "upside" check); local investors and builders (fast exits, rent-backs).
+- **Presenting a low cash offer** to a seller who isn't a candidate: side with them against the offer (investors buy at wholesale to sell at retail) and note other cash offers will come in about the same. For real candidates, show the buy and resale prices transparently; sometimes speed matters more than the most money.
+Source: [[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]].
 
 ## Related
 

@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, ai, speaker, real-estate, agent-attraction]
-sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]"]
-updated: 2026-10-29
+sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]]"]
+updated: 2026-11-05
 ---
 
 # Nick Krem
@@ -42,6 +42,11 @@ Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo A
 - Halo case study: local FAQs plus an "Ask [agent]" page earned AI-search visibility and two $1.5M listings. Warned that MLSs are blocking unapproved AI tools and will approve specific connectors.
 
 Source: [[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]].
+
+
+## Nov 4, 2026 #teamgogo Update
+- "What we are witnessing with AI is the largest referral network in history." AI recommendations act like referrals, not cold leads; a team agent got a $1.2M listing from a stranger who said ChatGPT recommended her. "63% of Google searches end in zero click." Halo site in about 5 texts, free start for Team Gogo; full training the following week.
+Source: [[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]].
 
 ## Related
 

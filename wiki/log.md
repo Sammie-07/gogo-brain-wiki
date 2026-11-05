@@ -1002,3 +1002,5 @@ Open to the Public (VTT saved to Clippings). New entity [[Audrey Van Zee]]. Upda
 
 ## [2026-11-05] ingest | Instagram captions and stories through 2026-11-04
 4 captions and 12 stories (2026-11-04 01:34 to 2026-11-05 00:09 UTC). Extended Instagram — 2026-11; updated Wealth Building, #teamgogo, Gogo Bethke. Skipped a coaching-clients tag Reel, birthday shout-out, photo-only and fragment stories, a garbled Italian clip; kept private individuals unnamed.
+## [2026-11-05] ingest | teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)
+Weekly #teamgogo training, Nov 4 (VTT saved to Clippings). New entity [[Vija Williams]]. Updated Lead Generation, Negotiation, Communication, AI for Real Estate, Kristy Waker, Jason Dupree, Nick Krem, Halo, #teamgogo. Team agents who spoke left unnamed; Vija's lead statistics attributed to her (she sells these leads). Sources 402 → 403.
