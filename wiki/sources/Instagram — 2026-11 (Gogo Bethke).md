@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-03 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-04 so far.
 
 ## Key Takeaways
 
@@ -45,6 +45,13 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 - **Off to Tony Robbins' UPW** (stories). Packing for Unleash the Power Within (short pants for the first-night fire walk, and the room is cold): "Tony changed my life and now I get to pay it forward and bring 60 people to change their lives." About 60 of them are going in the group she got discounted tickets for. Her family and friends are coming along.
 - Skipped: a "comment PARTNER" income-stream post, a voting post and voting stories, a reshared cancer-book video, a reshared UPW packing clip, a golf-cart chat (transcript partly garbled).
 
+### Nov 4 — Know what you own, a new puppy, and the road trip to UPW
+- **Know what you own before you cash it out** (Reel, [permalink](https://www.instagram.com/reel/DfVJ3izvHfb/)). From Day One of The Private Room, where every invited top producer taught something that works: Randi (13 years in real estate; best year $41M solo across 117 deals) covered whole life insurance and why she looks beyond the cash available today. Questions to answer before surrendering a policy: what happens to coverage, what are the tax consequences (surrendering can create taxable income when proceeds exceed what you put in), could dividends help cover premiums (they aren't guaranteed), what would keeping it cost. Gogo: "The point is to understand what you own before deciding what to do with it." And: "We spend so much time learning how to earn the next commission check. But understanding where that money goes and how our financial decisions fit together deserves time on the calendar, too." Why in her home: "You hear someone explain how they approach a decision, and suddenly you have questions you didn't know to ask." For the #teamgogo family: "I want us learning how to build businesses that support our lives and thinking about what we're building for the future." Posted as educational only: take your questions to a licensed insurance professional and tax advisor.
+- **Puppy = baby** (feed post, [permalink](https://www.instagram.com/p/DfTSddmG0EU/)). About the Old English puppy: "Getting a puppy is like having a baby… why didn't any of you remind us?"
+- **Built it all backwards** (Reel plus story). A joke Reel with a fellow #teamgogo leader about doing everything in reverse: "YES WE LITERALLY BUILT IT ALL BACKWARDS."
+- **Road trip to Tony Robbins' UPW** (stories). Gogo and two friends drove to Miami to register ("the Tesla is driving us... No driving"), planning one nice dinner because it would be their last of the week. The event is billed as supposedly the last live UPW in the United States, so "we're definitely not sneaking out when Tony's on stage." Route went through Punta Gorda and the Everglades. On screen she showed the group's VIP and Executive badges and noted that one of her team members, a year in #teamgogo, was heading to ICON, and that she co-sponsors a faith-based realtor organization started by a friend.
+- Skipped: a Reel tagging coaching clients met in person, a birthday shout-out, selfie and bench photos, and several fragment-only stories (a garbled Italian clip, "EXIT", "+2").
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -59,6 +66,8 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 > "If you want to make millions of dollars, you cannot be doing the data entry job. Period."
 
 > "I used to feel guilty not working. I worked a LOT on myself to not feel guilty."
+
+> "The point is to understand what you own before deciding what to do with it."
 
 > "You can be an incredible real estate agent, sell a ton of houses, and still have to start from zero every January."
 
@@ -77,3 +86,6 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 - [[Mindset]] — Nov 3: guilt-free slowing down; faith when people let you down
 - [[The Circle]] — Nov 3: Tuesday-noon call topics
 - [[Gogo Bethke]] — Nov 3: UPW trip, partnership origin of VAs, working hours
+- [[Wealth Building]] — Nov 4: understand what you own (whole life policy questions) before cashing out
+- [[#teamgogo]] — Nov 4: Private Room Day One finance segment (Randi)
+- [[Gogo Bethke]] — Nov 4: new puppy, UPW road trip to Miami

@@ -999,3 +999,6 @@ Open to the Public (VTT saved to Clippings). New entity [[Audrey Van Zee]]. Upda
 
 ## [2026-11-04] ingest | Instagram captions and stories through 2026-11-03
 5 captions and 15 stories (2026-11-03 12:23 to 23:49 UTC). Extended Instagram — 2026-11; updated Tax Strategy, Wealth Building, AI for Real Estate, Productivity, Mindset, The Circle, Gogo Bethke. Skipped a comment-keyword income-stream post, voting post/stories, a reshared cancer-book video, a reshared UPW clip and a partly garbled golf-cart transcript. No Circle seat count used.
+
+## [2026-11-05] ingest | Instagram captions and stories through 2026-11-04
+4 captions and 12 stories (2026-11-04 01:34 to 2026-11-05 00:09 UTC). Extended Instagram — 2026-11; updated Wealth Building, #teamgogo, Gogo Bethke. Skipped a coaching-clients tag Reel, birthday shout-out, photo-only and fragment stories, a garbled Italian clip; kept private individuals unnamed.
