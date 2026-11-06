@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [agent-attraction, downline, community, teams, retention]
-sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"]
-updated: 2026-10-22
+sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"]
+updated: 2026-11-05
 ---
 
 # Downline Community Architecture
@@ -55,6 +55,11 @@ Source: [[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing D
 - "Build me a family tree of my downline" produced a clickable downline tree. The human touch stays: a Claude-designed iPhone Shortcut starts a welcome group text with Kristy, Gogo and the new agent.
 
 Source: [[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]].
+
+
+## Automated Onboarding and Offboarding (Circle, Nov 2026)
+- With the eXp MCP connected to Claude, a new active agent automatically triggers a text alert, a GoHighLevel entry, the welcome email, calendar/Drive/group invites and a gift-tracker update; new transactions flow into the roster; offboarded agents are removed from the Facebook group monthly; the training calendar syncs daily with the upline groups' calendars.
+Source: [[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]].
 
 ## Related
 

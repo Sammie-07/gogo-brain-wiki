@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [real-estate, math, brokerage, production, exp-realty]
-sources: ["[[Lets Do Some Math Again]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]"]
-updated: 2026-09-16
+sources: ["[[Lets Do Some Math Again]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"]
+updated: 2026-11-05
 ---
 
 # Real Estate Math
@@ -125,6 +125,12 @@ NAR's per-agent production data is Gogo's core attraction proof: **2024 — 71% 
 **Solo-agent percentile ladder** (NAR, repost fodder): 12/yr = top **2%**; 20–29/yr = **0.81%**; 30–50/yr = **0.45%**; 52–100/yr = **0.31%**; 100–300/yr solo = **0.11%**.
 
 **FastCap math (eXp 6-week program):** the average finisher gets **3.9 listing contracts** (~a listing a week). At a $10K average commission, that's ~$39K per 6-week cycle × ~8 cycles ≈ **~$312K/yr**.
+
+
+## Your Hourly Rate vs a VA (Circle, Nov 2026)
+- "We don't do feelings decisions": fear of hiring is usually fear of doing the math. At $250/hour, one hour of your time pays for about 20 hours a week of a part-time VA; ~$1,000 a month buys roughly 80 VA hours. "You cannot save yourself to riches."
+- Gogo averages about $4,200 per working hour, so every hour spent figuring out something that isn't her job costs her.
+Source: [[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]].
 
 ## Related
 

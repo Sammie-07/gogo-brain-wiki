@@ -1007,3 +1007,5 @@ Weekly #teamgogo training, Nov 4 (VTT saved to Clippings). New entity [[Vija Wil
 
 ## [2026-11-06] ingest | Instagram captions and stories through 2026-11-05
 2 captions and 27 stories (2026-11-05 00:59 to 19:45 UTC). Extended Instagram — 2026-11; updated Mindset, Productivity, eXp Realty, Gogo Bethke. Skipped meetup photos, tagged reshares, garbled/speech-less clips, fragment stories and Tony's long stage transcript; agent who sent the thank-you message left unnamed.
+## [2026-11-05] ingest | The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)
+Private Circle call, Nov 3 (NDA; raw not retained; fetched via Google Drive). Updated Tax Strategy, Wealth Building, Real Estate Math, AI for Real Estate, Productivity, Downline Community Architecture, Real Estate Teams, Mindset, The Circle, Gogo Bethke, Kristy Waker. Left out (Sam's call): her exact YTD income, a credit-card balance, a family employment story, family on payroll, political and college remarks; also unconfirmed staff and AI-tool names. Deleted leftover raw Circle transcript copies from the session cache. Sources 403 → 404.

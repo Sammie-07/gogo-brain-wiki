@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [tax-strategy, wealth-building, real-estate, business-structure, legal]
-sources: [[[Tax Strategy and IRS Myths — Estate Planning Part 2 (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[Tax Planning For Real Estate Investors 101 (Toby Mathis)]], [[Big Beautiful Bill Tax Overhaul — Individual Breaks Part 1 (Toby Mathis)]], [[Trump's Big Beautiful Bill — Business Tax Breaks Part 2 (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[How To Invest In Your Kids' Roth IRA (And Make Them Millionaires Tax-Free)]], [[How to Bring Your Family Into Your Business for Maximum Tax Benefits (Barbara Schreihans)]], [[Tax-Free Family Business Strategies — Part 2 (Barbara Schreihans)]], [[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]], [[Tax Credit Tools for Real Estate — 45L and Cost Segregation (Dawn Lavanway, Eric Oliver)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]], [[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]], "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-04
+sources: [[[Tax Strategy and IRS Myths — Estate Planning Part 2 (Toby Mathis)]], [[Tax Structure and Legacy Planning for Real Estate Professionals (Toby Mathis)]], [[Tax Planning For Real Estate Investors 101 (Toby Mathis)]], [[Big Beautiful Bill Tax Overhaul — Individual Breaks Part 1 (Toby Mathis)]], [[Trump's Big Beautiful Bill — Business Tax Breaks Part 2 (Toby Mathis)]], [[How To Set Up A Real Estate Agent Business (Toby Mathis)]], [[How To Invest In Your Kids' Roth IRA (And Make Them Millionaires Tax-Free)]], [[How to Bring Your Family Into Your Business for Maximum Tax Benefits (Barbara Schreihans)]], [[Tax-Free Family Business Strategies — Part 2 (Barbara Schreihans)]], [[SETC Tax Credit for Self-Employed — Alex Moeller GoGetEm Day 1]], [[Tax Credit Tools for Real Estate — 45L and Cost Segregation (Dawn Lavanway, Eric Oliver)]], [[The Circle Coaching — Tax Strategy, Asset Protection and Financial Hygiene (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]], [[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]], "[[Instagram — 2026-11 (Gogo Bethke)]]", "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"]
+updated: 2026-11-05
 ---
 
 # Tax Strategy
@@ -117,6 +117,18 @@ Client/closing **gifts** are deduction-capped in many states (often ~**$25**). B
 ## Year-End "Spend It on Yourself" (Instagram, Nov 2026)
 
 [[Gogo Bethke]]'s year-end rule, learned in her first year at eXp when her sponsor texted "it's time to spend your money!!!": know your exact tax bracket, because at 24% every $1,000 you don't reinvest hands $240 to the IRS. Early November still leaves time to buy real estate, open Roth IRAs for your children (up to $19,000 given tax-free, $7,000 of it into the Roth) or buy a qualifying vehicle. She prepays coaching: "My coaches cost me about $30K-$50K a year but I'm literally saving 37% when I pay them. I get smarter and I save money!" Her year-end checklist for clients: know your numbers and bracket; list every way to cut taxable income; find the weak spots and the expert for next year's lessons. See [[Instagram — 2026-11 (Gogo Bethke)]].
+
+
+## Year-End Tax Homework (Circle, Nov 2026)
+Gogo's November checklist ("I am no CPA… talk to a professional"), all done by Dec 31:
+- Know year-to-date income almost to the penny and your bracket. In the 37% bracket every $1,000 not reinvested sends $370 to taxes, so she **prepays next year's coaches** (usually two, chosen by her weaknesses).
+- **Cost segregation** (~$3,500 per property) moves ~25–30% of value into deductions now: a $300K rental with $60K down gives ~$90K of deductions, ~$33K back at 37%. Use it only in a high-income year.
+- **Pay your kids:** up to $16,100 per child under 18; up to $7,500 into a custodial Roth IRA, the rest into an investment account; let them research stock picks.
+- 2026 limits she gave: 401k $24,500 per person, HSA $4,400 / $8,750 family. Ask your CPA about the 20% QBI deduction.
+- **Augusta rule:** the business can rent your home up to 14 days a year at a documented rate (e.g. a business event at home); a member runs the lease through eXp so it counts toward ICON.
+- **Vehicle recapture:** a written-off $180K vehicle sold within five years triggered tax on the recaptured amount. She now accepts a partial write-off for a self-driving car because it gives her time back.
+- Expect a cash-tight season from year-end through February and plan for it.
+Source: [[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]].
 
 ## Related
 - [[Legal Protection]]

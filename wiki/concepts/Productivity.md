@@ -74,6 +74,7 @@ sources:
   - "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"
   - "[[Instagram — 2026-11 (Gogo Bethke)]]"
 updated: 2026-11-05
+  - "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"updated: 2026-11-04
 ---
 
 # Productivity
@@ -1015,6 +1016,11 @@ Source: [[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funne
 ## Proof the Hourly-Rate Rule Works (Instagram, Nov 5 2026)
 
 Gogo reshared a message from an eXp agent who heard her years ago in a training say to know your hourly rate and stop doing jobs worth less than it. He began leveraging those tasks out and has since made almost all his kids' sports events, is more present at home and could afford to be at UPW in Miami learning. Her comment: "We just never know HOW we effect someone's life. Keep doing the good work. Someone needs to hear what you know." See [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## The Owner Doesn't Set Up Tools (Circle, Nov 2026)
+- "If you want to beat the system, you cannot be doing data entry." Know a tool enough "to be dangerous," pay for it, and have someone else set it up; doing it yourself is "called the bottleneck." Gogo has never set up ClickFunnels, GoHighLevel or ManyChat.
+- Her working day is about 2–2.5 hours: "I've never worked this little and made this much money."
+Source: [[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]].
 
 ## Related
 

@@ -138,7 +138,7 @@
 
 ---
 
-## Sources (403 ingested)
+## Sources (404 ingested)
 
 | Page                                            | Author       | Published  | Summary                                                                                      |
 | ----------------------------------------------- | ------------ | ---------- | -------------------------------------------------------------------------------------------- |
@@ -536,6 +536,7 @@
 | [[sources/The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]] | Gogo Bethke | 2026-10-27 | NDA de-identified (raw not retained): monthly "Pitch Your Ideas to Gogo" meeting + staff audits; an AI agent per role (nightly research, do the job, continuity); survey-to-clarity-call Circle funnel; co-sponsor dashboard + booking-page rules + "Let's talk eXp"; hire slow/fire fast, three-strike contract, graduate-don't-fire, plan before the problem; mega-team profitability (~13%) vs solo; dollar split, pay yourself first, board of directors; $49 product as hand-raiser; selling from stage (offer mid-talk, collect contact info, 7-day follow-up). |
 | [[sources/Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]] | Audrey Van Zee | 2026-10-28 | Open to the Public: HeyGen AI avatars (motion/looks/voice, no-props filming, models + credits, voice tuning, Video Agent vs AI Studio, real estate templates, Brand Glossary, pricing, always disclose); Nick Krem on Halo AI-search FAQs + MLS AI limits; Gogo's 10-blog local-questions method and "copy the one you love"; REMLO; Jason Dupree's Fed Day minute. |
 | [[sources/teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]] | Vija Williams | 2026-11-04 | #teamgogo training: sellers research with AI first, so agents went "from the first call to the last opinion"; be first (68–80% hire the first agent met); cash-offer leads (~25% transact in 18 months, ~5% take cash, 5–10% conversion); golden minute (60–120 s); respond-to-the-request opener, 3+1 pre-qual questions, 24–72 h appointments; multiple exits (as-is investor special, renovation paid at closing, iBuyer Homeward/Zudelio, investors); presenting a low cash offer; follow-up is the gold. Jason Dupree's minute, Nick Krem on AI as a referral network, calendar auto-sync. |
+| [[sources/The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]] | Gogo Bethke | 2026-11-03 | **NDA de-identified (raw not retained).** Year-end tax homework by Dec 31 (prepay coaches at 37% bracket, cost segregation ~\$3,500 → 25–30% deductions, pay kids up to \$16,100 into custodial Roth + brokerage, 401k \$24,500, HSA \$4,400/\$8,750, QBI, Augusta rule via eXp lease toward ICON, vehicle recapture lesson, plan for the broke season); knowing your numbers (tracker per LLC, deposits-only check, asset tracker, good vs bad debt, HouseCanary CMAs); an AI for every VA (SOP → bot, 95% → 60% → 25% workload, Kristy's eXp MCP automations); owner out of tool setup ("that's called the bottleneck"), approve-then-release, 30-day ramp, hiring failures are the owner's fault; hourly-rate math ("you cannot save yourself to riches"); learning to be bored. |
 
 ---
 
