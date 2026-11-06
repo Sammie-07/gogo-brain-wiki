@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, brokerage, real-estate]
 sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-03
+updated: 2026-11-05
 ---
 
 # eXp Realty
@@ -215,6 +215,10 @@ eXp's 501(c)(3) charitable foundation, eXtend a Hand, generated about $70K in do
 ## "Run the Numbers" (Nov 1 2026 Instagram)
 
 Gogo does 2-10 calls a week running agents' numbers, because "it allows us to make a bottom line decision and not a feelings decision" (feelings decisions: "my broker is so nice," "I'm very loyal"). For agents doing 30+ deals a year she compares what they pay at a typical brokerage (cap "usually in the $20K+" plus royalty, brokerage and marketing fees, up to $50K-$65K+) with eXp, where she says the most you pay is $5K and the $16K cap comes back as stock in a retirement account. She asks for: current cap, your cut, transaction volume and amount, deal sources, average % per deal. ([[Instagram — 2026-11 (Gogo Bethke)]])
+
+## $18B Beside Starbucks (Nov 5 2026 Instagram)
+
+At Tony Robbins' UPW, over a slide showing Starbucks at $22.4B in revenue, Gogo wrote: "Starbucks has $22.4B in sales and @teamgogofamily closed $18B in 8 years. Almost $5B YTD!!! What's possible in this country is unbelievable. Go for your dreams!!" Her group at the event was part of "57 people from exp." See [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 

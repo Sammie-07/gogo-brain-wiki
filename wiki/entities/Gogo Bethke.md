@@ -265,6 +265,11 @@ Source: [[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey 
 - **How she learned to leverage:** a 50-50 partnership early on took away her sole voting power, so the company hired VAs "long before anybody else." She thanks that partner for forcing her hand.
 - **Money habits:** pays $30K-$50K a year for coaching and buys 1-2 houses a year with Duane ([[Tax Strategy#Year-End "Spend It on Yourself" (Instagram, Nov 2026)|year-end approach]]). Source: [[Instagram — 2026-11 (Gogo Bethke)]].
 
+## Nov 5 2026 Instagram Notes
+
+- **Day one of UPW Miami:** up for a 6:30 line, VIP badge, an eXp group of 57 in the building, and a run of stage takeaways posted to stories. Her Reel: "Action created motion. Motion created E-motion!!" ("#emotionalhome"). Detail in [[Instagram — 2026-11 (Gogo Bethke)]] and [[Mindset]].
+- **Impact reminder:** an agent thanked her for the hourly-rate advice that put him at his kids' games; her reply: "Someone needs to hear what you know."
+
 ## Related
 
 - [[wiki/entities/#teamgogo]]

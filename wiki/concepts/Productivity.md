@@ -73,7 +73,7 @@ sources:
   - "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]"
   - "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"
   - "[[Instagram — 2026-11 (Gogo Bethke)]]"
-updated: 2026-11-04
+updated: 2026-11-05
 ---
 
 # Productivity
@@ -1011,6 +1011,10 @@ Source: [[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funne
 ## The Bottleneck Lesson (Instagram, Nov 2026)
 
 "One of the hardest lessons I had to learn is that I am the bottleneck in my business." She once needed to approve and understand everything; most people never grow because "they can't get out of their own way." Rules: know your hourly rate; hire out everything below it; if you feel the urge to do the work yourself, "you're going backwards"; if you do a $5-an-hour task you are "saving the five bucks" instead of making thousands an hour. Origin: a 50-50 partnership removed her sole voting power, so the company hired VAs years before others did, which forced her to leverage. See [[AI for Real Estate#Gogo's AI-Run Team (Instagram, Nov 2026)|her AI-run team]] and [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## Proof the Hourly-Rate Rule Works (Instagram, Nov 5 2026)
+
+Gogo reshared a message from an eXp agent who heard her years ago in a training say to know your hourly rate and stop doing jobs worth less than it. He began leveraging those tasks out and has since made almost all his kids' sports events, is more present at home and could afford to be at UPW in Miami learning. Her comment: "We just never know HOW we effect someone's life. Keep doing the good work. Someone needs to hear what you know." See [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 

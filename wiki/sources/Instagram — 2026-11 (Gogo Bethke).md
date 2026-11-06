@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-04 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-05 so far.
 
 ## Key Takeaways
 
@@ -52,6 +52,13 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 - **Road trip to Tony Robbins' UPW** (stories). Gogo and two friends drove to Miami to register ("the Tesla is driving us... No driving"), planning one nice dinner because it would be their last of the week. The event is billed as supposedly the last live UPW in the United States, so "we're definitely not sneaking out when Tony's on stage." Route went through Punta Gorda and the Everglades. On screen she showed the group's VIP and Executive badges and noted that one of her team members, a year in #teamgogo, was heading to ICON, and that she co-sponsors a faith-based realtor organization started by a friend.
 - Skipped: a Reel tagging coaching clients met in person, a birthday shout-out, selfie and bench photos, and several fragment-only stories (a garbled Italian clip, "EXIT", "+2").
 
+### Nov 5 — Day one of Tony Robbins' UPW in Miami
+- **Emotion is an action problem** (Reel, [permalink](https://www.instagram.com/reel/DfXvYUKzZuG/)), posted from UPW Miami: "Believe it or not we all have full control of how we feel today." Happy, sad, "LIMITLESS" or "HOPELESS" are all available at once, and "The only difference is the lack of ACTION! Action created motion. Motion created E-motion!!" Everyone has an "#emotionalhome" they keep returning to: "So if you want a different life. Have different actions." A bare feed post the same day just tagged @tonyrobbins and #upw2026miami.
+- **A reader's thank-you for the hourly-rate advice** (story). She reshared a DM from an eXp agent who saw her in the lobby: years ago in an eXp training she said to know your hourly rate and stop doing jobs worth less than it. He leveraged those tasks out, and since then has made almost all of his kids' sports events, is far more present at home, and could afford to be in Miami learning. Her comment: "We just never know HOW we effect someone's life. Keep doing the good work. Someone needs to hear what you know."
+- **$18B next to Starbucks** (story). Over a Tony Robbins slide on Starbucks (6 stores and a $3.8M purchase price in 1987 to 27,339 stores and $22.4B in revenue; the founder "was turned down 217 times"), she wrote: "Omg I just realized something... Starbucks has $22.4B in sales and @teamgogofamily closed $18B in 8 years. Almost $5B YTD!!! What's possible in this country is unbelievable. Go for your dreams!!"
+- **The room** (stories). Up at 6:30 to be in the line for the doors; the group had stocked up the night before (energy drinks, waters, energy bars) and gone to bed at 8. Badges showed VIP and a count of "57 people from exp here." Between sessions she met up with friends from the eXp family. Takeaways she posted from the stage, each tagged @tonyrobbins: "The environment doesn't control how you end up, how you adapt does." / "We don't follow through when our subconscious mind says one thing and our conscious mind another." / "You don't GET beyond it. You PUSH beyond it." / "If you don't like it CHANGE it!!!" Her take on being there: "What a blessing for humanity. We are lucky to be alive at the same time with @tonyrobbins."
+- Skipped: meetup photo stories and tagged reshares of other people's clips, a garbled stage transcript (name mishearing), a speech-less clip, "+2"/"+1" fragments, and the long stage transcript on an "extraordinary quality of life" (Tony's words, not hers).
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -68,6 +75,12 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 > "I used to feel guilty not working. I worked a LOT on myself to not feel guilty."
 
 > "The point is to understand what you own before deciding what to do with it."
+
+> "Action created motion. Motion created E-motion!!"
+
+> "So if you want a different life. Have different actions."
+
+> "We just never know HOW we effect someone's life. Keep doing the good work. Someone needs to hear what you know."
 
 > "You can be an incredible real estate agent, sell a ton of houses, and still have to start from zero every January."
 
@@ -89,3 +102,7 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 - [[Wealth Building]] — Nov 4: understand what you own (whole life policy questions) before cashing out
 - [[#teamgogo]] — Nov 4: Private Room Day One finance segment (Randi)
 - [[Gogo Bethke]] — Nov 4: new puppy, UPW road trip to Miami
+- [[Mindset]] — Nov 5: emotion comes from action, the "emotional home," UPW takeaways
+- [[Productivity]] — Nov 5: the hourly-rate advice that gave an agent his kids' games back
+- [[eXp Realty]] — Nov 5: $18B in 8 years set beside Starbucks, almost $5B YTD
+- [[Gogo Bethke]] — Nov 5: day one at UPW Miami
