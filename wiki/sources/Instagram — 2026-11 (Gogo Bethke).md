@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-05 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-06 so far.
 
 ## Key Takeaways
 
@@ -59,6 +59,13 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 - **The room** (stories). Up at 6:30 to be in the line for the doors; the group had stocked up the night before (energy drinks, waters, energy bars) and gone to bed at 8. Badges showed VIP and a count of "57 people from exp here." Between sessions she met up with friends from the eXp family. Takeaways she posted from the stage, each tagged @tonyrobbins: "The environment doesn't control how you end up, how you adapt does." / "We don't follow through when our subconscious mind says one thing and our conscious mind another." / "You don't GET beyond it. You PUSH beyond it." / "If you don't like it CHANGE it!!!" Her take on being there: "What a blessing for humanity. We are lucky to be alive at the same time with @tonyrobbins."
 - Skipped: meetup photo stories and tagged reshares of other people's clips, a garbled stage transcript (name mishearing), a speech-less clip, "+2"/"+1" fragments, and the long stage transcript on an "extraordinary quality of life" (Tony's words, not hers).
 
+### Nov 6 — Fire walk, past decisions and "no longer work for money" (UPW Miami)
+- **"From here on I no longer work for money."** (feed post, [permalink](https://www.instagram.com/p/DfabSVDm2L_/)). She has lost count of how many times she has done UPW: "My #soul needs it. Every level, different devil. You figure it out and you get to graduation to the higher version of yourself." This was the first time she did not set a goal: "I'm truly #happy to where I'm at! From here on I no longer work for money! I'll only do what makes me fulfilled."
+- **"God does not make mistakes"** (Reel, [permalink](https://www.instagram.com/reel/DfaZ2XETRAg/), and a story with her pick-me-up song). In the story she says: "I remind myself that God created me, and God does not make mistakes. He created all these beautiful people. He created you! You're perfect the way you are. Go for your dreams. This is the life that he gave you. And don't give up."
+- **Walking on fire** (stories). She filmed her group before and after the fire walk, cheering them on ("You got this!") and then: "We just walked on fire! Which means we can do anything... if I can do this, what else can I do?" Afterwards the group sat putting their socks and shoes back on. She also noted that one #teamgogo agent, 2.5 years in the team, was about to reach ICON.
+- **Two past decisions** (story, a UPW workbook page she filled in). Easy decision: meeting Duane ("If he didn't ask me to marry him (after only 2 months knowing each other) I would have asked him myself"). Hard decision: "getting on a train, on a van, on a plane to come to a continent where I didn't know a single human being, I didn't speak the language to build a life I could not have in Romania."
+- Skipped: crew/badge selfies and tagged photos of other people, speech-less clips, throwback VIP-tour images, and fragment stories.
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -81,6 +88,10 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 > "So if you want a different life. Have different actions."
 
 > "We just never know HOW we effect someone's life. Keep doing the good work. Someone needs to hear what you know."
+
+> "From here on I no longer work for money! I'll only do what makes me fulfilled."
+
+> "I remind myself that God created me, and God does not make mistakes."
 
 > "You can be an incredible real estate agent, sell a ton of houses, and still have to start from zero every January."
 
@@ -105,4 +116,5 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 - [[Mindset]] — Nov 5: emotion comes from action, the "emotional home," UPW takeaways
 - [[Productivity]] — Nov 5: the hourly-rate advice that gave an agent his kids' games back
 - [[eXp Realty]] — Nov 5: $18B in 8 years set beside Starbucks, almost $5B YTD
-- [[Gogo Bethke]] — Nov 5: day one at UPW Miami
+- [[Gogo Bethke]] — Nov 5: day one at UPW Miami; Nov 6: first UPW with no goal, fire walk, Duane and the move from Romania
+- [[Mindset]] — Nov 6: "God does not make mistakes," the fire-walk lesson, past decisions
