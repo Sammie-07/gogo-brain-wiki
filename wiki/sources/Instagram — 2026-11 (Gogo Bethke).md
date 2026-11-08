@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-06 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-07 so far.
 
 ## Key Takeaways
 
@@ -66,6 +66,13 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 - **Two past decisions** (story, a UPW workbook page she filled in). Easy decision: meeting Duane ("If he didn't ask me to marry him (after only 2 months knowing each other) I would have asked him myself"). Hard decision: "getting on a train, on a van, on a plane to come to a continent where I didn't know a single human being, I didn't speak the language to build a life I could not have in Romania."
 - Skipped: crew/badge selfies and tagged photos of other people, speech-less clips, throwback VIP-tour images, and fragment stories.
 
+### Nov 6 evening to Nov 7 — Day two at UPW: the price of dreams, a "yes" to eXp, and three answers
+- **The price of the dream** (Reel, [permalink](https://www.instagram.com/reel/DfbKrX0xDNo/), plus stories). After speaker Jesse Itzler, she wrote: "What did you give up for your #dreams?... Amongst other things I gave up 23 Christmases, 23 of my mom's bdays… The price is real! Our #goals and dreams come at a price. And that price is heavy!!" Quoting a line she'd heard: "just because someone makes it look easy, it doesn't mean it's not heavy!" Resolve: "I'll make a conscious effort to see my #family more! As Jessie said, you can do both!!!" The story version retold his point that very wealthy families' biggest regret was giving up what they already had (time with kids, health, ethics) chasing what they wanted: "Don't give up what you already have. You want to have both."
+- **"I'm so thankful I said YES 8 years ago"** (Reel, [permalink](https://www.instagram.com/reel/DfbNI1_zx2r/)). On the "workfamily" at eXp: "Don't take my word for it. Come hang with us sometime, make your own decision... Real estate can be hard, but does not need to be. Life is a choice!" DM her to talk eXp.
+- **Ask for three answers** (Reel, [permalink](https://www.instagram.com/reel/DfcNYS2z1rk/), plus a run of stories). Prompted by a speaker's question ("if nobody was showing you how to do your job, how would you do it?"), she explained her habit with VAs: instead of answering their questions she asks "What do you think? Give me three," then picks the best or has them pick. It proves they know the job, "removes you as a leader from the equation" and gets her time back; many VAs are "taught to be almost robots... I don't like to work with people like that." "This week I worked five and a half hours. And I make millions." Caption: "Turn them into miniyous and remove yourself from the equation."
+- **You get what you tolerate** (Reel, [permalink](https://www.instagram.com/reel/Dfcviq_TrnN/), plus stories). "We all get what we TOLERATE. That's our STANDARD." A winner and a loser differ by the stories they accepted as true "with absolute certainty." Story text: "It's lonely at the TOP they say! NO. It's crowded at the BOTTOM!!"
+- Skipped: Tony Robbins and speaker clips and slides (their words), crew and badge selfies, tagged photos and reshares of other people, speech-less clips, a liked-reel screenshot and fragment stories.
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -95,6 +102,14 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 
 > "You can be an incredible real estate agent, sell a ton of houses, and still have to start from zero every January."
 
+> "Our #goals and dreams come at a price. And that price is heavy!!"
+
+> "Give me three" (how she answers a VA's question), and "Turn them into miniyous and remove yourself from the equation."
+
+> "We all get what we TOLERATE. That's our STANDARD."
+
+> "It's lonely at the TOP they say! NO. It's crowded at the BOTTOM!!"
+
 ## Wiki Pages Updated
 - [[eXp Realty]] — Nov 1: run-the-numbers cap comparison and call-prep list
 - [[Lead Generation]] — Nov 1: start-over plan for a new agent, people-business rule
@@ -118,3 +133,8 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 - [[eXp Realty]] — Nov 5: $18B in 8 years set beside Starbucks, almost $5B YTD
 - [[Gogo Bethke]] — Nov 5: day one at UPW Miami; Nov 6: first UPW with no goal, fire walk, Duane and the move from Romania
 - [[Mindset]] — Nov 6: "God does not make mistakes," the fire-walk lesson, past decisions
+- [[Mindset]] — Nov 6-7: the price of the dream (23 Christmases), "you can do both," tolerating vs. standards
+- [[Productivity]] — Nov 7: ask for three answers, turn VAs into "mini-yous"
+- [[Real Estate Teams]] — Nov 7: questions-back leadership habit
+- [[eXp Realty]] — Nov 7: "so thankful I said YES 8 years ago"
+- [[Gogo Bethke]] — Nov 7: years away from family, resolve to see them more

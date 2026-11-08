@@ -74,7 +74,7 @@ sources:
   - "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"
   - "[[Instagram — 2026-11 (Gogo Bethke)]]"
   - "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"
-updated: 2026-11-05
+updated: 2026-11-07
 ---
 
 # Productivity
@@ -1021,6 +1021,10 @@ Gogo reshared a message from an eXp agent who heard her years ago in a training 
 - "If you want to beat the system, you cannot be doing data entry." Know a tool enough "to be dangerous," pay for it, and have someone else set it up; doing it yourself is "called the bottleneck." Gogo has never set up ClickFunnels, GoHighLevel or ManyChat.
 - Her working day is about 2–2.5 hours: "I've never worked this little and made this much money."
 Source: [[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]].
+
+## Ask for Three Answers: Turn Your VAs into "Mini-Yous" (Nov 7 2026 Instagram)
+
+Sparked by a UPW speaker's question ("if nobody was showing you how to do your job, how would you do it?"), Gogo explained her trick for building a team that runs without her. When a team member brings a question, she doesn't answer it. She asks: "What do you think? Give me three" answers, then picks the best, or asks which of the three they'd choose. Reasons: (A) she got tired of answering the same questions repeatedly; (B) she wanted "a solid team that can function without me." Results: (1) if they can produce three good answers, "you know that they know their job"; (2) "it removes you as a leader from the equation," so she no longer fields day-to-day questions and gets her time back; (3) the team member grows into "an amazing asset." She contrasts this with how many VAs are trained: "taught to be almost robots... You give them a task and they finish the task. I don't like to work with people like that." Instead she makes them use their brains, which also shows her how they see the world. Her proof: "This week I worked five and a half hours. And I make millions," and she calls this the best team she has ever had. Reel caption: "Turn them into miniyous and remove yourself from the equation." ([Reel](https://www.instagram.com/reel/DfcNYS2z1rk/)). See also [[Real Estate Teams]] and [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 

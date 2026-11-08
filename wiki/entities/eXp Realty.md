@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, brokerage, real-estate]
 sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-05
+updated: 2026-11-07
 ---
 
 # eXp Realty
@@ -219,6 +219,10 @@ Gogo does 2-10 calls a week running agents' numbers, because "it allows us to ma
 ## $18B Beside Starbucks (Nov 5 2026 Instagram)
 
 At Tony Robbins' UPW, over a slide showing Starbucks at $22.4B in revenue, Gogo wrote: "Starbucks has $22.4B in sales and @teamgogofamily closed $18B in 8 years. Almost $5B YTD!!! What's possible in this country is unbelievable. Go for your dreams!!" Her group at the event was part of "57 people from exp." See [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## "I'm So Thankful I Said YES 8 Years Ago" (Nov 7 2026 Instagram)
+
+Reel from UPW Miami ([permalink](https://www.instagram.com/reel/DfbNI1_zx2r/)): Gogo says she is "so blessed to have met and partnered with such amazing humans in #realestate." To agents who think it is "just a bunch of #realtors": "Don't take my word for it. Come hang with us sometime, make your own decision." She describes a "#workfamily" that would be "hard to find anywhere else" and says "Real estate can be hard, but does not need to be. Life is a choice!" Invitation: DM her to "talk eXp." A companion story at UPW asked "Guess what we all said YES to???" and tagged @exprealty. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 
