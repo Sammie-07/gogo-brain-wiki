@@ -1015,3 +1015,6 @@ Private Circle call, Nov 3 (NDA; raw not retained; fetched via Google Drive). Up
 
 ## [2026-11-08] ingest | Instagram captions and stories through 2026-11-07
 4 captions and 23 stories (2026-11-06 21:50 to 2026-11-07 18:39 UTC). Extended Instagram — 2026-11; updated Mindset, Productivity, Real Estate Teams, eXp Realty, Gogo Bethke. Skipped Tony Robbins/speaker clips and slides, selfies, tagged reshares of other people, speech-less and fragment stories; speaker words not attributed to Gogo.
+
+## [2026-11-09] ingest | Instagram captions and stories through 2026-11-08
+1 caption and 10 stories (2026-11-08 00:36 to 20:27 UTC). Extended Instagram — 2026-11; updated Mindset, Wealth Building, Gogo Bethke. Skipped Tony Robbins crew/badge selfies, tagged friends, reshared clip and speech-less stories.

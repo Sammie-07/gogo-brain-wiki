@@ -9,7 +9,7 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-07 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-08 so far.
 
 ## Key Takeaways
 
@@ -73,6 +73,13 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 - **You get what you tolerate** (Reel, [permalink](https://www.instagram.com/reel/Dfcviq_TrnN/), plus stories). "We all get what we TOLERATE. That's our STANDARD." A winner and a loser differ by the stories they accepted as true "with absolute certainty." Story text: "It's lonely at the TOP they say! NO. It's crowded at the BOTTOM!!"
 - Skipped: Tony Robbins and speaker clips and slides (their words), crew and badge selfies, tagged photos and reshares of other people, speech-less clips, a liked-reel screenshot and fragment stories.
 
+### Nov 8 — Thoughts create reality, a 2027 plan, and a home-equity tip
+- **"Our whole reality are the thoughts in our head"** (feed post, [permalink](https://www.instagram.com/p/Dfe0n3JG40O/)). "If you believe you CAN, or you believe you CAN'T… either way you are right! You are creating your reality. Just be aware of your thoughts. Control that s..t! Create the amazing life that you want by acting on the thoughts!" A story the same morning carried the text: "Most people doubt their beliefs and they believe their doubts."
+- **A 2027 business plan "downloaded" in the shower** (story). "I just had a 'download' in the shower. Full blown business plan for 2027. I have a couple months to build it! 2027 here I come."
+- **After the event** (story, with a poll asking whether she should post her notes). "Cheers to another successful self bettering event."
+- **Your home equity is a cushion** (three-part story talk). Her pitch: most people are stressed about money without realizing how much cash they have access to. She came to the US at 21 with $200 and no U.S. education and built herself and her family into multi-millionaires. Steps: (1) find out what your home is worth (a realtor can tell you); (2) find out what you owe (your mortgage statement); (3) ask your lender for a HELOC, usually up to 80% of the home's value minus what you owe. Her math: a $400,000 home with a $200,000 balance gives 80% of $400,000 = $320,000, minus $200,000 = $120,000 of available cash. "You get that HELOC and you don't touch it. You don't need it," it's peace of mind. She cites the average U.S. home at about $417,000 and says a large share of owners hold 70%+ equity; she frames it as not financial advice.
+- Skipped: Tony Robbins crew/badge and fire-walk selfies with tagged friends, and a reshared clip with its own overlay text.
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -111,6 +118,9 @@ tags: [instagram, captions, stories, tax-strategy, delegation, ai-team, faith, u
 > "It's lonely at the TOP they say! NO. It's crowded at the BOTTOM!!"
 
 ## Wiki Pages Updated
+- [[Mindset]] — Nov 8: thoughts create reality, "doubt their beliefs"
+- [[Wealth Building]] — Nov 8: home equity and a HELOC as a cushion
+- [[Gogo Bethke]] — Nov 8: $200 arrival line, 2027 plan
 - [[eXp Realty]] — Nov 1: run-the-numbers cap comparison and call-prep list
 - [[Lead Generation]] — Nov 1: start-over plan for a new agent, people-business rule
 - [[GoGet'Em Community]] — Nov 1: member Q&A with Gogo, 350+ trainings
