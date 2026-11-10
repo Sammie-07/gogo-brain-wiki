@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [agent-attraction, co-sponsorship, revenue-share, exp-realty, teams, real-estate-math, lead-generation]
-sources: ["[[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]]", "[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]]", "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]"]
-updated: 2026-10-29
+sources: ["[[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]]", "[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]]", "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
+updated: 2026-11-10
 ---
 
 # Co-Sponsorship and the Agent-Attraction Website System
@@ -149,6 +149,9 @@ Source: [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell
 - Per Gogo, eXp agents can't run agent-attraction ads without a team, so she recruits organically (her statement).
 
 Source: [[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]].
+
+## Co-Sponsor Inbox as Word of Mouth (Nov 9 2026 Instagram)
+Gogo posted the cosponsor@exprealty.net inbox full of co-sponsor selections: "I feel so honored every time someone chooses me as their co-sponsor. That means someone told them about me and #teamgogo and our trainings. Which means, they talked nicely about us." Source: [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 

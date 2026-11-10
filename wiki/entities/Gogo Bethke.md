@@ -2,7 +2,7 @@
 type: entity
 tags: [person, real-estate, coach, content-creator, entrepreneur]
 sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]]", "[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Red Light Green Light Exercise]]", "[[Let's Do Some Math Again]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[How I Scaled From One-on-One to Group Coaching]]", "[[How do you know it is time to hire a Virtual Assistant]]", "[[Work-Life Balance Secrets]]", "[[How to Track Business Growth with Effective Tools and Strategies]]", "[[AI For Real Estate Agents — How to Use AI to Generate Leads]]", "[[Working with Your Spouse]]", "[[Gogopreneur — Tony Robbins Business Mastery Part I]]", "[[From an Au Pair to a Millionaire]]", "[[Agent to CEO — Full Presentation]]", "[[From an Au Pair to a Millionaire (Presentation)]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[GOGO TEDx — Au Pair to Millionaire (Hungarian Presentation)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[GoGetEm Community Who Is Gogo Bethke — Website Intro Video]]", "[[Gogo Podcast Journey Into Real Estate and Coaching — Full Interview]]", "[[Gogo Bethke — BBM Retreat Day 2 (Business Building Mastery)]]", "[[Gogo Bethke — The Quotes I Live By (Retreat Slides)]]", "[[The Fundamentals - Social Media Machine and Branding]]", "[[Social Media Marketing Mindset and Lead Capturing]]", "[[What Top Agents Do Differently on Instagram - Month 5]]", "[[How to Become the Obvious Choice in Your Market]]", "[[Master Your Copywriting and AI Brand Voice]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]", "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"]
-updated: 2026-11-09
+updated: 2026-11-10
 ---
 
 # Gogo Bethke
@@ -275,6 +275,13 @@ Source: [[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey 
 - Drives a Tesla Model Y for the self-driving time despite a smaller write-off, after a vehicle-recapture lesson.
 - Works about 2–2.5 hours a day, averages about $4,200 per working hour, and calls this her "chill phase" after 15 years of grinding.
 Source: [[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]].
+
+## Nov 8-9 2026 Instagram Notes
+
+- **Smell back after UPW (Nov 8).** After 2+ years of "covid nose," she could suddenly smell her shampoo after UPW: "when you lose your sense of smell, you just don't realize that you don't smell things." She jokes it was the jumping, the "tony flu" or the soul-searching.
+- **Millionaire-on-paper exercise (Nov 8).** She walked a travel companion through her net worth and how to access it ([[Wealth Building]]).
+- **Lake cabin from Florida (Nov 9).** The Michigan cabin is being turned into an Airbnb with a full renovation managed remotely; she used ChatGPT for the interior design (dark leather, hardwood, fireplace, "masculine," "because I'm surrounded by boys") and finds remote delivery logistics hard ("it's so exciting"). See [[AI for Real Estate]].
+- **Home (Nov 8-9).** Back from UPW: garden, Duane washing the Tesla, the AlumaCraft and Tesla fitting in one side of the garage, a HomeGoods rug run, and Gracie eating "literally anything on her level." Hours-and-income post in [[The Circle]].
 
 ## Related
 

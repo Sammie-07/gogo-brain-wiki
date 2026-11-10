@@ -74,7 +74,7 @@ sources:
   - "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"
   - "[[Instagram — 2026-11 (Gogo Bethke)]]"
   - "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"
-updated: 2026-11-07
+updated: 2026-11-10
 ---
 
 # Productivity
@@ -1025,6 +1025,9 @@ Source: [[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and D
 ## Ask for Three Answers: Turn Your VAs into "Mini-Yous" (Nov 7 2026 Instagram)
 
 Sparked by a UPW speaker's question ("if nobody was showing you how to do your job, how would you do it?"), Gogo explained her trick for building a team that runs without her. When a team member brings a question, she doesn't answer it. She asks: "What do you think? Give me three" answers, then picks the best, or asks which of the three they'd choose. Reasons: (A) she got tired of answering the same questions repeatedly; (B) she wanted "a solid team that can function without me." Results: (1) if they can produce three good answers, "you know that they know their job"; (2) "it removes you as a leader from the equation," so she no longer fields day-to-day questions and gets her time back; (3) the team member grows into "an amazing asset." She contrasts this with how many VAs are trained: "taught to be almost robots... You give them a task and they finish the task. I don't like to work with people like that." Instead she makes them use their brains, which also shows her how they see the world. Her proof: "This week I worked five and a half hours. And I make millions," and she calls this the best team she has ever had. Reel caption: "Turn them into miniyous and remove yourself from the equation." ([Reel](https://www.instagram.com/reel/DfcNYS2z1rk/)). See also [[Real Estate Teams]] and [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## Stop Measuring Success by How Busy You Are (Nov 9 2026 Instagram)
+In her "$1.5-$1.7 million on 5-10 hours a week" post, step one is cutting hours: Monday-Wednesday, usually 10-2, some weeks 5.5 hours total. "I stopped measuring success by how busy I was." Step two is replacing herself with trained VAs and systems and getting "OUT of their way." Full list in [[The Circle]] and [[AI for Real Estate]]. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 

@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, community, real-estate]
 sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-02
+updated: 2026-11-10
 ---
 
 # GoGet'Em Community
@@ -95,6 +95,9 @@ Source: [[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell
 ## Member Q&A with Gogo (Nov 1 2026 Instagram)
 
 Gogo showed the General Q&A chat in stories: a newly licensed member asked what she would do first if starting over, and Gogo answered directly in the chat (see [[Lead Generation]]). Pitch: 350+ trainings plus Gogo and her team for tech support. "I only teach what I've done!" ([[Instagram — 2026-11 (Gogo Bethke)]])
+
+## Member-Taught TikTok Session (Nov 9 2026 Instagram)
+Gogo promoted a live community session taught by member Nadia, a Florida agent who has earned $44,500 GCI from TikTok in 2026 (funnel numbers in [[Lead Generation]]). Pitch: $79/month for "350+ trainings and LIVE tech support weekly," and "I'll always bring the newest ways to make money as a #realtor." Source: [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 

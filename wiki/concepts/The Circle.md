@@ -2,7 +2,7 @@
 type: concept
 tags: [the-circle, coaching, mastermind, operations, payment, contract, community, four-freedoms, positioning]
 sources: [[[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]], [[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]], [[The Circle Coaching Contract (Gogo Bethke)]], [[The Circle Sales Page (gogobethke.com)]], [[Mindset Shift From Real Estate Agent To Entrepreneur]], [[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]], [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]], [[Instagram — 2026-10 (Gogo Bethke)]], "[[Instagram — 2026-11 (Gogo Bethke)]]", "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"]
-updated: 2026-11-05
+updated: 2026-11-10
 ---
 
 # The Circle
@@ -247,6 +247,9 @@ The Circle meets Tuesdays at noon. On Nov 3 the call covered year-end numbers, t
 ## Nov 3, 2026 Call
 - Year-end tax homework, knowing your numbers (trackers, asset sheet), an AI for every VA, and getting the owner out of tool setup. Members chose one-on-one tracker sessions with [[Kristy Waker]] to keep their numbers private.
 Source: [[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]].
+
+## Seven Steps to Buy Back Your Time (Nov 9 2026 Instagram)
+Reel caption pitching the Circle: Gogo is closing 2026 at about $1.5-$1.7 million working 5-10 hours a week across 9 companies. Her steps: cut working hours (Mon-Wed, usually 10-2); replace yourself with trained VAs; give the team AI; build a Second Brain; build multiple income streams (revenue share, stocks, real estate investments, digital products, coaching; about 90-95% passive or recurring); build businesses, not jobs. Effective hourly income: $3,541 to $7,083. "It took YEARS of hiring, failing, learning and building systems. But YOU don't have to figure it all out alone." Details in [[AI for Real Estate]]. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 
