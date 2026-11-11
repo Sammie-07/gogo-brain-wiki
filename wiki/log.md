@@ -1021,3 +1021,6 @@ Private Circle call, Nov 3 (NDA; raw not retained; fetched via Google Drive). Up
 
 ## [2026-11-10] ingest | Instagram captions and stories through 2026-11-09
 6 captions and 19 stories (2026-11-08 20:29 to 2026-11-09 23:46 UTC). Extended Instagram — 2026-11; updated Wealth Building, Lead Generation, GoGet'Em Community, AI for Real Estate, Productivity, The Circle, Co-Sponsorship and Agent Attraction System, Gogo Bethke. Skipped duplicate caption, Tony Robbins stage clip, food snaps, speech-less stories and a garbled spoken intro; no Circle seat numbers recorded.
+
+## [2026-11-11] ingest | Instagram captions and stories through 2026-11-10
+3 captions and 6 stories (2026-11-10 16:56 to 19:24 UTC). Extended Instagram — 2026-11; updated Mindset, Productivity, The Circle, Kristy Waker, GoGet'Em Community, Gogo Bethke. Skipped book-stack and fragment stories and a song-lyric clip; no Circle seat numbers recorded.

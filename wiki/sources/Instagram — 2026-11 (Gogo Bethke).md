@@ -9,7 +9,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-09 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-10 so far.
 
 ## Key Takeaways
 
@@ -95,6 +95,13 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **Home life:** a new rug at HomeGoods for the living room; her dog Gracie "wants to eat literally anything on her level"; a morning greeting to Gracie, "You are so precious."
 - Skipped: the pay-per-training "LIVE" comment mechanics, a GF cornbread and dinner snaps, and speech-less or fragment stories. The Nov 8 training story's spoken intro was garbled and is not quoted.
 
+### Nov 10 — Two communities, hiring Kristy, and no plan B
+- **Why two communities** (Reel caption, [permalink](https://www.instagram.com/reel/DfkYK95Tv_r/)). "I love people... I love feeding each other's families." Eight years ago she created #teamgogo for her real estate friends when she switched to eXp, free and "work FAMILY"; later she added the GoGet'Em Community for entrepreneurs (marketing, negotiating, hiring and firing, AI, taxes, financial freedom). A story asked: "Imagine building a community that people want to be a part of. NOW imagine building 2."
+- **Member-taught TikTok session** (stories). Nadia, who made $44K in commissions from TikTok home tours, taught the 1 PM GoGet'Em live; replay in the app. "I love when our members teach. We all have something we are so good at. We share it." (Nadia's story slide notes ~10,000 TikTok followers, home tours only, no face on camera, relocation buyers.)
+- **Hiring Kristy 14 years ago** (feed caption, [permalink](https://www.instagram.com/p/Dfkj4PkD1LP/)). Scariest hire she made; now Kristy builds the systems, Gogo hears about breaks "after it's fixed," she hasn't trained her newest assistant, and she owns nine companies on three days a week. "I didn't get faster. I stopped doing everything myself." Ends with a Circle call-to-action (no capacity figures).
+- **No plan B** (Reel caption, [permalink](https://www.instagram.com/reel/DfkpHtYS9GP/)). Left Csíkszereda, Transylvania at 21 with barely any English; "The second it exists, your brain starts looking for a reason to use it." "I'm not saying be stupid. I'm saying be decided." "Burn the boats!"
+- Skipped: a book-stack story (titles only), a fragment story from the live, and a song-lyric spoken line.
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -146,7 +153,19 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "Your numbers depend on your market and niche."
 
+> "The second it exists, your brain starts looking for a reason to use it."
+
+> "I'm not saying be stupid. I'm saying be decided."
+
+> "I didn't get faster. I stopped doing everything myself."
+
 ## Wiki Pages Updated
+- [[Mindset]] — Nov 10: "Burn the boats," no plan B, be decided
+- [[Productivity]] — Nov 10: "I stopped doing everything myself"
+- [[The Circle]] — Nov 10: Circle call-to-action on the delegation post
+- [[Kristy Waker]] — Nov 10: hired 14 years ago, builds the systems now
+- [[GoGet'Em Community]] — Nov 10: why she built two communities
+- [[Gogo Bethke]] — Nov 10: Csíkszereda origin, communities, nine companies
 - [[Mindset]] — Nov 8: thoughts create reality, "doubt their beliefs"
 - [[Wealth Building]] — Nov 8: home equity and a HELOC as a cushion
 - [[Gogo Bethke]] — Nov 8: $200 arrival line, 2027 plan

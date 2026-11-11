@@ -74,7 +74,7 @@ sources:
   - "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"
   - "[[Instagram — 2026-11 (Gogo Bethke)]]"
   - "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"
-updated: 2026-11-10
+updated: 2026-11-11
 ---
 
 # Productivity
@@ -1028,6 +1028,9 @@ Sparked by a UPW speaker's question ("if nobody was showing you how to do your j
 
 ## Stop Measuring Success by How Busy You Are (Nov 9 2026 Instagram)
 In her "$1.5-$1.7 million on 5-10 hours a week" post, step one is cutting hours: Monday-Wednesday, usually 10-2, some weeks 5.5 hours total. "I stopped measuring success by how busy I was." Step two is replacing herself with trained VAs and systems and getting "OUT of their way." Full list in [[The Circle]] and [[AI for Real Estate]]. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## "I Stopped Doing Everything Myself" (Nov 10 2026 Instagram)
+Caption on hiring Kristy 14 years ago: it "was one of the scariest things I ever did. I didn't feel ready. The money wasn't there yet. Neither was my time." Back then she tracked every dollar, set up every system and put out every fire. Now: "I still know my numbers. I just stopped being the one keeping track of them." Kristy builds the new systems ("I don't push the buttons anymore. If I did, I'd be out of business"), problems reach her "after it's fixed," and she hasn't met one-on-one with her newest assistant: "I'm not training her. It's handled." Her summary: "I didn't get faster. I stopped doing everything myself," which is how she owns nine companies and works three days a week. ([Post](https://www.instagram.com/p/Dfkj4PkD1LP/)) See [[Kristy Waker]]. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 
