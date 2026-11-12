@@ -9,7 +9,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-10 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-11 so far.
 
 ## Key Takeaways
 
@@ -102,6 +102,16 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **No plan B** (Reel caption, [permalink](https://www.instagram.com/reel/DfkpHtYS9GP/)). Left Csíkszereda, Transylvania at 21 with barely any English; "The second it exists, your brain starts looking for a reason to use it." "I'm not saying be stupid. I'm saying be decided." "Burn the boats!"
 - Skipped: a book-stack story (titles only), a fragment story from the live, and a song-lyric spoken line.
 
+### Nov 10 evening to Nov 11 — "We experience the life we focus on," unavailable on purpose, and AI-found websites
+- **Date night with Duane** (story, [permalink](https://www.instagram.com/stories/gogosrealestate/4027645885068550316)). Joking that she is "not the princess" while he puts his shoes on, "You need to get a little more princess in you. A little more diva," and he is "taking me out to dinner, though."
+- **"I'm so happy"** (story, [permalink](https://www.instagram.com/stories/gogosrealestate/4028175278509634374)). Back from Tony Robbins: "we don't experience life, we experience the life that we focus on." If you think life is hard, your brain finds everything to justify it; if you think it is easy, it proves that instead. A belief is "a thought that we accepted to be true", so "what if you accept the opposite?" Her example: "it's so hard to be a multimillionaire" versus "it's so freaking easy."
+- **Not rude, just booked** (Reel caption, [permalink](https://www.instagram.com/reel/Dfm5LkpzJgT/)). "If you're not adding to my happiness, my bank account, or my growth, I'm unavailable."
+- **What are you so afraid of?** (Reel caption, [permalink](https://www.instagram.com/reel/Dfnb3FzyK5x/)). "People will judge you whether you win or lose. Might as well give them something to talk about... Take the risk. Make the mistake. Learn the lesson. GO LIVE YOUR LIFE!"
+- **Hobby: overthinking** (feed caption, [permalink](https://www.instagram.com/p/DfntHg1vTiO/)). "Side hobby: turning it into income... I know I'm not the only one."
+- **Websites AI can find** (story, [permalink](https://www.instagram.com/stories/gogosrealestate/4028233853445256492)). On a #teamgogo call teaching partner agents to build websites by text in minutes, optimized for AEO, GEO and SEO with the exact words of the ideal client. "42% of people already use AI to search. If you only have a site like BoldTrail they won't find you. You're NOT a choice."
+- **Co-sponsor offer** (story). Co-sponsoring with her at eXp gives the agent access to #teamgogo (trainings, Agent Attraction Bootcamp, Google Drive, tech support, onboarding, weekly trainings), plus a free co-branded agent attraction website built when you comment "cosponsor"; already covered in [[Co-Sponsorship and Agent Attraction System]].
+- Skipped: a Robinhood referral plug, selfie and group photos, a handle-only reshare.
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -159,7 +169,16 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "I didn't get faster. I stopped doing everything myself."
 
+> "We don't experience life, we experience the life that we focus on."
+
+> "If you're not adding to my happiness, my bank account, or my growth, I'm unavailable."
+
+> "People will judge you whether you win or lose. Might as well give them something to talk about."
+
 ## Wiki Pages Updated
+- [[Mindset]] — Nov 11: "we experience the life we focus on," unavailable on purpose, take the risk
+- [[AI for Real Estate]] — Nov 11: 42% search with AI, sites built by text for AEO/GEO
+- [[Gogo Bethke]] — Nov 10-11: dinner with Duane, overthinking-into-income joke
 - [[Mindset]] — Nov 10: "Burn the boats," no plan B, be decided
 - [[Productivity]] — Nov 10: "I stopped doing everything myself"
 - [[The Circle]] — Nov 10: Circle call-to-action on the delegation post

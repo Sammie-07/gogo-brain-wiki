@@ -1024,3 +1024,6 @@ Private Circle call, Nov 3 (NDA; raw not retained; fetched via Google Drive). Up
 
 ## [2026-11-11] ingest | Instagram captions and stories through 2026-11-10
 3 captions and 6 stories (2026-11-10 16:56 to 19:24 UTC). Extended Instagram — 2026-11; updated Mindset, Productivity, The Circle, Kristy Waker, GoGet'Em Community, Gogo Bethke. Skipped book-stack and fragment stories and a song-lyric clip; no Circle seat numbers recorded.
+
+## [2026-11-12] ingest | Instagram captions and stories through 2026-11-11
+4 captions and 7 stories (2026-11-10 23:20 to 2026-11-11 23:53 UTC). Extended Instagram — 2026-11; updated Mindset, AI for Real Estate, Gogo Bethke. Skipped a Robinhood plug, photo-only and handle-only stories, and the co-sponsor story already covered; no Circle seat numbers recorded.
