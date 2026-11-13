@@ -1027,3 +1027,6 @@ Private Circle call, Nov 3 (NDA; raw not retained; fetched via Google Drive). Up
 
 ## [2026-11-12] ingest | Instagram captions and stories through 2026-11-11
 4 captions and 7 stories (2026-11-10 23:20 to 2026-11-11 23:53 UTC). Extended Instagram — 2026-11; updated Mindset, AI for Real Estate, Gogo Bethke. Skipped a Robinhood plug, photo-only and handle-only stories, and the co-sponsor story already covered; no Circle seat numbers recorded.
+
+## [2026-11-13] ingest | Instagram captions and stories through 2026-11-12
+4 captions and 9 stories (2026-11-12 12:19 to 2026-11-12 22:01 UTC). Extended Instagram — 2026-11; updated Mindset, Productivity, Gogo Bethke. Skipped a speech-less boxes video, a selfie and handle-only fragments; no Circle seat numbers recorded.

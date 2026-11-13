@@ -9,7 +9,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-11 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-12 so far.
 
 ## Key Takeaways
 
@@ -112,6 +112,15 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **Co-sponsor offer** (story). Co-sponsoring with her at eXp gives the agent access to #teamgogo (trainings, Agent Attraction Bootcamp, Google Drive, tech support, onboarding, weekly trainings), plus a free co-branded agent attraction website built when you comment "cosponsor"; already covered in [[Co-Sponsorship and Agent Attraction System]].
 - Skipped: a Robinhood referral plug, selfie and group photos, a handle-only reshare.
 
+### Nov 12 — Shipping boxes to Romania, "stop waiting," too loud, and "it was never as complicated"
+- **If you don't like something, change it** (feed caption, [permalink](https://www.instagram.com/p/DfpKzXUzIoL/)). "Some people like to gossip, some love shopping... I love to think of business ideas and help others make #money." In Michigan she shipped boxes of unneeded clothes to family in Romania; after the move to Florida the nearest drop-off was four hours away, so she asked the shipping company to open a Tampa location. They agreed if she could find a Romanian speaker willing to run it, and a friend from the Hungarian church now runs it from her garage while home with her kids. "I WIN cause I don't have to drive 4 hours... and she WINS cause she is making money from home! If you don't like something, change it!! You might just help someone while you help yourself."
+- **Waiting for the market** (feed caption, [permalink](https://www.instagram.com/p/Dfpeex3zLNU/)). "Waiting for the market to get better? So is everybody else... I've been in real estate since 2011. There's ALWAYS a reason to wait. The agents who win learn how to succeed in the market they HAVE, not the one they're hoping for." CTA: comment PARTNER (agent attraction).
+- **Too loud, too much, too ambitious** (Reel caption, [permalink](https://www.instagram.com/reel/Dfpe2qCTOvr/)). "I'm not here to fit into anyone's definition of successful. I'm too busy creating my own."
+- **It was never as complicated as they told you** (Reel caption, [permalink](https://www.instagram.com/reel/DfpsWddTMXz/)). Every week she talks to people making multiple six figures who are drowning in "Ten apps. Five funnels. Three coaches telling them three different things," and who think they need MORE. Pulled apart, it always returns to three basics: **mindset** ("if you don't believe you can build something bigger than yourself, you'll keep trying to do everything yourself"), **systems** ("doing the same thing 47 times isn't a business strategy. It's a problem you haven't solved yet") and **freedom** ("what's the point of building a successful business if you can't enjoy the life you're working so hard to pay for?"). "I own nine companies and work three days a week... Because I stopped making everything so complicated." "Complicated feels productive. It keeps you busy, and busy makes you feel important. But busy doesn't necessarily mean you're building anything."
+- **Lake-cabin reno update** (stories). Cabinets in (new island much bigger than the old one, "the size of 2 cabinets"), drywall repair and paint next, then flooring and countertops the following Thursday. In a spoken story she says the house is "so cute," furniture, beds, rugs, curtains and mattresses are already ordered, and her warning: "Don't ever buy a place and renovate it from 900 miles away"; the stress is real for whoever is doing it, and she jokes that the money-making and money-spending are split between her and [[Duane]].
+- **Couple time** (stories). Dental cleanings with [[Duane]] ("cause we do everything together"), "We are cute together!!! We age like wine!!"
+- Skipped: a speech-less moving-boxes video, a selfie, handle-only fragments.
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -175,6 +184,12 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "People will judge you whether you win or lose. Might as well give them something to talk about."
 
+> "There's ALWAYS a reason to wait."
+
+> "Complicated feels productive... But busy doesn't necessarily mean you're building anything."
+
+> "If you don't like something, change it!! You might just help someone while you help yourself."
+
 ## Wiki Pages Updated
 - [[Mindset]] — Nov 11: "we experience the life we focus on," unavailable on purpose, take the risk
 - [[AI for Real Estate]] — Nov 11: 42% search with AI, sites built by text for AEO/GEO
@@ -223,3 +238,6 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[The Circle]] — Nov 9: Circle CTA on the $1.5-$1.7M / 5-10 hour week post
 - [[Co-Sponsorship and Agent Attraction System]] — Nov 9: co-sponsor inbox as word-of-mouth proof
 - [[Gogo Bethke]] — Nov 8-9: smell back after UPW, lake-cabin reno from Florida, Gracie
+- [[Mindset]] — Nov 12: "there's ALWAYS a reason to wait," too loud / too ambitious
+- [[Productivity]] — Nov 12: mindset, systems, freedom; "complicated feels productive"
+- [[Gogo Bethke]] — Nov 12: Romania shipping/Tampa story, lake-cabin reno from 900 miles away, couple time

@@ -74,7 +74,7 @@ sources:
   - "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"
   - "[[Instagram — 2026-11 (Gogo Bethke)]]"
   - "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"
-updated: 2026-11-11
+updated: 2026-11-13
 ---
 
 # Productivity
@@ -1031,6 +1031,9 @@ In her "$1.5-$1.7 million on 5-10 hours a week" post, step one is cutting hours:
 
 ## "I Stopped Doing Everything Myself" (Nov 10 2026 Instagram)
 Caption on hiring Kristy 14 years ago: it "was one of the scariest things I ever did. I didn't feel ready. The money wasn't there yet. Neither was my time." Back then she tracked every dollar, set up every system and put out every fire. Now: "I still know my numbers. I just stopped being the one keeping track of them." Kristy builds the new systems ("I don't push the buttons anymore. If I did, I'd be out of business"), problems reach her "after it's fixed," and she hasn't met one-on-one with her newest assistant: "I'm not training her. It's handled." Her summary: "I didn't get faster. I stopped doing everything myself," which is how she owns nine companies and works three days a week. ([Post](https://www.instagram.com/p/Dfkj4PkD1LP/)) See [[Kristy Waker]]. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## "It Was Never as Complicated as They Told You" (Nov 12 2026 Instagram)
+Reel caption: the multiple-six-figure earners she talks to weekly are drowning in "Ten apps. Five funnels. Three coaches telling them three different things," and believe they need MORE. Taking it apart always returns to three basics: **mindset** (believe you can build something bigger than yourself, or you keep doing everything yourself), **systems** ("doing the same thing 47 times isn't a business strategy. It's a problem you haven't solved yet") and **freedom** (enjoy the life you are paying for). "I own nine companies and work three days a week... Because I stopped making everything so complicated." "Complicated feels productive... busy doesn't necessarily mean you're building anything. Sometimes the hardest thing you can do is make it SIMPLE. Because then there's nowhere to hide." Source: [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 
