@@ -74,7 +74,7 @@ sources:
   - "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"
   - "[[Instagram — 2026-11 (Gogo Bethke)]]"
   - "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # Productivity
@@ -1034,6 +1034,10 @@ Caption on hiring Kristy 14 years ago: it "was one of the scariest things I ever
 
 ## "It Was Never as Complicated as They Told You" (Nov 12 2026 Instagram)
 Reel caption: the multiple-six-figure earners she talks to weekly are drowning in "Ten apps. Five funnels. Three coaches telling them three different things," and believe they need MORE. Taking it apart always returns to three basics: **mindset** (believe you can build something bigger than yourself, or you keep doing everything yourself), **systems** ("doing the same thing 47 times isn't a business strategy. It's a problem you haven't solved yet") and **freedom** (enjoy the life you are paying for). "I own nine companies and work three days a week... Because I stopped making everything so complicated." "Complicated feels productive... busy doesn't necessarily mean you're building anything. Sometimes the hardest thing you can do is make it SIMPLE. Because then there's nowhere to hide." Source: [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## Nov 13 2026 Instagram: Links Are the Full-Time Job
+
+All her businesses run on Wi-Fi and social media, so a big share of her day is people she knows asking her for links. Speed is "the name of the game": with an iPhone text replacement, "pp" sends her partner link and "mm" sends the team map (setup steps above). Reel caption: Settings → "text replacement" → shortcut "pp", phrase = the link. Source: [[Instagram — 2026-11 (Gogo Bethke)]] ([permalink](https://www.instagram.com/reel/DfqgBHlTATx/)).
 
 ## Related
 

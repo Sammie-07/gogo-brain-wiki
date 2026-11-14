@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, community, real-estate]
 sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-11
+updated: 2026-11-14
 ---
 
 # GoGet'Em Community
@@ -101,6 +101,10 @@ Gogo promoted a live community session taught by member Nadia, a Florida agent w
 
 ## Why She Built Two Communities (Nov 10 2026 Instagram)
 Gogo's caption: "I love people... I love being in a supportive community." Eight years ago, when she switched to eXp, she created [[wiki/entities/#teamgogo]] ("@teamgogofamily") as a community for her real estate friends, "where no one pays anyone anything but we are work FAMILY," doing things like Tony Robbins UPW together. A few years later she saw a need for an entrepreneurial community covering "marketing, negotiating, firing, hiring systems, AI investments, taxable income, deduction, financial freedom" and created the GoGet'Em Community. "These are my people… I do life with them." ([Reel](https://www.instagram.com/reel/DfkYK95Tv_r/)) Her story that day: "I love when our members teach. We all have something we are so good at. We share it." — introducing Nadia's TikTok home-tour session (1 PM live; replay in the app). Source: [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## "Who Taught You How to Run a Business?" (Nov 13 2026 Instagram)
+
+Gogo's pitch for why GoGet'Em exists: getting licensed and knowing how to build a business are "two VERY different things," and nobody teaches agents to show up online, follow up, build systems, hire help, manage money or create income that doesn't depend on the next closing. She learned many lessons "the expensive way," through years of trial and error, so the community offers LIVE trainings, real agents doing the work together, and a team that helps when members get stuck. *"You shouldn't have to spend years figuring out what someone could've taught you in a conversation."* CTA: comment JOIN. Source: [[Instagram — 2026-11 (Gogo Bethke)]] ([permalink](https://www.instagram.com/p/Dfsm6Bdkq1t/)).
 
 ## Related
 

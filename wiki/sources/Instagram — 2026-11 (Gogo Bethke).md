@@ -9,7 +9,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-12 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-13 so far.
 
 ## Key Takeaways
 
@@ -121,6 +121,15 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **Couple time** (stories). Dental cleanings with [[Duane]] ("cause we do everything together"), "We are cute together!!! We age like wine!!"
 - Skipped: a speech-less moving-boxes video, a selfie, handle-only fragments.
 
+### Nov 12 evening to Nov 13 — Let them talk, a co-sponsor call, paid once vs. every month, and who teaches agents to run a business
+- **Hate only comes from below** (Reel caption, [permalink](https://www.instagram.com/reel/DfsuHrly4lv/)). A broker she'd never met trashed her early on and she cried in her own broker's office. His reply: "Honey, let them talk. Because when they stop talking about you, that's when you become irrelevant." "Took me 15 years to fully understand that... Now? LET THEM TALK." "While they're busy talking about your life, you better be busy LIVING it."
+- **Your clients are buying investment properties. Are you?** (feed caption, [permalink](https://www.instagram.com/p/DfsYpUOTMR6/)). "You got paid once. They get paid every month. For years." "I'm not mad at the commission. I'm mad that so many agents stop there." CTA: comment CIRCLE.
+- **Who taught you to run a real estate business?** (feed caption, [permalink](https://www.instagram.com/p/Dfsm6Bdkq1t/)). Licensed is not the same as knowing how to build a business; nobody teaches online presence, follow-up, systems, hiring, money, or income beyond the next closing. She learned "the expensive way" and built GoGet'Em Community (LIVE trainings, agents doing the work together, a team to help when stuck). CTA: comment JOIN.
+- **Text replacement for links** (Reel caption and story, [permalink](https://www.instagram.com/reel/DfqgBHlTATx/)). Her businesses run on Wi-Fi and social media, so people constantly ask her for links; "speed is the name of the game." iPhone text replacement: "pp" sends her partner link, "mm" the team map (already in [[Productivity]]).
+- **Co-sponsor call** (story). An eXp partner in New Jersey brought a new agent and Gogo will co-sponsor him; she walked him through the team's training days, tax-report system setup, onboarding calls and access to her team. "I'm so excited that I have amazing business partners... that trust me and they want to co-sponsor their agent partners with me, and we're growing."
+- **Humor and home** (stories/Reels). A podcast team's candle gift ("my weaknesses are candles"); "I got called pretty today. Well, the exact words were, you're pretty annoying, but I like to focus on the positives"; "I'll take what I can get... I'll just give things meaning what I want to hear"; a 15-years-of-steps business joke Reel; dinner in the oven after a trip to an Italian market in St. Pete; ordering wall-to-wall curtains for the Michigan house from Florida ("attention to detail... online shopping" is not her gift, and [[Duane]] corrected her memory of the curtain trays).
+- Skipped: a "Celebrate LIFE" and an "office Friday" text-only story, a "Friday night dinner" and a 5¢ image story, an unclear book/hobby image, and a profane joke clip.
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -190,6 +199,12 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "If you don't like something, change it!! You might just help someone while you help yourself."
 
+> "Honey, let them talk. Because when they stop talking about you, that's when you become irrelevant." (her broker, quoted by Gogo)
+
+> "You got paid once. They get paid every month. For years."
+
+> "You shouldn't have to spend years figuring out what someone could've taught you in a conversation."
+
 ## Wiki Pages Updated
 - [[Mindset]] — Nov 11: "we experience the life we focus on," unavailable on purpose, take the risk
 - [[AI for Real Estate]] — Nov 11: 42% search with AI, sites built by text for AEO/GEO
@@ -241,3 +256,9 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[Mindset]] — Nov 12: "there's ALWAYS a reason to wait," too loud / too ambitious
 - [[Productivity]] — Nov 12: mindset, systems, freedom; "complicated feels productive"
 - [[Gogo Bethke]] — Nov 12: Romania shipping/Tampa story, lake-cabin reno from 900 miles away, couple time
+- [[Mindset]] — Nov 13: "let them talk," hate comes from below
+- [[Wealth Building]] — Nov 13: investor deal math, paid once vs. every month
+- [[GoGet'Em Community]] — Nov 13: "who taught you to run a business?" pitch
+- [[Co-Sponsorship and Agent Attraction System]] — Nov 12: partner co-sponsoring a New Jersey recruit
+- [[Productivity]] — Nov 13: links as a full-time job (text replacement, existing tip)
+- [[Gogo Bethke]] — Nov 12-13: candle gift, Italian market dinner, Michigan curtains, humor
