@@ -9,7 +9,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-13 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-14 so far.
 
 ## Key Takeaways
 
@@ -129,6 +129,11 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **Co-sponsor call** (story). An eXp partner in New Jersey brought a new agent and Gogo will co-sponsor him; she walked him through the team's training days, tax-report system setup, onboarding calls and access to her team. "I'm so excited that I have amazing business partners... that trust me and they want to co-sponsor their agent partners with me, and we're growing."
 - **Humor and home** (stories/Reels). A podcast team's candle gift ("my weaknesses are candles"); "I got called pretty today. Well, the exact words were, you're pretty annoying, but I like to focus on the positives"; "I'll take what I can get... I'll just give things meaning what I want to hear"; a 15-years-of-steps business joke Reel; dinner in the oven after a trip to an Italian market in St. Pete; ordering wall-to-wall curtains for the Michigan house from Florida ("attention to detail... online shopping" is not her gift, and [[Duane]] corrected her memory of the curtain trays).
 - Skipped: a "Celebrate LIFE" and an "office Friday" text-only story, a "Friday night dinner" and a 5¢ image story, an unclear book/hobby image, and a profane joke clip.
+- **"We have decided" (Nov 14)** (Reel, [permalink](https://www.instagram.com/reel/DfutE55TFgv/), plus a story). "My whole life and your whole life is what it is because 'we have decided.' Don't like it?? Make different decisions! It's that simple! I've decided." The caption is tagged with Abraham Hicks and "life by design." In a same-day story she read a "decided" list in the first person (the wording reads like Abraham Hicks material, so it is not credited to her as original): decide you are a good person who deserves good things, pamper yourself, follow your ease, bliss and flow, keep a "book of positive aspects" and a "creation box," spend time with fun people, and trust the law of attraction.
+- **Bots talking to bots (Nov 14)** (Reel, [permalink](https://www.instagram.com/reel/DftHK19zwkj/), plus stories). At dinner she saw her team's group chat: team members' Grok bots hold them accountable and "do all the work," and the bots are "yelling at each other and getting stuff done." "Where are we going with technology? ... So exciting." Caption: "My bot is fighting with your bot lol. By the way my team is the best! I love them! We get so much work done and work less and less."
+- **Furnishing the Michigan Airbnb (Nov 14)** (story). Quoting Mark Manson ("It's so funny how quickly things add up"), she priced wall-to-wall blackout curtains for every bedroom and the living room: 17 curtains plus rods, easily $1,700 even at $100 each. "It's a tax write-off. I mean, I'm furnishing an Airbnb. It's gonna be cute."
+- **Humor (Nov 14)** (Reel and story). A list of famous Capricorns ending "I'm a Capricorn": "Don't tell me what to do and don't tell me what to say."
+- Skipped (Nov 14): a mirror selfie, a "Salty Crew" handle story, a wine-tasting photo with tagged friends, and a story of a landscaper's chat.
 
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
@@ -205,6 +210,8 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "You shouldn't have to spend years figuring out what someone could've taught you in a conversation."
 
+> "My whole life and your whole life is what it is because 'we have decided.' Don't like it?? Make different decisions! It's that simple!" (Nov 14)
+
 ## Wiki Pages Updated
 - [[Mindset]] — Nov 11: "we experience the life we focus on," unavailable on purpose, take the risk
 - [[AI for Real Estate]] — Nov 11: 42% search with AI, sites built by text for AEO/GEO
@@ -262,3 +269,6 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[Co-Sponsorship and Agent Attraction System]] — Nov 12: partner co-sponsoring a New Jersey recruit
 - [[Productivity]] — Nov 13: links as a full-time job (text replacement, existing tip)
 - [[Gogo Bethke]] — Nov 12-13: candle gift, Italian market dinner, Michigan curtains, humor
+- [[Mindset]] — Nov 14: "we have decided," make different decisions
+- [[AI for Real Estate]] — Nov 14: team Grok bots holding each other accountable
+- [[Gogo Bethke]] — Nov 14: furnishing the Michigan Airbnb (17 curtains, tax write-off), Capricorn humor
