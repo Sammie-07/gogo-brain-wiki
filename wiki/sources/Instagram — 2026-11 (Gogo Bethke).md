@@ -9,7 +9,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-14 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-15 so far.
 
 ## Key Takeaways
 
@@ -134,6 +134,11 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **Furnishing the Michigan Airbnb (Nov 14)** (story). Quoting Mark Manson ("It's so funny how quickly things add up"), she priced wall-to-wall blackout curtains for every bedroom and the living room: 17 curtains plus rods, easily $1,700 even at $100 each. "It's a tax write-off. I mean, I'm furnishing an Airbnb. It's gonna be cute."
 - **Humor (Nov 14)** (Reel and story). A list of famous Capricorns ending "I'm a Capricorn": "Don't tell me what to do and don't tell me what to say."
 - Skipped (Nov 14): a mirror selfie, a "Salty Crew" handle story, a wine-tasting photo with tagged friends, and a story of a landscaper's chat.
+- **Retire your spouse (Nov 15)** (Reel, [permalink](https://www.instagram.com/reel/DfxKQfezqdt/), plus a story). Caption: "Wanna retire your husband/wife? Let's talk #exp and I'll show you how... everyone who joins exp with me gets my 250+ video Agent Attraction Bootcamp for FREE, teaching you exactly how I did it." Her story laid out the Duane arc: "Wife joins eXp in 2018 / Husband's salary $120K / Wife says 'as soon as my rev share replaces your salary, you should quit.' / Wife works like a mad women / Husband quits his job Nov, 2019 / Now they work TOGETHER and live in Florida and watch the Lions outside in November."
+- **Become your future self (Nov 15)** (story). "Your GOAL should be to become the person who carries the ora/frequency/energy of your future self who already HAS IT in the present."
+- **Michigan roots in Tampa (Nov 15)** (Reel, [permalink](https://www.instagram.com/p/DfvtZUgmzoH/), plus stories). A friend invited her and Duane to a Tampa Bay Lightning suite, where they rooted for the Detroit Red Wings: "20+ years in #michigan, 4+ years in #tampa. Justifiable!! Right??" "Love u my #michigan born" Duane. The Wings won 2-0. Sunday morning they watched the Detroit Lions play in Munich from their patio.
+- **Family (Nov 15)** (stories). Son Duke is "off to work": "He started his own business and does landscaping and takes stuff to the dump w his truck." Coby "started a new job today at a fishing store. He is so happy! He loves fishing." The family dog is "the Bethke vacuum... We have never had a dog that will eat anything." A Costco run: "We are dooms day prepping."
+- Skipped (Nov 15): handle-only, arena-scoreboard and product-label stories, a black frame, a breakfast/tequila video, and a "Recipe for #success" Reel with no caption text.
 
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
@@ -272,3 +277,6 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[Mindset]] — Nov 14: "we have decided," make different decisions
 - [[AI for Real Estate]] — Nov 14: team Grok bots holding each other accountable
 - [[Gogo Bethke]] — Nov 14: furnishing the Michigan Airbnb (17 curtains, tax write-off), Capricorn humor
+- [[Gogo Bethke]] — Nov 15: Duane's $120K-salary-to-retirement arc (quit Nov 2019), Michigan roots at a Tampa hockey game, Duke's landscaping business, Coby's fishing-store job
+- [[Mindset]] — Nov 15: become the person carrying your future self's energy
+- [[eXp Realty]] — Nov 15: "retire your husband/wife" pitch, free 250+ video Agent Attraction Bootcamp for joiners
