@@ -9,7 +9,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-15 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-16 so far.
 
 ## Key Takeaways
 
@@ -139,6 +139,14 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **Michigan roots in Tampa (Nov 15)** (Reel, [permalink](https://www.instagram.com/p/DfvtZUgmzoH/), plus stories). A friend invited her and Duane to a Tampa Bay Lightning suite, where they rooted for the Detroit Red Wings: "20+ years in #michigan, 4+ years in #tampa. Justifiable!! Right??" "Love u my #michigan born" Duane. The Wings won 2-0. Sunday morning they watched the Detroit Lions play in Munich from their patio.
 - **Family (Nov 15)** (stories). Son Duke is "off to work": "He started his own business and does landscaping and takes stuff to the dump w his truck." Coby "started a new job today at a fishing store. He is so happy! He loves fishing." The family dog is "the Bethke vacuum... We have never had a dog that will eat anything." A Costco run: "We are dooms day prepping."
 - Skipped (Nov 15): handle-only, arena-scoreboard and product-label stories, a black frame, a breakfast/tequila video, and a "Recipe for #success" Reel with no caption text.
+
+### Nov 16 — Negotiating with yourself, "what's your cut?" and a lake-cabin Airbnb
+- **Negotiating with yourself (Nov 16)** (story, spoken). "You know why you don't have what you want? Because you negotiate with yourself, and you tolerate, and you have plan Bs... You confuse your soul." ([permalink](https://www.instagram.com/stories/gogosrealestate/4031685924538769748))
+- **"I stopped making excuses and started making moves" (Nov 16)** (Reel, [permalink](https://www.instagram.com/reel/DfzoyQ4TX0d/)). "One day I decided I wanted a different life. Then I stopped making excuses and started making moves... Turns out, I was the only one who could change it."
+- **"What's your cut?" (Nov 16)** (Reel, [permalink](https://www.instagram.com/reel/Dfz29OozLTW/)). "ZERO. Not a penny of your commission... I'm here to help you earn MORE and build something BIGGER." Pitch: "You keep your commissions. I help you grow your business," with 1,700 agents already in #teamgogo at eXp.
+- **New lake-cabin investment (Nov 16)** (Reel, [permalink](https://www.instagram.com/reel/Df0JnPWTjGZ/), plus stories). Flying to Michigan for a "new investment property... on the lake" to become another Airbnb with "some good old sweat equity" (a full remodel: "I'm going to go get my hands dirty"). The same day a member-teacher led a GoGet'Em live on TikTok ("this month is all about TikTok in the community"). Her pitch: $790 per year ("a fraction of one commission") covers all her trainings plus weekly tech support calls; a single training is $27 if she hasn't earned your trust yet; "there is a whole section on investing as well. Cause I teach everything I do. So we can all build wealth together." Story: the TikTok session is how to "actually print money with it. Not dances, money."
+- **"I can't do scripts" (Nov 16)** (story, spoken). Her team gave her pages of talking points, "not scripts because I cannot do scripts... I would rather take a night shift at Taco Bell on Christmas Eve every year for the rest of my life... I can't have somebody put words in my mouth." Before two weeks of travel she pre-shot seven posts and ads for the Black Friday sale: "Everything's done. Life is good."
+- Skipped (Nov 16): a nail-polish photo story, a pet-feeding video, a handle-only/no-speech story, the co-sponsored top producer feature post (names a private individual), and the TikTok-lesson portion of the live promo story (mixes Gogo's intro with the guest teacher's words).
 
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
@@ -280,3 +288,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[Gogo Bethke]] — Nov 15: Duane's $120K-salary-to-retirement arc (quit Nov 2019), Michigan roots at a Tampa hockey game, Duke's landscaping business, Coby's fishing-store job
 - [[Mindset]] — Nov 15: become the person carrying your future self's energy
 - [[eXp Realty]] — Nov 15: "retire your husband/wife" pitch, free 250+ video Agent Attraction Bootcamp for joiners
+- [[Mindset]] — Nov 16: stop negotiating with yourself, "I was the only one who could change it"
+- [[eXp Realty]] — Nov 16: "what's your cut? ZERO" commission pitch
+- [[GoGet'Em Community]] — Nov 16: $790/year plus weekly tech calls, $27 single-training option, TikTok month
+- [[Gogo Bethke]] — Nov 16: Michigan lake-cabin Airbnb remodel, "I can't do scripts," Black Friday pre-shoot

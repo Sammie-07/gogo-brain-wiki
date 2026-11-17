@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, community, real-estate]
 sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-14
+updated: 2026-11-17
 ---
 
 # GoGet'Em Community
@@ -105,6 +105,9 @@ Gogo's caption: "I love people... I love being in a supportive community." Eight
 ## "Who Taught You How to Run a Business?" (Nov 13 2026 Instagram)
 
 Gogo's pitch for why GoGet'Em exists: getting licensed and knowing how to build a business are "two VERY different things," and nobody teaches agents to show up online, follow up, build systems, hire help, manage money or create income that doesn't depend on the next closing. She learned many lessons "the expensive way," through years of trial and error, so the community offers LIVE trainings, real agents doing the work together, and a team that helps when members get stuck. *"You shouldn't have to spend years figuring out what someone could've taught you in a conversation."* CTA: comment JOIN. Source: [[Instagram — 2026-11 (Gogo Bethke)]] ([permalink](https://www.instagram.com/p/Dfsm6Bdkq1t/)).
+
+## $790 a Year and the TikTok Month (Nov 16 2026 Instagram)
+Promoting a live session where a member-teacher showed members how to make money on TikTok ("this month is all about TikTok in the community"), Gogo pitched the annual plan: "$790 per YEAR (I mean it's like a fraction of one commission)" for all her trainings plus weekly tech support calls, with a $27 single-training option "if I have not earned your trust yet." She notes a whole section on investing: "I teach everything I do. So we can all build wealth together." Source: [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 

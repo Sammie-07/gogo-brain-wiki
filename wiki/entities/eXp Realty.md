@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, brokerage, real-estate]
 sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-16
+updated: 2026-11-17
 ---
 
 # eXp Realty
@@ -226,6 +226,9 @@ Reel from UPW Miami ([permalink](https://www.instagram.com/reel/DfbNI1_zx2r/)): 
 
 ## "Retire Your Husband/Wife" (Nov 15 2026 Instagram)
 Her recruiting pitch ties eXp to her own story: she joined in 2018, and once her rev share replaced Duane's $120K salary he quit (Nov 2019). Offer: "everyone who joins exp with me gets my 250+ video Agent Attraction Bootcamp for FREE, teaching you exactly how I did it." Source: [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## "What's Your Cut? Zero." (Nov 16 2026 Instagram)
+Reel pitch to agents: "Not a penny of your commission... I'm not here to take a piece of what you earn. I'm here to help you earn MORE and build something BIGGER. You keep your commissions. I help you grow your business." She cites 1,700 agents already in #teamgogo. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 

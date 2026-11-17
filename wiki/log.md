@@ -1039,3 +1039,6 @@ Private Circle call, Nov 3 (NDA; raw not retained; fetched via Google Drive). Up
 
 ## [2026-11-16] ingest | Instagram captions and stories through 2026-11-15
 4 captions and 20 stories (2026-11-15 00:41 to 19:45 UTC). Extended Instagram — 2026-11; updated Gogo Bethke, Mindset, eXp Realty. Skipped scoreboard/handle/product-label stories, a black frame, a tequila-breakfast video and a caption-less Reel; no Circle seat numbers.
+
+## [2026-11-17] ingest | Instagram captions and stories through 2026-11-16
+4 captions and 7 stories (2026-11-16 13:07 to 22:52 UTC). Extended Instagram — 2026-11; updated Mindset, eXp Realty, GoGet'Em Community, Gogo Bethke. Skipped a nail photo, pet video, handle-only story, a feature post naming a private individual, and the guest-teacher TikTok lesson; no Circle seat numbers.
