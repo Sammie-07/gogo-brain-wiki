@@ -2,7 +2,7 @@
 type: concept
 tags: [the-circle, coaching, mastermind, operations, payment, contract, community, four-freedoms, positioning]
 sources: [[[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]], [[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]], [[The Circle Coaching Contract (Gogo Bethke)]], [[The Circle Sales Page (gogobethke.com)]], [[Mindset Shift From Real Estate Agent To Entrepreneur]], [[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]], [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]], [[Instagram — 2026-10 (Gogo Bethke)]], "[[Instagram — 2026-11 (Gogo Bethke)]]", "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"]
-updated: 2026-11-11
+updated: 2026-11-18
 ---
 
 # The Circle
@@ -265,3 +265,6 @@ Posted with the Kristy-delegation caption (see [[Productivity]]): the Circle hel
 - [[sources/The Circle Coaching Contract (Gogo Bethke)]]
 - [[sources/The Circle Sales Page (gogobethke.com)]]
 - [[sources/Mindset Shift From Real Estate Agent To Entrepreneur]]
+
+## Instagram: team access and "Pick a struggle" (Nov 17 2026)
+Gogo coaches Circle members every Tuesday at noon; while she was traveling, members instead got a call with her Director of Operations and all her VAs to ask anything about operations ("My team is theirs"). Her Nov 17 post ("HONEY. PICK A STRUGGLE.") ends with a comment-CIRCLE call to action for owners whose business won't grow without taking over their life. Source: [[Instagram — 2026-11 (Gogo Bethke)]].

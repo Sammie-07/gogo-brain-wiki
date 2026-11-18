@@ -148,6 +148,13 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **"I can't do scripts" (Nov 16)** (story, spoken). Her team gave her pages of talking points, "not scripts because I cannot do scripts... I would rather take a night shift at Taco Bell on Christmas Eve every year for the rest of my life... I can't have somebody put words in my mouth." Before two weeks of travel she pre-shot seven posts and ads for the Black Friday sale: "Everything's done. Life is good."
 - Skipped (Nov 16): a nail-polish photo story, a pet-feeding video, a handle-only/no-speech story, the co-sponsored top producer feature post (names a private individual), and the TikTok-lesson portion of the live promo story (mixes Gogo's intro with the guest teacher's words).
 
+### Nov 17 — "You can't ask for freedom while refusing to let go of control," and deciding before you're ready
+- **"Your life doesn't change when you're ready. It changes when you DECIDE." (Nov 17)** (Reel, [permalink](https://www.instagram.com/reel/Df2ZRHFzpfC/)). "I've made some of the biggest changes in my life without knowing exactly how everything was going to work out." The biggest shift "wasn't when everything finally fell into place. It was the moment I decided I wanted something different." You can wait years for the right time or confidence, "or you can decide that the person you are today isn't the person you have to stay forever."
+- **"HONEY. PICK A STRUGGLE." (Nov 17)** (feed post, [permalink](https://www.instagram.com/p/Df2hYpXTmd5/)). She used to want her hands in everything: "I wasn't the one running the business. I was the one holding it back." "You can't ask for freedom while refusing to let go of control." Nine companies later: build a team that knows what to do without you. Her proof points: "3x 2 comma clubs never built a funnel"; 10+ Grok Bots (one per assistant) "working almost 2,000 hours and I never logged in"; a second brain her team built so team or coaching clients can ask "me" anything at any hour. "If you want time freedom you can not spend your TIME on anything someone else can do for you. PERIOD." CTA: comment "circle."
+- **Travel day, team covers (Nov 17)** (story, on-screen text, [permalink](https://www.instagram.com/stories/gogosrealestate/4032490861409083783)). Travel kept her off her live and coaching calls, and the community still runs: a member-teacher led a TikTok live ("That's why I named it a 'community'"). On Tuesdays at noon she coaches her Circle members; that day they instead got a call with her Director of Operations and all her VAs to ask anything about operations: "My team is theirs." "I'm so thankful for my team and the way I structured my life: I get to have my cake and eat it too. We provide exceptional trainings and support even when I'm gone."
+- **Airport and Detroit (Nov 17)** (story, spoken). A man at the airport asked if she was famous from a TV show; she told him she's in real estate and to call if she can help. Flying to Detroit: "We are off to fix up our next real estate"; Michigan weather was nicer than Florida's that day.
+- Skipped (Nov 17): a reshared #teamgogo chat screenshot of a member's mortgage-referral thank-you (another person's words; Remlo already in the wiki).
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -225,6 +232,12 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "My whole life and your whole life is what it is because 'we have decided.' Don't like it?? Make different decisions! It's that simple!" (Nov 14)
 
+> "You can't ask for freedom while refusing to let go of control." (Nov 17)
+
+> "Your life doesn't change when you're ready. It changes when you DECIDE." (Nov 17)
+
+> "If you want time freedom you can not spend your TIME on anything someone else can do for you. PERIOD" (Nov 17)
+
 ## Wiki Pages Updated
 - [[Mindset]] — Nov 11: "we experience the life we focus on," unavailable on purpose, take the risk
 - [[AI for Real Estate]] — Nov 11: 42% search with AI, sites built by text for AEO/GEO
@@ -292,3 +305,8 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[eXp Realty]] — Nov 16: "what's your cut? ZERO" commission pitch
 - [[GoGet'Em Community]] — Nov 16: $790/year plus weekly tech calls, $27 single-training option, TikTok month
 - [[Gogo Bethke]] — Nov 16: Michigan lake-cabin Airbnb remodel, "I can't do scripts," Black Friday pre-shoot
+- [[Mindset]] — Nov 17: "It changes when you DECIDE"
+- [[AI for Real Estate]] — Nov 17: ~2,000 Grok Bot hours, second brain, "3x 2 comma clubs, never built a funnel"
+- [[Productivity]] — Nov 17: "Pick a struggle," let go of control, team knows what to do without you
+- [[The Circle]] — Nov 17: Tuesday noon coaching call swapped for an operations Q&A with her DO and VAs
+- [[Gogo Bethke]] — Nov 17: airport anecdote, heading to Detroit for the next property

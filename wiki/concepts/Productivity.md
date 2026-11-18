@@ -74,7 +74,7 @@ sources:
   - "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"
   - "[[Instagram — 2026-11 (Gogo Bethke)]]"
   - "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"
-updated: 2026-11-14
+updated: 2026-11-18
 ---
 
 # Productivity
@@ -1056,3 +1056,6 @@ All her businesses run on Wi-Fi and social media, so a big share of her day is p
 - [[Juan Carlos Baronetti]]
 - [[Jason Matthews]]
 - [[Knolly Williams]]
+
+## "Pick a Struggle" (Instagram, Nov 17 2026)
+"You can't ask for freedom while refusing to let go of control." Gogo used to want her hands in everything and realized she was holding the business back. "You don't need to do everything. You need to build a team that knows what to do WITHOUT YOU." Time freedom means not spending time on anything someone else can do. See [[AI for Real Estate]] for her bots and second brain. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
