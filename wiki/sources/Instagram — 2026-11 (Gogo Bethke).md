@@ -9,7 +9,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-16 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-18 so far.
 
 ## Key Takeaways
 
@@ -155,6 +155,15 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **Airport and Detroit (Nov 17)** (story, spoken). A man at the airport asked if she was famous from a TV show; she told him she's in real estate and to call if she can help. Flying to Detroit: "We are off to fix up our next real estate"; Michigan weather was nicer than Florida's that day.
 - Skipped (Nov 17): a reshared #teamgogo chat screenshot of a member's mortgage-referral thank-you (another person's words; Remlo already in the wiki).
 
+### Nov 18 — Nine companies from a lake house, "I help ___ who struggle with ___," and a Black Friday teaser
+- **"I haven't sold a house in 3.5 years" (Nov 18)** (Reel, [permalink](https://www.instagram.com/reel/Df4tFhmz4Mk/)). She still talks real estate every day, but from Zoom: "helping agents figure out how to grow their businesses, build teams, and create income beyond their next commission check." "I remember what it was like figuring everything out on my own. Now I get to be the person I wish I'd had in my corner back then." CTA: comment PARTNER.
+- **"How do you get everything done?" (Nov 18)** (feed post, [permalink](https://www.instagram.com/p/Df48wDoTHT9/)). Written from Michigan "getting my hands dirty on our new lake house, turning it into our next Airbnb" while "all nine companies are still running." Her ten-part answer: every team member owns a lane and nobody waits on her; "If a human did it twice, a system does it now"; ALL the AI, including a team AI brain trained on her content; a separate chat per company with only the right people; every task in Trello ("Nothing lives in my head"); one shared team calendar; her EA runs inbox and calendar and sends one morning message; weekly tracking sheets ("I read the numbers, I don't chase them"); CPA and advisor meetings booked a full year ahead; and "I work an average of 5-10 hours per week. Boundaries are a system too."
+- **The freedom test (Nov 18)** (Reel, [permalink](https://www.instagram.com/reel/Df5OJPRzXTw/)). "I was at every game. Physically." Three questions: could you take a full weekend off without a "quick question" text, would deals keep moving if you didn't answer for 3 hours, when did you last watch a whole game without your phone? "You're making the money but you don't have the freedom yet." The fix is "a business that runs without you answering everything. Team. Systems. Boundaries," which is what the Circle builds.
+- **Niche sentence (Nov 18)** (feed post, [permalink](https://www.instagram.com/p/Df5dYlckm68/)). Agents post daily and hear crickets because they can't say who they attract; "anyone looking to buy or sell a house" doesn't count. Do this today: "I help ____ who are struggling with ____ get ____." (e.g., first-time buyers tired of renting finding a home they can afford). But a niche is only the start: "You can't fix what you haven't identified." Before 2027: "Are you building a business with a plan? Or are you doing more of what you've always done and hoping next year will be different?" GoGet'Em Community teaches niche, leads, systems and plan, and next week's Black Friday sale ("the best deal we've ever done") includes setting up your 2027 plan.
+- **Lake-house reno progress (Nov 18)** (stories, on-screen text). Countertops went in; one bathroom changed from a single cabinet and sink to a double (two mirrors, two lights), another needs one big mirror and a longer light, so a Lowe's run with [[Duane]]; a double kitchen sink "cause my BIG pots I like to wash by hand."
+- **Black Friday teaser (Nov 18)** (stories, on-screen text). Circle Black Friday deals start Monday: "A few of you will be able to hire me as your CEO. Super limited seats." A second countdown story promises a quiz covering "the 10 areas of your business" that returns a personalized 2027 business plan: "you'll get your personalized business plan."
+- Skipped (Nov 18): a garbled morning video, a countertop-sample label, a Lowe's selfie, and a profane contractor-room remark.
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -238,6 +247,10 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "If you want time freedom you can not spend your TIME on anything someone else can do for you. PERIOD" (Nov 17)
 
+> "If a human did it twice, a system does it now." (Nov 18)
+
+> "You can't fix what you haven't identified." (Nov 18)
+
 ## Wiki Pages Updated
 - [[Mindset]] — Nov 11: "we experience the life we focus on," unavailable on purpose, take the risk
 - [[AI for Real Estate]] — Nov 11: 42% search with AI, sites built by text for AEO/GEO
@@ -310,3 +323,8 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[Productivity]] — Nov 17: "Pick a struggle," let go of control, team knows what to do without you
 - [[The Circle]] — Nov 17: Tuesday noon coaching call swapped for an operations Q&A with her DO and VAs
 - [[Gogo Bethke]] — Nov 17: airport anecdote, heading to Detroit for the next property
+- [[Productivity]] — Nov 18: ten-part "how do you get everything done" systems list
+- [[Niche Finder]] — Nov 18: "I help ___ who are struggling with ___ get ___" sentence
+- [[The Circle]] — Nov 18: freedom test Reel, Black Friday teaser
+- [[GoGet'Em Community]] — Nov 18: 2027-plan Black Friday pitch, 10-areas quiz
+- [[Gogo Bethke]] — Nov 18: 3.5 years since her last sale, Michigan lake-house reno progress

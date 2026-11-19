@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, community, real-estate]
 sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-17
+updated: 2026-11-19
 ---
 
 # GoGet'Em Community
@@ -108,6 +108,9 @@ Gogo's pitch for why GoGet'Em exists: getting licensed and knowing how to build 
 
 ## $790 a Year and the TikTok Month (Nov 16 2026 Instagram)
 Promoting a live session where a member-teacher showed members how to make money on TikTok ("this month is all about TikTok in the community"), Gogo pitched the annual plan: "$790 per YEAR (I mean it's like a fraction of one commission)" for all her trainings plus weekly tech support calls, with a $27 single-training option "if I have not earned your trust yet." She notes a whole section on investing: "I teach everything I do. So we can all build wealth together." Source: [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## Instagram: 2027 plan and Black Friday (Nov 18 2026)
+Gogo pitched GoGet'Em as where agents get "your niche, your leads, your systems, your plan," with the following week's Black Friday sale ("the best deal we've ever done") helping members set up their whole 2027 plan. A companion story promised a quiz on the 10 areas of your business that returns a personalized business plan. See [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 

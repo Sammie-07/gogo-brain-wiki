@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [niche-finder, ai, personal-branding, marketing, tool]
-sources: ["[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[How to Become the Obvious Choice in Your Market (Gogo Bethke)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[AI SEO and Google Ranking for Listings (Kirby Chan)]]", "[[Building a Dominant Business in a Small Market (Jeannie Steele)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]"]
-updated: 2026-09-16
+sources: ["[[Niche Finder Live Training — Gogo's AI Second Brain (Gogo Bethke)]]", "[[GoGetEm Roundtable — Revenue Share Mechanics and the Niche Finder (June 2026)]]", "[[How to Become the Obvious Choice in Your Market (Gogo Bethke)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Niche Ownership, AI Execution Layer and Full-Service Delegation (de-identified)]]", "[[AI SEO and Google Ranking for Listings (Kirby Chan)]]", "[[Building a Dominant Business in a Small Market (Jeannie Steele)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
+updated: 2026-11-19
 ---
 
 # Niche Finder
@@ -98,6 +98,9 @@ Gogo showed the **Second Brain** publicly: everything she's produced (videos, tr
 **Her avatar is the builder/land buyer.** Jeannie works with **5 builders** and specializes in land and spec homes. This niche has a distinctive economic signature: buying land to build drives **transaction *count* up while lowering average price**. That's why her rankings split so widely — **#1 by transactions but #5 by volume inside #teamgogo**, and #38 vs. ~#85 in the US among eXp individual producers. High deal count, lower per-deal price. If you want to rank by transactions, a land/builder niche is structurally suited to it. Example: she took a stalled 80-acre subdivision, split it into minor subdivisions, and paired the seller with a builder for spec homes — one relationship generating many transactions.
 
 **Niche knowledge sourced from community service.** Jeannie was invited onto the county **planning board** and **board of health**, and the subdivision/planning knowledge she gained there fed her builder niche directly. Serving on local boards isn't just goodwill — it's how she acquired the specialized, hard-to-copy knowledge that makes her the obvious choice for land and new-construction deals.
+
+## The one-sentence niche (Instagram, Nov 18 2026)
+Agents who post daily and hear "crickets" usually can't say who they attract; "anyone looking to buy or sell a house" isn't a niche. Gogo's same-day exercise: "I help ____ who are struggling with ____ get ____." (e.g., first-time buyers tired of renting find a home they can actually afford). That tells you who you're talking to, what they need, and what to post. A niche is only the start, though: "You can't fix what you haven't identified." See [[Instagram — 2026-11 (Gogo Bethke)]].
 
 ## Related
 
