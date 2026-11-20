@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, community, real-estate]
 sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-19
+updated: 2026-11-20
 ---
 
 # GoGet'Em Community
@@ -120,3 +120,6 @@ Gogo pitched GoGet'Em as where agents get "your niche, your leads, your systems,
 - [[Social Media and Email Marketing]]
 - [[Open Houses]]
 - [[Personal Branding]]
+
+## 2027 Business Gap Quiz Kickoff (Nov 19 2026 Instagram)
+Black Friday kicks off Monday with a free 2027 Business Gap Quiz that shows what's missing in an agent's business (lead sources, marketing, follow-up systems, numbers), followed by building a 2027 business plan inside GoGet'Em Community. Stories add that the offer includes team chat, tech support and the app-based trainings. Source: [[Instagram — 2026-11 (Gogo Bethke)]].

@@ -164,6 +164,15 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **Black Friday teaser (Nov 18)** (stories, on-screen text). Circle Black Friday deals start Monday: "A few of you will be able to hire me as your CEO. Super limited seats." A second countdown story promises a quiz covering "the 10 areas of your business" that returns a personalized 2027 business plan: "you'll get your personalized business plan."
 - Skipped (Nov 18): a garbled morning video, a countertop-sample label, a Lowe's selfie, and a profane contractor-room remark.
 
+### Nov 19 — "Did they hire you or your logo?", a $3-5K cabin plan that became $75K, and "tell me I can't"
+- **Clients hired you, not the sign (Nov 19)** (Reel, [permalink](https://www.instagram.com/reel/Df7PHhuTjVX/)). "Did they hire you because of the logo on your sign? Or did they hire YOU?" You built the relationships; you're the one they call when something goes wrong. "Your clients know your name, not your brokerage's commission split." Caveat: not every client follows automatically, so communicate the move, follow the rules and transition properly. "Don't let the fear of starting over keep you somewhere you've already outgrown." CTA: comment PARTNER about moving to eXp.
+- **The lake cabin that changed plans (Nov 19)** (feed post, [permalink](https://www.instagram.com/p/Df7PVRazMcQ/)). Bought this summer, seen only in the dark, "almost a 'sight unseen' purchase," as a long-term rental because it was on the lake with good bones. After closing, [[Duane]] flew up to prep it, "fell in love," and proposed keeping it as an Airbnb they also stay in. The plan was a deep clean and paint for $3-5K; "Instead we are at $75K already and we still need to furnish it! This is what happens when you 'fall in love.'" They redid the roof, plumbing, furnace, AC, appliances, cabinets, fixtures, flooring and paint; the only thing kept was the water heater. She enjoys "the getting dirty, building stuff part" (that day: gutters and windows) and says it will be "another $500K asset soon." Her pitch: "Especially if you are a #realtor you need to invest! It's the only way to riches," it makes you a better advisor and builds generational wealth. At eXp, she and Duane (both licensed) use the 3 personal transactions a year without a commission, rolling their commissions into the deal and reducing the price by that amount.
+- **"Tell me I can't" (Nov 19)** (Reel, [permalink](https://www.instagram.com/reel/Df7dxIWTh1T/)). "Some people are motivated by inspirational quotes. Me? Tell me I can't do something and watch what happens." She landed in the US at 21 with $200 and barely any English and heard "you can't" constantly; "Every single one of those turned into fuel." Challenge: "Whatever someone told you that you can't do this year? Write it down. That's your 2027 to-do list."
+- **"Next year is SIX WEEKS away" (Nov 19)** (Reel, [permalink](https://www.instagram.com/reel/Df8Afs6Tx3c/)). Against "I'll figure out my business plan next year": what actually changed this year? Do you know where leads come from, which marketing brings clients, whether you have follow-up systems or are "hoping they remember to call you?" "A new year doesn't magically fix what wasn't working in the old one." Black Friday kicks off Monday with a free 2027 Business Gap Quiz showing what's missing, then a 2027 business plan built inside GoGet'Em Community.
+- **Black Friday stories (Nov 19)** (spoken, machine-read). Her time freedom comes from "my amazing team" and the systems and automations they build: a five to five-and-a-half-hour week, with the team getting close to 3,000 hours of work done weekly. The community Black Friday offer includes a discount, team chat access, tech support and the app-based video trainings. The quiz runs on her "second brain" against the 10 fundamentals (marketing, lead capture, follow-up, trackers, numbers), reports "the holes in your bucket" and what it takes to fill them, and returns a personalized business plan; a countdown to Monday was posted.
+- **Lake-house work days (Nov 19)** (stories). Gutter guards, window and screen washing (Costco no longer stocks the guards, another store is twice the price, so Amazon); the inside is empty of fixtures, so outside work for now; an old deck gets replaced (already ordered) and a bird that lives there will be evicted.
+- Skipped (Nov 19): a garbled late-night video, a "before/after" teaser with song lyrics only, duplicate and tagged-friend stories, and a joke clip.
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -251,6 +260,12 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "You can't fix what you haven't identified." (Nov 18)
 
+> "Your clients know your name, not your brokerage's commission split." (Nov 19)
+
+> "Whatever someone told you that you can't do this year? Write it down. That's your 2027 to-do list." (Nov 19)
+
+> "A new year doesn't magically fix what wasn't working in the old one." (Nov 19)
+
 ## Wiki Pages Updated
 - [[Mindset]] — Nov 11: "we experience the life we focus on," unavailable on purpose, take the risk
 - [[AI for Real Estate]] — Nov 11: 42% search with AI, sites built by text for AEO/GEO
@@ -328,3 +343,8 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[The Circle]] — Nov 18: freedom test Reel, Black Friday teaser
 - [[GoGet'Em Community]] — Nov 18: 2027-plan Black Friday pitch, 10-areas quiz
 - [[Gogo Bethke]] — Nov 18: 3.5 years since her last sale, Michigan lake-house reno progress
+- [[eXp Realty]] — Nov 19: clients hired you, not your logo; 3 personal transactions a year with no commission
+- [[Wealth Building]] — Nov 19: lake cabin $3-5K plan became $75K; realtors need to invest
+- [[Mindset]] — Nov 19: "tell me I can't" as fuel, $200 at 21
+- [[GoGet'Em Community]] — Nov 19: 2027 Business Gap Quiz Black Friday kickoff
+- [[Gogo Bethke]] — Nov 19: sight-unseen lake cabin, Duane fell in love, work days
