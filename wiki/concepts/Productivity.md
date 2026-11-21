@@ -74,7 +74,7 @@ sources:
   - "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"
   - "[[Instagram — 2026-11 (Gogo Bethke)]]"
   - "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"
-updated: 2026-11-19
+updated: 2026-11-21
 ---
 
 # Productivity
@@ -1062,3 +1062,6 @@ All her businesses run on Wi-Fi and social media, so a big share of her day is p
 
 ## The Ten-Part "Get Everything Done" System (Instagram, Nov 18 2026)
 Asked "How do you get everything done?" while renovating the Michigan lake house, Gogo said "all nine companies are still running." Her system: every team member owns a lane; "If a human did it twice, a system does it now"; a team AI brain trained on her content so they get her answer without calling her; a separate chat per company with only the right people; every task in Trello ("Nothing lives in my head"); one shared team calendar; her EA runs inbox and calendar and sends one morning message with only what needs her; weekly tracking sheets ("I read the numbers, I don't chase them"); CPA and advisor meetings booked a full year ahead; and "I work an average of 5-10 hours per week. Boundaries are a system too." Her freedom test: could you take a weekend off without a "quick question" text, would deals keep moving if you ignored your phone for 3 hours? See [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## Pre-Shooting Launch Content and "Fear of Letting Go" (Instagram, Nov 20 2026)
+Gogo pre-shot 7 posts and ads in one sitting so Black Friday, which fell mid-trip, didn't need her on her phone: "If your business needs you glued to your phone on launch day, you're the bottleneck." She says she'd rather work a Taco Bell night shift than read a script, so her team gives her talking points, not scripts. Her bottleneck confession: "I was every single one of these. I called it high standards. It was really fear of letting go." The fix is "not working harder": look at your numbers, team and time to find where you are the bottleneck (the pitch for hiring her as CEO). Source: [[Instagram — 2026-11 (Gogo Bethke)]].

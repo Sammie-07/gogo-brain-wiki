@@ -9,7 +9,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-18 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-20 so far.
 
 ## Key Takeaways
 
@@ -173,6 +173,15 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **Lake-house work days (Nov 19)** (stories). Gutter guards, window and screen washing (Costco no longer stocks the guards, another store is twice the price, so Amazon); the inside is empty of fixtures, so outside work for now; an old deck gets replaced (already ordered) and a bird that lives there will be evicted.
 - Skipped (Nov 19): a garbled late-night video, a "before/after" teaser with song lyrics only, duplicate and tagged-friend stories, and a joke clip.
 
+### Nov 20 — Pre-shooting Black Friday, "winging" 9 parts of the business, and "What if you could have me as your CEO?"
+- **No scripts, pre-shot posts (Nov 20)** (Reel, [permalink](https://www.instagram.com/reel/Df966i5zNOF/)). "My team gives me pages and pages. Not scripts. I'd rather take a night shift at Taco Bell on Christmas Eve every year for the rest of my life than read a script." Black Friday lands in the middle of her Michigan trip (working on "the lake cabin"), so she did her hair and pre-shot 7 posts and ads in one sitting. "If your business needs you glued to your phone on launch day, you're the bottleneck." Teaser: "What if you could have me as your CEO? Doors open Monday."
+- **Nine parts of a business (Nov 20)** (feed post, [permalink](https://www.instagram.com/p/Df-Mv4uminh/)). She talks to agents daily; "almost every one of them is great at something" (lead machine, negotiator, cute Instagram) but "most are strong in 2 or 3 of these 9... and winging the rest." "Your business only grows as fast as its weakest part": you can generate leads and lose half in your notes app, close more deals and not know where the money went, or have a team and still answer every text at 10 PM. The free 2027 Business Gap Quiz kicks off Black Friday on Monday, then the 2027 plan is built inside GoGet'Em Community.
+- **"Who picks up when I call?" (Nov 20)** (feed post, [permalink](https://www.instagram.com/p/Df-bulhkhYf/)). A virtual office doesn't mean figuring it out alone: #teamgogo meets online every week for live trainings, shares what's working and answers questions. Before switching brokerages, ask "Who picks up when I call?" CTA: comment PARTNER.
+- **eXp and financial freedom (Nov 20)** (Reel, [permalink](https://www.instagram.com/reel/Df8WRD1TrVT/)). Her claim that eXp "has made more millionaires than any other" brokerage, if you use every opportunity: ICON (earn your cap back in stock), the stock option program (stock with every closing) and sponsoring agents for rev share. CTA: comment "partner."
+- **The bottleneck, with a confession (Nov 20)** (feed post, [permalink](https://www.instagram.com/p/Df-r5VPkir-/)). Number 4 on her checklist is what successful agents tell her most: "More money. More stress. Less life." "I was every single one of these. I called it high standards. It was really fear of letting go." It's fixable, "but not by working harder." The CEO offer: "We look at your numbers, your team and your time, and I show you exactly where you're the bottleneck." Doors open Monday.
+- **Lake-house logistics (Nov 20)** (stories, on-screen text and spoken, machine-read). They listed the old dishwasher, fridge and stackable washer/dryer on local marketplaces because new appliances are coming; electrician and plumbers scheduled, with a wiring run being redone; a living room cleared for the couch delivery; a compass bought to match the red-and-white striped awning ("so this compass will match perfectly"); and a family FaceTime so her sister could see the house. With no garage at the house, belongings are stored in her brother-in-law's garage and being packed up.
+- Skipped (Nov 20): a family/team greeting video, a vintage-sign photo, a tractor-ride clip, a condiment photo and handle-only shares.
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -266,6 +275,12 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "A new year doesn't magically fix what wasn't working in the old one." (Nov 19)
 
+> "If your business needs you glued to your phone on launch day, you're the bottleneck." (Nov 20)
+
+> "Your business only grows as fast as its weakest part." (Nov 20)
+
+> "I called it high standards. It was really fear of letting go." (Nov 20)
+
 ## Wiki Pages Updated
 - [[Mindset]] — Nov 11: "we experience the life we focus on," unavailable on purpose, take the risk
 - [[AI for Real Estate]] — Nov 11: 42% search with AI, sites built by text for AEO/GEO
@@ -348,3 +363,8 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[Mindset]] — Nov 19: "tell me I can't" as fuel, $200 at 21
 - [[GoGet'Em Community]] — Nov 19: 2027 Business Gap Quiz Black Friday kickoff
 - [[Gogo Bethke]] — Nov 19: sight-unseen lake cabin, Duane fell in love, work days
+- [[Productivity]] — Nov 20: pre-shot Black Friday content, "if your business needs you glued to your phone on launch day, you're the bottleneck," fear of letting go
+- [[GoGet'Em Community]] — Nov 20: nine-part "weakest part" framing and the Business Gap Quiz Monday kickoff
+- [[#teamgogo]] — Nov 20: "Who picks up when I call?"
+- [[eXp Realty]] — Nov 20: ICON, stock options and rev share as the three eXp opportunities
+- [[Gogo Bethke]] — Nov 20: no-scripts confession, lake-house logistics

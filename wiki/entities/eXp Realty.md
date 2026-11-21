@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, brokerage, real-estate]
 sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 # eXp Realty
@@ -242,3 +242,6 @@ Reel pitch to agents: "Not a penny of your commission... I'm not here to take a 
 
 ## Clients Hired You, Not Your Logo (Nov 19 2026 Instagram)
 Gogo's pitch to agents afraid to leave a brokerage: clients know your name, not your brokerage's commission split, so the fear of starting over shouldn't keep you where you've outgrown. Not every client follows automatically: communicate the move, follow the rules, transition properly. She also notes eXp allows 3 personal transactions a year without charging a commission, which she and Duane used on their lake cabin. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## Three eXp Opportunities (Nov 20 2026 Instagram)
+Gogo's pitch that eXp "has made more millionaires than any other" brokerage assumes you use every opportunity: ICON (earn your cap back in stock), the stock option program (stock with every closing), and sponsoring agents for rev share. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
