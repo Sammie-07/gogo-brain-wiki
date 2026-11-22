@@ -1054,3 +1054,6 @@ Private Circle call, Nov 3 (NDA; raw not retained; fetched via Google Drive). Up
 
 ## [2026-11-21] ingest | Instagram captions and stories through 2026-11-20
 5 captions and 9 stories (2026-11-19 22:11 to 2026-11-20 23:18 UTC). Extended Instagram — 2026-11; updated Productivity, GoGet'Em Community, eXp Realty, #teamgogo, Gogo Bethke. Skipped a greeting video, vintage-sign, tractor and condiment stories and handle-only shares; no Circle seat numbers; names normalized (Kristy, Duane).
+
+## [2026-11-22] ingest | Instagram captions and stories through 2026-11-21
+3 captions and 11 stories (2026-11-21 04:16 to 21:15 UTC). Extended Instagram — 2026-11; updated Mindset, Wealth Building, Gogo Bethke. Skipped selfie, product-screen, restaurant-chat and garbled stories; no Circle seat numbers.

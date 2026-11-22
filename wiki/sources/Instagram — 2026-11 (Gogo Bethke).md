@@ -182,6 +182,13 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **Lake-house logistics (Nov 20)** (stories, on-screen text and spoken, machine-read). They listed the old dishwasher, fridge and stackable washer/dryer on local marketplaces because new appliances are coming; electrician and plumbers scheduled, with a wiring run being redone; a living room cleared for the couch delivery; a compass bought to match the red-and-white striped awning ("so this compass will match perfectly"); and a family FaceTime so her sister could see the house. With no garage at the house, belongings are stored in her brother-in-law's garage and being packed up.
 - Skipped (Nov 20): a family/team greeting video, a vintage-sign photo, a tractor-ride clip, a condiment photo and handle-only shares.
 
+### Nov 21 — No cheat code, hard work plus "balls to invest," and renovation day at the lake cabin
+- **Hard work + balls to invest (Nov 21)** (Reels, [permalink](https://www.instagram.com/reel/DgAM0qBz0ND/) and [permalink](https://www.instagram.com/reel/DgARhemTEVA/)). "Strong work ethic and balls to take risks are both needed for investing." The cute lake cabin in Michigan is a two-week fix-up trip, with progress in her stories. "There is no cheat code, there is no Staples easy button. Nothing is going to teach you better than good old hard work." She's not afraid of getting dirty ("I'm proud of everything I ever worked for!"), and "hard work + balls to invest = wealth. You good for this lifetime."
+- **"How do you do it all?" (Nov 21)** (stories, on-screen text and spoken, machine-read). Her answer to the question she gets "all the time": no cheat code, and be the person people look at and wonder how they're still going. Overlay: "Not afraid of work. Will outwork just about anyone."
+- **Renovation day (Nov 21)** (stories, machine-read). Up early with coffee: plumbing, electrical, flooring and furniture delivery all in one day. She and Duane slept five hours but "got so much done yesterday." The old hardwood is the only thing kept; hardwood continues into the kitchen with a marble-look LVP, then faucets and lighting. She ordered tall and short corner cabinets online and used ChatGPT renderings of the finished space ("Finished product... (chat renderings)").
+- **Life is a blessing (Nov 21)** (Reel, [permalink](https://www.instagram.com/reel/DgAUNRGzRBe/)). "Just soak in the moments... Life is a blessing!" She also played a ChatGPT answer to "what if you became human for a day?" (look at the sky, cry, sit with someone, mess up).
+- Skipped (Nov 21): mirror selfie, product/tile-saw screens, a restaurant chat about a local company, and an unintelligible furniture clip.
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -281,6 +288,12 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "I called it high standards. It was really fear of letting go." (Nov 20)
 
+> "There is no cheat code, there is no Staples easy button." (Nov 21)
+
+> "Hard work will never go out of style." (Nov 21)
+
+> "Hard work + balls to invest = wealth." (Nov 21)
+
 ## Wiki Pages Updated
 - [[Mindset]] — Nov 11: "we experience the life we focus on," unavailable on purpose, take the risk
 - [[AI for Real Estate]] — Nov 11: 42% search with AI, sites built by text for AEO/GEO
@@ -368,3 +381,6 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[#teamgogo]] — Nov 20: "Who picks up when I call?"
 - [[eXp Realty]] — Nov 20: ICON, stock options and rev share as the three eXp opportunities
 - [[Gogo Bethke]] — Nov 20: no-scripts confession, lake-house logistics
+- [[Mindset]] — Nov 21: no cheat code, hard work and pride in it
+- [[Wealth Building]] — Nov 21: "hard work + balls to invest = wealth," lake-cabin sweat equity
+- [[Gogo Bethke]] — Nov 21: renovation day at the lake cabin, five hours of sleep, ChatGPT renderings
