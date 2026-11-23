@@ -9,7 +9,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-20 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-22 so far.
 
 ## Key Takeaways
 
@@ -189,6 +189,13 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **Life is a blessing (Nov 21)** (Reel, [permalink](https://www.instagram.com/reel/DgAUNRGzRBe/)). "Just soak in the moments... Life is a blessing!" She also played a ChatGPT answer to "what if you became human for a day?" (look at the sky, cry, sit with someone, mess up).
 - Skipped (Nov 21): mirror selfie, product/tile-saw screens, a restaurant chat about a local company, and an unintelligible furniture clip.
 
+### Nov 22 — Learning something new, "church" at the cabin, and a 14-hour renovation day
+- **"If you are not growing, you are dying" (Nov 22)** (Reel, [permalink](https://www.instagram.com/reel/DgDMXuMT6m-/)). "I learned to use a power tool today... put together dressers." Her take: "Learning new things makes me feel that I'm growing... and if you are not growing, you are dying. That's why so many people are depressed. They aren't learning new. They aren't trying something new. Their soul is dying a slow death." Her ask: "TODAY!! That you are going to get up and go try something new!!" She also credits "amazing friends" for the help.
+- **Church at the lake cabin (Nov 22)** (Reel, [permalink](https://www.instagram.com/reel/DgDO1OAz9K9/)). "I couldn't make it to church today... so I brought church to me." Working on the Michigan lake cabin while listening to Christian music: "my heart is so happy and my soul is so full. Grate-full really." Her stories that day carry the same worship-music mood and "I love feeling and seeing the results of your hard work."
+- **2027 teaser (Nov 22)** (Reel, [permalink](https://www.instagram.com/reel/DgDgDqHTtEX/)). "2027 just called. It said don't make your plans yet. Because most agents plan the new year the same way every time. Bigger goals. Same business. Then they wonder why nothing changes." Before setting one goal, "you need to know what's actually missing in your business." Teases a next-day reveal for serious agents (the Business Gap Quiz Black Friday push).
+- **Renovation update (Nov 22)** (stories, on-screen text and spoken, machine-read). "We are soooo tired. Yesterday we pulled a 14 hour day... nowhere to sit. So we are on our feet all day." Progress: flooring almost done, one bathroom of lighting left, plumber finished, two queen beds, a bunk bed and two dressers assembled ("They took forever"); backsplash and more assembly on deck, new appliances arriving, kitchen countertops in, sage-green upper and brown lower cabinets, a big TV placed so it is visible from the fireplace, couch and kitchen. She walks through the bedrooms (an awkward layout with a window on each wall; one bedroom becomes a bunk room, one gets a single nightstand and a coffee-shelf with LED lights; the "master" is the smallest, so she plans her office desk and a tall dresser there). Still needed: rugs, mattresses, TVs. Her verdict: "it's a cute lake cabin." On the stacked washer-dryer being replaced: "I just can't imagine washing my clothes in someone else's washer." Late afternoon: she and a friend build a six-drawer tall dresser from the instructions, timing it, then head back to the cabinets.
+- Skipped (Nov 22): worship-lyric overlays, a package-delivery screen, handle-only shares, a partially legible label clip and silent walkthrough videos.
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -294,6 +301,10 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "Hard work + balls to invest = wealth." (Nov 21)
 
+> "If you are not growing, you are dying." (Nov 22)
+
+> "Most agents plan the new year the same way every time. Bigger goals. Same business." (Nov 22)
+
 ## Wiki Pages Updated
 - [[Mindset]] — Nov 11: "we experience the life we focus on," unavailable on purpose, take the risk
 - [[AI for Real Estate]] — Nov 11: 42% search with AI, sites built by text for AEO/GEO
@@ -384,3 +395,6 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[Mindset]] — Nov 21: no cheat code, hard work and pride in it
 - [[Wealth Building]] — Nov 21: "hard work + balls to invest = wealth," lake-cabin sweat equity
 - [[Gogo Bethke]] — Nov 21: renovation day at the lake cabin, five hours of sleep, ChatGPT renderings
+- [[Mindset]] — Nov 22: "if you are not growing, you are dying," try something new today
+- [[GoGet'Em Community]] — Nov 22: "2027 just called" teaser for the Business Gap Quiz
+- [[Gogo Bethke]] — Nov 22: church at the cabin, 14-hour renovation day, room-by-room layout, learning a power tool

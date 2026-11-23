@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, community, real-estate]
 sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-21
+updated: 2026-11-23
 ---
 
 # GoGet'Em Community
@@ -126,3 +126,6 @@ Black Friday kicks off Monday with a free 2027 Business Gap Quiz that shows what
 
 ## "Weakest Part" Framing for the Business Gap Quiz (Nov 20 2026 Instagram)
 Gogo says most agents are strong in 2-3 of nine areas of a business "and winging the rest," and "your business only grows as fast as its weakest part." The free 2027 Business Gap Quiz (Black Friday kickoff, Monday) shows which part is missing; the 2027 plan is then built inside GoGet'Em Community. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## "2027 Just Called" Teaser (Nov 22 2026 Instagram)
+Ahead of the Black Friday Business Gap Quiz launch, Gogo's teaser Reel says: "2027 just called. It said don't make your plans yet. Because most agents plan the new year the same way every time. Bigger goals. Same business. Then they wonder why nothing changes." Before setting a goal, agents need to know what is missing in their business. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
