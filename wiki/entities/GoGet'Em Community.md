@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, community, real-estate]
 sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 
 # GoGet'Em Community
@@ -129,3 +129,6 @@ Gogo says most agents are strong in 2-3 of nine areas of a business "and winging
 
 ## "2027 Just Called" Teaser (Nov 22 2026 Instagram)
 Ahead of the Black Friday Business Gap Quiz launch, Gogo's teaser Reel says: "2027 just called. It said don't make your plans yet. Because most agents plan the new year the same way every time. Bigger goals. Same business. Then they wonder why nothing changes." Before setting a goal, agents need to know what is missing in their business. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## Black Friday 2027 Plan Offer (Nov 23-24 2026 Instagram)
+The sale opened Nov 23 with the free 2027 Business Gap Quiz as the entry point, then one year of GoGet'Em Community for $790. Gogo's pitch: "For a full year, you get to borrow my team," with live weekly tech calls, live trainings, hundreds of replays, live chat Monday-Friday 9 to 5, a personalized 2027 Business Growth Plan and a 1:1 implementation call with her team. In stories she frames it as under $66 a month for "eight VAs and the director of operations." She warns it is not an easy button: it is for agents "who are hungry, who know what they want from life." She adds that education spend is a tax write-off ("Ask your CPA!") and that she teaches everything from a first deal to investing and a living trust. Source: [[Instagram — 2026-11 (Gogo Bethke)]].

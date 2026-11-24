@@ -1060,3 +1060,6 @@ Private Circle call, Nov 3 (NDA; raw not retained; fetched via Google Drive). Up
 
 ## [2026-11-23] ingest | Instagram captions and stories through 2026-11-22
 3 captions and 17 stories (2026-11-22 13:26 to 19:32 UTC). Extended Instagram — 2026-11; updated Mindset, GoGet'Em Community, Gogo Bethke. Skipped worship-lyric overlays, delivery screens, handle-only shares and silent clips; no Circle seat numbers; names normalized (Kristy, Duane).
+
+## [2026-11-24] ingest | Instagram captions and stories through 2026-11-24
+4 captions and 6 stories (2026-11-23 13:11 to 2026-11-24 01:11 UTC). Extended Instagram — 2026-11; updated The Circle, GoGet'Em Community, Gogo Bethke. Skipped a carousel-only post, recap/photo stories, a trend-audio clip and the repeated spoken Black Friday pitch; "Golden Community" normalized to GoGet'Em Community; no Circle seat numbers.

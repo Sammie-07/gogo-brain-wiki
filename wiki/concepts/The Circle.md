@@ -2,7 +2,7 @@
 type: concept
 tags: [the-circle, coaching, mastermind, operations, payment, contract, community, four-freedoms, positioning]
 sources: [[[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]], [[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]], [[The Circle Coaching Contract (Gogo Bethke)]], [[The Circle Sales Page (gogobethke.com)]], [[Mindset Shift From Real Estate Agent To Entrepreneur]], [[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]], [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]], [[Instagram — 2026-10 (Gogo Bethke)]], "[[Instagram — 2026-11 (Gogo Bethke)]]", "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"]
-updated: 2026-11-19
+updated: 2026-11-24
 ---
 
 # The Circle
@@ -271,3 +271,6 @@ Gogo coaches Circle members every Tuesday at noon; while she was traveling, memb
 
 ## Instagram: the freedom test and Black Friday teaser (Nov 18 2026)
 A Nov 18 Reel ("I was at every game. Physically.") asks three questions (a weekend off without a "quick question" text, deals moving through 3 hours of silence, a whole game without your phone) and says "you're making the money but you don't have the freedom yet." The Circle builds "a business that runs without you answering everything. Team. Systems. Boundaries." Story teasers say Circle Black Friday deals start the Monday before Black Friday and that "a few of you will be able to hire me as your CEO," with limited capacity. See [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## Instagram: the CEO Call checklist (Nov 23 2026)
+Gogo's "Multiple 6 figures & about to burn out?" Reel lists ten checks she runs on any business: would income continue if you disappeared 2 weeks, your best-paying lead source, whether every lead is captured, trackers vs. memory, what is automated, who owns results (not tasks), your real hourly rate, invested vs. idle money, leverage, and your credit score. "If more than 3 of these made you uncomfortable, you're ready for a CEO." A few CEO Calls opened that week only at $1,000, credited toward The Circle if you decide to coach with her. See [[Instagram — 2026-11 (Gogo Bethke)]].

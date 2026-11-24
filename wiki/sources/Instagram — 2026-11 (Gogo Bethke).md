@@ -196,6 +196,12 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **Renovation update (Nov 22)** (stories, on-screen text and spoken, machine-read). "We are soooo tired. Yesterday we pulled a 14 hour day... nowhere to sit. So we are on our feet all day." Progress: flooring almost done, one bathroom of lighting left, plumber finished, two queen beds, a bunk bed and two dressers assembled ("They took forever"); backsplash and more assembly on deck, new appliances arriving, kitchen countertops in, sage-green upper and brown lower cabinets, a big TV placed so it is visible from the fireplace, couch and kitchen. She walks through the bedrooms (an awkward layout with a window on each wall; one bedroom becomes a bunk room, one gets a single nightstand and a coffee-shelf with LED lights; the "master" is the smallest, so she plans her office desk and a tall dresser there). Still needed: rugs, mattresses, TVs. Her verdict: "it's a cute lake cabin." On the stacked washer-dryer being replaced: "I just can't imagine washing my clothes in someone else's washer." Late afternoon: she and a friend build a six-drawer tall dresser from the instructions, timing it, then head back to the cabinets.
 - Skipped (Nov 22): worship-lyric overlays, a package-delivery screen, handle-only shares, a partially legible label clip and silent walkthrough videos.
 
+### Nov 23–24 — The CEO Call checklist and the Black Friday offer
+- **"Multiple 6 figures & about to burn out?" (Nov 23)** (Reel, [permalink](https://www.instagram.com/reel/DgF7Am0zKTd/)). "I didn't build nine companies so I could work nine jobs. Today I work three days a week, and the business still runs." Her ten-question diagnostic: would income keep coming if you disappeared for 2 weeks; which lead source pays most; is every lead captured or slipping through DMs; trackers or memory; what's automated; who on your team owns results, not just tasks; your real hourly rate ("are you still doing $20 work?"); is your money invested or sitting; leverage or doing it all yourself; is your credit score working for you. "If more than 3 of these made you uncomfortable, you're ready for a CEO." A few CEO Calls open that week only: $1,000, credited toward The Circle if you decide to coach with her.
+- **Black Friday offer (Nov 23-24)** (Reels, [Nov 23](https://www.instagram.com/reel/DgFrA7-Tbdz/), [Nov 24](https://www.instagram.com/reel/DgGs4FZTgXX/), stories). Start with the free 2027 Business Gap Quiz (5 minutes; comment "2027"). Then one year of GoGet'Em Community for $790: "For a full year, you get to borrow my team. The same team that sets up everything for me is on LIVE tech calls with you every single week," plus live trainings, hundreds of replays, live chat in business hours (Mon-Fri 9 to 5), a personalized 2027 Business Growth Plan and a 1:1 implementation call with her team. Her math in stories: under $66 a month, "eight VAs and the director of operations." Honest filter: "If you're looking for an easy button, this is NOT for you. This is for agents and entrepreneurs who are hungry, who know what they want from life and just aren't sure how to get there yet."
+- **"I teach everything I do" (Nov 24)** (Reel). "From making your 1st deal to starting investing into real estate and leaving a living trust"; social media, lead generation, trackers, automations and AI. Year-end check-in: "Was 2026 your best year yet? If it wasn't, do you know why not?" and "if there is a slight disappointment I can help. I've been there done that." Tax angle: "Every dollar you invest into your education it's a tax write off. Ask your CPA!"
+- Skipped (Nov 23-24): a carousel-only feed post, a month-recap and shower-photo stories, a trend-audio clip and handle-only overlays; the spoken Black Friday story is a repeat of the Reel pitch (machine-read "Golden Community" normalized to GoGet'Em Community).
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -305,6 +311,8 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "Most agents plan the new year the same way every time. Bigger goals. Same business." (Nov 22)
 
+> "I didn't build nine companies so I could work nine jobs." (Nov 23)
+
 ## Wiki Pages Updated
 - [[Mindset]] — Nov 11: "we experience the life we focus on," unavailable on purpose, take the risk
 - [[AI for Real Estate]] — Nov 11: 42% search with AI, sites built by text for AEO/GEO
@@ -397,4 +405,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[Gogo Bethke]] — Nov 21: renovation day at the lake cabin, five hours of sleep, ChatGPT renderings
 - [[Mindset]] — Nov 22: "if you are not growing, you are dying," try something new today
 - [[GoGet'Em Community]] — Nov 22: "2027 just called" teaser for the Business Gap Quiz
+- [[GoGet'Em Community]] — Nov 23-24: Black Friday offer ($790/yr, 2027 Business Growth Plan, 1:1 implementation call)
+- [[The Circle]] — Nov 23: ten-question CEO Call checklist, $1,000 call credited toward The Circle
+- [[Gogo Bethke]] — Nov 23: nine companies, three days a week
 - [[Gogo Bethke]] — Nov 22: church at the cabin, 14-hour renovation day, room-by-room layout, learning a power tool
