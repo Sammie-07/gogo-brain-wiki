@@ -201,6 +201,11 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **Black Friday offer (Nov 23-24)** (Reels, [Nov 23](https://www.instagram.com/reel/DgFrA7-Tbdz/), [Nov 24](https://www.instagram.com/reel/DgGs4FZTgXX/), stories). Start with the free 2027 Business Gap Quiz (5 minutes; comment "2027"). Then one year of GoGet'Em Community for $790: "For a full year, you get to borrow my team. The same team that sets up everything for me is on LIVE tech calls with you every single week," plus live trainings, hundreds of replays, live chat in business hours (Mon-Fri 9 to 5), a personalized 2027 Business Growth Plan and a 1:1 implementation call with her team. Her math in stories: under $66 a month, "eight VAs and the director of operations." Honest filter: "If you're looking for an easy button, this is NOT for you. This is for agents and entrepreneurs who are hungry, who know what they want from life and just aren't sure how to get there yet."
 - **"I teach everything I do" (Nov 24)** (Reel). "From making your 1st deal to starting investing into real estate and leaving a living trust"; social media, lead generation, trackers, automations and AI. Year-end check-in: "Was 2026 your best year yet? If it wasn't, do you know why not?" and "if there is a slight disappointment I can help. I've been there done that." Tax angle: "Every dollar you invest into your education it's a tax write off. Ask your CPA!"
 - Skipped (Nov 23-24): a carousel-only feed post, a month-recap and shower-photo stories, a trend-audio clip and handle-only overlays; the spoken Black Friday story is a repeat of the Reel pitch (machine-read "Golden Community" normalized to GoGet'Em Community).
+- **"When's the last time you kept a set for yourself?" (Nov 24)** (Reel, [permalink](https://www.instagram.com/p/DgIfPqLGq5C/), plus stories). From Michigan, getting the lake cabin ready as an Airbnb: "Buying it was the decision. Working it is how it earns." "We buy 1-2 houses a year. I'm already partially retired, but my goal is to be FULLY retired by 47." Her challenge to agents: "stop building everybody else's wealth and forgetting your own." Story the night before: after a week of 12-14 hour days, "this is what they call sweat equity," with nowhere to sit in the house. Closes: "If you're not growing, you're dying."
+- **Investing series coming (Nov 23-24 stories).** Between Thanksgiving and Christmas she plans a series on investing "from literally the numbers": systems, tax breaks, CPA and financial-advisor roles, loan types (HELOCs, DSCR) and investment types from short-term and long-term rentals to syndications, taught inside GoGet'Em Community. She holds Bitcoin, stocks, real estate and small businesses: "I don't like to put my eggs in the same basket."
+- **Why GoGet'Em, in her words (Nov 23-24 stories).** The 2027 quiz is "based on my second brain" and feeds a personalized 2027 plan; membership is yearly with weekly trainings and chat/WhatsApp access to her team, who handle technical setup while she chimes in on marketing, hiring or firing. "I am a visionary" without the patience "to push the buttons"; she had a team for only the last 7-8 of her 15 years in business, so "for the first seven, eight years, I was slower than molasses." "If nothing changes, nothing changes."
+- **The level real estate doesn't teach (Nov 23-24 story).** Brokerages "only make money when you go chase the next transaction"; now her commission is reinvested into the properties they buy. She has been "broke," a top producer, a team leader, disbanded her team, then built a downline of 1,700 agents, and only later added investments and multiple companies.
+- Skipped (Nov 24): CEO Call and Black Friday repeats, ice-on-the-deck, appliance, curtain-rod, shower-photo and furniture-assembly team stories, handle-only overlays, a garbled song-lyric clip and a one-line "Grow up... buy real estate" Reel.
 
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
@@ -313,6 +318,10 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "I didn't build nine companies so I could work nine jobs." (Nov 23)
 
+> "Buying it was the decision. Working it is how it earns." ([Nov 24](https://www.instagram.com/p/DgIfPqLGq5C/))
+
+> "Stop building everybody else's wealth and forgetting your own." (Nov 24)
+
 ## Wiki Pages Updated
 - [[Mindset]] — Nov 11: "we experience the life we focus on," unavailable on purpose, take the risk
 - [[AI for Real Estate]] — Nov 11: 42% search with AI, sites built by text for AEO/GEO
@@ -409,3 +418,6 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[The Circle]] — Nov 23: ten-question CEO Call checklist, $1,000 call credited toward The Circle
 - [[Gogo Bethke]] — Nov 23: nine companies, three days a week
 - [[Gogo Bethke]] — Nov 22: church at the cabin, 14-hour renovation day, room-by-room layout, learning a power tool
+- [[Wealth Building]] — Nov 24: keep a set of keys, retire fully by 47, investing series announced, diversification
+- [[GoGet'Em Community]] — Nov 24: second-brain quiz, yearly membership with team chat access
+- [[Gogo Bethke]] — Nov 24: sweat-equity week at the cabin, visionary-without-buttons, slower than molasses before the team

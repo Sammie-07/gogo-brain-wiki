@@ -1063,3 +1063,6 @@ Private Circle call, Nov 3 (NDA; raw not retained; fetched via Google Drive). Up
 
 ## [2026-11-24] ingest | Instagram captions and stories through 2026-11-24
 4 captions and 6 stories (2026-11-23 13:11 to 2026-11-24 01:11 UTC). Extended Instagram — 2026-11; updated The Circle, GoGet'Em Community, Gogo Bethke. Skipped a carousel-only post, recap/photo stories, a trend-audio clip and the repeated spoken Black Friday pitch; "Golden Community" normalized to GoGet'Em Community; no Circle seat numbers.
+
+## [2026-11-25] ingest | Instagram captions and stories through 2026-11-25
+3 captions and 24 stories (2026-11-24 03:11 to 2026-11-25 00:35 UTC). Extended Instagram — 2026-11; updated Wealth Building, GoGet'Em Community, Gogo Bethke. Skipped CEO Call/Black Friday repeats, team renovation and photo stories, a garbled lyric clip and handle-only overlays; no Circle seat numbers.

@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, community, real-estate]
 sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 # GoGet'Em Community
@@ -132,3 +132,6 @@ Ahead of the Black Friday Business Gap Quiz launch, Gogo's teaser Reel says: "20
 
 ## Black Friday 2027 Plan Offer (Nov 23-24 2026 Instagram)
 The sale opened Nov 23 with the free 2027 Business Gap Quiz as the entry point, then one year of GoGet'Em Community for $790. Gogo's pitch: "For a full year, you get to borrow my team," with live weekly tech calls, live trainings, hundreds of replays, live chat Monday-Friday 9 to 5, a personalized 2027 Business Growth Plan and a 1:1 implementation call with her team. In stories she frames it as under $66 a month for "eight VAs and the director of operations." She warns it is not an easy button: it is for agents "who are hungry, who know what they want from life." She adds that education spend is a tax write-off ("Ask your CPA!") and that she teaches everything from a first deal to investing and a living trust. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## Why Join: Second-Brain Quiz and Team Access (Nov 23-24 2026 Instagram stories)
+Gogo explains the 2027 Business Gap Quiz is "based on my second brain," showing where the holes in your business are, followed by a personalized 2027 plan. Membership is for a year, with weekly trainings and chat/WhatsApp access to her team, who handle technical setup (Facebook, Instagram and the like); she chimes in on marketing, hiring/firing and higher-level questions. Her pitch: she is a "visionary" without the patience "to push the buttons," and only had a team for the last 7-8 of her 15 years, so access to one earlier would have sped her up. An investing series (numbers, tax, loans, rentals, syndications) is planned between Thanksgiving and Christmas. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
