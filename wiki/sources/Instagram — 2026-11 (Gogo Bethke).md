@@ -9,7 +9,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-22 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-25 so far.
 
 ## Key Takeaways
 
@@ -206,6 +206,13 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **Why GoGet'Em, in her words (Nov 23-24 stories).** The 2027 quiz is "based on my second brain" and feeds a personalized 2027 plan; membership is yearly with weekly trainings and chat/WhatsApp access to her team, who handle technical setup while she chimes in on marketing, hiring or firing. "I am a visionary" without the patience "to push the buttons"; she had a team for only the last 7-8 of her 15 years in business, so "for the first seven, eight years, I was slower than molasses." "If nothing changes, nothing changes."
 - **The level real estate doesn't teach (Nov 23-24 story).** Brokerages "only make money when you go chase the next transaction"; now her commission is reinvested into the properties they buy. She has been "broke," a top producer, a team leader, disbanded her team, then built a downline of 1,700 agents, and only later added investments and multiple companies.
 - Skipped (Nov 24): CEO Call and Black Friday repeats, ice-on-the-deck, appliance, curtain-rod, shower-photo and furniture-assembly team stories, handle-only overlays, a garbled song-lyric clip and a one-line "Grow up... buy real estate" Reel.
+- **The "delulu" retire-in-3-years story series (Nov 24-25 stories and post).** In a ~20-slide story (posted the evening of Nov 24 ET) she lists the life she has at 44 (husband, healthy parents, great kids, loving friends, no debt, multiple homes, millions, a thriving business) and sets a "dillusional goal": retire by 47. Retired means "you no longer do ANYTHING for money": properties paid off, millions invested, "a professional LIFE liver" who does what she loves, "for free if need be." Plan: partner with hundreds more agents at eXp, add 1-2 properties a year, teach a few how to do the same. Her feed post: "it does NOT matter the cards you've been dealt, it matters how you play the cards!"
+- **Where you can join her infrastructure (Nov 24-25 stories).** eXp and #teamgogo for licensed realtors (a $16,000 cap you can earn back in stock, monthly rev share, stock, trainings; DM "partner": "I become your business partner and I take that job very seriously. We will retire TOGETHER"); GoGet'Em Community for the hungry-to-learn; The Circle for those who want to speed it up and coach with her. For agents who want more than real estate (business structure, team building, replacing yourself, tax deductions, investments), DM "2027" for the Business Gap Quiz; for those already making multiple six figures, comment "CEO" for a call.
+- **Unbothered (Nov 25 Reel).** "I've worked way too hard to not enjoy the life I'm building... Build your business so you get to enjoy it NOW. 'Someday' is a terrible business plan."
+- **The 847-contact CRM (Nov 25 Reel).** An agent said they had no one to call; Gogo opened their CRM and found 847 contacts with their next deals "sitting right there, and nobody was following up." Gaps hide in lead capture, follow-up, and content that makes people raise their hand: "You can't fix what you can't see." Black Friday offer repeated ($790/yr GoGet'Em, ends Cyber Monday Nov 30).
+- **Summers in Michigan, winters in Florida (Nov 25 Reel).** "Friendships take a while to build while life goes by... Time... well we don't know how much we got. So we want the best of everything... I'm thankful for the life we built! For the friends God gave us."
+- **Duane wants a car too (Nov 25 story).** "I forgot about my HUSBAND when I made the post last night about retiring in 3 years." Now [[Duane]] wants a GT Dark Horse.
+- Skipped (Nov 25): curtains and laundry-room cabin stories, a restaurant-menu share, a candle clip, a spoken-lyric overlay.
 
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
@@ -322,6 +329,14 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "Stop building everybody else's wealth and forgetting your own." (Nov 24)
 
+> "I'm not suppose to have anything I already have... I immigrated here when I was 21 years old by MYSELF." ([Nov 24 story](https://www.instagram.com/stories/gogosrealestate/4037904939921421751))
+
+> "It does NOT matter the cards you've been dealt, it matters how you play the cards!" ([Nov 25 post](https://www.instagram.com/p/DgJnIEqm1J7/))
+
+> "'Someday' is a terrible business plan." ([Nov 25 Reel](https://www.instagram.com/reel/DgLGzYvTpu3/))
+
+> "You can't fix what you can't see." ([Nov 25 Reel](https://www.instagram.com/reel/DgLS85QzhyY/))
+
 ## Wiki Pages Updated
 - [[Mindset]] — Nov 11: "we experience the life we focus on," unavailable on purpose, take the risk
 - [[AI for Real Estate]] — Nov 11: 42% search with AI, sites built by text for AEO/GEO
@@ -421,3 +436,8 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[Wealth Building]] — Nov 24: keep a set of keys, retire fully by 47, investing series announced, diversification
 - [[GoGet'Em Community]] — Nov 24: second-brain quiz, yearly membership with team chat access
 - [[Gogo Bethke]] — Nov 24: sweat-equity week at the cabin, visionary-without-buttons, slower than molasses before the team
+- [[Wealth Building]] — Nov 25: the "delulu" retire-by-47 plan, what retirement means to her
+- [[Mindset]] — Nov 25: cards you've been dealt, "Someday is a terrible business plan"
+- [[eXp Realty]] — Nov 25: "partner" pitch (cap earned back in stock, rev share, retire together)
+- [[GoGet'Em Community]] — Nov 25: 847-contact CRM story, Business Gap Quiz and Black Friday offer
+- [[Gogo Bethke]] — Nov 25: Michigan summers/Florida winters, immigrated at 21 alone, Duane's car

@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, brokerage, real-estate]
 sources: ["[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[How to Eat an Elephant — 2026 Goals]]", "[[Let's Do Some Math Again]]", "[[How to Pick a Sponsor at eXp]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[eXp Realty Has Changed My Life]]", "[[Gogopreneur — Your Network Is Your Net Worth (Episode 5)]]", "[[Leo Pareja — The CEO Who Never Had a Job]]", "[[eXp Realty Overview — Wine Not eXp Presentation (2025)]]", "[[Wine Not eXp — Monthly Presentation (February 2026)]]", "[[Wine Not eXp — Monthly Presentation (March 2026)]]", "[[Wine Not eXp — Monthly Presentation (April 2026)]]", "[[Agent Attraction — The Top 10 Tips (Gogo Bethke)]]", "[[Assumable Mortgages and AssumeList (Nora Simpson and Mike Lorino)]]", "[[Your Bookmarks Cheat Sheet (Kristy Waker and Rafael Mino)]]", "[[The Five Ingredients to Lead Nurture Success in Lofty (Adam Gillespie)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-21
+updated: 2026-11-26
 ---
 
 # eXp Realty
@@ -245,3 +245,6 @@ Gogo's pitch to agents afraid to leave a brokerage: clients know your name, not 
 
 ## Three eXp Opportunities (Nov 20 2026 Instagram)
 Gogo's pitch that eXp "has made more millionaires than any other" brokerage assumes you use every opportunity: ICON (earn your cap back in stock), the stock option program (stock with every closing), and sponsoring agents for rev share. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## "Partner" Pitch (Nov 25 2026 Instagram)
+Gogo's pitch to licensed realtors: switch to eXp with her as sponsor and enjoy a $16,000 cap you can earn back in stock, a monthly rev share, stock to retire on, and trainings to stay ahead of the industry. DM "partner": "when you switch to exp and chose me as your sponsor, I become your business partner and I take that job very seriously. We will retire TOGETHER." Source: [[Instagram — 2026-11 (Gogo Bethke)]].
