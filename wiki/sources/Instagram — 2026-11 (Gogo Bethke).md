@@ -9,7 +9,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-25 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-26 so far.
 
 ## Key Takeaways
 
@@ -213,6 +213,10 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **Summers in Michigan, winters in Florida (Nov 25 Reel).** "Friendships take a while to build while life goes by... Time... well we don't know how much we got. So we want the best of everything... I'm thankful for the life we built! For the friends God gave us."
 - **Duane wants a car too (Nov 25 story).** "I forgot about my HUSBAND when I made the post last night about retiring in 3 years." Now [[Duane]] wants a GT Dark Horse.
 - Skipped (Nov 25): curtains and laundry-room cabin stories, a restaurant-menu share, a candle clip, a spoken-lyric overlay.
+- **"It's so easy to miss": the thankful list (Nov 26 post, [permalink](https://www.instagram.com/p/DgNkSdszSpQ/)).** Thanksgiving morning she asked Claude to go through her calendar from January and list what she can be thankful for: speaking on the General Session stage at eXpcon, panels and stages in New York, Niagara Falls, San Antonio, Detroit and Orlando, two eXp Top Producer and Attractor masterminds, meeting Gary Vaynerchuk and walking on fire at UPW with Tony Robbins, 400 agents joining #teamgogo ("We are 1,700 strong"), a new GoGet'Em guest expert live every month, Coby graduating, Duke's senior year, bringing Gracie home, Duane turning 50 (celebrated three times), and the 7th house in their real estate portfolio, a Michigan lake house that will also be an Airbnb. "I forgot half of this. Not because it didn't matter. Because I was already chasing the next thing." She shares the prompt (connect Google Calendar, skip routine meetings, group wins into Business, Family and Me) and closes "Be thankful."
+- **Thanksgiving at the lake cabin (Nov 25-26 stories, machine-read).** Renovation days run 14-15 hours; friends stopped by to help set up and clean ("so good for the soul to hang with your people that know you"). First Thanksgiving not decorating her own house; she brought two store-bought pies to her mother-in-law's, with the Lions game on. A message from [[Kristy Waker]] that morning "warms my heart." Remaining list: TVs, couches, rugs, towels and sheets, a crawl space.
+- **What the cabin was worth (Nov 26 story, machine-read).** Bought for about $300K after negotiation and reappraisal; with a near-total renovation (roof to floors, all plumbing, electrical, AC, cabinets, fixtures) it would "easily" be $450K, "which we're not going to [sell], of course, because it's never a good time to sell a house. Never." (The renovation dollar figure in the transcript is garbled, so it is not recorded.)
+- Skipped (Nov 26): curtain, coffee-station, before/after, Lions-game and visitor stories, and handle-only overlays.
 
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
@@ -337,6 +341,8 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "You can't fix what you can't see." ([Nov 25 Reel](https://www.instagram.com/reel/DgLS85QzhyY/))
 
+> "I forgot half of this. Not because it didn't matter. Because I was already chasing the next thing." ([Nov 26 post](https://www.instagram.com/p/DgNkSdszSpQ/))
+
 ## Wiki Pages Updated
 - [[Mindset]] — Nov 11: "we experience the life we focus on," unavailable on purpose, take the risk
 - [[AI for Real Estate]] — Nov 11: 42% search with AI, sites built by text for AEO/GEO
@@ -441,3 +447,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[eXp Realty]] — Nov 25: "partner" pitch (cap earned back in stock, rev share, retire together)
 - [[GoGet'Em Community]] — Nov 25: 847-contact CRM story, Business Gap Quiz and Black Friday offer
 - [[Gogo Bethke]] — Nov 25: Michigan summers/Florida winters, immigrated at 21 alone, Duane's car
+- [[Mindset]] — Nov 26: gratitude, "it's so easy to miss," the year-in-review list
+- [[AI for Real Estate]] — Nov 26: the calendar-to-Claude gratitude prompt
+- [[Wealth Building]] — Nov 26: 7th property, $300K purchase vs. $450K value, never a good time to sell
+- [[Gogo Bethke]] — Nov 26: 2026 highlights, family moments, Thanksgiving at the cabin
