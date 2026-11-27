@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [the-circle, coaching, mastermind, operations, payment, contract, community, four-freedoms, positioning]
-sources: [[[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]], [[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]], [[The Circle Coaching Contract (Gogo Bethke)]], [[The Circle Sales Page (gogobethke.com)]], [[Mindset Shift From Real Estate Agent To Entrepreneur]], [[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]], [[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]], [[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]], [[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]], [[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]], [[Instagram — 2026-10 (Gogo Bethke)]], "[[Instagram — 2026-11 (Gogo Bethke)]]", "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"]
-updated: 2026-11-24
+sources: ["[[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]]", "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]", "[[The Circle Coaching Contract (Gogo Bethke)]]", "[[The Circle Sales Page (gogobethke.com)]]", "[[Mindset Shift From Real Estate Agent To Entrepreneur]]", "[[The Circle Coaching — Partnership Exits, Small-Team Model and Buyer-Seller Keyword Capture (de-identified)]]", "[[The Circle Coaching — Listings-First, the Open-House Two-Buyer System and the Value Ladder (de-identified)]]", "[[The Circle Coaching — Genius Zone, Delegation Systems and Building the Right Team (de-identified)]]", "[[The Circle Coaching — Accountability Cadence, First-Come Lead Distribution and Naming for Life (de-identified)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]", "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]", "[[The Circle Coaching — Achievers Live in the Future, a Busy Producer's Agent Attraction System and a Grok Bot per VA (de-identified)]]"]
+updated: 2026-11-27
 ---
 
 # The Circle
@@ -253,6 +253,9 @@ Reel caption pitching the Circle: Gogo is closing 2026 at about $1.5-$1.7 millio
 
 ### Nov 10 2026 Instagram: Circle call-to-action
 Posted with the Kristy-delegation caption (see [[Productivity]]): the Circle helps "successful real estate agents build businesses that don't depend on them for every little decision," for agents "already making multiple 6 digits" who are "tired of being the answer to EVERYTHING"; they comment CIRCLE to inquire. ([Post](https://www.instagram.com/p/Dfkj4PkD1LP/)) Source: [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## Nov 10, 2026 call
+Post-UPW call: achievers live in the future; a busy producer's agent attraction schedule (monthly event, weekly coffee, fixed post days); hire out what you don't love; Kristy's Grok bot per VA; four hours off as homework. See [[The Circle Coaching — Achievers Live in the Future, a Busy Producer's Agent Attraction System and a Grok Bot per VA (de-identified)]].
 
 ## Related
 

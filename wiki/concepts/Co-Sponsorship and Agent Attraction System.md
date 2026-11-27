@@ -1,8 +1,8 @@
 ---
 type: concept
 tags: [agent-attraction, co-sponsorship, revenue-share, exp-realty, teams, real-estate-math, lead-generation]
-sources: ["[[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]]", "[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]]", "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-14
+sources: ["[[The Circle Coaching — Team Accountability and Firing, Team Profitability, AI Agents and Idea Pipelines, and Stage CTAs (de-identified)]]", "[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[The Circle Coaching — AI Search Optimization, ManyChat Keyword Funnels, One Website per Money Maker and No-Flyer Personal Branding (de-identified)]]", "[[The Circle Coaching — Handling Criticism at the Top, Agent Attraction Targeting, Three-Tier Product Ladders and Burnout-Proof Scheduling (de-identified)]]", "[[CoWithGogo — The Co-Sponsor System and the Agent-Attraction Website (Gogo Bethke)]]", "[[How Does Co-Sponsorship Work at eXp]]", "[[The Circle Coaching — Post-Close Farming, Sponsor Onboarding and Brand Naming (de-identified)]]", "[[The Circle Coaching — Agent-Attraction Video, Enrollment Calls, Speaking and Team Leadership (de-identified)]]", "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]", "[[The Circle Coaching — Achievers Live in the Future, a Busy Producer's Agent Attraction System and a Grok Bot per VA (de-identified)]]"]
+updated: 2026-11-27
 ---
 
 # Co-Sponsorship and the Agent-Attraction Website System
@@ -156,6 +156,14 @@ Gogo posted the cosponsor@exprealty.net inbox full of co-sponsor selections: "I 
 ## Partners Co-Sponsoring Their Own Recruits (Nov 12 2026 Instagram story)
 
 After a post-sponsorship call, Gogo shared that an eXp business partner in New Jersey brought a new agent to the team and asked Gogo to co-sponsor him. She walked him through everything the team offers: training days, the tax-report system for setting up his systems, onboarding calls and access to her and her full team. *"I'm so excited that I have amazing business partners... that trust me and they want to co-sponsor their agent partners with me, and we're growing."* Source: [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## Agent Attraction for a Busy Producer (Circle, Nov 2026)
+"It's not that you have a time problem, you have a priority problem." Gogo's schedule for a producer whose closings keep crowding out attraction:
+- **One local event a month on a fixed day** (e.g. the last Wednesday), planned a year ahead by the assistant: holiday themes in December and February, learning topics (lending, title, AI) in quiet months. Outside experts can teach; you speak at least once a quarter "because that makes you an authority." Agents met across deals always have something to be invited to.
+- **One weekly coffee block** at the same shop (e.g. Friday 9–11). Coffee is on you; real estate comes up anyway, including your stock or rev-share payout on the laptop.
+- **Agent attraction posts on fixed days** with a 9 AM reminder; the team pre-creates and schedules some, and posts for you if you're at a closing. Gogo started with one attraction post a week while she needed commissions and added more as rev share grew; posts "are out there forever."
+- **Don't "eXp all over them."** Play it cool, call switching "a big decision," and text your booking link so they watch your page's videos and book the call. That's the natural second step.
+Source: [[The Circle Coaching — Achievers Live in the Future, a Busy Producer's Agent Attraction System and a Grok Bot per VA (de-identified)]].
 
 ## Related
 

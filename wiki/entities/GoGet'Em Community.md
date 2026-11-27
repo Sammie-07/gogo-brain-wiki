@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, community, real-estate]
-sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]"]
-updated: 2026-11-26
+sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]", "[[From TikTok Home Tours to Real Estate Leads (Nadia, GoGetEm)]]"]
+updated: 2026-11-27
 ---
 
 # GoGet'Em Community
@@ -111,6 +111,9 @@ Promoting a live session where a member-teacher showed members how to make money
 
 ## Instagram: 2027 plan and Black Friday (Nov 18 2026)
 Gogo pitched GoGet'Em as where agents get "your niche, your leads, your systems, your plan," with the following week's Black Friday sale ("the best deal we've ever done") helping members set up their whole 2027 plan. A companion story promised a quiz on the 10 areas of your business that returns a personalized business plan. See [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## Nov 10, 2026 training
+Faceless TikTok home tours with guest Nadia (Cape Coral relocation agent): one niche, batching, DM-to-email-to-CRM, $44K GCI in 2026. Gogo added price-point attraction and you-language hooks. See [[From TikTok Home Tours to Real Estate Leads (Nadia, GoGetEm)]].
 
 ## Related
 

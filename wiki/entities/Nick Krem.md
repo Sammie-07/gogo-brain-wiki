@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [person, ai, speaker, real-estate, agent-attraction]
-sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]]"]
-updated: 2026-11-05
+sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]]", "[[teamgogo Training — Melissa Albert Builds a Seller Lead Website by Text with Halo (Nov 2026)]]"]
+updated: 2026-11-27
 ---
 
 # Nick Krem
@@ -47,6 +47,9 @@ Source: [[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey 
 ## Nov 4, 2026 #teamgogo Update
 - "What we are witnessing with AI is the largest referral network in history." AI recommendations act like referrals, not cold leads; a team agent got a $1.2M listing from a stranger who said ChatGPT recommended her. "63% of Google searches end in zero click." Halo site in about 5 texts, free start for Team Gogo; full training the following week.
 Source: [[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]].
+
+## Nov 2026 training
+Framed AI as "the largest referral network in history" (74% trust AI over their best friend on a buying decision), recommended ChatGPT business profiles, and reported that about half of Halo's top-traffic sites are listing sites. Source: [[teamgogo Training — Melissa Albert Builds a Seller Lead Website by Text with Halo (Nov 2026)]].
 
 ## Related
 

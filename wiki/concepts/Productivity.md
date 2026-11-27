@@ -74,7 +74,8 @@ sources:
   - "[[The Circle Coaching — Peer-Led Calls, the Attraction Page, Downline Community and Delegation Rules (de-identified)]]"
   - "[[Instagram — 2026-11 (Gogo Bethke)]]"
   - "[[The Circle Coaching — Year-End Tax Moves, Knowing Your Numbers and Delegating AI Setup (de-identified)]]"
-updated: 2026-11-21
+  - "[[The Circle Coaching — Achievers Live in the Future, a Busy Producer's Agent Attraction System and a Grok Bot per VA (de-identified)]]"
+updated: 2026-11-27
 ---
 
 # Productivity
@@ -1038,6 +1039,9 @@ Reel caption: the multiple-six-figure earners she talks to weekly are drowning i
 ## Nov 13 2026 Instagram: Links Are the Full-Time Job
 
 All her businesses run on Wi-Fi and social media, so a big share of her day is people she knows asking her for links. Speed is "the name of the game": with an iPhone text replacement, "pp" sends her partner link and "mm" sends the team map (setup steps above). Reel caption: Settings → "text replacement" → shortcut "pp", phrase = the link. Source: [[Instagram — 2026-11 (Gogo Bethke)]] ([permalink](https://www.instagram.com/reel/DfqgBHlTATx/)).
+
+## 1,794 Hours a Week (Circle, Nov 2026)
+Gogo's capacity math: Kristy and seven full-time VAs, each with a Grok bot running around the clock, plus her own 5–10 hours ≈ 1,794 hours of work a week, against 40 for an average person. Her only fixed commitments are the Monday team meeting and the Circle call; she has no bot "because I don't actually do anything." At a high hourly rate, doing $5–20-an-hour work means "you're better off facing the corner and picking your nose for an hour." Source: [[The Circle Coaching — Achievers Live in the Future, a Busy Producer's Agent Attraction System and a Grok Bot per VA (de-identified)]].
 
 ## Related
 

@@ -1,8 +1,8 @@
 ---
 type: entity
 tags: [organization, tool, ai, aeo, geo, seo, websites, real-estate]
-sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]]"]
-updated: 2026-11-05
+sources: ["[[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey Van Zee, Oct 2026)]]", "[[teamgogo Training — eXpCon Tech Recap, eXp MCP Connectors and Halo AI Websites (Oct 2026)]]", "[[teamgogo Training — Kim Fraser on Farming, Open Houses and Listing Dominance in a Down Market, plus eXp MCP and REMLO (Oct 2026)]]", "[[Halo — The AI Website Agency You Run by Text (Nick Krem and Eric Post)]]", "[[AssumeList — The Full System, the Four Obstacles and VA Entitlement Math (Nora Simpson)]]", "[[teamgogo Roundtable — Halo AI Websites, Niche Finder and the NAR Reality Check (Sept 2026)]]", "[[How to Reduce Your Taxable Income (Tyler McBroom, teamgogo Open Training Sep 2026)]]", "[[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]]", "[[teamgogo Training — Melissa Albert Builds a Seller Lead Website by Text with Halo (Nov 2026)]]"]
+updated: 2026-11-27
 ---
 
 # Halo
@@ -71,6 +71,9 @@ Source: [[Open to the Public — AI Twins and Avatar Videos with HeyGen (Audrey 
 ## Nov 2026
 - [[Jason Dupree]] reached a 100/100 AI-search score with Halo. [[Nick Krem]]: a Halo site takes about 5 text messages; Team Gogo starts free by texting "Gogo."
 Source: [[teamgogo Training — Vija Williams on Cash-Offer Seller Leads, the Golden Minute and Multiple Exits (Nov 2026)]].
+
+## Nov 11, 2026 training
+[[Melissa Albert]] built a seller lead site by text in under an hour (95 on the AEO checker out of the box), using a PDF of her old Canva site and her notable sales for branding, and edited it by talk-to-text. Listing sites ($99 once) keep blogging three times a week and can turn listing photos into video from a Zillow or Realtor.com link. Halo has no CRM; its Marketplace GoHighLevel Lead Sync sends forms to GHL. Gogo: "You still need both," and your VA sets them up. Source: [[teamgogo Training — Melissa Albert Builds a Seller Lead Website by Text with Halo (Nov 2026)]].
 
 ## Related
 
