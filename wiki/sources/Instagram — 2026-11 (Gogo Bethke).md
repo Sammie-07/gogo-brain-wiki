@@ -9,7 +9,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 # Instagram — 2026-11 (Gogo Bethke)
 
-> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-26 so far.
+> Meaningful captions and stories from @gogosrealestate, ingested daily. Raw: [[Clippings/instagram/2026-11.md]] and [[Clippings/instagram/stories/2026-11.md]]. Covers 2026-11-01 to 2026-11-27 so far.
 
 ## Key Takeaways
 
@@ -218,6 +218,15 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - **What the cabin was worth (Nov 26 story, machine-read).** Bought for about $300K after negotiation and reappraisal; with a near-total renovation (roof to floors, all plumbing, electrical, AC, cabinets, fixtures) it would "easily" be $450K, "which we're not going to [sell], of course, because it's never a good time to sell a house. Never." (The renovation dollar figure in the transcript is garbled, so it is not recorded.)
 - Skipped (Nov 26): curtain, coffee-station, before/after, Lions-game and visitor stories, and handle-only overlays.
 
+### Nov 27 — "Don't book this call if…," a hire-out hourly-rate rule, and a finished cabin
+
+- **"An hour of your time is an hour of your life" ([Reel](https://www.instagram.com/reel/DgP3qY9TJDM/)).** Black Friday CEO Calls pitch built on the hourly-rate math: take the income that actually came to you in the last 12 months (not what you claim to Uncle Sam), divide by 2,080 ("a healthy 40 hours a week, which none of us work in the growing phase"), and "anything that costs less than that, you hire out. That's the only way to make more money." Proof from her own life: "I haven't grocery shopped in over eight years. I can't remember the last time I answered my own email or put something in my own calendar." On the call she "personally show[s] up, analyze[s] your business and we plug the holes." It is not for you "if you're still chasing leads, or truly enjoy being stressed."
+- **Who the CEO Call is not for (story video, machine-read).** Not for anyone who doesn't already make multiple six figures, is still looking for leads, or won't build systems and automations and pay for AI "so you can buy your life back." Stories also pushed "Your business! Your numbers! Your problems! Your questions! My brain + my 15 years experience."
+- **AI plus real people ([Reel](https://www.instagram.com/reel/DgQJ5mSzQ2a/)).** "I love AI. My whole team uses it. But ChatGPT has never built a multi-million dollar business. It's never hired, trained, or fired an employee. And it's not going to hold you accountable when you skip your follow-up." Pitches the free 2027 Business Gap Quiz, with a Black Friday deal on a full 2027 plan built by her team; the deal ends Cyber Monday, Nov 30, midnight EST.
+- **Black Friday story framing.** "Instead of buying things you don't need, invest into YOURSELF!! Learn something you don't know and take your business to multiple 6 digits. Create that financial freedom for you and your family in 2027! I've done it! Thousands of you've done it inside the GoGet'Em Community."
+- **The lake cabin, almost done ([post](https://www.instagram.com/p/DgQfWRNTQKK/)).** Thanksgiving week turned into 14-hour renovation days. "The backsplash still isn't done. But the amount of love that's been poured into that home... my amazing friends kept showing up and got straight to business the second they walked in the door. That's the part the before and after photos never show." Why: "I'm not afraid of work. I just want all that work to build things we own, so we can spend our summers in Michigan with these exact people and let these houses pay for themselves. Almost there on #7. Sore back and all, I'd pick this life every time." Stories: "Pretty much why we bought the lake cabin. Rainy days, a fireplace on, games..." and "I love the feeling of seeing the results of your hard work"; furniture, couches and barstools in, TVs leveled, "we like put all the pieces together."
+- Skipped (Nov 27): the mock-Airbnb walkthrough banter, a blurry TV-subtitle clip and handle-only overlays.
+
 ## Quotes
 > "I love math! I love numbers! Cause it allows us to make a bottom line decision and not a feelings decision."
 
@@ -341,6 +350,10 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 
 > "You can't fix what you can't see." ([Nov 25 Reel](https://www.instagram.com/reel/DgLS85QzhyY/))
 
+> "An hour of your time is an hour of your life." ([Nov 27 Reel](https://www.instagram.com/reel/DgP3qY9TJDM/))
+
+> "I'm not afraid of work. I just want all that work to build things we own, so we can spend our summers in Michigan with these exact people and let these houses pay for themselves." ([Nov 27 post](https://www.instagram.com/p/DgQfWRNTQKK/))
+
 > "I forgot half of this. Not because it didn't matter. Because I was already chasing the next thing." ([Nov 26 post](https://www.instagram.com/p/DgNkSdszSpQ/))
 
 ## Wiki Pages Updated
@@ -451,3 +464,7 @@ tags: [instagram, tiktok, passive-income, home-equity, captions, stories, tax-st
 - [[AI for Real Estate]] — Nov 26: the calendar-to-Claude gratitude prompt
 - [[Wealth Building]] — Nov 26: 7th property, $300K purchase vs. $450K value, never a good time to sell
 - [[Gogo Bethke]] — Nov 26: 2026 highlights, family moments, Thanksgiving at the cabin
+- [[Productivity]] — Nov 27: hourly-rate math as the hire-out rule, no grocery shopping, email or calendar in over eight years
+- [[AI for Real Estate]] — Nov 27: ChatGPT has never built a business or held anyone accountable; real people plus a plan
+- [[GoGet'Em Community]] — Nov 27: Black Friday framing (invest in yourself), Business Gap Quiz deal ends Cyber Monday Nov 30
+- [[Gogo Bethke]] — Nov 27: cabin nearly done after 14-hour days, "build things we own," summers in Michigan with her people

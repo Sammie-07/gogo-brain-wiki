@@ -2,7 +2,7 @@
 type: entity
 tags: [organization, community, real-estate]
 sources: ["[[Top Negotiation Objections in Real Estate (Austin Rankin, Curt Shewell and Leila Modetz, GoGetEm)]]", "[[ChatGPT Controlling Your Browser — Social Media, CRM and Paperwork (Nathan, GoGetEm)]]", "[[I Send One Email a Day]]", "[[How to Host Open Houses]]", "[[Where Are You At — Brand Tracker]]", "[[Creating Professional Headshots Using AI]]", "[[Same Photo Everywhere]]", "[[Same Username Everywhere]]", "[[Up to Date Bio]]", "[[Securing Your Domain]]", "[[Welcome to the GoGet'Em Community]]", "[[How to Convert More Clients With Email (Eben Pagan, GoGetEm)]]", "[[Instagram — 2026-10 (Gogo Bethke)]]", "[[Instagram — 2026-11 (Gogo Bethke)]]", "[[From TikTok Home Tours to Real Estate Leads (Nadia, GoGetEm)]]"]
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 
 # GoGet'Em Community
@@ -141,3 +141,6 @@ Gogo explains the 2027 Business Gap Quiz is "based on my second brain," showing 
 
 ## The 847-Contact CRM and the Gap Quiz (Nov 25 2026 Instagram)
 Gogo: an agent said they had no one to call, so she opened their CRM: 847 contacts, next deals "sitting right there, and nobody was following up." Gaps usually sit in lead capture, follow-up and content that gets people to raise their hand: "You can't fix what you can't see." The free 2027 Business Gap Quiz checks 10 areas in 5 minutes (comment "2027"); the Black Friday GoGet'Em yearly offer ($790) includes a personalized 2027 Business Growth Plan and a 1:1 implementation call, ending Cyber Monday, Nov 30. Source: [[Instagram — 2026-11 (Gogo Bethke)]].
+
+## Black Friday 2026 Framing (Nov 27 Instagram)
+"Instead of buying things you don't need, invest into YOURSELF!!" The Business Gap Quiz deal (a full 2027 plan built by her team) and the sale end Cyber Monday, Nov 30, midnight EST. Source: [[Instagram — 2026-11 (Gogo Bethke)]].

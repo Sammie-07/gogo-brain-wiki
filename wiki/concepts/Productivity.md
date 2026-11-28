@@ -100,6 +100,8 @@ This number becomes your filter for every decision. Post it on sticky notes at t
 
 Example: $250,000 ÷ 2,080 = **$120.19/hr.** Running laundry or grocery shopping doesn't save $25 — it costs $120 (the earnings you gave up by doing a red-light task yourself).
 
+**Her own proof (Nov 27 Reel, [[Instagram — 2026-11 (Gogo Bethke)]]):** "An hour of your time is an hour of your life." Use the income that actually came to you in the last 12 months, not what you claim to the IRS; "anything that costs less than that, you hire out. That's the only way to make more money." She hasn't grocery shopped in over eight years and can't remember the last time she answered her own email or put something in her own calendar.
+
 > "You are not saving the $25. You're technically losing $120 by doing your own laundry."
 
 ## The Leverage Hierarchy
